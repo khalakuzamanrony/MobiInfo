@@ -215,3 +215,20 @@ d existing data with 31 brands
 [SUCCESS 2025-09-08 04:04:58.119] Brand 'energizer' saved to MobiInfo/Brands/energizer.json
 [SUCCESS 2025-09-08 04:04:58.121] Successfully loaded changelog with 1 entries
 [SUCCESS 2025-09-08 04:04:58.124] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:15:39.238] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:15:41.000] Found brand: Oscal
+[SUCCESS 2025-09-08 04:15:41.004] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:15:41.053] Found brand: Wiko
+[SUCCESS 2025-09-08 04:15:41.055] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:15:42.005] Found 1 phones on page 1 (Total: 1)
+[SUCCESS 2025-09-08 04:15:42.013] Successfully fetched 1 total phones for brand
+[SUCCESS 2025-09-08 04:15:42.201] Found 7 phones on page 1 (Total: 7)
+[SUCCESS 2025-09-08 04:15:42.208] Successfully fetched 7 total phones for brand
+[SUCCESS 2025-09-08 04:15:45.811] Successfully scraped 1 phones for brand: wiko
+[SUCCESS 2025-09-08 04:15:45.814] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:15:45.816] Brand 'wiko' saved to MobiInfo/Brands/wiko.json
+[SUCCESS 2025-09-08 04:16:02.921] Successfully scraped 7 phones for brand: oscal
+[SUCCESS 2025-09-08 04:16:02.924] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:16:02.928] Brand 'oscal' saved to MobiInfo/Brands/oscal.json
+[SUCCESS 2025-09-08 04:16:02.930] Successfully loaded changelog with 2 entries
+[SUCCESS 2025-09-08 04:16:02.933] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md

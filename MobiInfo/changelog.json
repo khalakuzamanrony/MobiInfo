@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2025-09-08 10:16:02",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 2,
+      "failed_brands": 0,
+      "new_phones": 1,
+      "updated_phones": 1,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "wiko",
+        "brand_name": "wiko",
+        "new_phones": 0,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Wiko Hi Enjoy 70",
+            "phone_id": "wiko_hi_enjoy_70",
+            "differences": [
+              "Added new field: specifications.Memory"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "oscal",
+        "brand_name": "oscal",
+        "new_phones": 1,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Oscal Pilot 3",
+            "phone_id": "oscal_pilot_3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-08 04:04:58",
     "summary": {
       "new_brands": 0,
