@@ -46,8 +46,8 @@ jobs:
         run: |
           # Check if changelog exists
           if [ -f "MobiInfo/changelog.md" ]; then
-            # Extract the latest changelog entry (first entry in the file)
-            latest_changelog=$(awk '/^## / {if (s) exit; s=1} s' MobiInfo/changelog.md)
+            # Extract the latest changelog entry (first entry after the header)
+            latest_changelog=$(sed -n '/^## /,/^---$/p' MobiInfo/changelog.md | head -n -1)
             
             # If no entry found, use a default message
             if [ -z "$latest_changelog" ]; then

@@ -832,8 +832,8 @@ class MobiInfoScraper:
                 "details": changes_summary['changes_details']
             }
             
-            # Add new entry to changelog
-            changelog.append(changelog_entry)
+            # Add new entry to changelog at the beginning (latest first)
+            changelog.insert(0, changelog_entry)
             
             # Save changelog
             self.save_changelog(changelog)
@@ -1279,7 +1279,7 @@ class MobiInfoScraper:
                 # Create a dictionary of existing phones by ID
                 existing_phones_dict = {phone['id']: phone for phone in existing_brand['phones']}
                 
-                # Track changes
+                # Track brand changes
                 new_phones = 0
                 updated_phones = 0
                 
@@ -1336,8 +1336,6 @@ class MobiInfoScraper:
                 existing_phones_dict.update({phone['id']: phone for phone in brand_data['phones']})
                 existing_brand['phones'] = list(existing_phones_dict.values())
                 existing_brand['last_updated'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                
-                print(f"\nBrand {brand_name} updated: {new_phones} new phones, {updated_phones} updated phones")
             else:
                 # New brand
                 changes_summary['new_brands'] = 1
@@ -1583,8 +1581,8 @@ class MobiInfoScraper:
                 "details": changes_summary['changes_details']
             }
             
-            # Add new entry to changelog
-            changelog.append(changelog_entry)
+            # Add new entry to changelog at the beginning (latest first)
+            changelog.insert(0, changelog_entry)
             self.save_changelog(changelog)
             
             # Save final data
@@ -2057,7 +2055,7 @@ if __name__ == "__main__":
     # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
-    brand_list = ["geo", "tcl"]  # List of brand names
+    brand_list = ["geo", "energizer"]  # List of brand names
     result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=brand_list,
         # max_brands=5,  # Limit to first 5 brands from the list
