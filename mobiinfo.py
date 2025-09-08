@@ -845,7 +845,7 @@ class MobiInfoScraper:
             return False
     
     def scrape_multiple_brands(self, brand_inputs, max_pages=None, max_products=None):
-        """Scrape multiple brands by names or URLs
+        """Scrape multiple brands by names or URLs and create a single consolidated changelog
         
         Args:
             brand_inputs (list): List of brand names or URLs
@@ -862,22 +862,234 @@ class MobiInfoScraper:
         results = []
         total_brands = len(brand_inputs)
         
+        # Initialize consolidated changes summary
+        consolidated_changes = {
+            'new_brands': 0,
+            'updated_brands': 0,
+            'failed_brands': 0,
+            'new_phones': 0,
+            'updated_phones': 0,
+            'failed_phones': 0,
+            'changes_details': []
+        }
+        
         print(f"\n=== Starting to scrape {total_brands} brands ===")
         
         for i, brand_input in enumerate(brand_inputs, 1):
             print(f"\n--- Processing brand {i}/{total_brands}: {brand_input} ---")
-            result = self.scrape_single_brand(brand_input, max_pages, max_products)
+            result = self.scrape_single_brand_without_changelog(brand_input, max_pages, max_products)
             if result:
-                results.append(result)
+                results.append(result['brand_data'])
+                # Aggregate the changes
+                changes = result['changes_summary']
+                consolidated_changes['new_brands'] += changes['new_brands']
+                consolidated_changes['updated_brands'] += changes['updated_brands']
+                consolidated_changes['failed_brands'] += changes['failed_brands']
+                consolidated_changes['new_phones'] += changes['new_phones']
+                consolidated_changes['updated_phones'] += changes['updated_phones']
+                consolidated_changes['failed_phones'] += changes['failed_phones']
+                consolidated_changes['changes_details'].extend(changes['changes_details'])
             else:
                 print(f"Failed to scrape brand: {brand_input}")
+                consolidated_changes['failed_brands'] += 1
+        
+        # Create a single consolidated changelog entry
+        if consolidated_changes['changes_details']:
+            print(f"\n=== Creating consolidated changelog for {len(results)} brands ===")
+            self.update_and_save_changelog(consolidated_changes)
         
         print(f"\n=== Completed scraping {len(results)}/{total_brands} brands successfully ===")
         return results
 
+    def scrape_single_brand_without_changelog(self, brand_input, max_pages=None, max_products=None):
+        """Scrape a single brand by name or URL without creating changelog entry
+        
+        Args:
+            brand_input (str): Brand name or URL
+            max_pages (int, optional): Maximum number of pages to scrape
+            max_products (int, optional): Maximum number of products to scrape
+            
+        Returns:
+            dict: Contains 'brand_data' and 'changes_summary'
+        """
+        try:
+            # Check if brand_input is a URL
+            if brand_input.startswith('http'):
+                # It's a URL, extract brand name from URL
+                parsed_url = urlparse(brand_input)
+                path_parts = parsed_url.path.strip('/').split('/')
+                if len(path_parts) >= 2 and path_parts[0] == 'mobile-brand':
+                    brand_name = path_parts[1].replace('-', ' ').title()
+                    brand_url = brand_input
+                else:
+                    print(f"Invalid brand URL: {brand_input}")
+                    return None
+            else:
+                # It's a brand name
+                brand_name = brand_input
+                brand_info = self.find_brand_by_name(brand_name)
+                if not brand_info:
+                    return None
+                brand_url = brand_info['url']
+            
+            # Create brand object
+            brand_id = self.generate_brand_id(brand_name)
+            brand = {
+                'id': brand_id,
+                'name': brand_name,
+                'url': brand_url,
+                'image_url': None
+            }
+            
+            # Load existing data
+            existing_data = self.load_existing_data()
+            
+            # Initialize data structure if it doesn't exist
+            if not existing_data:
+                existing_data = {
+                    "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                    "brands": []
+                }
+            
+            # Create a dictionary of existing brands by ID for easier lookup
+            existing_brands_dict = {brand['id']: brand for brand in existing_data['brands']}
+            
+            # Scrape the brand
+            print(f"\n=== Scraping brand: {brand_name} ===")
+            brand_data = self.scrape_brand_phones(brand, max_pages, max_products)
+            
+            # Initialize changes summary
+            changes_summary = {
+                'new_brands': 0,
+                'updated_brands': 0,
+                'failed_brands': 0,
+                'new_phones': 0,
+                'updated_phones': 0,
+                'failed_phones': 0,
+                'changes_details': []
+            }
+            
+            # Initialize phone changes list
+            phone_changes_list = []
+            
+            # Check if this is a new brand or an update to an existing one
+            if brand['id'] in existing_brands_dict:
+                # Existing brand - update it
+                existing_brand = existing_brands_dict[brand['id']]
+                changes_summary['updated_brands'] = 1
+                
+                # Create a dictionary of existing phones by ID
+                existing_phones_dict = {phone['id']: phone for phone in existing_brand['phones']}
+                
+                # Track changes
+                new_phones = 0
+                updated_phones = 0
+                
+                # Process each phone in the scraped data
+                for phone in brand_data['phones']:
+                    if phone['id'] in existing_phones_dict:
+                        # Existing phone - check for updates
+                        existing_phone = existing_phones_dict[phone['id']]
+                        
+                        # Compare phone data
+                        if json.dumps(existing_phone, sort_keys=True) != json.dumps(phone, sort_keys=True):
+                            updated_phones += 1
+                            changes_summary['updated_phones'] += 1
+                            
+                            # Find specific differences
+                            differences = self.find_differences(existing_phone, phone)
+                            print(f"\nUpdated phone: {phone['name']}")
+                            for diff in differences:
+                                print(f"  - {diff}")
+                            
+                            # Add to phone changes list
+                            phone_changes_list.append({
+                                'type': 'updated',
+                                'phone_name': phone['name'],
+                                'phone_id': phone['id'],
+                                'differences': differences
+                            })
+                    else:
+                        # New phone
+                        new_phones += 1
+                        changes_summary['new_phones'] += 1
+                        print(f"\nNew phone: {phone['name']}")
+                        
+                        # Add to phone changes list
+                        phone_changes_list.append({
+                            'type': 'new',
+                            'phone_name': phone['name'],
+                            'phone_id': phone['id']
+                        })
+                
+                # Create brand change entry
+                brand_change = {
+                    'brand_id': brand['id'],
+                    'brand_name': brand['name'],
+                    'new_phones': new_phones,
+                    'updated_phones': updated_phones,
+                    'phone_changes': phone_changes_list
+                }
+                
+                # Add to changes details
+                changes_summary['changes_details'].append(brand_change)
+                
+                # Merge the phone data
+                existing_phones_dict.update({phone['id']: phone for phone in brand_data['phones']})
+                existing_brand['phones'] = list(existing_phones_dict.values())
+                existing_brand['last_updated'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                
+                print(f"\nBrand {brand_name} updated: {new_phones} new phones, {updated_phones} updated phones")
+            else:
+                # New brand
+                changes_summary['new_brands'] = 1
+                changes_summary['new_phones'] = len(brand_data['phones'])
+                
+                # Create phone changes list for new brand
+                for phone in brand_data['phones']:
+                    phone_changes_list.append({
+                        'type': 'new',
+                        'phone_name': phone['name'],
+                        'phone_id': phone['id']
+                    })
+                
+                # Create brand change entry
+                brand_change = {
+                    'brand_id': brand['id'],
+                    'brand_name': brand['name'],
+                    'type': 'new',
+                    'new_phones': len(brand_data['phones']),
+                    'updated_phones': 0,
+                    'phone_changes': phone_changes_list
+                }
+                
+                # Add to changes details
+                changes_summary['changes_details'].append(brand_change)
+                
+                # Add the new brand to our data
+                brand_data['last_updated'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                existing_data['brands'].append(brand_data)
+                existing_brands_dict[brand['id']] = brand_data
+                
+                print(f"\nNew brand added: {brand_name} with {len(brand_data['phones'])} phones")
+            
+            # Save the updated data (but don't create changelog yet)
+            self.save_final_data(existing_data)
+            
+            return {
+                'brand_data': brand_data,
+                'changes_summary': changes_summary
+            }
+        except Exception as e:
+            error_msg = f"Error in scrape_single_brand_without_changelog: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            return None
+
     def scrape_single_brand(self, brand_input, max_pages=None, max_products=None):
         """Scrape a single brand by name or URL
         
+{{ ... }}
         Args:
             brand_input (str): Brand name or URL
             max_pages (int, optional): Maximum number of pages to scrape
@@ -1507,7 +1719,8 @@ if __name__ == "__main__":
     # scraper.scrape_single_brand("https://www.mobiledokan.com/mobile-brand/apple")  # By brand URL
     
     # Mode 2: Scrape multiple specific brands by names or URLs
-    brand_list = ["philips", "energizer"]  # List of brand names
+    brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
+    # brand_list = ["kingstar", "wiko"]  # List of brand names
     scraper.scrape_multiple_brands(
         brand_inputs=brand_list,
         # max_pages=2,  # Limit to 2 pages per brand

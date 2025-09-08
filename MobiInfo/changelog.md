@@ -2,6 +2,31 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-08 07:29:07
+
+### Summary
+
+- **New brands**: 2
+- **Updated brands**: 0
+- **Failed brands**: 0
+- **New phones**: 36
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### kingstar
+
+- **New brand added** with 35 phones
+
+
+#### wiko
+
+- **New brand added** with 1 phones
+
+
+---
+
 ## 2025-09-08 07:19:19
 
 ### Summary
