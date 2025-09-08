@@ -2065,7 +2065,7 @@ if __name__ == "__main__":
         # max_brands=5,  # Limit to first 5 brands from the list
         # max_pages=2,  # Limit to 2 pages per brand
         # max_products=10,  # Limit to 10 products per brand
-        max_workers=10  # Use 3 concurrent workers for faster processing
+        max_workers=12  # Use 3 concurrent workers for faster processing
     )
     # print(f"Saved {len(result['saved_files'])} separate brand files:")
     # for file_path in result['saved_files']:
