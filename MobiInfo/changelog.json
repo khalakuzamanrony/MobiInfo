@@ -1,5 +1,546 @@
 [
   {
+    "timestamp": "2025-09-08 10:21:42",
+    "summary": {
+      "new_brands": 12,
+      "updated_brands": 0,
+      "failed_brands": 0,
+      "new_phones": 84,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "maxis",
+        "brand_name": "maxis",
+        "type": "new",
+        "new_phones": 1,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Maxis T10",
+            "phone_id": "maxis_t10"
+          }
+        ]
+      },
+      {
+        "brand_id": "allview",
+        "brand_name": "allview",
+        "type": "new",
+        "new_phones": 3,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Allview Soul X6 Xtreme",
+            "phone_id": "allview_soul_x6_xtreme"
+          },
+          {
+            "type": "new",
+            "phone_name": "Allview P10 Pro",
+            "phone_id": "allview_p10_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Allview A10 Plus",
+            "phone_id": "allview_a10_plus"
+          }
+        ]
+      },
+      {
+        "brand_id": "xtra",
+        "brand_name": "xtra",
+        "type": "new",
+        "new_phones": 1,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "XTRA X10",
+            "phone_id": "xtra_x10"
+          }
+        ]
+      },
+      {
+        "brand_id": "celkon",
+        "brand_name": "celkon",
+        "type": "new",
+        "new_phones": 3,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Celkon C6 Star",
+            "phone_id": "celkon_c6_star"
+          },
+          {
+            "type": "new",
+            "phone_name": "Celkon C9 Jumbo",
+            "phone_id": "celkon_c9_jumbo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Celkon C366",
+            "phone_id": "celkon_c366"
+          }
+        ]
+      },
+      {
+        "brand_id": "panasonic",
+        "brand_name": "panasonic",
+        "type": "new",
+        "new_phones": 6,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Panasonic Eluga I7 (2019)",
+            "phone_id": "panasonic_eluga_i7_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Panasonic Eluga Ray 800",
+            "phone_id": "panasonic_eluga_ray_800"
+          },
+          {
+            "type": "new",
+            "phone_name": "Panasonic P85 NXT",
+            "phone_id": "panasonic_p85_nxt"
+          },
+          {
+            "type": "new",
+            "phone_name": "Panasonic Eluga Ray 530",
+            "phone_id": "panasonic_eluga_ray_530"
+          },
+          {
+            "type": "new",
+            "phone_name": "Panasonic Eluga Ray 600",
+            "phone_id": "panasonic_eluga_ray_600"
+          },
+          {
+            "type": "new",
+            "phone_name": "Panasonic Eluga Z1 Pro",
+            "phone_id": "panasonic_eluga_z1_pro"
+          }
+        ]
+      },
+      {
+        "brand_id": "leica",
+        "brand_name": "leica",
+        "type": "new",
+        "new_phones": 1,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Leica Leitz Phone 2",
+            "phone_id": "leica_leitz_phone_2"
+          }
+        ]
+      },
+      {
+        "brand_id": "hallo",
+        "brand_name": "hallo",
+        "type": "new",
+        "new_phones": 3,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Hallo H100 Music",
+            "phone_id": "hallo_h100_music"
+          },
+          {
+            "type": "new",
+            "phone_name": "Hallo Power",
+            "phone_id": "hallo_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Hallo Classic",
+            "phone_id": "hallo_classic"
+          }
+        ]
+      },
+      {
+        "brand_id": "acer",
+        "brand_name": "acer",
+        "type": "new",
+        "new_phones": 2,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Acer Super ZX",
+            "phone_id": "acer_super_zx"
+          },
+          {
+            "type": "new",
+            "phone_name": "Acer Super ZX Pro",
+            "phone_id": "acer_super_zx_pro"
+          }
+        ]
+      },
+      {
+        "brand_id": "ulefone",
+        "brand_name": "ulefone",
+        "type": "new",
+        "new_phones": 11,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor X32",
+            "phone_id": "ulefone_armor_x32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor 34 Pro",
+            "phone_id": "ulefone_armor_34_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor 33 Pro",
+            "phone_id": "ulefone_armor_33_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor Mini 4",
+            "phone_id": "ulefone_armor_mini_4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor X31 Pro",
+            "phone_id": "ulefone_armor_x31_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Note 18 Pro",
+            "phone_id": "ulefone_note_18_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor Mini 20T Pro",
+            "phone_id": "ulefone_armor_mini_20t_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Note 20 Pro",
+            "phone_id": "ulefone_note_20_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Note 19",
+            "phone_id": "ulefone_note_19"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Armor 28 Ultra",
+            "phone_id": "ulefone_armor_28_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Ulefone Note 18 Ultra",
+            "phone_id": "ulefone_note_18_ultra"
+          }
+        ]
+      },
+      {
+        "brand_id": "5star",
+        "brand_name": "5star",
+        "type": "new",
+        "new_phones": 17,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "5star BD17 Pro",
+            "phone_id": "5star_bd17_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD27 Plus",
+            "phone_id": "5star_bd27_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD40",
+            "phone_id": "5star_bd40"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD6310",
+            "phone_id": "5star_bd6310"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD20",
+            "phone_id": "5star_bd20"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD24",
+            "phone_id": "5star_bd24"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD5106",
+            "phone_id": "5star_bd5106"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD29 Plus",
+            "phone_id": "5star_bd29_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD31",
+            "phone_id": "5star_bd31"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD30",
+            "phone_id": "5star_bd30"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD39",
+            "phone_id": "5star_bd39"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD5105",
+            "phone_id": "5star_bd5105"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD60",
+            "phone_id": "5star_bd60"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD150",
+            "phone_id": "5star_bd150"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD80(4SIM)",
+            "phone_id": "5star_bd804sim"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star BD70(4SIM)",
+            "phone_id": "5star_bd704sim"
+          },
+          {
+            "type": "new",
+            "phone_name": "5star DX10",
+            "phone_id": "5star_dx10"
+          }
+        ]
+      },
+      {
+        "brand_id": "gdl",
+        "brand_name": "gdl",
+        "type": "new",
+        "new_phones": 10,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "GDL GigaX Y10",
+            "phone_id": "gdl_gigax_y10"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL G88",
+            "phone_id": "gdl_g88"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL GigaX Y30",
+            "phone_id": "gdl_gigax_y30"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL G801",
+            "phone_id": "gdl_g801"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL Victor",
+            "phone_id": "gdl_victor"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL G405",
+            "phone_id": "gdl_g405"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL G702",
+            "phone_id": "gdl_g702"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL Go 4G",
+            "phone_id": "gdl_go_4g"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL Hot",
+            "phone_id": "gdl_hot"
+          },
+          {
+            "type": "new",
+            "phone_name": "GDL GigaX Y21",
+            "phone_id": "gdl_gigax_y21"
+          }
+        ]
+      },
+      {
+        "brand_id": "doogee",
+        "brand_name": "doogee",
+        "type": "new",
+        "new_phones": 26,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade20 Turbo",
+            "phone_id": "doogee_blade20_turbo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Note59 Pro Plus",
+            "phone_id": "doogee_note59_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Note 59",
+            "phone_id": "doogee_note_59"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Note59 Pro",
+            "phone_id": "doogee_note59_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Fire 6 Max",
+            "phone_id": "doogee_fire_6_max"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S200 Plus",
+            "phone_id": "doogee_s200_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade GT Ultra",
+            "phone_id": "doogee_blade_gt_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S119",
+            "phone_id": "doogee_s119"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S118 Pro",
+            "phone_id": "doogee_s118_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Balde GT",
+            "phone_id": "doogee_balde_gt"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Fire 6",
+            "phone_id": "doogee_fire_6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Fire 6 Power",
+            "phone_id": "doogee_fire_6_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "DOOGEE S200",
+            "phone_id": "doogee_s200"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade10 Max",
+            "phone_id": "doogee_blade10_max"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V40 Pro",
+            "phone_id": "doogee_v40_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V Max Pro",
+            "phone_id": "doogee_v_max_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade10",
+            "phone_id": "doogee_blade10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade10 Pro",
+            "phone_id": "doogee_blade10_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee Blade10 Ultra",
+            "phone_id": "doogee_blade10_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V Max Plus",
+            "phone_id": "doogee_v_max_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S Punk",
+            "phone_id": "doogee_s_punk"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S Cyber",
+            "phone_id": "doogee_s_cyber"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee N55 Plus",
+            "phone_id": "doogee_n55_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee DK10",
+            "phone_id": "doogee_dk10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V20S",
+            "phone_id": "doogee_v20s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V30T",
+            "phone_id": "doogee_v30t"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-08 10:16:02",
     "summary": {
       "new_brands": 0,

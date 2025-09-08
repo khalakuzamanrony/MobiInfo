@@ -1,0 +1,917 @@
+{
+  "brand_info": {
+    "id": "gdl",
+    "name": "gdl",
+    "url": "https://www.mobiledokan.com/mobile-brand/gdl",
+    "image_url": null,
+    "last_updated": "2025-09-08 04:20:26",
+    "total_phones": 10
+  },
+  "phones": [
+    {
+      "id": "gdl_gigax_y10",
+      "name": "GDL GigaX Y10",
+      "url": "https://www.mobiledokan.com/mobile/gdl-gigax-y10",
+      "image_url": "https://www.mobiledokan.com/media/gdl-gigax-y10-sky-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "GigaX Y10",
+          "Device Type": "Smartphone",
+          "Release Date": "04 September 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Unisoc T606",
+          "CPU": "Octa core (1.6 GHz, Quad core, Cortex A55 + 1.2 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "400 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4208 x 3120 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Auto Flash, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "164.4 mm",
+          "Width": "76 mm",
+          "Thickness": "8.9 mm",
+          "Colors": "Navy Blue, Sky Blue, Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-up-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-green-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-green-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-green-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-navy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y10-sky-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_g88",
+      "name": "GDL G88",
+      "url": "https://www.mobiledokan.com/mobile/gdl-g88",
+      "image_url": "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "G88",
+          "Device Type": "FeaturePhone",
+          "Release Date": "22 July 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.8 inches (7.11 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "137 mm",
+          "Width": "57.6 mm",
+          "Thickness": "14.6 mm",
+          "Colors": "Black, Green, Blue, Sky Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "2950 mAh",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-sky-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g88-green-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_gigax_y30",
+      "name": "GDL GigaX Y30",
+      "url": "https://www.mobiledokan.com/mobile/gdl-gigax-y30",
+      "image_url": "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "GigaX Y30",
+          "Device Type": "Smartphone",
+          "Release Date": "01 July 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "Unisoc T606",
+          "CPU": "Octa core (1.6 GHz, Quad core, Cortex A55 + 1.2 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.67 inches (16.94 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "450 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4208 x 3120 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Auto Flash, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "165.8 mm",
+          "Width": "77.2 mm",
+          "Thickness": "8.3 mm",
+          "Colors": "Blue, Green, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-black-official-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y30-green-official-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_g801",
+      "name": "GDL G801",
+      "url": "https://www.mobiledokan.com/mobile/gdl-g801",
+      "image_url": "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "G801",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 July 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "Mediatek"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "116 mm",
+          "Width": "50.5 mm",
+          "Thickness": "11.9 mm",
+          "Colors": "Black, Mint Green, Navy Blue, Peacock Blue, Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1500 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "EZFM, Calculator, Big LED Torch"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-navy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-peacock-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g801-black-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_victor",
+      "name": "GDL Victor",
+      "url": "https://www.mobiledokan.com/mobile/gdl-victor",
+      "image_url": "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "Victor",
+          "Device Type": "FeaturePhone",
+          "Release Date": "24 June 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "122 mm",
+          "Width": "52 mm",
+          "Thickness": "12.9 mm",
+          "Colors": "Black, Emerald Green, Graphite, Mint Green, Scuba Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1500 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "EZFM, Calculator"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-scuba-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-graphite-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-emerald-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-victor-black-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_g405",
+      "name": "GDL G405",
+      "url": "https://www.mobiledokan.com/mobile/gdl-g405",
+      "image_url": "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "G405",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 April 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "124 mm",
+          "Width": "52 mm",
+          "Thickness": "12.8 mm",
+          "Colors": "Blue, Green, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1700 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "LED Torch"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g405-blue-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_g702",
+      "name": "GDL G702",
+      "url": "https://www.mobiledokan.com/mobile/gdl-g702",
+      "image_url": "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "G702",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 April 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "132 mm",
+          "Width": "54 mm",
+          "Thickness": "14.6 mm",
+          "Colors": "Mint Green, Peacock Blue, Peacock Blue, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "2500 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "EZFM, Calculator ,Extra Wide LED Torch"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-dark-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-peacock-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-g702-black-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_go_4g",
+      "name": "GDL Go 4G",
+      "url": "https://www.mobiledokan.com/mobile/gdl-go-4g",
+      "image_url": "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "Go 4G",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 February 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "Unisoc T127"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera",
+            "Flash": "LED Flash"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "132 mm",
+          "Width": "54 mm",
+          "Thickness": "10.8 mm",
+          "Build": "Back: Plastic",
+          "Colors": "Black, Emerald Green, Mint Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1600 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "64MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
+          "Bluetooth": "v3.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "EZFM, Calculator"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-mint-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-emerald-green-image.webp",
+        "https://www.mobiledokan.com/media/gdl-go-4g-black-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_hot",
+      "name": "GDL Hot",
+      "url": "https://www.mobiledokan.com/mobile/gdl-hot",
+      "image_url": "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "Hot",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 January 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone"
+        },
+        "Display": {
+          "Display Type": "QQVGA",
+          "Screen Size": "2.4 inches (6.09 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "132 mm",
+          "Width": "53.8 mm",
+          "Thickness": "13.7 mm",
+          "Colors": "Black, Deep Blue, Sea Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1700 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "EZFM, Calculator, Torch & Flash"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-black-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-deep-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-hot-2-sea-green-image.webp"
+      ]
+    },
+    {
+      "id": "gdl_gigax_y21",
+      "name": "GDL GigaX Y21",
+      "url": "https://www.mobiledokan.com/mobile/gdl-gigax-y21",
+      "image_url": "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "GDL",
+          "Model": "GigaX Y21",
+          "Device Type": "Smartphone",
+          "Release Date": "15 April 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "MediaTek Helio G36",
+          "CPU": "Octa-core Arm Cortex-A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57"
+        },
+        "Display": {
+          "Display Type": "TFT",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "720x1650 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "Yes"
+          }
+        },
+        "Design": {
+          "Height": "169.1 mm",
+          "Width": "76.5 mm",
+          "Thickness": "9 mm",
+          "Colors": "Hippy Blue, Smokey Grey, Zodiac Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W First Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 1 TB",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-front-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-back-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-side-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-updown-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21hippy-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-zodiac-blue-image.webp",
+        "https://www.mobiledokan.com/media/gdl-gigax-y21-smokey-grey-image.webp"
+      ]
+    }
+  ]
+}

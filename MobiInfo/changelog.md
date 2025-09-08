@@ -2,6 +2,81 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-08 10:21:42
+
+### Summary
+
+- **New brands**: 12
+- **Updated brands**: 0
+- **Failed brands**: 0
+- **New phones**: 84
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### maxis
+
+- **New brand added** with 1 phones
+
+
+#### allview
+
+- **New brand added** with 3 phones
+
+
+#### xtra
+
+- **New brand added** with 1 phones
+
+
+#### celkon
+
+- **New brand added** with 3 phones
+
+
+#### panasonic
+
+- **New brand added** with 6 phones
+
+
+#### leica
+
+- **New brand added** with 1 phones
+
+
+#### hallo
+
+- **New brand added** with 3 phones
+
+
+#### acer
+
+- **New brand added** with 2 phones
+
+
+#### ulefone
+
+- **New brand added** with 11 phones
+
+
+#### 5star
+
+- **New brand added** with 17 phones
+
+
+#### gdl
+
+- **New brand added** with 10 phones
+
+
+#### doogee
+
+- **New brand added** with 26 phones
+
+
+---
+
 ## 2025-09-08 10:16:02
 
 ### Summary

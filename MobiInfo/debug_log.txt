@@ -232,3 +232,90 @@ d existing data with 31 brands
 [SUCCESS 2025-09-08 04:16:02.928] Brand 'oscal' saved to MobiInfo/Brands/oscal.json
 [SUCCESS 2025-09-08 04:16:02.930] Successfully loaded changelog with 2 entries
 [SUCCESS 2025-09-08 04:16:02.933] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:19:01.384] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:19:03.204] Found brand: Allview
+[SUCCESS 2025-09-08 04:19:03.207] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:19:03.269] Found brand: Celkon
+[SUCCESS 2025-09-08 04:19:03.274] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:19:03.351] Found brand: 5Star
+[SUCCESS 2025-09-08 04:19:03.361] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:19:03.407] Found brand: Maxis
+[SUCCESS 2025-09-08 04:19:03.409] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:19:03.562] Found brand: Panasonic
+[SUCCESS 2025-09-08 04:19:03.564] Successfully loaded existing data with 0 brands
+[SUCCESS 2025-09-08 04:19:04.498] Found 3 phones on page 1 (Total: 3)
+[SUCCESS 2025-09-08 04:19:04.506] Successfully fetched 3 total phones for brand
+[SUCCESS 2025-09-08 04:19:04.649] Found 17 phones on page 1 (Total: 17)
+[SUCCESS 2025-09-08 04:19:04.659] Successfully fetched 17 total phones for brand
+[SUCCESS 2025-09-08 04:19:04.699] Found 3 phones on page 1 (Total: 3)
+[SUCCESS 2025-09-08 04:19:04.707] Successfully fetched 3 total phones for brand
+[SUCCESS 2025-09-08 04:19:04.798] Found 6 phones on page 1 (Total: 6)
+[SUCCESS 2025-09-08 04:19:04.806] Successfully fetched 6 total phones for brand
+[SUCCESS 2025-09-08 04:19:05.428] Found 1 phones on page 1 (Total: 1)
+[SUCCESS 2025-09-08 04:19:05.436] Successfully fetched 1 total phones for brand
+[SUCCESS 2025-09-08 04:19:09.973] Successfully scraped 1 phones for brand: maxis
+[SUCCESS 2025-09-08 04:19:09.976] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:09.986] Brand 'maxis' saved to MobiInfo/Brands/maxis.json
+[SUCCESS 2025-09-08 04:19:11.285] Found brand: Xtra
+[SUCCESS 2025-09-08 04:19:11.287] Successfully loaded existing data with 1 brands
+[SUCCESS 2025-09-08 04:19:12.091] Found 1 phones on page 1 (Total: 1)
+[SUCCESS 2025-09-08 04:19:12.098] Successfully fetched 1 total phones for brand
+[SUCCESS 2025-09-08 04:19:16.519] Successfully scraped 3 phones for brand: allview
+[SUCCESS 2025-09-08 04:19:16.522] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:16.525] Brand 'allview' saved to MobiInfo/Brands/allview.json
+[SUCCESS 2025-09-08 04:19:17.569] Successfully scraped 1 phones for brand: xtra
+[SUCCESS 2025-09-08 04:19:17.575] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:17.584] Brand 'xtra' saved to MobiInfo/Brands/xtra.json
+[SUCCESS 2025-09-08 04:19:17.935] Found brand: Hallo
+[SUCCESS 2025-09-08 04:19:17.938] Successfully loaded existing data with 2 brands
+[SUCCESS 2025-09-08 04:19:18.432] Found brand: Doogee
+[SUCCESS 2025-09-08 04:19:18.435] Successfully loaded existing data with 2 brands
+[SUCCESS 2025-09-08 04:19:19.008] Successfully scraped 3 phones for brand: celkon
+[SUCCESS 2025-09-08 04:19:19.011] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:19.014] Brand 'celkon' saved to MobiInfo/Brands/celkon.json
+[SUCCESS 2025-09-08 04:19:20.074] Found 3 phones on page 1 (Total: 3)
+[SUCCESS 2025-09-08 04:19:20.082] Successfully fetched 3 total phones for brand
+[SUCCESS 2025-09-08 04:19:20.218] Found brand: Ulefone
+[SUCCESS 2025-09-08 04:19:20.221] Successfully loaded existing data with 1 brands
+[SUCCESS 2025-09-08 04:19:20.273] Found 26 phones on page 1 (Total: 26)
+[SUCCESS 2025-09-08 04:19:20.283] Successfully fetched 26 total phones for brand
+[SUCCESS 2025-09-08 04:19:21.111] Found 11 phones on page 1 (Total: 11)
+[SUCCESS 2025-09-08 04:19:21.131] Successfully fetched 11 total phones for brand
+[SUCCESS 2025-09-08 04:19:33.604] Successfully scraped 6 phones for brand: panasonic
+[SUCCESS 2025-09-08 04:19:33.608] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:33.612] Brand 'panasonic' saved to MobiInfo/Brands/panasonic.json
+[SUCCESS 2025-09-08 04:19:34.678] Found brand: Leica
+[SUCCESS 2025-09-08 04:19:34.683] Successfully loaded existing data with 1 brands
+[SUCCESS 2025-09-08 04:19:36.297] Found 1 phones on page 1 (Total: 1)
+[SUCCESS 2025-09-08 04:19:36.305] Successfully fetched 1 total phones for brand
+[SUCCESS 2025-09-08 04:19:39.495] Successfully scraped 1 phones for brand: leica
+[SUCCESS 2025-09-08 04:19:39.499] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:39.502] Brand 'leica' saved to MobiInfo/Brands/leica.json
+[SUCCESS 2025-09-08 04:19:40.818] Successfully scraped 3 phones for brand: hallo
+[SUCCESS 2025-09-08 04:19:40.822] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:40.825] Brand 'hallo' saved to MobiInfo/Brands/hallo.json
+[SUCCESS 2025-09-08 04:19:40.985] Found brand: Acer
+[SUCCESS 2025-09-08 04:19:40.988] Successfully loaded existing data with 3 brands
+[SUCCESS 2025-09-08 04:19:42.243] Found brand: GDL
+[SUCCESS 2025-09-08 04:19:42.246] Successfully loaded existing data with 3 brands
+[SUCCESS 2025-09-08 04:19:42.681] Found 2 phones on page 1 (Total: 2)
+[SUCCESS 2025-09-08 04:19:42.690] Successfully fetched 2 total phones for brand
+[SUCCESS 2025-09-08 04:19:44.189] Found 10 phones on page 1 (Total: 10)
+[SUCCESS 2025-09-08 04:19:44.197] Successfully fetched 10 total phones for brand
+[SUCCESS 2025-09-08 04:19:51.757] Successfully scraped 2 phones for brand: acer
+[SUCCESS 2025-09-08 04:19:51.764] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:19:51.769] Brand 'acer' saved to MobiInfo/Brands/acer.json
+[SUCCESS 2025-09-08 04:20:11.204] Successfully scraped 11 phones for brand: ulefone
+[SUCCESS 2025-09-08 04:20:11.209] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:20:11.214] Brand 'ulefone' saved to MobiInfo/Brands/ulefone.json
+[SUCCESS 2025-09-08 04:20:25.960] Successfully scraped 17 phones for brand: 5star
+[SUCCESS 2025-09-08 04:20:25.965] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:20:25.969] Brand '5star' saved to MobiInfo/Brands/5star.json
+[SUCCESS 2025-09-08 04:20:26.814] Successfully scraped 10 phones for brand: gdl
+[SUCCESS 2025-09-08 04:20:26.819] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:20:26.823] Brand 'gdl' saved to MobiInfo/Brands/gdl.json
+[SUCCESS 2025-09-08 04:21:42.160] Successfully scraped 26 phones for brand: doogee
+[SUCCESS 2025-09-08 04:21:42.168] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:21:42.175] Brand 'doogee' saved to MobiInfo/Brands/doogee.json
+[SUCCESS 2025-09-08 04:21:42.179] Successfully loaded changelog with 3 entries
+[SUCCESS 2025-09-08 04:21:42.183] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
