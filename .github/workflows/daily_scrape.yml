@@ -26,6 +26,14 @@ jobs:
       - name: Run scraper
         run: python mobiinfo.py
 
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add MobiInfo/
+          git commit -m "Daily scraper update - $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push
+
       - name: Send Telegram notification
         run: |
           # Check if changelog exists
