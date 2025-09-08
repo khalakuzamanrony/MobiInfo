@@ -1472,7 +1472,7 @@ if __name__ == "__main__":
     # Choose scraping mode:
     
     # Mode 1: Scrape a single brand by name or URL
-    scraper.scrape_single_brand("okapia")  # By brand name
+    scraper.scrape_single_brand("bengal")  # By brand name
     # scraper.scrape_single_brand("https://www.mobiledokan.com/mobile-brand/apple")  # By brand URL
     
     # Mode 2: Scrape multiple brands (existing functionality)
