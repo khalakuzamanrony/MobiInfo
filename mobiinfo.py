@@ -30,6 +30,7 @@ class MobiInfoScraper:
         self.max_delay = 0.8  # Reduced maximum delay
         self.max_retries = 3
         self.final_data_path = os.path.join(self.output_dir, 'allbrands.json')
+        self.brands_dir = os.path.join(self.output_dir, 'Brands')
         self.progress_path = os.path.join(self.output_dir, 'progress.json')
         self.changelog_path = os.path.join(self.output_dir, 'changelog.md')
         self.error_log_path = os.path.join(self.output_dir, 'error_log.txt')
@@ -844,6 +845,90 @@ class MobiInfoScraper:
             self.log_error(error_msg)
             return False
     
+    def save_changelog(self, changelog):
+        """Save changelog to both JSON and Markdown formats"""
+        try:
+            abs_path = os.path.abspath(self.changelog_path)
+            print(f"\nSaving changelog to: {abs_path}")
+            
+            # Ensure the directory exists
+            os.makedirs(os.path.dirname(self.changelog_path), exist_ok=True)
+            
+            with open(self.changelog_path, 'w', encoding='utf-8') as f:
+                # Write header
+                f.write("# MobiInfo Data Changelog\n\n")
+                f.write("This document tracks all changes to the MobiInfo phone database.\n\n")
+                
+                # Write changelog entries in reverse chronological order (latest first)
+                for entry in sorted(changelog, key=lambda x: x['timestamp'], reverse=True):
+                    f.write(f"## {entry['timestamp']}\n\n")
+                    
+                    # Write summary
+                    summary = entry['summary']
+                    f.write("### Summary\n\n")
+                    f.write(f"- **New brands**: {summary['new_brands']}\n")
+                    f.write(f"- **Updated brands**: {summary['updated_brands']}\n")
+                    f.write(f"- **Failed brands**: {summary['failed_brands']}\n")
+                    f.write(f"- **New phones**: {summary['new_phones']}\n")
+                    f.write(f"- **Updated phones**: {summary['updated_phones']}\n")
+                    f.write(f"- **Failed phones**: {summary['failed_phones']}\n\n")
+                    
+                    # Write detailed changes
+                    if entry['details']:
+                        f.write("### Detailed Changes\n\n")
+                        
+                        for brand_change in entry['details']:
+                            f.write(f"#### {brand_change['brand_name']}\n\n")
+                            
+                            if 'type' in brand_change and brand_change['type'] == 'new':
+                                f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
+                            else:
+                                f.write(f"- **New phones**: {brand_change['new_phones']}\n")
+                                f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n\n")
+                                
+                                if 'phone_changes' in brand_change:
+                                    for phone_change in brand_change['phone_changes']:
+                                        if phone_change['type'] == 'new':
+                                            f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
+                                        else:
+                                            f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
+                                            
+                                            # Format differences as a nested list
+                                            if 'differences' in phone_change:
+                                                for diff in phone_change['differences']:
+                                                    f.write(f"    - {diff}\n")
+                                            
+                                            f.write("\n")
+                            
+                            f.write("\n")
+                    
+                    f.write("---\n\n")
+            
+            # Also save the JSON version
+            json_changelog_path = os.path.join(self.output_dir, 'changelog.json')
+            with open(json_changelog_path, 'w', encoding='utf-8') as f:
+                json.dump(changelog, f, ensure_ascii=False, indent=2)
+            
+            # Check if the file was created and has content
+            if os.path.exists(self.changelog_path):
+                file_size = os.path.getsize(self.changelog_path)
+                print(f"Changelog file created successfully with size: {file_size} bytes")
+                
+                # Print the first few lines to verify content
+                with open(self.changelog_path, 'r', encoding='utf-8') as f:
+                    first_lines = ''.join([f.readline() for _ in range(3)])
+                    print(f"Changelog preview:\n{first_lines}...")
+            else:
+                print("ERROR: Changelog file was not created!")
+            
+            print(f"Changelog saved to: {abs_path}")
+            self.log_success(f"Changelog saved to {abs_path}")
+        except Exception as e:
+            error_msg = f"Error saving changelog: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            traceback.print_exc()  # Print full traceback for debugging
+    
     def scrape_multiple_brands(self, brand_inputs, max_pages=None, max_products=None):
         """Scrape multiple brands by names or URLs and create a single consolidated changelog
         
@@ -901,13 +986,14 @@ class MobiInfoScraper:
         print(f"\n=== Completed scraping {len(results)}/{total_brands} brands successfully ===")
         return results
 
-    def scrape_single_brand_without_changelog(self, brand_input, max_pages=None, max_products=None):
+    def scrape_single_brand_without_changelog(self, brand_input, max_pages=None, max_products=None, separate_files_mode=False):
         """Scrape a single brand by name or URL without creating changelog entry
         
         Args:
             brand_input (str): Brand name or URL
             max_pages (int, optional): Maximum number of pages to scrape
             max_products (int, optional): Maximum number of products to scrape
+            separate_files_mode (bool, optional): If True, check individual brand files instead of consolidated data
             
         Returns:
             dict: Contains 'brand_data' and 'changes_summary'
@@ -973,9 +1059,35 @@ class MobiInfoScraper:
             phone_changes_list = []
             
             # Check if this is a new brand or an update to an existing one
-            if brand['id'] in existing_brands_dict:
+            # For separate files mode, check if individual brand file exists
+            if separate_files_mode:
+                brand_file_path = os.path.join(self.brands_dir, f"{brand['id']}.json")
+                is_existing_brand = os.path.exists(brand_file_path)
+                
+                if is_existing_brand:
+                    # Load existing brand data from separate file
+                    try:
+                        with open(brand_file_path, 'r', encoding='utf-8') as f:
+                            existing_brand_file = json.load(f)
+                            existing_brand = {
+                                'id': existing_brand_file['brand_info']['id'],
+                                'name': existing_brand_file['brand_info']['name'],
+                                'url': existing_brand_file['brand_info']['url'],
+                                'image_url': existing_brand_file['brand_info']['image_url'],
+                                'phones': existing_brand_file['phones']
+                            }
+                    except Exception as e:
+                        print(f"Error loading existing brand file: {str(e)}")
+                        is_existing_brand = False
+                        existing_brand = None
+                else:
+                    existing_brand = None
+            else:
+                is_existing_brand = brand['id'] in existing_brands_dict
+                existing_brand = existing_brands_dict.get(brand['id'])
+            
+            if is_existing_brand and existing_brand:
                 # Existing brand - update it
-                existing_brand = existing_brands_dict[brand['id']]
                 changes_summary['updated_brands'] = 1
                 
                 # Create a dictionary of existing phones by ID
@@ -1495,27 +1607,6 @@ class MobiInfoScraper:
             with open(self.progress_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
             self.log_success(f"Progress saved to {self.progress_path}")
-        except Exception as e:
-            error_msg = f"Error saving progress: {str(e)}"
-            print(error_msg)
-            self.log_error(error_msg)
-    
-    def save_final_data(self, data):
-        """Save final data to a JSON file with error handling"""
-        try:
-            with open(self.final_data_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            print(f"\nFinal data saved to {self.final_data_path}")
-            self.log_success(f"Final data saved to {self.final_data_path}")
-        except Exception as e:
-            error_msg = f"Error saving final data: {str(e)}"
-            print(error_msg)
-            self.log_error(error_msg)
-    
-    def save_changelog(self, changelog):
-        """Save changelog to a Markdown file with error handling"""
-        try:
-            abs_path = os.path.abspath(self.changelog_path)
             print(f"\nSaving changelog to: {abs_path}")
             
             # Ensure the directory exists
@@ -1692,6 +1783,229 @@ class MobiInfoScraper:
         
         return differences
     
+    def save_final_data(self, data):
+        """Save final data to JSON file with error handling"""
+        try:
+            with open(self.final_data_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            print(f"\nFinal data saved to {self.final_data_path}")
+            self.log_success(f"Final data saved to {self.final_data_path}")
+        except Exception as e:
+            error_msg = f"Error saving final data: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+    
+    def save_brand_as_separate_file(self, brand_data):
+        """Save a single brand as a separate JSON file in the Brands directory"""
+        try:
+            # Create Brands directory if it doesn't exist
+            os.makedirs(self.brands_dir, exist_ok=True)
+            
+            # Generate filename from brand name
+            brand_filename = f"{brand_data['id']}.json"
+            brand_file_path = os.path.join(self.brands_dir, brand_filename)
+            
+            # Create brand file data structure
+            brand_file_data = {
+                "brand_info": {
+                    "id": brand_data['id'],
+                    "name": brand_data['name'],
+                    "url": brand_data['url'],
+                    "image_url": brand_data['image_url'],
+                    "last_updated": brand_data.get('last_updated', datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
+                    "total_phones": len(brand_data['phones'])
+                },
+                "phones": brand_data['phones']
+            }
+            
+            # Save to separate file
+            with open(brand_file_path, 'w', encoding='utf-8') as f:
+                json.dump(brand_file_data, f, ensure_ascii=False, indent=2)
+            
+            print(f"Brand '{brand_data['name']}' saved to {brand_file_path}")
+            self.log_success(f"Brand '{brand_data['name']}' saved to {brand_file_path}")
+            return brand_file_path
+        except Exception as e:
+            error_msg = f"Error saving brand '{brand_data['name']}' as separate file: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            return None
+    
+    def save_brands_as_separate_files(self, brands_data):
+        """Save multiple brands as separate JSON files"""
+        try:
+            saved_files = []
+            total_brands = len(brands_data)
+            
+            print(f"\n=== Saving {total_brands} brands as separate JSON files ===")
+            
+            for i, brand_data in enumerate(brands_data, 1):
+                print(f"Saving brand {i}/{total_brands}: {brand_data['name']}")
+                file_path = self.save_brand_as_separate_file(brand_data)
+                if file_path:
+                    saved_files.append(file_path)
+            
+            print(f"\n=== Successfully saved {len(saved_files)}/{total_brands} brands as separate files ===")
+            return saved_files
+        except Exception as e:
+            error_msg = f"Error saving brands as separate files: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            return []
+    
+    def scrape_multiple_brands_separate_files(self, brand_inputs, max_brands=None, max_pages=None, max_products=None, max_workers=2):
+        """Scrape multiple brands and save each as separate JSON files with consolidated changelog
+        
+        Args:
+            brand_inputs (list): List of brand names or URLs
+            max_brands (int, optional): Maximum number of brands to scrape. If None, scrape all brands.
+            max_pages (int, optional): Maximum number of pages to scrape per brand
+            max_products (int, optional): Maximum number of products to scrape per brand
+            max_workers (int, optional): Maximum number of concurrent workers. Default is 2.
+            
+        Returns:
+            dict: Contains 'saved_files' list and 'results' list
+        """
+        if isinstance(brand_inputs, str):
+            # If a single string is passed, convert to list
+            brand_inputs = [brand_inputs]
+        
+        # Apply max_brands limit if specified
+        if max_brands is not None and max_brands > 0:
+            brand_inputs = brand_inputs[:max_brands]
+            print(f"Limited to first {max_brands} brands from the input list")
+        
+        results = []
+        saved_files = []
+        total_brands = len(brand_inputs)
+        
+        # Store the number of workers for adaptive delay calculation
+        self.max_workers = max_workers
+        
+        # Initialize consolidated changes summary
+        consolidated_changes = {
+            'new_brands': 0,
+            'updated_brands': 0,
+            'failed_brands': 0,
+            'new_phones': 0,
+            'updated_phones': 0,
+            'failed_phones': 0,
+            'changes_details': []
+        }
+        
+        print(f"\n=== Starting to scrape {total_brands} brands and save as separate files ===")
+        print(f"=== Using {max_workers} concurrent workers ===")
+        
+        # Process brands with concurrent workers if max_workers > 1
+        if max_workers > 1:
+            from concurrent.futures import ThreadPoolExecutor, as_completed
+            import threading
+            
+            # Thread-safe collections
+            results_lock = threading.Lock()
+            
+            def process_brand_with_lock(brand_input, brand_index):
+                """Process a single brand with thread safety"""
+                try:
+                    print(f"\n--- Processing brand {brand_index}/{total_brands}: {brand_input} ---")
+                    result = self.scrape_single_brand_without_changelog(brand_input, max_pages, max_products, separate_files_mode=True)
+                    
+                    if result:
+                        brand_data = result['brand_data']
+                        
+                        # Save as separate file
+                        file_path = self.save_brand_as_separate_file(brand_data)
+                        
+                        # Thread-safe updates
+                        with results_lock:
+                            results.append(brand_data)
+                            if file_path:
+                                saved_files.append(file_path)
+                            
+                            # Aggregate the changes
+                            changes = result['changes_summary']
+                            consolidated_changes['new_brands'] += changes['new_brands']
+                            consolidated_changes['updated_brands'] += changes['updated_brands']
+                            consolidated_changes['failed_brands'] += changes['failed_brands']
+                            consolidated_changes['new_phones'] += changes['new_phones']
+                            consolidated_changes['updated_phones'] += changes['updated_phones']
+                            consolidated_changes['failed_phones'] += changes['failed_phones']
+                            consolidated_changes['changes_details'].extend(changes['changes_details'])
+                        
+                        return True
+                    else:
+                        print(f"Failed to scrape brand: {brand_input}")
+                        with results_lock:
+                            consolidated_changes['failed_brands'] += 1
+                        return False
+                except Exception as e:
+                    error_msg = f"Error processing brand {brand_input}: {str(e)}"
+                    print(error_msg)
+                    self.log_error(error_msg)
+                    with results_lock:
+                        consolidated_changes['failed_brands'] += 1
+                    return False
+            
+            # Use ThreadPoolExecutor for concurrent processing
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                # Submit all tasks
+                future_to_brand = {
+                    executor.submit(process_brand_with_lock, brand_input, i): (brand_input, i)
+                    for i, brand_input in enumerate(brand_inputs, 1)
+                }
+                
+                # Wait for completion
+                for future in as_completed(future_to_brand):
+                    brand_input, brand_index = future_to_brand[future]
+                    try:
+                        success = future.result()
+                        if success:
+                            print(f"✓ Completed brand {brand_index}/{total_brands}: {brand_input}")
+                        else:
+                            print(f"✗ Failed brand {brand_index}/{total_brands}: {brand_input}")
+                    except Exception as e:
+                        print(f"✗ Exception for brand {brand_index}/{total_brands}: {brand_input} - {str(e)}")
+        else:
+            # Sequential processing (original behavior)
+            for i, brand_input in enumerate(brand_inputs, 1):
+                print(f"\n--- Processing brand {i}/{total_brands}: {brand_input} ---")
+                result = self.scrape_single_brand_without_changelog(brand_input, max_pages, max_products, separate_files_mode=True)
+                if result:
+                    brand_data = result['brand_data']
+                    results.append(brand_data)
+                    
+                    # Save as separate file
+                    file_path = self.save_brand_as_separate_file(brand_data)
+                    if file_path:
+                        saved_files.append(file_path)
+                    
+                    # Aggregate the changes
+                    changes = result['changes_summary']
+                    consolidated_changes['new_brands'] += changes['new_brands']
+                    consolidated_changes['updated_brands'] += changes['updated_brands']
+                    consolidated_changes['failed_brands'] += changes['failed_brands']
+                    consolidated_changes['new_phones'] += changes['new_phones']
+                    consolidated_changes['updated_phones'] += changes['updated_phones']
+                    consolidated_changes['failed_phones'] += changes['failed_phones']
+                    consolidated_changes['changes_details'].extend(changes['changes_details'])
+                else:
+                    print(f"Failed to scrape brand: {brand_input}")
+                    consolidated_changes['failed_brands'] += 1
+        
+        # Create a single consolidated changelog entry
+        if consolidated_changes['changes_details']:
+            print(f"\n=== Creating consolidated changelog for {len(results)} brands ===")
+            self.update_and_save_changelog(consolidated_changes)
+        
+        print(f"\n=== Completed scraping {len(results)}/{total_brands} brands successfully ===")
+        print(f"=== Saved {len(saved_files)} separate brand files ===")
+        
+        return {
+            'results': results,
+            'saved_files': saved_files,
+            'changes_summary': consolidated_changes
+        }
+    
     def cleanup(self):
         """Remove temporary files and clean up old logs"""
         try:
@@ -1718,14 +2032,42 @@ if __name__ == "__main__":
     # scraper.scrape_single_brand("bengal")  # By brand name
     # scraper.scrape_single_brand("https://www.mobiledokan.com/mobile-brand/apple")  # By brand URL
     
-    # Mode 2: Scrape multiple specific brands by names or URLs
-    brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
+    # Mode 2: Scrape multiple specific brands by names or URLs (saves to single allbrands.json)
+    # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
+    # scraper.scrape_multiple_brands(
+    #     brand_inputs=brand_list,
+    #     # max_pages=2,  # Limit to 2 pages per brand
+    #     # max_products=10  # Limit to 10 products per brand
+    # )
+    
+    # Mode 2B: Scrape multiple brands and save each as separate JSON files (NEW!)
+
+#     brand_list = [
+#     "xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
+#     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
+#     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
+#     "meizu", "maximus", "lg", "zte", "htc", "coolpad", "umidigi", "kyocera", 
+#     "cat", "blu", "blackview", "leitz", "nio", "microsoft", "micromax", "gionee", 
+#     "lenovo", "cubot", "alcatel", "fairphone", "we", "freeyond", "hmd", "blackberry", 
+#     "allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", 
+#     "ulefone", "leica", "acer", "gdl", "proton", "sonim", "thuraya", "sharp", 
+#     "geo", "tcl", "oukitel", "oscal", "bengal", "mycell", "wiko", "kingstar", 
+#     "energizer", "philips", "okapia"
+# ]
+    # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
+    # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
-    scraper.scrape_multiple_brands(
+    brand_list = ["geo", "tcl"]  # List of brand names
+    result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=brand_list,
+        # max_brands=5,  # Limit to first 5 brands from the list
         # max_pages=2,  # Limit to 2 pages per brand
-        # max_products=10  # Limit to 10 products per brand
+        # max_products=10,  # Limit to 10 products per brand
+        max_workers=3  # Use 3 concurrent workers for faster processing
     )
+    # print(f"Saved {len(result['saved_files'])} separate brand files:")
+    # for file_path in result['saved_files']:
+    #     print(f"  - {file_path}")
     
     # Alternative: Mix brand names and URLs
     # mixed_brands = [

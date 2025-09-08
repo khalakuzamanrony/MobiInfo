@@ -2,23 +2,120 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
-## 2025-09-08 07:29:07
+## 2025-09-08 09:30:17
 
 ### Summary
 
-- **New brands**: 2
-- **Updated brands**: 0
+- **New brands**: 1
+- **Updated brands**: 1
 - **Failed brands**: 0
-- **New phones**: 36
+- **New phones**: 11
 - **Updated phones**: 0
 - **Failed phones**: 0
 
 ### Detailed Changes
 
+#### bengal
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### oukitel
+
+- **New brand added** with 11 phones
+
+
+---
+
+## 2025-09-08 09:19:28
+
+### Summary
+
+- **New brands**: 1
+- **Updated brands**: 0
+- **Failed brands**: 1
+- **New phones**: 6
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### bengal
+
+- **New brand added** with 6 phones
+
+
+---
+
+## 2025-09-08 09:01:26
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 2
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### wiko
+
+- **New phones**: 0
+- **Updated phones**: 1
+
+  - **Updated phone**: Wiko Hi Enjoy 70
+    - Added new field: specifications.Battery.Battery type
+
+
+#### kingstar
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+---
+
+## 2025-09-08 08:59:32
+
+### Summary
+
+- **New brands**: 1
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 35
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### wiko
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
 #### kingstar
 
 - **New brand added** with 35 phones
 
+
+---
+
+## 2025-09-08 08:57:00
+
+### Summary
+
+- **New brands**: 1
+- **Updated brands**: 0
+- **Failed brands**: 1
+- **New phones**: 1
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
 
 #### wiko
 
@@ -27,34 +124,14 @@ This document tracks all changes to the MobiInfo phone database.
 
 ---
 
-## 2025-09-08 07:19:19
+## 2025-09-08 08:33:15
 
 ### Summary
 
-- **New brands**: 1
-- **Updated brands**: 0
+- **New brands**: 0
+- **Updated brands**: 3
 - **Failed brands**: 0
-- **New phones**: 15
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### energizer
-
-- **New brand added** with 15 phones
-
-
----
-
-## 2025-09-08 07:18:26
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 4
+- **New phones**: 0
 - **Updated phones**: 0
 - **Failed phones**: 0
 
@@ -62,147 +139,20 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### philips
 
-- **New brand added** with 4 phones
-
-
----
-
-## 2025-09-07 23:32:13
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 60
+- **New phones**: 0
 - **Updated phones**: 0
-- **Failed phones**: 0
 
-### Detailed Changes
+
+#### energizer
+
+- **New phones**: 0
+- **Updated phones**: 0
+
 
 #### okapia
 
-- **New brand added** with 60 phones
-
-
----
-
-## 2025-09-07 23:20:37
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 283
+- **New phones**: 0
 - **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### nokia
-
-- **New brand added** with 283 phones
-
-
----
-
-## 2025-09-07 22:59:22
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 114
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### infinix
-
-- **New brand added** with 114 phones
-
-
----
-
-## 2025-09-07 22:47:42
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 449
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### samsung
-
-- **New brand added** with 449 phones
-
-
----
-
-## 2025-09-07 22:25:51
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 258
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### vivo
-
-- **New brand added** with 258 phones
-
-
----
-
-## 2025-09-07 22:12:53
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 103
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### Apple
-
-- **New brand added** with 103 phones
-
-
----
-
-## 2025-09-07 22:05:00
-
-### Summary
-
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 285
-- **Updated phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-#### Realme
-
-- **New brand added** with 285 phones
 
 
 ---

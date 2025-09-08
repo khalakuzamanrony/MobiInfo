@@ -1,0 +1,137 @@
+{
+  "brand_info": {
+    "id": "thuraya",
+    "name": "thuraya",
+    "url": "https://www.mobiledokan.com/mobile-brand/thuraya",
+    "image_url": null,
+    "last_updated": "2025-09-08 08:17:09",
+    "total_phones": 1
+  },
+  "phones": [
+    {
+      "id": "thuraya_one",
+      "name": "Thuraya One",
+      "url": "https://www.mobiledokan.com/mobile/thuraya-one",
+      "image_url": "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Thuraya",
+          "Model": "One",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 30 January 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Qualcomm QCM4490",
+          "CPU": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 613"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.67 inches (16.94 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "84.1%",
+          "Screen Protection": "Corning Gorilla Glass v5",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "700 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Touch to focus, Face detection",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "167 mm",
+          "Width": "76.5 mm",
+          "Thickness": "11.6 mm",
+          "Weight": "230 grams",
+          "Build": "Glass front (Corning Gorilla glass 5), plastic back, plastic frame",
+          "Colors": "Black",
+          "Waterproof": "Water resistant (up to 1m for 30 min)",
+          "IP Rating": "IP67",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3500 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UMCP",
+          "USB OTG": "Yes",
+          "RAM": "6 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "United Arab Emirates",
+          "Features": "Accelerometer, proximity, compass, gyro"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp",
+        "https://www.mobiledokan.com/media/thuraya-one-black-official-image.webp"
+      ]
+    }
+  ]
+}

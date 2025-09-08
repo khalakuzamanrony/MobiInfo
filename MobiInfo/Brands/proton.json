@@ -1,0 +1,1330 @@
+{
+  "brand_info": {
+    "id": "proton",
+    "name": "proton",
+    "url": "https://www.mobiledokan.com/mobile-brand/proton",
+    "image_url": null,
+    "last_updated": "2025-09-08 08:18:05",
+    "total_phones": 17
+  },
+  "phones": [
+    {
+      "id": "proton_x20_pro",
+      "name": "Proton X20 Pro",
+      "url": "https://www.mobiledokan.com/mobile/proton-x20-pro",
+      "image_url": "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "X20 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "14 July 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "Unisoc T615 SoC",
+          "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "600 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "52 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8192 x 6368 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Night Mode, Clear Portrait",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "163.19 mm",
+          "Width": "75.02 mm",
+          "Thickness": "8.55 mm",
+          "Weight": "186.4 grams",
+          "Colors": "Water blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "20W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 2.2",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x20-pro-water-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_sky",
+      "name": "Proton Sky",
+      "url": "https://www.mobiledokan.com/mobile/proton-sky",
+      "image_url": "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "Sky",
+          "Device Type": "Feature phone",
+          "Release Date": "24 May 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (6.1 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.08 MP Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "128 mm",
+          "Width": "53 mm",
+          "Thickness": "12.8 mm",
+          "Colors": "Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1900 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Micro-SIM",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-back-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp",
+        "https://www.mobiledokan.com/media/proton-sky-black-official-color-image.webp"
+      ]
+    },
+    {
+      "id": "proton_p25_ultra",
+      "name": "Proton P25 Ultra",
+      "url": "https://www.mobiledokan.com/mobile/proton-p25-ultra",
+      "image_url": "https://www.mobiledokan.com/media/proton-p25-ultra-ice-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "P25 Ultra",
+          "Device Type": "Smartphone",
+          "Release Date": "19 March 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Unisoc SC9863A",
+          "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "PowerVR GE8322"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Screen to Body Ratio": "90.0%",
+          "Screen Protection": "2.5D Glass",
+          "Bezel-less Display": "Yes with V-Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "V-Notch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, Wide Angle, Primary Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4224 x 3136 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom 4.0x",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Timelapse, video capturing, Face detection, Enhance Lowlight photos, Countdown timer, Google Lens.",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Camera Features": "Face Detection, Face Beauty, Enhnace Low-light\r\nphoto, Mirror refelction",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "76 mm",
+          "Thickness": "8.60 mm",
+          "Colors": "Fluid Black, Ice Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4300 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-p25-ultra-ice-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-ice-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-fluid-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-fluid-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-fluid-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-p25-ultra-ice-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_evo33",
+      "name": "Proton EVO33",
+      "url": "https://www.mobiledokan.com/mobile/proton-evo33",
+      "image_url": "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "EVO33",
+          "Device Type": "FeaturePhone",
+          "Release Date": "01 March 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature phones",
+          "Chipset": "Mediatek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "1.8 inches (4.57 cm)",
+          "Resolution": "120x160 px"
+        },
+        "Design": {
+          "Colors": "Black Cyan, Olive, Titanium Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2500 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Speed": "GSM",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-black-cyan-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-olive-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-evo33-titanium-black-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_eco25",
+      "name": "Proton ECO25",
+      "url": "https://www.mobiledokan.com/mobile/proton-eco25",
+      "image_url": "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "ECO25",
+          "Device Type": "FeaturePhone",
+          "Release Date": "18 February 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "1.8 inches (10.2 cm2)",
+          "Resolution": "128x160 px"
+        },
+        "Design": {
+          "Colors": "Mixed (As given picture)"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Automatic Call Recorder"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-front-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-back-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco25-black-blue-image.webp"
+      ]
+    },
+    {
+      "id": "proton_hulk",
+      "name": "Proton HULK",
+      "url": "https://www.mobiledokan.com/mobile/proton-hulk",
+      "image_url": "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "HULK",
+          "Device Type": "FeaturePhone",
+          "Release Date": "11 February 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "Mediatek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (17.8 cm2)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "Black , Black Amber, Cadmium Green , Sky blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "3000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Automatic Call Recorder"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-front-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-back-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-blue-official-image-2.webp",
+        "https://www.mobiledokan.com/media/proton-hulk-green-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_bolt_4g",
+      "name": "Proton Bolt 4G",
+      "url": "https://www.mobiledokan.com/mobile/proton-bolt-4g",
+      "image_url": "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "Bolt 4G",
+          "Device Type": "FeaturePhone",
+          "Release Date": "28 January 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature phones",
+          "Chipset": "Unisoc T107"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (6.1 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3000 mAh",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "Bluetooth": "v2.0",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "YouTube, Tik Tok, Shorts"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-bolt-4g-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_x10_pro",
+      "name": "Proton X10 Pro",
+      "url": "https://www.mobiledokan.com/mobile/proton-x10-pro",
+      "image_url": "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "X10 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "15 December 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Unisoc Tiger T606",
+          "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Pixel Density": "267.49 ppi",
+          "Screen to Body Ratio": "90.7 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "52 MP, Wide Angle, Primary Camera, Secondary Unspecified Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8192 x 6368 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Touch Focus, Levels, Smile Shutter, Enhance Lowlight photos",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "163.9 mm",
+          "Width": "75.9 mm",
+          "Thickness": "8.9 mm",
+          "Colors": "Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5050 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-x10-pro-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_c15",
+      "name": "Proton C15",
+      "url": "https://www.mobiledokan.com/mobile/proton-c15",
+      "image_url": "https://www.mobiledokan.com/media/proton-c15-sky-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "C15",
+          "Device Type": "FeaturePhone",
+          "Release Date": "09 October 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (17.8 cm2)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Flash": "LED Flash"
+          }
+        },
+        "Design": {
+          "Colors": "Denim , Royal Blue , Cyan , Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1400 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Automatic Call Recorder, Separate Vibrator, Blacklist and Whitelist support for SIM call and Message"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-c15-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-front-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-navy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c15-sky-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_c17",
+      "name": "PROTON C17",
+      "url": "https://www.mobiledokan.com/mobile/proton-c17",
+      "image_url": "https://www.mobiledokan.com/media/proton-c17-blue-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "PROTON",
+          "Model": "C17",
+          "Device Type": "Feature phone",
+          "Release Date": "13 May 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (6.1 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "Macao Blue, Bear Black, Olive, and Amazon Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1800 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4 , 3GP"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Compact and Stylish modern outlook,\r\nAutomatic Call Recorder, Wireless FM Radio with Recording, Blacklist and Whitelist"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-c17-blue-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-blue-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-official-front-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-back-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-front-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-amazon-green-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-amazon-green-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-amazon-green-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-blue-image.webp",
+        "https://www.mobiledokan.com/media/proton-c17-black-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_b4",
+      "name": "Proton B4",
+      "url": "https://www.mobiledokan.com/mobile/proton-b4",
+      "image_url": "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "B4",
+          "Device Type": "Feature phone",
+          "Release Date": "10 April 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "1.77 inches (4.5 cm)",
+          "Resolution": "128x160 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "skey blue, green, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4 , 3GP"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-black-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-green-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-b4-sky-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_c4b",
+      "name": "Proton C4B",
+      "url": "https://www.mobiledokan.com/mobile/proton-c4b",
+      "image_url": "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "C4B",
+          "Device Type": "Feature phone",
+          "Release Date": "10 April 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "1.77 inches (4.5 cm)",
+          "Resolution": "120x160 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "Black + Red, Black + Green, White + Light Blue, blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4 , 3GP"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Torchlight, Bluetooth, Keypad Light"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-front-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-back-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-white-light-blue-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-black-red-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c4b-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_eco",
+      "name": "Proton ECO",
+      "url": "https://www.mobiledokan.com/mobile/proton-eco",
+      "image_url": "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "ECO",
+          "Device Type": "Smartphone",
+          "Release Date": "03 April 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "1.8 inches",
+          "Resolution": "128x160 px"
+        },
+        "Design": {
+          "Colors": "Midnight Black, Turquoise, Mint"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1000 mAh",
+          "Placement": "Removable"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4 , 3GP"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Compact and Stylish modern outlook,\r\nAutomatic Call Recorder, Wireless FM Radio with Recording, Blacklist and Whitelist"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco-turquoise-mint-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-eco-black-image.webp"
+      ]
+    },
+    {
+      "id": "proton_c16",
+      "name": "Proton C16",
+      "url": "https://www.mobiledokan.com/mobile/proton-c16",
+      "image_url": "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "C16",
+          "Device Type": "FeaturePhone",
+          "Release Date": "24 February 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (17.8 cm2)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Colors": "Elegant Black , Denim, Crystal Blue , Turquoise"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "1400 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Automatic Call Recorder, Separate Vibrator, Blacklist and Whitelist support for SIM call and Message"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-front-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-back-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-green-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c16-sky-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_e20",
+      "name": "Proton E20",
+      "url": "https://www.mobiledokan.com/mobile/proton-e20",
+      "image_url": "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "E20",
+          "Device Type": "FeaturePhone",
+          "Release Date": "24 January 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "FeaturePhone",
+          "Chipset": "MediaTek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches (17.8 cm2)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          },
+          "Selfie Camera": {
+            "Autofocus": "Autofocus",
+            "Flash": "Flash"
+          }
+        },
+        "Design": {
+          "Colors": "Coal Black, Electric Blue, Midnight Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "2500 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 MB",
+          "Expandable Memory": "Up to 16 GB",
+          "RAM": "32 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Automatic Call Recorder, Blacklist support for SIM call and Message"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-front-imagejpg.webp",
+        "https://www.mobiledokan.com/media/proton-e20-back-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-e20-black-official-image.webp"
+      ]
+    },
+    {
+      "id": "proton_d1",
+      "name": "Proton D1",
+      "url": "https://www.mobiledokan.com/mobile/proton-d1",
+      "image_url": "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "D1",
+          "Device Type": "Featurephone",
+          "Release Date": "06 September 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature Phone",
+          "Chipset": "Mediatek"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.8 inches (7.11 cm)",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary"
+          }
+        },
+        "Design": {
+          "Colors": "Steel Gray , Metal Blue , Golden"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1800 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Bluetooth": "v2.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "MP3, MP4 , 3GP"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Lock with Password,\r\nPower saving options with battery percentage, to extend battery backup,  \r\nAutomatic Call Recorder"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-gold-image.webp",
+        "https://www.mobiledokan.com/media/proton-d1-grey-color-image.webp"
+      ]
+    },
+    {
+      "id": "proton_c12",
+      "name": "Proton C12",
+      "url": "https://www.mobiledokan.com/mobile/proton-c12",
+      "image_url": "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Proton",
+          "Model": "C12",
+          "Device Type": "FeaturePhone",
+          "Release Date": "22 March 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature phones",
+          "CPU": "SC6531E"
+        },
+        "Display": {
+          "Display Type": "QVGA",
+          "Screen Size": "2.4 inches",
+          "Resolution": "240x320 px"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Camera",
+            "Flash": "Torchlight",
+            "Camera Features": "White balance, Brightness, Contrast, Exposure"
+          }
+        },
+        "Design": {
+          "Colors": "Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1400 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Expandable Memory": "Up to 32 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "Bluetooth": "v4.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "320p@15fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-back-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-torchlight-side-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp",
+        "https://www.mobiledokan.com/media/proton-c12-black-official-image.webp"
+      ]
+    }
+  ]
+}
