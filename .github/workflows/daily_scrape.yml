@@ -39,6 +39,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Daily scraper update - $(date '+%Y-%m-%d %H:%M:%S')"
+            # Pull latest changes first to avoid conflicts
+            git pull --rebase origin main || git pull origin main
             git push
           fi
 
