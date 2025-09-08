@@ -21,13 +21,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install -r requirements.txt
 
       - name: Run scraper
         run: python mobiinfo.py
-        env:
-          # Add any environment variables your script needs here
-          # Telegram secrets will be used in the notification step
 
       - name: Send Telegram notification
         run: |
