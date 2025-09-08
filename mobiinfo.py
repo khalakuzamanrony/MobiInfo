@@ -2055,7 +2055,7 @@ if __name__ == "__main__":
     # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
-    brand_list = ["geo", "energizer"]  # List of brand names
+    brand_list = ["wiko", "energizer"]  # List of brand names
     result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=brand_list,
         # max_brands=5,  # Limit to first 5 brands from the list
