@@ -2060,7 +2060,7 @@ if __name__ == "__main__":
     "xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
-    "meizu", "lg", "zte", "htc", "umidigi","blackview", "lenovo","doogee", "ulefone"
+    "meizu", "zte", "umidigi", "lenovo","doogee", "ulefone"
 ]
     # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
