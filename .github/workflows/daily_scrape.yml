@@ -3,7 +3,10 @@ name: Daily Mobile Scraper
 on:
   schedule:
     # Runs daily at 10 PM Bangladesh Time (BDT is UTC+6)
-    - cron: '0 16 * * *'  # 16:00 UTC = 22:00 BDT
+    # - cron: '0 16 * * *'  # 16:00 UTC = 22:00 BDT
+    # This will run at 21:00 (9:00 PM) UTC on Thursday.
+    # In Bangladesh (UTC+6), this is 3:00 AM on Friday.
+    - cron: '0 21 * * 4'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
