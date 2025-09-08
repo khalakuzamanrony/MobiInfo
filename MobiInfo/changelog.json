@@ -7912,5 +7912,144 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2025-09-08 07:18:26",
+    "summary": {
+      "new_brands": 1,
+      "updated_brands": 0,
+      "failed_brands": 0,
+      "new_phones": 4,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "philips",
+        "brand_name": "philips",
+        "type": "new",
+        "new_phones": 4,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Philips S6210 Essence 10",
+            "phone_id": "philips_s6210_essence_10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Philips S6310 Essence 20",
+            "phone_id": "philips_s6310_essence_20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Philips S7710 Omni 10",
+            "phone_id": "philips_s7710_omni_10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Philips S6206",
+            "phone_id": "philips_s6206"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-08 07:19:19",
+    "summary": {
+      "new_brands": 1,
+      "updated_brands": 0,
+      "failed_brands": 0,
+      "new_phones": 15,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "energizer",
+        "brand_name": "energizer",
+        "type": "new",
+        "new_phones": 15,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Energizer Ultimate U6G",
+            "phone_id": "energizer_ultimate_u6g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Hard Case P28K",
+            "phone_id": "energizer_hard_case_p28k"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E288s",
+            "phone_id": "energizer_e288s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E246SC",
+            "phone_id": "energizer_e246sc"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E244s",
+            "phone_id": "energizer_e244s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E242s Plus",
+            "phone_id": "energizer_e242s_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E20 Plus",
+            "phone_id": "energizer_e20_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E29",
+            "phone_id": "energizer_e29"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E282SC",
+            "phone_id": "energizer_e282sc"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer E280s",
+            "phone_id": "energizer_e280s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Hardcase H280S",
+            "phone_id": "energizer_hardcase_h280s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Energy E12",
+            "phone_id": "energizer_energy_e12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Hardcase H10",
+            "phone_id": "energizer_hardcase_h10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Power Max P20",
+            "phone_id": "energizer_power_max_p20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Energizer Hardcase H240S",
+            "phone_id": "energizer_hardcase_h240s"
+          }
+        ]
+      }
+    ]
   }
 ]

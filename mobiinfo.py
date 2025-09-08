@@ -844,6 +844,37 @@ class MobiInfoScraper:
             self.log_error(error_msg)
             return False
     
+    def scrape_multiple_brands(self, brand_inputs, max_pages=None, max_products=None):
+        """Scrape multiple brands by names or URLs
+        
+        Args:
+            brand_inputs (list): List of brand names or URLs
+            max_pages (int, optional): Maximum number of pages to scrape per brand
+            max_products (int, optional): Maximum number of products to scrape per brand
+            
+        Returns:
+            list: List of brand data with phones
+        """
+        if isinstance(brand_inputs, str):
+            # If a single string is passed, convert to list
+            brand_inputs = [brand_inputs]
+        
+        results = []
+        total_brands = len(brand_inputs)
+        
+        print(f"\n=== Starting to scrape {total_brands} brands ===")
+        
+        for i, brand_input in enumerate(brand_inputs, 1):
+            print(f"\n--- Processing brand {i}/{total_brands}: {brand_input} ---")
+            result = self.scrape_single_brand(brand_input, max_pages, max_products)
+            if result:
+                results.append(result)
+            else:
+                print(f"Failed to scrape brand: {brand_input}")
+        
+        print(f"\n=== Completed scraping {len(results)}/{total_brands} brands successfully ===")
+        return results
+
     def scrape_single_brand(self, brand_input, max_pages=None, max_products=None):
         """Scrape a single brand by name or URL
         
@@ -1472,10 +1503,27 @@ if __name__ == "__main__":
     # Choose scraping mode:
     
     # Mode 1: Scrape a single brand by name or URL
-    scraper.scrape_single_brand("bengal")  # By brand name
+    # scraper.scrape_single_brand("bengal")  # By brand name
     # scraper.scrape_single_brand("https://www.mobiledokan.com/mobile-brand/apple")  # By brand URL
     
-    # Mode 2: Scrape multiple brands (existing functionality)
+    # Mode 2: Scrape multiple specific brands by names or URLs
+    brand_list = ["philips", "energizer"]  # List of brand names
+    scraper.scrape_multiple_brands(
+        brand_inputs=brand_list,
+        # max_pages=2,  # Limit to 2 pages per brand
+        # max_products=10  # Limit to 10 products per brand
+    )
+    
+    # Alternative: Mix brand names and URLs
+    # mixed_brands = [
+    #     "bengal",
+    #     "okapia", 
+    #     "https://www.mobiledokan.com/mobile-brand/apple",
+    #     "https://www.mobiledokan.com/mobile-brand/samsung"
+    # ]
+    # scraper.scrape_multiple_brands(mixed_brands)
+    
+    # Mode 3: Scrape all available brands (existing functionality)
     # scraper.scrape_all_brands(
     #     max_brands=5,  # Limit to 5 brands for testing
     #     max_pages_per_brand=2,  # Limit to 2 pages per brand
