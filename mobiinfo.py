@@ -817,8 +817,10 @@ class MobiInfoScraper:
             # Load existing changelog
             changelog = self.load_changelog()
             
-            # Create new changelog entry
-            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            # Create new changelog entry with Bangladesh Standard Time (UTC+6)
+            from datetime import timezone, timedelta
+            bst = timezone(timedelta(hours=6))
+            timestamp = datetime.now(bst).strftime("%Y-%m-%d %H:%M:%S")
             changelog_entry = {
                 "timestamp": timestamp,
                 "summary": {
@@ -1566,8 +1568,10 @@ class MobiInfoScraper:
                                     for diff in phone_change['differences']:
                                         print(f"      - {diff}")
             
-            # Update changelog
-            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            # Update changelog with Bangladesh Standard Time (UTC+6)
+            from datetime import timezone, timedelta
+            bst = timezone(timedelta(hours=6))
+            timestamp = datetime.now(bst).strftime("%Y-%m-%d %H:%M:%S")
             changelog_entry = {
                 "timestamp": timestamp,
                 "summary": {
@@ -2055,7 +2059,7 @@ if __name__ == "__main__":
     # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
-    brand_list = ["wiko", "energizer"]  # List of brand names
+    brand_list = ["wiko", "oscal"]  # List of brand names
     result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=brand_list,
         # max_brands=5,  # Limit to first 5 brands from the list

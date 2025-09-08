@@ -46,8 +46,8 @@ jobs:
         run: |
           # Check if changelog exists
           if [ -f "MobiInfo/changelog.md" ]; then
-            # Extract the latest changelog entry (first entry after the header)
-            latest_changelog=$(sed -n '/^## /,/^---$/p' MobiInfo/changelog.md | head -n -1)
+            # Extract only the first/latest changelog entry (stop at first ---)
+            latest_changelog=$(sed -n '/^## /,/^---$/{ /^---$/q; p; }' MobiInfo/changelog.md)
             
             # If no entry found, use a default message
             if [ -z "$latest_changelog" ]; then
