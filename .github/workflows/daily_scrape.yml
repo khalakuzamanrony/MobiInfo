@@ -1,0 +1,61 @@
+name: Daily Mobile Scraper
+
+on:
+  schedule:
+    # Runs daily at 10 PM Bangladesh Time (BDT is UTC+6)
+    - cron: '0 16 * * *'  # 16:00 UTC = 22:00 BDT
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python mobiinfo.py
+        env:
+          # Add any environment variables your script needs here
+          # Telegram secrets will be used in the notification step
+
+      - name: Send Telegram notification
+        run: |
+          # Check if changelog exists
+          if [ -f "MobiInfo/changelog.md" ]; then
+            # Extract the latest changelog entry (first entry in the file)
+            latest_changelog=$(awk '/^## / {if (s) exit; s=1} s' MobiInfo/changelog.md)
+            
+            # If no entry found, use a default message
+            if [ -z "$latest_changelog" ]; then
+              latest_changelog="No changelog entry found for today."
+            fi
+            
+            # Send to Telegram
+            curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+              -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+              -d text="Latest Mobile Scraper Update:%0A%0A$latest_changelog" \
+              -d parse_mode=Markdown
+          else
+            # Send error message if changelog doesn't exist
+            curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+              -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+              -d text="Error: Changelog file not found. The scraper may have failed."
+          fi
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraper-data
+          path: MobiInfo/
+          retention-days: 30
