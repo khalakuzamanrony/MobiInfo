@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-09-08 04:00:09",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 2,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "geo",
+        "brand_name": "geo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "energizer",
+        "brand_name": "energizer",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      }
+    ]
+  }
+]

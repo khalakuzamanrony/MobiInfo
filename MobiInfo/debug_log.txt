@@ -185,3 +185,18 @@ d existing data with 31 brands
 [SUCCESS 2025-09-08 09:57:31.386] Brand 'energizer' saved to MobiInfo\Brands\energizer.json
 [SUCCESS 2025-09-08 09:57:31.443] Successfully loaded changelog with 7 entries
 [SUCCESS 2025-09-08 09:57:31.494] Changelog saved to E:\Projects\Github\MobiInfo\MobiInfo\changelog.md
+[SUCCESS 2025-09-08 03:59:02.920] Found brand: Geo
+[SUCCESS 2025-09-08 03:59:03.027] Successfully loaded existing data with 31 brands
+[SUCCESS 2025-09-08 03:59:03.080] Found brand: Energizer
+[SUCCESS 2025-09-08 03:59:03.172] Successfully loaded existing data with 31 brands
+[SUCCESS 2025-09-08 03:59:04.390] Found 8 phones on page 1 (Total: 8)
+[SUCCESS 2025-09-08 03:59:04.398] Successfully fetched 8 total phones for brand
+[SUCCESS 2025-09-08 03:59:04.740] Found 15 phones on page 1 (Total: 15)
+[SUCCESS 2025-09-08 03:59:04.748] Successfully fetched 15 total phones for brand
+[SUCCESS 2025-09-08 03:59:29.958] Successfully scraped 8 phones for brand: geo
+[SUCCESS 2025-09-08 03:59:30.530] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 03:59:30.552] Brand 'geo' saved to MobiInfo/Brands/geo.json
+[SUCCESS 2025-09-08 04:00:09.400] Successfully scraped 15 phones for brand: energizer
+[SUCCESS 2025-09-08 04:00:09.836] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:00:09.852] Brand 'energizer' saved to MobiInfo/Brands/energizer.json
+[SUCCESS 2025-09-08 04:00:09.854] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
