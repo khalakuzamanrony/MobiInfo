@@ -200,3 +200,18 @@ d existing data with 31 brands
 [SUCCESS 2025-09-08 04:00:09.836] Final data saved to MobiInfo/allbrands.json
 [SUCCESS 2025-09-08 04:00:09.852] Brand 'energizer' saved to MobiInfo/Brands/energizer.json
 [SUCCESS 2025-09-08 04:00:09.854] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:04:01.888] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-08 04:04:03.588] Found brand: Wiko
+[SUCCESS 2025-09-08 04:04:03.640] Found brand: Energizer
+[SUCCESS 2025-09-08 04:04:07.105] Found 1 phones on page 1 (Total: 1)
+[SUCCESS 2025-09-08 04:04:07.113] Successfully fetched 1 total phones for brand
+[SUCCESS 2025-09-08 04:04:07.248] Found 15 phones on page 1 (Total: 15)
+[SUCCESS 2025-09-08 04:04:07.256] Successfully fetched 15 total phones for brand
+[SUCCESS 2025-09-08 04:04:14.730] Successfully scraped 1 phones for brand: wiko
+[SUCCESS 2025-09-08 04:04:14.733] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:04:14.735] Brand 'wiko' saved to MobiInfo/Brands/wiko.json
+[SUCCESS 2025-09-08 04:04:58.112] Successfully scraped 15 phones for brand: energizer
+[SUCCESS 2025-09-08 04:04:58.115] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-08 04:04:58.119] Brand 'energizer' saved to MobiInfo/Brands/energizer.json
+[SUCCESS 2025-09-08 04:04:58.121] Successfully loaded changelog with 1 entries
+[SUCCESS 2025-09-08 04:04:58.124] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
