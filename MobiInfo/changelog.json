@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2025-09-09 14:20:08",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 2,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 14:17:36",
     "summary": {
       "new_brands": 0,
