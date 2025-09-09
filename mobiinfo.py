@@ -875,34 +875,48 @@ class MobiInfoScraper:
                     f.write(f"- **Updated phones**: {summary['updated_phones']}\n")
                     f.write(f"- **Failed phones**: {summary['failed_phones']}\n\n")
                     
-                    # Write detailed changes
-                    if entry['details']:
+                    # Write detailed changes only if there are actual changes
+                    has_changes = (summary['new_brands'] > 0 or 
+                                 summary['new_phones'] > 0 or 
+                                 summary['updated_phones'] > 0)
+                    
+                    if entry['details'] and has_changes:
                         f.write("### Detailed Changes\n\n")
                         
                         for brand_change in entry['details']:
-                            f.write(f"#### {brand_change['brand_name']}\n\n")
+                            # Only include brand details if it has actual changes
+                            brand_has_changes = (brand_change.get('new_phones', 0) > 0 or 
+                                               brand_change.get('updated_phones', 0) > 0 or
+                                               brand_change.get('type') == 'new')
                             
-                            if 'type' in brand_change and brand_change['type'] == 'new':
-                                f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
-                            else:
-                                f.write(f"- **New phones**: {brand_change['new_phones']}\n")
-                                f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n\n")
+                            if brand_has_changes:
+                                f.write(f"#### {brand_change['brand_name']}\n\n")
                                 
-                                if 'phone_changes' in brand_change:
-                                    for phone_change in brand_change['phone_changes']:
-                                        if phone_change['type'] == 'new':
-                                            f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
-                                        else:
-                                            f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
-                                            
-                                            # Format differences as a nested list
-                                            if 'differences' in phone_change:
-                                                for diff in phone_change['differences']:
-                                                    f.write(f"    - {diff}\n")
-                                            
-                                            f.write("\n")
-                            
-                            f.write("\n")
+                                if 'type' in brand_change and brand_change['type'] == 'new':
+                                    f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
+                                else:
+                                    # Only show counts if they are greater than 0
+                                    if brand_change.get('new_phones', 0) > 0:
+                                        f.write(f"- **New phones**: {brand_change['new_phones']}\n")
+                                    if brand_change.get('updated_phones', 0) > 0:
+                                        f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n")
+                                    f.write("\n")
+                                
+                                    if 'phone_changes' in brand_change:
+                                        for phone_change in brand_change['phone_changes']:
+                                            if phone_change['type'] == 'new':
+                                                f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
+                                            else:
+                                                f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
+                                                
+                                                # Format differences as a nested list
+                                                if 'differences' in phone_change:
+                                                    for diff in phone_change['differences']:
+                                                        f.write(f"    - {diff}\n")
+                                                
+                                                f.write("\n")
+                                
+                                f.write("\n")
                     
                     f.write("---\n\n")
             
@@ -1633,34 +1647,48 @@ class MobiInfoScraper:
                     f.write(f"- **Updated phones**: {summary['updated_phones']}\n")
                     f.write(f"- **Failed phones**: {summary['failed_phones']}\n\n")
                     
-                    # Write detailed changes
-                    if entry['details']:
+                    # Write detailed changes only if there are actual changes
+                    has_changes = (summary['new_brands'] > 0 or 
+                                 summary['new_phones'] > 0 or 
+                                 summary['updated_phones'] > 0)
+                    
+                    if entry['details'] and has_changes:
                         f.write("### Detailed Changes\n\n")
                         
                         for brand_change in entry['details']:
-                            f.write(f"#### {brand_change['brand_name']}\n\n")
+                            # Only include brand details if it has actual changes
+                            brand_has_changes = (brand_change.get('new_phones', 0) > 0 or 
+                                               brand_change.get('updated_phones', 0) > 0 or
+                                               brand_change.get('type') == 'new')
                             
-                            if 'type' in brand_change and brand_change['type'] == 'new':
-                                f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
-                            else:
-                                f.write(f"- **New phones**: {brand_change['new_phones']}\n")
-                                f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n\n")
+                            if brand_has_changes:
+                                f.write(f"#### {brand_change['brand_name']}\n\n")
                                 
-                                if 'phone_changes' in brand_change:
-                                    for phone_change in brand_change['phone_changes']:
-                                        if phone_change['type'] == 'new':
-                                            f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
-                                        else:
-                                            f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
-                                            
-                                            # Format differences as a nested list
-                                            if 'differences' in phone_change:
-                                                for diff in phone_change['differences']:
-                                                    f.write(f"    - {diff}\n")
-                                            
-                                            f.write("\n")
-                            
-                            f.write("\n")
+                                if 'type' in brand_change and brand_change['type'] == 'new':
+                                    f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
+                                else:
+                                    # Only show counts if they are greater than 0
+                                    if brand_change.get('new_phones', 0) > 0:
+                                        f.write(f"- **New phones**: {brand_change['new_phones']}\n")
+                                    if brand_change.get('updated_phones', 0) > 0:
+                                        f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n")
+                                    f.write("\n")
+                                
+                                    if 'phone_changes' in brand_change:
+                                        for phone_change in brand_change['phone_changes']:
+                                            if phone_change['type'] == 'new':
+                                                f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
+                                            else:
+                                                f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
+                                                
+                                                # Format differences as a nested list
+                                                if 'differences' in phone_change:
+                                                    for diff in phone_change['differences']:
+                                                        f.write(f"    - {diff}\n")
+                                                
+                                                f.write("\n")
+                                
+                                f.write("\n")
                     
                     f.write("---\n\n")
             
