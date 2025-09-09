@@ -2,6 +2,46 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 14:31:21
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 3
+- **Failed brands**: 0
+- **New phones**: 1
+- **Updated phones**: 2
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### realme
+
+- **New phones**: 0
+- **Updated phones**: 1
+
+  - **Updated phone**: Realme 15T
+    - specifications.General.Status: Changed from 'UpcomingXXX' to 'Upcoming'
+
+
+#### xiaomi
+
+- **New phones**: 1
+- **Updated phones**: 0
+
+  - **New phone**: Xiaomi Poco C85
+
+#### apple
+
+- **New phones**: 0
+- **Updated phones**: 1
+
+  - **Updated phone**: Apple iPhone 17 Pro Max
+    - Removed field: specifications.General.abc
+
+
+---
+
 ## 2025-09-09 14:20:08
 
 ### Summary

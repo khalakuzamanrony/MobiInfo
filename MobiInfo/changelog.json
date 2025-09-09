@@ -1,5 +1,63 @@
 [
   {
+    "timestamp": "2025-09-09 14:31:21",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 3,
+      "failed_brands": 0,
+      "new_phones": 1,
+      "updated_phones": 2,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 0,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Realme 15T",
+            "phone_id": "realme_15t",
+            "differences": [
+              "specifications.General.Status: Changed from 'UpcomingXXX' to 'Upcoming'"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 1,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco C85",
+            "phone_id": "xiaomi_poco_c85"
+          }
+        ]
+      },
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 0,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 17 Pro Max",
+            "phone_id": "apple_iphone_17_pro_max",
+            "differences": [
+              "Removed field: specifications.General.abc"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 14:20:08",
     "summary": {
       "new_brands": 0,

@@ -946,3 +946,27 @@ d existing data with 31 brands
 [SUCCESS 2025-09-09 08:20:08.705] Brand 'xiaomi' saved to MobiInfo/Brands/xiaomi.json
 [SUCCESS 2025-09-09 08:20:08.723] Successfully loaded changelog with 7 entries
 [SUCCESS 2025-09-09 08:20:08.763] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-09 08:31:10.534] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
+[SUCCESS 2025-09-09 08:31:11.933] Found brand: Apple
+[SUCCESS 2025-09-09 08:31:11.972] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 08:31:12.014] Found brand: Xiaomi
+[SUCCESS 2025-09-09 08:31:12.047] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 08:31:12.111] Found brand: Realme
+[SUCCESS 2025-09-09 08:31:12.137] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 08:31:13.266] Found 2 phones on page 1 (Total: 2)
+[SUCCESS 2025-09-09 08:31:13.283] Successfully fetched 2 total phones for brand
+[SUCCESS 2025-09-09 08:31:13.509] Found 2 phones on page 1 (Total: 2)
+[SUCCESS 2025-09-09 08:31:13.534] Successfully fetched 2 total phones for brand
+[SUCCESS 2025-09-09 08:31:13.573] Found 2 phones on page 1 (Total: 2)
+[SUCCESS 2025-09-09 08:31:13.590] Successfully fetched 2 total phones for brand
+[SUCCESS 2025-09-09 08:31:19.622] Successfully scraped 2 phones for brand: realme
+[SUCCESS 2025-09-09 08:31:19.716] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 08:31:19.729] Brand 'realme' saved to MobiInfo/Brands/realme.json
+[SUCCESS 2025-09-09 08:31:20.766] Successfully scraped 2 phones for brand: xiaomi
+[SUCCESS 2025-09-09 08:31:20.857] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 08:31:20.867] Brand 'xiaomi' saved to MobiInfo/Brands/xiaomi.json
+[SUCCESS 2025-09-09 08:31:20.988] Successfully scraped 2 phones for brand: apple
+[SUCCESS 2025-09-09 08:31:21.080] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 08:31:21.091] Brand 'apple' saved to MobiInfo/Brands/apple.json
+[SUCCESS 2025-09-09 08:31:21.105] Successfully loaded changelog with 8 entries
+[SUCCESS 2025-09-09 08:31:21.144] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md

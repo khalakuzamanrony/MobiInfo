@@ -4,10 +4,135 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-09 08:20:08",
-    "total_phones": 5
+    "last_updated": "2025-09-09 08:31:20",
+    "total_phones": 2
   },
   "phones": [
+    {
+      "id": "xiaomi_poco_c85",
+      "name": "Xiaomi Poco C85",
+      "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-c85",
+      "image_url": "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Xiaomi",
+          "Model": "Poco C85",
+          "Device Type": "Smartphone",
+          "Release Date": "Not announced yet",
+          "Status": "Rumored"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "HyperOS 2",
+          "Chipset": "Mediatek Helio G81 Ultra",
+          "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G52 MC2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.9 inches (17.53 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "254 ppi",
+          "Screen to Body Ratio": "84.3%",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "810 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 0.08 MP, f/3.0, Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "171.56 mm",
+          "Width": "79.47 mm",
+          "Thickness": "7.99 mm",
+          "Weight": "205 grams",
+          "Build": "Glass front (Gorilla Glass 3), plastic frame, glass back or silicone polymer (eco leather) back",
+          "Colors": "Blue, Green, Gray, Orange",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IP64",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "33W wired, PD",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 1 TB",
+          "USB OTG": "Yes",
+          "RAM": "6 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps, 720p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp"
+      ]
+    },
     {
       "id": "xiaomi_redmi_15c",
       "name": "Xiaomi Redmi 15c",
@@ -153,441 +278,6 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-mint-green-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-midnight-gray-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-twilight-orange-official-image.webp"
-      ]
-    },
-    {
-      "id": "xiaomi_redmi_15c_8gb256gb",
-      "name": "Xiaomi Redmi 15c (8GB+256GB)",
-      "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15c-8gb-256gb",
-      "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.17,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15c-8gb-256gb"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.14,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15c"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 15c (8GB+256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "26 August 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "HyperOS 2",
-          "Chipset": "Mediatek Helio G81 Ultra",
-          "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "254 ppi",
-          "Screen to Body Ratio": "84.3%",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "810 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 0.08 MP, f/3.0, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "171.56 mm",
-          "Width": "79.47 mm",
-          "Thickness": "7.99 mm",
-          "Weight": "205 grams",
-          "Build": "Glass front (Gorilla Glass 3), plastic frame, glass back or silicone polymer (eco leather) back",
-          "Colors": "Moonlight Blue, Mint Green, Midnight Gray, Twilight Orange",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP64",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "33W wired, PD",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-charging-port-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-moonlight-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-mint-green-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-midnight-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-twilight-orange-official-image.webp"
-      ]
-    },
-    {
-      "id": "xiaomi_redmi_note_15_pro",
-      "name": "Xiaomi Redmi Note 15 Pro",
-      "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro",
-      "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-sky-blue-official-image.webp",
-      "variants": [
-        {
-          "name": "8GB+256GB CN",
-          "price": "৳.29,000",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro"
-        },
-        {
-          "name": "12GB+256GB CN",
-          "price": "৳.35,500",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-12gb-ram"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 15 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "21 August 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "HyperOS 2",
-          "Chipset": "Mediatek Dimensity 7400 Ultra",
-          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G615 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.83 inches (17.35 cm)",
-          "Resolution": "1220x2772 px (FHD+)",
-          "Pixel Density": "443 ppi",
-          "Screen to Body Ratio": "86.8%",
-          "Screen Protection": "Xiaomi Dragon Crystal Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "3200 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.5, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.5",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
-          }
-        },
-        "Design": {
-          "Height": "163.6 mm",
-          "Width": "78.1 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "211 grams",
-          "Build": "Glass front (Xiaomi Dragon Crystal Glass)",
-          "Colors": "Midnight Black, Cloud Purple, Sky blue, Cedar White",
-          "Waterproof": "Water resistant (up to 2m for 24 hours)",
-          "IP Rating": "IP69K",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "45W wired",
-          "Reverse Charging": "22.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "8 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, compass, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-cloud-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-cedar-white-official-image.webp"
-      ]
-    },
-    {
-      "id": "xiaomi_redmi_note_15_pro_plus",
-      "name": "Xiaomi Redmi Note 15 Pro Plus",
-      "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus",
-      "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-smoky-purple-official-image.webp",
-      "variants": [
-        {
-          "name": "12GB+256GB CN",
-          "price": "৳.36,500",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus"
-        },
-        {
-          "name": "12GB+512GB CN",
-          "price": "৳.40,000",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 15 Pro Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "21 August 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "HyperOS 2",
-          "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 4",
-          "CPU": "Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 810"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.83 inches (17.35 cm)",
-          "Resolution": "1220x2772 px (FHD+)",
-          "Pixel Density": "443 ppi",
-          "Screen to Body Ratio": "86.8%",
-          "Screen Protection": "Xiaomi Dragon Crystal Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "3200 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.2, Telephoto Camera, 8 MP, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
-          }
-        },
-        "Design": {
-          "Height": "163.3 mm",
-          "Width": "78.3 mm",
-          "Thickness": "7.9 mm",
-          "Weight": "211 grams",
-          "Build": "Glass front (Xiaomi Dragon Crystal Glass)",
-          "Colors": "Midnight Black, Smoky Purple, Sky Blue, Cedar White",
-          "Waterproof": "Water resistant (up to 2m for 24 hours)",
-          "IP Rating": "IP69K",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "90W wired",
-          "Reverse Charging": "22.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "12 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, compass, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-smoky-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-smoky-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-midnight-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-smoky-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-cedar-white-official-image.webp"
       ]
     }
   ]
