@@ -2,6 +2,12912 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 20:25:33
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 24
+- **Failed brands**: 0
+- **New phones**: 3
+- **Updated phones**: 4252
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### apple
+
+- **Updated phones**: 103
+
+  - **Updated phone**: Apple iPhone 17 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 17 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16e
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16e (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 (256GB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB SG)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 (256GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 (512GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Plus (512GB USA)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 16 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 (256GB)
+    - Added new field: serial_number
+    - variants: List length changed from 1 to 2
+
+  - **Updated phone**: Apple iPhone 15 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 15 Pro (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE 2022 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE 2022 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE 2022
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 Pro Max (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 13 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12 Pro Max (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 12 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE 2020
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro Max (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro Max (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 11 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XR (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XR (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XR
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XS Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XS
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone XS Max (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone X (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone X
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 8 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6S Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6S Plus (32GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6S Plus (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6S Plus (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6s
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6s (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 5S
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 5c
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 5 (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 4s
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 3GS
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone SE (2025)
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 17
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Apple iPhone 17 Plus
+    - Added new field: serial_number
+
+
+#### infinix
+
+- **Updated phones**: 114
+
+  - **Updated phone**: Infinix Hot 60i 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60i (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 60i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 10 HD
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix GT 30 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix GT 30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 50s
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 50 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 50x
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 9 HD (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 9 HD
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 Pro 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix HOT 50 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 9 (4GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 40 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40X 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40S
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix GT 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40 Pro 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40 Pro 4G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 40 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 8 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 30 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 30 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 30 5G (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix GT 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 30 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 30i (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 30i (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 30i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 30 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 7 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Zero 5G 2023
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 20S
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12 2023
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12 2023 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 20i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12 (G96)
+    - name: Changed from 'Infinix Note 12 G96' to 'Infinix Note 12 (G96)'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/infinix-note-12-g96' to 'https://www.mobiledokan.com/mobile/infinix-note-12-g96-'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - Added new field: serial_number
+    - variants: List length changed from 1 to 0
+    - specifications.General.Model: Changed from 'Note 12 G96' to 'Note 12 (G96)'
+    - specifications.General.Release Date: Changed from '11 May 2022' to '16 May 2022'
+    - specifications.Display.Bezel-less Display: Changed from 'Yes with waterdrop notch' to 'Yes with notch'
+    - specifications.Display.Notch: Changed from 'waterdrop' to 'Yes'
+    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
+Face detection,
+Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
+    - specifications.Network & Connectivity.Speed: Changed from 'HSPA, LTE' to 'HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps'
+    - specifications.More.Features: Changed from 'Accelerometer, gyro, proximity, compass' to 'Accelerometer, Compass, Gyroscope'
+    - gallery_images[0]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[1]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[2]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-front-image_1.webp'
+    - gallery_images[3]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image_1.webp'
+    - gallery_images[4]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[5]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[6]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[7]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-image_1.webp'
+    - gallery_images[8]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-black-image.webp'
+
+  - **Updated phone**: Infinix Note 12 G96
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 6 HD
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 12 (G88)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 12i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 12 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 12 Play (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 11 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 11 Play (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 11S
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 6 (3GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 11s (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 11s
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 10s
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 10s (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 40i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 10 Play (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 10 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart HD 2021
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 8i
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 5 (3GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 7 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 7 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 9 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 9 Play (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix S5
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 8 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix S4
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 3 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix S3X
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Note 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Smart 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot S3
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 12 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus 5G
+    - Added new field: serial_number
+
+
+#### oneplus
+
+- **Updated phones**: 116
+
+  - **Updated phone**: OnePlus Nord 5
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE5
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13s (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13s
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13s (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Racing
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Racing (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Racing (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13T (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13T (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13R
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13R (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Open 2
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 5
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 4
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 4 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE4 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE4
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE4 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 3V
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12R (16GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12R (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12R
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12R (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N30 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 3
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12 (24GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12 (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 12 (16GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Open
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 3
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 10R (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 3 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 2V
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 2V (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 11R
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 11R (16GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace 2
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 11 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace Pro (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N20 SE (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N20 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 10T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 2T 5G (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord 2T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 10R
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 2 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 2 Lite 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Ace (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 2 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 10 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 10 Pro 5G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9RT 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9RT 5G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9RT 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus Nord 2 5G (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus Nord 2 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N200 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord CE 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9R
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9R (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 9R (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 9 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 9 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 9 (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord N100
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 8T (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 8T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus Nord (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 8
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 8 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 8 5G (T-Mobile)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7T Pro 5G McLaren
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7T Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7 Pro (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 7 Pro (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 6T (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 6T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 6 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 6
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 5T (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 5T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 5 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 3T (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oneplus 3T
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus X
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 2
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus One
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus One (64GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: OnePlus 13 3C
+    - Added new field: serial_number
+
+
+#### tecno
+
+- **Updated phones**: 141
+
+  - **Updated phone**: Tecno Pova Slim
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 40 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 40C
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno POP 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 40 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 40 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 7 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova Curve
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 40 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 40 Premier
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Slim
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom V Fold2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 1S
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom V Fold2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30S
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30C 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 9 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom V Flip2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30C (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 30C
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 6 Neo 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 18
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 1 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 1 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30S Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20P
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30 Premier
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20C
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20C (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2024 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2024
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom V Flip 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 20 Pro 5G Mr Doodle Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom V Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 10C (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 10C
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 10 Pro (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 20 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom X2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom X2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova Neo 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 19
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 19 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 8C
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2022 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2022
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 5 LTE
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 5 LTE (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 8 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom X
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 17P
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 17
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 7 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 7 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2022 (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 6 Go (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 16 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 16 Premier
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 16 S
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 16
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 6 Go
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 6 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 6 Air (3GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pouvoir 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 5 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: TECNO Camon 15 Pro (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: TECNO Camon 15
+    - Added new field: serial_number
+
+  - **Updated phone**: TECNO Spark 4 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 12 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon iSky2 (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go (2GB+16GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go (2GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pouvoir 3 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pouvoir 3 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark 4 Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 2F
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Phantom 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon iSky2
+    - Added new field: serial_number
+
+  - **Updated phone**: TECNO Camon i4 (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon iSky 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon i4
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon iACE2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon iACE2X
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 2 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon i2x
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon i2
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno POP 1S Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pop 1s
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon X Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno W3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Okapia Air
+    - Added new field: serial_number
+
+  - **Updated phone**: Okapia Joy Next
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Spark Go 2023
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Pova 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 18 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 50s
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Tecno Camon 30 Pro
+    - Added new field: serial_number
+
+
+#### google
+
+- **Updated phones**: 53
+
+  - **Updated phone**: Google Pixel 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro XL (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 10 Pro Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9a
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro Fold (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro XL (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro XL (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 9 Pro XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8a
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel Fold (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7a
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 7 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 6A
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 6 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 5a 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4a 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4a 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4a
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4 XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4 XL (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 3a XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 3a
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 3 XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 3 XL (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 2 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel 2 XL
+    - Added new field: serial_number
+
+  - **Updated phone**: Google Pixel
+    - Added new field: serial_number
+
+
+#### honor
+
+- **Updated phones**: 99
+
+  - **Updated phone**: Honor 400 Lite
+
+  - **Updated phone**: Honor Magic V5
+
+  - **Updated phone**: Honor Play10C
+
+  - **Updated phone**: Honor X6c
+
+  - **Updated phone**: Honor 400 Pro (China)
+
+  - **Updated phone**: Honor 400 (China)
+
+  - **Updated phone**: Honor 400
+
+  - **Updated phone**: Honor 400 Pro
+
+  - **Updated phone**: Honor 400 (512GB)
+
+  - **Updated phone**: Honor Power (512GB)
+
+  - **Updated phone**: Honor X70i
+
+  - **Updated phone**: Honor X8c
+
+  - **Updated phone**: Honor GT Pro
+
+  - **Updated phone**: Honor GT Pro (512GB)
+
+  - **Updated phone**: Honor GT Pro (16GB+512GB)
+
+  - **Updated phone**: Honor X60 GT
+
+  - **Updated phone**: Honor Power
+
+  - **Updated phone**: Honor Play 60
+
+  - **Updated phone**: Honor X9c (512GB)
+
+  - **Updated phone**: Honor X9c
+
+  - **Updated phone**: Honor Magic V3
+
+  - **Updated phone**: Honor X5b Plus
+
+  - **Updated phone**: Honor X5b
+
+  - **Updated phone**: Honor Magic7 Lite
+
+  - **Updated phone**: Honor X9c Smart
+
+  - **Updated phone**: Honor Magic7 RSR Porsche Design
+
+  - **Updated phone**: Honor GT
+
+  - **Updated phone**: Honor 300 Pro
+
+  - **Updated phone**: Honor 300 Ultra
+
+  - **Updated phone**: Honor 300
+
+  - **Updated phone**: Honor X7c
+
+  - **Updated phone**: Honor Magic7
+
+  - **Updated phone**: Honor Magic7 Pro
+
+  - **Updated phone**: Honor X60
+
+  - **Updated phone**: Honor X60 Pro
+
+  - **Updated phone**: Honor Play9C
+
+  - **Updated phone**: Honor 200 Smart
+
+  - **Updated phone**: Honor Play9T
+
+  - **Updated phone**: Honor X60i
+
+  - **Updated phone**: Honor Magic V Flip
+
+  - **Updated phone**: Honor X6b
+
+  - **Updated phone**: Honor 200 (12GB RAM)
+
+  - **Updated phone**: Honor 200 (16GB RAM)
+
+  - **Updated phone**: Honor 200 (16GB+512GB)
+
+  - **Updated phone**: Honor 200 Pro
+
+  - **Updated phone**: Honor 200
+
+  - **Updated phone**: Honor 200 Lite
+
+  - **Updated phone**: Honor Magic6 RSR Porsche Design
+
+  - **Updated phone**: Honor Magic6 Ultimate
+
+  - **Updated phone**: Honor Magic5 Ultimate
+
+  - **Updated phone**: Honor Magic6 Pro
+
+  - **Updated phone**: Honor Magic6
+
+  - **Updated phone**: Honor Magic V2 RSR Porsche Design
+
+  - **Updated phone**: Honor X7a
+
+  - **Updated phone**: Honor X8b
+
+  - **Updated phone**: Honor 90 GT
+
+  - **Updated phone**: Honor 90 GT (16GB RAM)
+
+  - **Updated phone**: Honor X7b
+
+  - **Updated phone**: Honor 100 5G
+
+  - **Updated phone**: Honor 100 5G (16GB RAM)
+
+  - **Updated phone**: Honor 100 Pro
+
+  - **Updated phone**: Honor 100 Pro (16GB RAM)
+
+  - **Updated phone**: Honor X9b
+
+  - **Updated phone**: Honor X5 Plus
+
+  - **Updated phone**: Honor X6a
+
+  - **Updated phone**: Honor Magic V2
+
+  - **Updated phone**: Honor 90 Lite 5G
+
+  - **Updated phone**: Honor 90 Lite
+
+  - **Updated phone**: Honor 90
+
+  - **Updated phone**: Honor Magic5 Pro
+
+  - **Updated phone**: Honor Magic5 Pro (512GB)
+
+  - **Updated phone**: Honor Magic5
+
+  - **Updated phone**: Honor X8a
+
+  - **Updated phone**: Honor X9a
+
+  - **Updated phone**: Honor X6
+
+  - **Updated phone**: Honor 70
+
+  - **Updated phone**: Honor X9
+
+  - **Updated phone**: Honor X7
+
+  - **Updated phone**: Honor Magic4 Pro
+
+  - **Updated phone**: Honor X8
+
+  - **Updated phone**: Honor X10 5G
+
+  - **Updated phone**: Honor 30 Lite
+
+  - **Updated phone**: Honor Play4 Pro
+
+  - **Updated phone**: Honor 30 Pro Plus
+
+  - **Updated phone**: Honor Play 9A
+
+  - **Updated phone**: Honor 9X
+
+  - **Updated phone**: Honor 8a Pro
+
+  - **Updated phone**: Honor 20 Lite
+
+  - **Updated phone**: Honor 20i
+
+  - **Updated phone**: Honor 8S
+
+  - **Updated phone**: Honor Play 8A
+
+  - **Updated phone**: Honor View 20
+
+  - **Updated phone**: Honor View 20 (8GB+256GB)
+
+  - **Updated phone**: Honor Magic 2
+
+  - **Updated phone**: Honor 10 Lite
+
+  - **Updated phone**: Honor 7s
+
+  - **Updated phone**: Honor 6 Plus
+
+  - **Updated phone**: Honor Holly
+
+  - **Updated phone**: Honor 4X
+
+
+#### oppo
+
+- **New phones**: 2
+- **Updated phones**: 222
+
+  - **Updated phone**: Oppo Find X9 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F31
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F31 Pro
+    - Added new field: serial_number
+
+  - **New phone**: Oppo F31 Pro Plus
+  - **Updated phone**: Oppo Find X9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5i Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A6 Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 4G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno14 F
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno14
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13 Turbo Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13 Turbo (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13 Turbo Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13x
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5i
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno14 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno14 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno14 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5x
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K13 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8s Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F29 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F29 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 Energy
+    - Added new field: serial_number
+
+  - **New phone**: Oppo Find N5
+  - **Updated phone**: Oppo Reno13
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 F
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 F 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 (China) (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 (China) (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno13 Pro (China) (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K12 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3x 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3x
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno11
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F27
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3x (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A80
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K12x
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3x 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno12 F 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno12 F
+    - Added new field: serial_number
+
+  - **Updated phone**: OPPO Reno12 F (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno12 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F27 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno12 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K12
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A60
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A60 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F25 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno11 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X7 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X7
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X7 (16GB/1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oukitel WP32
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find N3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A18 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A18
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A38
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A38 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find N3 Flip (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find N3 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno10 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno10 5G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno10 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X6 (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X6 Pro (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X6
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8 T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8 T
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A78
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8 T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8 T
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A78
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find N2 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find N2
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: OPPO Reno9 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno9
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno9 (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oukitel WP21
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A17K
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A77s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A17
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F21s Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A77
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A57 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F21 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F21 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K10
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A16e
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X5 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A76
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno7 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno7 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A95
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno6
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A16
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A16 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno6 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A54
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F19
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F19 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno5 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A15s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A15
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A33
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F17
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A53
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno4
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A58 4G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A58 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A92
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A72
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Ace2
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A12
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A52
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A12 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A92s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X2
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A31
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F15
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A91
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno2 F
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A11
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno Ace
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno Ace (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno Ace (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5 (2020) (4GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A9 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno2 Z
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno 10x Zoom
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F11 Pro Marvels Avengers
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F11
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A1K
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Reno
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A7
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo RX17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo R17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo K1
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A7x
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F9
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F9 (6GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F9 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3s (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A3s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find X
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F7 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F7
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A71 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A83 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A83 (3GB+32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F5 (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A71
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F3 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A37fw
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A57
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F1s
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F1s (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo C1
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo F1
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A33f
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Neo 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo R7 lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Joy 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Mirror 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo R7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Joy Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Mirror 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo R5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo R1k
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo N1 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Joy
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Neo 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Neo 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Yoyo
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find 7a
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A4
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo Find 7a
+    - Added new field: serial_number
+
+  - **Updated phone**: Oppo A4
+    - Added new field: serial_number
+
+
+#### lava
+
+- **Updated phones**: 99
+
+  - **Updated phone**: Lava Storm Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Bold N1
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Bold N1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Shark
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Bold
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Hero Glow
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva Smart
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 2 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze Duo
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava O3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Agni 3 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Agni 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze 3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava A7 Torch
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva Star
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze 1X
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze Curve
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Agni 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava A9
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava A5
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Benco V7
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Benco Iris 59
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 61
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 42
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 43
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 45
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 702
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X9
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava R5V
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava iris 52
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava R3 Note
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 50c
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Z81
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 88
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 88 (2GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 65
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava iris 50 (2GB+16GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Z60
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava iris 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 80
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava R1
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava A3 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava A3
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 605
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Grand 2c
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 821
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava iris 810
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava irish505
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava irish 870
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Flair S1
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Grand 2
+    - Added new field: serial_number
+
+  - **Updated phone**: LAVA Iris 705
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Spark Curvy
+    - Added new field: serial_number
+
+  - **Updated phone**: LAVA Iris 750
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Pixel V2 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Pixel V2 Plus (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris Atom 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X1 Atom
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 510
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Flair P1
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 800
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 414
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava iris X1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X8
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X1 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X8Q
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris Selfie 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava KKT35 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 456
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 250
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X5
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 400S
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava ARC 12
+    - Added new field: serial_number
+
+  - **Updated phone**: LAVA iris 512
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris X1
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 415
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 354
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Spark 283
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 405 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 503
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Discover Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava KKT 27S
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava ARC 11 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 505
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 401e
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Iris 405
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Discover 135
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava KKT35+
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava ARC 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Yuva 4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Lava Blaze X
+    - Added new field: serial_number
+
+
+#### vivo
+
+- **Updated phones**: 258
+
+  - **Updated phone**: Vivo V60
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V60 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V60 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29t
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4R
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y400 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y400
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y400 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Fold5
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Fold5 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Fold5 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y400 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4 Ultra (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S30 Pro Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S30 Pro Mini (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S30 Pro Mini (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S30
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19s Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19s Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y37c
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200s (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200s (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 Lite 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 Lite 4G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 Lite 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50e (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300t
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y39
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y04 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y04
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y04 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T4x (8GB RAM)
+    - Added new field: serial_number
+    - variants[0]: Changed from '{'name': '8GB+128GB', 'price': '৳.25,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}' to '{'name': '8GB+128GB', 'price': '৳.23,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}'
+    - variants[1]: Changed from '{'name': '6GB+128GB', 'price': '৳.23,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}' to '{'name': '6GB+128GB', 'price': '৳.21,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}'
+    - variants[2]: Changed from '{'name': '8GB+256GB', 'price': '৳.26,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}' to '{'name': '8GB+256GB', 'price': '৳.25,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}'
+
+  - **Updated phone**: Vivo T4x (8GB+256GB)
+    - Added new field: serial_number
+    - variants[0]: Changed from '{'name': '8GB+256GB', 'price': '৳.26,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}' to '{'name': '8GB+256GB', 'price': '৳.25,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}'
+    - variants[1]: Changed from '{'name': '8GB+128GB', 'price': '৳.25,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}' to '{'name': '8GB+128GB', 'price': '৳.23,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}'
+    - variants[2]: Changed from '{'name': '6GB+128GB', 'price': '৳.23,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}' to '{'name': '6GB+128GB', 'price': '৳.21,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}'
+
+  - **Updated phone**: Vivo T4x
+    - Added new field: serial_number
+    - variants[0]: Changed from '{'name': '6GB+128GB', 'price': '৳.23,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}' to '{'name': '6GB+128GB', 'price': '৳.21,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x'}'
+    - variants[1]: Changed from '{'name': '8GB+128GB', 'price': '৳.25,000', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}' to '{'name': '8GB+128GB', 'price': '৳.23,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-ram'}'
+    - variants[2]: Changed from '{'name': '8GB+256GB', 'price': '৳.26,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}' to '{'name': '8GB+256GB', 'price': '৳.25,500', 'url': 'https://www.mobiledokan.com/mobile/vivo-t4x-8gb-256gb'}'
+
+  - **Updated phone**: Vivo V50
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 (256GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y200 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y29 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S20
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y18t
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Lite (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Pro Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19s (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Pro (16GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X200 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40e (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y37 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Lite (IDN)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Lite 4G (IDN)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3 Ultra (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3 Ultra (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y37
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V40 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y03t
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y03t (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28 4G (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28 4G (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y58
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y18 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y18
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S19 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S19
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y200 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100s Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30 Lite 4G (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30 Lite 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo G2
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3x
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3x (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Fold3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70 Turbo (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T3
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y03
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V30
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y100t
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y200e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y28 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S18
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100 (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X100 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y27s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V29e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V29
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V29 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y17s (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y17s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T2 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V29e (India) 256GB
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V29e (India)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y02T
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y27
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y36
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y36 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Fold2
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T2x
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo T2 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y02a
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V27 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V27e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V27 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V27 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V27 Pro (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y56
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S18 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S16
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90 Pro Plus (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X90 (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y02
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V25 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V25e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y22
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y16
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V25 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y22s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y35
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y02s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X80
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X Note
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y01
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V23 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V23 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y21T
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V23e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y15s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X70 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y33s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y21
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y53s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y12A
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V21e
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V21
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X60 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y20G
+    - Added new field: serial_number
+
+  - **Updated phone**: vivo iQOO 7 (12GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y20 2021
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y51
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y12s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V20
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V20 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y20
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y20i
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X50
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y1s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X50 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y30
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo X50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V19
+    - Added new field: serial_number
+
+  - **Updated phone**: vivo iQOO Neo3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y50
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S6 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 3 5G (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 3 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y91C 2020
+    - Added new field: serial_number
+
+  - **Updated phone**: vivo X30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y5s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y19
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S5
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo U20
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo U20 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo U3
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y11 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V17 Pro (256GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V17 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V17 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Z1x
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo NEX 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo NEX 3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo NEX 3 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo U10
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Z1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y90
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S1
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo S1 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y12
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y15
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y17
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y91c
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V15
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y91 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y93
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y91
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y95
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y91i
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y81i
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V11
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y85
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y81
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Z1
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V9 Youth
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y71
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V9
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y53
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y37 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y18i
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y36c
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo V50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y300i
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo Y18e
+    - Added new field: serial_number
+
+
+#### itel
+
+- **Updated phones**: 105
+
+  - **Updated phone**: Itel Super 26 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A100
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Zeno 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel s1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A90 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A90
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel City 100
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Power 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S25 Ultra (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S25 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S25
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Flip 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A80
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Zeno 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P65C
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 2S
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A50C
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P65
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Color Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A06
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A50 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A50 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A50
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S24
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel RS4
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P55T
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P55 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P55 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P55
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 5262 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 5031Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 5361 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A70
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A70 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 2166 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S23 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 2176 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A05s (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A05s
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 2165 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A60S
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A60S (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P40
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P40 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A60
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S23
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S23 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S23 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 5 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A24 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Magic 4 Dual Sim
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A49 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A49
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Magic 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it5621 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 5027 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A26
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A23 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 2 (3GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 1 Pro (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: itel A48
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S13 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A36
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A56 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A56
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A25 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P36
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it5618N Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel IT2590
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 1 Plus (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Power 100
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A25
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel IT6320
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S15
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A55
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel IT6310
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A46
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P33
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel L5503
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel 2171 Dual Sim
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it5617 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it2171 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Power 400
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Alpha
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A33
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it2080
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S31
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S41
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel S33
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P13 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel P32
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel A44 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it1409
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it5231
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it2180
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel it5600
+    - Added new field: serial_number
+
+  - **Updated phone**: Itel Vision 2 Plus
+    - Added new field: serial_number
+
+
+#### nothing
+
+- **Updated phones**: 18
+
+  - **Updated phone**: Nothing Phone 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 3a Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 3a Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 3a
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 3a (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2a Plus (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2a Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing CMF Phone 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing CMF Phone 1 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2a
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2a (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2a (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 2 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nothing Phone 1
+    - Added new field: serial_number
+
+
+#### helio
+
+- **Updated phones**: 14
+
+  - **Updated phone**: Helio 100 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio 100
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio 90
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 40 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 50 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S5
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S60
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S10
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S25
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S2
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S20
+    - Added new field: serial_number
+
+  - **Updated phone**: Helio S1
+    - Added new field: serial_number
+
+
+#### realme
+
+- **Updated phones**: 285
+
+  - **Updated phone**: Realme 15T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 70 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P4
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P4 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 70T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 15
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 15 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 15 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 15 Pro (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 80 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT7 Dream Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C73
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 Turbo (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 Turbo (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 7T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C71
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C71 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C75 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT7 (China) (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT7 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C75x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 80x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 80x (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 80 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 80 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 Ultra (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro Lite (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P3 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 SE (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT7 Pro Racing
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 60x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro Plus (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14x (India)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C75
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C75 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Neo7
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme V60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 7 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1 Speed
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P2 Pro (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C61
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 60 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C63 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro Plus (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro Plus (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 13 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N61
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 6 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme V60
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme N63
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N63
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C63
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C63 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6S
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N65
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 6T (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 6T (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 6T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C65 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo6 SE (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo6 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P1 (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C65
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C65 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12x
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70 Turbo (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 70 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C51s
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 12 Pro Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Note 50 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 14 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C67
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT5 Pro (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60x 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60x 5G (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT5
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT5 240W
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11X 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11X 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C51
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60 Pro (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 60 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C53 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C53
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C53 (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N53
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N53 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11 Pro Plus (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11 Pro Plus (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 11 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo5 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C55 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C55
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro Coca-Cola Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 5 240W
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro plus (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro plus (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 Pro (8GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 (8GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 10 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C30s
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C33
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C33 (4GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C33 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9i 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50i Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50i Prime (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 3T
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT NEO 3T (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT NEO 3T (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C30
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 5G (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C31
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo 3 150W
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50A Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 5G Speed
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 5G (India)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 5G Speed (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9 Pro Plus Free Fire Limited Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C35
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C35 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 9i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 50A
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C25Y
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo2
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Master Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Master Edition (256GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C21Y
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C21Y (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C11 (2021)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C11 (2021) (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C25s (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C25s
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X7 Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C20A
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 8 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C25
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C25 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 30A
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C21 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C21
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 7i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C15 Qualcomm Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C15 Qualcomm Edition (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 20 Pro (8GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C17
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 7 (8GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme V3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X7
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X7 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C12
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme V5 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C15
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50 5G (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X3 SuperZoom
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 10A
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50t 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50m 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50m 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6 Pro (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X50 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C3 (3 cameras)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C2 2020
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C2 2020 (3GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5s (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5s
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2 Pro (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2 Pro (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X2 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Q
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme XT
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme X Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C2
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 3 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C1 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme U1
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 2 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C1
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme Narzo N55
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme C3
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme P2
+    - Added new field: serial_number
+
+  - **Updated phone**: Realme GT Neo7
+    - Added new field: serial_number
+
+
+#### benco
+
+- **Updated phones**: 17
+
+  - **Updated phone**: Benco V90i
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V90i SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V91 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V91 Plus (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V91c
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V90 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco S1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco S1 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco S1
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco S1 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco S1 Pro (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V82
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V91
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V90
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V90 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco E20
+    - Added new field: serial_number
+
+  - **Updated phone**: Benco V80
+    - Added new field: serial_number
+
+
+#### nokia
+
+- **Updated phones**: 283
+
+  - **Updated phone**: Nokia 130 Music
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 150 Music
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 4G 2nd Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 4G 2nd Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 108 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 220 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 215 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 235 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3210
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 225 4G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5310 (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6310 (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 230 (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia XR21 Limited Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 150 (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 130 (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 4G (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 4G (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 (2023)
+    - Added new field: serial_number
+    - Added new field: specifications.Display.Resolution
+    - Added new field: specifications.Display.Aspect Ratio
+    - Added new field: specifications.Display.Pixel Density
+    - Added new field: specifications.Display.Screen to Body Ratio
+
+  - **Updated phone**: Nokia 106 (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 DS (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 106 DS (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 106 4G (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C110
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C32
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C22
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C12
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2780 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2022)
+    - url: Changed from 'https://www.mobiledokan.com/mobile/nokia-105-2022-' to 'https://www.mobiledokan.com/mobile/nokia-105-2022'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - Added new field: serial_number
+    - specifications.General.Release Date: Changed from '04 April 2023' to '15 August 2022'
+    - Added new field: specifications.Hardware & Software.Chipset
+    - specifications.Display.Screen Size: Changed from '1.77 inches (4.5 cm)' to '1.77 inches (9.7 cm2)'
+    - specifications.Display.Resolution: Changed from '128x160 px' to '120x160 px'
+    - Added new field: specifications.Display.Aspect Ratio
+    - specifications.Display.Pixel Density: Changed from '116 ppi' to '113 ppi'
+    - specifications.Display.Screen to Body Ratio: Changed from '17.15 %' to '16.9 %'
+    - specifications.Design.Colors: Changed from 'Blue, Charcoal' to 'Charcoal, Blue'
+    - Removed field: specifications.Design.Weight
+    - Removed field: specifications.Battery.Standby
+    - Removed field: specifications.Battery.Talk Time
+    - specifications.Network & Connectivity.SIM Size: Changed from 'SIM1: Mini' to 'Mini-SIM, dual stand-by'
+    - specifications.Network & Connectivity.USB: Changed from 'MicroUSB 2.0' to 'microUSB 1.1'
+    - Removed field: specifications.Multimedia.Audio Jack
+    - gallery_images[0]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[1]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[2]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[3]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[4]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[5]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-charcoal-image.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-chaecoal-image_1.webp'
+
+  - **Updated phone**: Nokia 110 (2022)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8210 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5710 XpressAudio
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2660 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C2 2nd edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 Plus (2022)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2022)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2760 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia G21
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 Africa Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C100
+    - name: Changed from 'Nokia C1-00' to 'Nokia C100'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/nokia-c1-00' to 'https://www.mobiledokan.com/mobile/nokia-c100'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/nokia-c1-00-front-image.webp' to 'https://www.mobiledokan.com/media/nokia-c100-blue-image.webp'
+    - Added new field: serial_number
+    - specifications.General.Model: Changed from 'C1-00' to 'C100'
+    - specifications.General.Device Type: Changed from 'FeaturePhone' to 'SmartPhone'
+    - specifications.General.Release Date: Changed from '01 September 2010' to '20 January 2022'
+    - specifications.Hardware & Software.Operating System: Changed from 'FeaturePhone' to 'Android'
+    - Added new field: specifications.Hardware & Software.OS Version
+    - Added new field: specifications.Hardware & Software.Chipset
+    - Added new field: specifications.Hardware & Software.CPU
+    - Added new field: specifications.Hardware & Software.CPU Cores
+    - Added new field: specifications.Hardware & Software.Architecture
+    - Added new field: specifications.Hardware & Software.Fabrication
+    - Added new field: specifications.Hardware & Software.GPU
+    - specifications.Display.Display Type: Changed from 'TFT' to 'IPS LCD'
+    - specifications.Display.Screen Size: Changed from '1.8 inches (10.2 cm2)' to '5.45 inches (13.84 cm)'
+    - specifications.Display.Resolution: Changed from '128x160 px' to '720x1440 px (HD+)'
+    - Added new field: specifications.Display.Aspect Ratio
+    - specifications.Display.Pixel Density: Changed from '114 ppi' to '295 ppi'
+    - Added new field: specifications.Display.Screen Protection
+    - Added new field: specifications.Display.Bezel-less Display
+    - Added new field: specifications.Display.Touch Screen
+    - Removed field: specifications.Display.Screen to Body Ratio
+    - Added new field: specifications.Cameras
+    - specifications.Design.Colors: Changed from 'Medium Blue, Red, Light Gray, Sea Green' to 'Blue'
+    - Added new field: specifications.Design.Waterproof
+    - Added new field: specifications.Design.IP Rating
+    - Removed field: specifications.Design.Height
+    - Removed field: specifications.Design.Width
+    - Removed field: specifications.Design.Thickness
+    - Removed field: specifications.Design.Weight
+    - specifications.Battery.Battery type: Changed from 'Li-Ion (Lithium-Ion)' to 'Li-Poly (Lithium Polymer)'
+    - specifications.Battery.Capacity: Changed from '1020 mAh' to '4000 mAh'
+    - Removed field: specifications.Battery.Standby
+    - Removed field: specifications.Battery.Talk Time
+    - Added new field: specifications.Memory
+    - specifications.Network & Connectivity.Network: Changed from '2G' to '2G, 3G, 4G'
+    - specifications.Network & Connectivity.SIM Size: Changed from 'Mini' to 'SIM1: Nano, SIM2: Nano'
+    - Added new field: specifications.Network & Connectivity.EDGE
+    - Added new field: specifications.Network & Connectivity.GPRS
+    - Added new field: specifications.Network & Connectivity.VoLTE
+    - Added new field: specifications.Network & Connectivity.Speed
+    - Added new field: specifications.Network & Connectivity.WLAN
+    - Added new field: specifications.Network & Connectivity.Bluetooth
+    - Added new field: specifications.Network & Connectivity.GPS
+    - Added new field: specifications.Network & Connectivity.Wi-fi Hotspot
+    - Added new field: specifications.Network & Connectivity.USB
+    - Added new field: specifications.Sensors & security
+    - Added new field: specifications.Multimedia.Document Reader
+    - Added new field: specifications.More.Features
+    - gallery_images: List length changed from 7 to 9
+
+  - **Updated phone**: Nokia 6310 (2021)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C1 2nd Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 DS (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia G20
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia G10
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia G10 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C10
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1.4
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6300 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8000 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8 V 5G UW
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3.4
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3.4 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 225 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 225
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2.4
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 150 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 125
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5.3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5310 (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2.3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6.2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 800 Tough
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7.2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2720 Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 220 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3.2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2.2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2.2 (3GB/32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 4.2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X71
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 210
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 9 PureView
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 106 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3.1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6.1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8110 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5.1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3310
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3310 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 130 Dual (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5 (3GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3310 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 150
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 216
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 230 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Microsoft Lumia 550
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 222 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 222
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 105 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 215 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 130 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 730 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 530 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X2 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 225 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia XL Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 630 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 630
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 220 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 230
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 1320
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 108 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 107 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 1520
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 500 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 515 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 1020
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 210
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 520
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 301
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 620
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 205
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 206
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 112
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 103
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 920
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 309
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 820
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 311
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 110
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 202
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 305
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 302
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X2-05
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C2-05
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 200
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Asha 300
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 800
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C2-06
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 101
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C5-02
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N9
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 701
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 700
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 100
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C2-00
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X1-01
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C2-01
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E7
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X2-01
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C5-03
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C1-01
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5250
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N8-00
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C7
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C3-01 Touch and Type
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X3-02
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C1-00
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E5
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C6
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X6 8GB (2010)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X2-00
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1800
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6700 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia C5
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X6-00( 8GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X6-00
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1280
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6303i Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2220 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5233
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X3
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3710 Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N97 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7230
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1616
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1661
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E72
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2730 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia X6 (2009)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5530 XpressMusic (4GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N900
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5530 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E55
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2323 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E52
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6730 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2700 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6720 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N86
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N97
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5030 XpressRadio
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5630 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5730 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2330 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6700 Gold
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6303 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E75
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6260 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6212 classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5130 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7100 Supernova
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E63
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1202
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5800 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1203
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3610 Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N85
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N79
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N96
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2680 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8800 Carbon
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7210 Supernova
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3600 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7610 Supernova
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7070 Prism
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1209
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6600 Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6600 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E71
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5220
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6220 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5320 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6210 Navigator
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E66
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1680 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5000
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 7310 Supernova
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N78
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3120 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2600 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1650
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N82
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E51
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N81
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5310 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5610 XpressMusic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3500 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N81 8GB
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N95 8GB
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6500 Slide
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E90
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2630
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1200
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1208
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2760
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6120 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N95
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6110 Navigator
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E61i
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia E65
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3110 Classic
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6300
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N93i
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 2626
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5200
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5300
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N73
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 5500 Sport
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N72
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6125
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 6070
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 1600
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia N70
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Lumia 200 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia Dragon Pro (2024)
+    - Added new field: serial_number
+
+
+#### asus
+
+- **Updated phones**: 50
+
+  - **Updated phone**: Asus Zenfone 12 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 9 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 11 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 8 Pro (24GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 8 (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5s (18GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 10 (256GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Rog Phone 7 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Rog Phone 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 7 Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 6D
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 6D Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 6 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5s
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5s (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 5 (16GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 3 Strix
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 3 ZS661KS
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone II ZS660KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus ROG Phone 2 (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 6 ZS630KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 6z
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Max Shot (ZB634KL)
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Max Plus (M2) ZB634KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Go ZB552KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Live ZB501KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 3s Max ZC521TL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 3 Max ZC553KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone GO ZB500KG
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Go ZB500KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 3 Max ZC520TL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Max ZC550KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE601KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE500KG
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE550KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 Deluxe ZE551ML
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE500KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone Selfie ZD551KL
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 ZE551ML
+    - Added new field: serial_number
+
+  - **Updated phone**: Asus Zenfone 2 ZE500CL
+    - Added new field: serial_number
+
+
+#### iqoo
+
+- **Updated phones**: 86
+
+  - **Updated phone**: iQOO Z10 Turbo Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Turbo Plus (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10R
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo 10
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo 10 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo 10 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo 10 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Turbo Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Turbo (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 Turbo Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10x
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10x (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10x (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10
+    - Added new field: serial_number
+
+  - **Updated phone**: iQOO Z10 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 10R
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 10R (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 10R (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Endurance
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo10 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo10 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 13 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9s Pro (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Lite (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9x (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9x
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z9 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo9 (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z7 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z8 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 7 Pro (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 11s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo8
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z7s
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z7
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z7 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo 7 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo7 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 11 (16GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z6 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z6 Lite (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Neo6
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z6 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO Z6 44W
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 9 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 9 SE (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 9 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 11
+    - Added new field: serial_number
+
+  - **Updated phone**: vivo iQOO 7 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: vivo iQOO 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Vivo iQOO 14
+    - Added new field: serial_number
+
+
+#### sony
+
+- **Updated phones**: 85
+
+  - **Updated phone**: Sony Xperia 1 VII (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1 VII
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1 VI
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1 V
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 5 IV
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1 IV
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 5 III
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1 III
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 10 III
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia L3
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ3
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA2 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ2 Premium
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ2
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ2 Compact
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA2
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia L2
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia R1 (Plus)
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA1 Plus Dual (4GB+32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ1 Compact
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ1 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ1
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia L1 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ Premium Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZs Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA1 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XZ Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA Ultra Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia X
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia X Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z5 Premium Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z5 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia XA1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M5 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia C5 Ultra Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia C4
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M4 Aqua Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M4 Aqua
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia C4 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia E4 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z3
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z3 Compact
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia E3 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia C3 Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia T3
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M2
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M2 dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z2
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia E1 dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia T2 Ultra dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z1
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M DUAL
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia M
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia C
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia ZR
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia L
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia ZL
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia SP
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia Z
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia E dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia V
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia tipo dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia T
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia SL
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia miro
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia TX
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia acro S
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia J
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia tipo
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia go
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia neo L
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia P
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia U
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Xperia S
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Live with Walkman
+    - Added new field: serial_number
+
+  - **Updated phone**: Sony Ericsson Xperia Arc S
+    - Added new field: serial_number
+
+
+#### huawei
+
+- **Updated phones**: 141
+
+  - **Updated phone**: Huawei Pura 80
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 80 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 80 Ultra (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 80 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 80 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 14 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova Y73
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova Y63
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Enjoy 80
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova Y72S
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura X
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Enjoy 70X
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate X6
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 70 RS Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 70 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 70 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate XT Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate XT Ultimate (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate XT Ultimate (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate X5
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei nova Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 70 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 70 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Pura 70 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 60 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 60 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P60 Art
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate X3
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P60
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P60 Pro (12/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P50 Pocket
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y8p
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P40 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5p
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6p
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6s
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate Xs
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y7p
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 7i
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y9s
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate X
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 30 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 5T
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y9 Prime 2019
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor 8a Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P30 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Enjoy 9e
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P30
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 Pro (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y7 Pro (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y9 (2019)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 8X
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5 Prime (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y3 2018
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 Prime (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y7 Pro (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y9 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 3e
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P20
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P20 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P Smart
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Nova 2i
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P9 Lite Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y7
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 II Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y3 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y7 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P10
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P8 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei GR3 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei GR5 (2017) Premium
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 II
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei GR5 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5II
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y3 II
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P9 lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P9
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei GR5
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei G7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y3C
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y6
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P8lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei GR3
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y5c (Honor Bee)
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Y625
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei P8
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei G Play Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor 6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Y520
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor Holly
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend G7
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Mate7
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor 4X
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend P7
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend G630
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend G700
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Honor 3C
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Y511
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend G610
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend P6
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend W1
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend G510
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Mate
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Y210D
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Y300
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Ascend Y200
+    - Added new field: serial_number
+
+  - **Updated phone**: Huawei Mate XT
+    - Added new field: serial_number
+
+
+#### motorola
+
+- **Updated phones**: 151
+
+  - **Updated phone**: Motorola Moto G86 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G96
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G96 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G86
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G56
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60s
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 60 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Stylus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Fusion
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 60 Fusion (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G Power (2025)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G 5G (2025)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G05
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G15
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E15
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G15 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G75
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ThinkPhone 25
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G35
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto S50
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G45
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola S50 Neo (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola S50 Neo (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola S50 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G85 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G85
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 50 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 50
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola One Hyper
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G Stylus 5G (2024)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto X50 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Ultra (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Fusion (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Fusion
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G04s
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G04s (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G64
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G64 (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 50 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G24 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G24 Power (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G24 Power (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G04
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G24
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G34
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G34 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 40 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 40 Neo (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G84
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G54
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G54 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G14
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 40 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 40 Ultra (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G Stylus 5G (2023)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E13
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G73
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G13
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto X40
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E22s
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G72
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30 Fusion
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 2022
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G32
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto S30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G62
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G42
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G82
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G82 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E32
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 30 Ultra (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge S30
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G31
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G31 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E40
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 20 Fusion
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 20 Fusion (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge 20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G40 Fusion
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G40 Fusion (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G60
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G30
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G10 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E7 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge S
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G9 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G9 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Edge Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E6s (2020)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G8 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 2019
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G8 Power Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola One Action
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola G8 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola One Macro
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto Z4
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola One Vision
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G7
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G7 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G7 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola One
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto Z3
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E5 Play Go
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E5 Cruise
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto Z3 Play
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E5
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E5 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto E4 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Nexus 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G (2014)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G (16GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto X
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ZN200
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ROKR EM325
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ZN5
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola EM30
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W388
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W181
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W230
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W270
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W160
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ROKR E8
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola RAZR2 V8
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola ROKR E6
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola KRZR K1
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola W220
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola RAZR V3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola C118
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola V3x
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Moto G55
+    - Added new field: serial_number
+
+  - **Updated phone**: Motorola Razr 50s
+    - Added new field: serial_number
+
+
+#### samsung
+
+- **Updated phones**: 449
+
+  - **Updated phone**: Samsung Galaxy S26 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A17
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F36
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M36
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M56 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Edge
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Edge (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A26 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A26
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A36
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A36 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F56
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F56 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy XCover7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M56
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F16 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F16
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A56
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A56 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A56 (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M06
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M16 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M16 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F06 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A16 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A16 5G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A16
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A16 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold6 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold6 (1TB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold6
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A16 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold Special
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M55s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F05
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M05
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F14 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A06
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A06 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A06 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip6 (512GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip6
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F55 5G (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F55 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F55 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M35 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M35 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M35
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M15
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M15 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M15 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M55
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M55 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A55
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A55 (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A55 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A35
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A35 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A55 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F15
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M14 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M14 4G (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S24 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 5G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A25 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A25 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A15 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A25
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A05s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F04
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A05s (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A05
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A05 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F34
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip5 (8GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold5 (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold5 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M34 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M34 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A24
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F14 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F14
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A14 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A52
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A54 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A34 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A53 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A13
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M54
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M14 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 Plus (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A14 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M04
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A04e
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A04
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A04 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A04s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M13 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M13 5G (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M13
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F13
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F13 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M53 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A73 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A33 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M33
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A23
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A13 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F23
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S22
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S22 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S22 Plus (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S22 Ultra 5G (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S22 Ultra 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A03
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A03 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A03 Core
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A52s 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip3 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip3 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A03s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy W22 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F22
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A22
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M32
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A22 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A72
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A52 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M12
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M62
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A32
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A32 (8GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F62
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F62 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M02
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M02 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S21 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A02
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M02s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A12
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A12 (4GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A42
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F41
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy F41 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 FE 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 FE 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 FE
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Fold2 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M51
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note20
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note20 Ultra 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note20 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note20 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M31s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M01 Core
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M01 Core (2GB/32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M01s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M01
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A21s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A41
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M11
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A11
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A31
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A21
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M21 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M21
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Z Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 Ultra 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S20 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M31
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M31 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A01
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy XCover Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A71
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A51
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A20s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A20s (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Fold 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A90 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M10s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A70s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A10s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Fold
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M30s (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A30s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A50s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M30s
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A30s (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 10 (256B)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note10 Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M40
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A60
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A80
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A70
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A10e
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A20
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A2 Core
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10 5G (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A30
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10e
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A50
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A40
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S10
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A10
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M20
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy M10
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J4 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A9 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A7 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note9
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 Core
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J8
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A6 Plus (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J6 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Duo
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Prime 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S9 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S9
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A8 Plus (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 Pro (2018)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note8
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy On7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J3 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Nxt
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S8
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S8 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A7 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A5 (2017)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J1 Nxt prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy C9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 Prime (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Metro 350
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2 Pro (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J5 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S7 edge
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J1 Nxt
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A9 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J1 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J3 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A5 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A7 (2016)
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J1 Ace
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Metro 360
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note5 Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Ace NXT 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung metro 313
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A8
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S6 edge
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S6
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy J1
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy E5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Z1
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy E7
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A3
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Core Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Grand Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Alpha
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S Duos 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Ace NXT
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Core 2 Dual SIM
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Guru Music 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy K zoom
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Metro 312
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S3 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S5
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Grand Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 3 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Grand 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S Duos 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Star Pro S7260
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Rex 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S4 zoom
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Core I8262
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Pocket Neo S5310
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Trend
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S4 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Star S5282
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung I9500 Galaxy S4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S4
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Rex 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung REX 80
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Grand DUOS
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Music Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1200 Pusha
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Guru E1205
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Guru Music E1282
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Champ Neo Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note II
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2252
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S III
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy pocket
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Y DUOS
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Star 3 DUOS S5222
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Champ Deluxe Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Note
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Hero E2230
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Hero E2232
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Y
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Y Color Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 500
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Ch@t 222
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2530
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Star II DUOS
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Corby II
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung I9100 Galaxy S II
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C3322
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Pro B7510
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2652 Champ Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Mini S5570
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy Ace S5830
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Ch@t 322
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Guru Dual 35 E2152
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Keystone 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C3200 Monte bar
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2550 Monte Slider
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Champ
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S5620 Monte
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1150
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B310
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B7330 OmniaPRO
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2130 Guru
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C5510
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1085T
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2120
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B3310
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1160
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1080T
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1390
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Corby S3650
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S5233 Star
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S3100
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S3310
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1125
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B7320 OmniaPRO
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1210
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B220
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1070
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung I8000 Omnia II
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1107 Crest Solar
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M2513
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S8003 JET
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1310
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C3053
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S5200
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C5212
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1100
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B2100 Xplorer
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B2100 Explorer
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S5603
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C3010
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M200
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S3600
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E1110
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M150
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung S8300 UltraTouch
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B130
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M8800
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B200
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M3510
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung L700
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung i900
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung M620
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung B100
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung D780
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung E2510
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung F480
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung D880 Duos
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C450
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C170
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C260
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung C140
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung X210
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung X160
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy A07
+    - Added new field: serial_number
+
+  - **Updated phone**: Samsung Galaxy S25 Slim
+    - Added new field: serial_number
+
+
+#### walton
+
+- **Updated phones**: 336
+
+  - **Updated phone**: Walton XANON X1 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N75
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ZENX 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N27
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ZENX 1T
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton XANON X91
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y71
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N10 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ZENX 1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton XANON X21
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N74
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N26
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y70c
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H7s
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton XANON X90
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N73
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N72
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N25
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N71 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y70
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N71
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N6 LITE
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton XANON X20
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Hello HP50
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio M100
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y11
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N70
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton XPLAY101
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton NEXG N6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y20
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio i201
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio M200
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio S35
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y50
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio E100
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO Q41
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH10i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO I100
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H10 (6GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH11
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio RL1910
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S8 Mini (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S8 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L28s
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Orbit Y21
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MH21
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L30
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MH23
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM30
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM26
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML24
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML24i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO MH22
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo ZX4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P18
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX8 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L28
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L28i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L29
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM23
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM22
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM24
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM22i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P17
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P15
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio S34
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML20
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L53
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P16
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio Q40
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F10 (2GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM25
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L52
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML21
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM5 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH9 (3GB/32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E11
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N4 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L27
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML19
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MH20
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX7 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P14
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R6 Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R6 Max (64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H8 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S7 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF4 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L26
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E8i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML18
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML15
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio S33
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EM
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G8i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MM15j
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MH17
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML14
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM18
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML17
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM19j
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo X5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF8 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 8.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F8s
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S6 dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio L25
+    - Added new field: serial_number
+
+  - **Updated phone**: Nokia 3.1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio MM17
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S6 infinity
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM3 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RH3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E8s
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P11
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio P12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton S32
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Olvio ML10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ML2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L22
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Q35
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo D8i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo ZX3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM2 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H6 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton P10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ML9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MM12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Q34
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ML8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MM13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L21
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MH14
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF5(Hard TP)
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Walpad 10B
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GF6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L19
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ML6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GF5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E8 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo X4 pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MM11
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo D8S
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF5 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E8
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH2 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX4 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF4 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MH13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton MH12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Q33
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton ML5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM3 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NH
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo X4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo ZX2 lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R4 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH5 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo V2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM2 Mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo VX Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo ZX2 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO Q32
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo D7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R4s
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L17
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo ZX2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E7
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GM
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L12
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo VX
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GF4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO Q31
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO MM9
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo C4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F6
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO MH10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L14
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L16
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO MM10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO S31
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO S30
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton OLVIO L15
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E4 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RM
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GF3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo D5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo Z
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo RH
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo GF2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo S3 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo EF2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo x3 mini
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G5
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo GH3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo HM
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo X3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo V1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo EF
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo GH Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NF
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo ZX
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo H3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo E1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo RX
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo H4
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX Black
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo NX
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo N1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton primo X2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo F2
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo G3
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton T71
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo D1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo C1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo R1
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B09i
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L20
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L13
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L23
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton T50
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B03
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B32
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Q30
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton Primo
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton T70
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton C32
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B30
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B09
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B00
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B34
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B08
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B10
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B31
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton C31
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton S35
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B01
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B05
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B07
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton T72
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B33
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton T73
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton L18
+    - Added new field: serial_number
+
+  - **Updated phone**: Walton B04
+    - Added new field: serial_number
+
+
+#### xiaomi
+
+- **New phones**: 1
+- **Updated phones**: 529
+
+  - **Updated phone**: Xiaomi Poco C85
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 15c
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 15c (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 15 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 15
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K80 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F7 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F7
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15S Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15S Pro (1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C71
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13x
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F7 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro
+    - Added new field: serial_number
+
+  - **New phone**: Xiaomi Redmi A5 4G
+  - **Updated phone**: Xiaomi Redmi Note 14S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G (Global)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G (Global) (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G (Global)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G (Global) (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global) (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global) (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 4G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14C 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X7 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X7 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X7 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X7
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C75 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K80
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K80 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C75
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15 Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15 Pro (16GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 15 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14C
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14C (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14C (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14R
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (China) (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14T Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 Plus (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Fold 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Civi (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Civi
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A3x
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F6 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F6
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F6 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Turbo 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C61
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C61 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 4 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi poco x6 Neo (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 Neo
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A3 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Ultra (16GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 4G (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 4G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X6 Pro (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13C 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70E
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70 Pro (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70 (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K70 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M3 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M3 (6GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M3 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13C (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13C (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 13C
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C65 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C65 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C65
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 14 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13T Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (12GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi MIX Fold 3 (16GB/1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Fold 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Fold 3 (16GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M6 Pro 5G (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12R
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F5 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 Ultra (16GB+1TB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 Ultra (512GB CN)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C51
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Turbo
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Turbo (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A2 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A2 Plus (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C55
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X5 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X5 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X5 Pro 5G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X5 5G (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12C
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12C (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 12C (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K60E
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 13 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11T 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro Plus (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 2 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A1 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A1 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi A1
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Fold 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mix Fold 2 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K50 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K50i
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K50i (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K50i (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12S Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12S Ultra (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12S Ultra (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X4 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F4 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 2022
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 2022 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F4 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F4 GT (12GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi 1S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 5 RS
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10A (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X4 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X4 Pro 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10C
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10C (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K50 Gaming
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11S (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11i HyperCharge 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11i HyperCharge 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11i
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11i (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12 Pro (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 12X
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M4 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M4 Pro 5G (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro Plus 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11T (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11T Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11T Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C31
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C31 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Civi
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Activ
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Activ (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 Prime (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 GT (256GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10T 5G (6/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F3 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F3 GT (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8 2021
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M3 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11X Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11X Pro (8GB/256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K40 Gaming Edition
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11X
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11X (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M2 Reloaded
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10S (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10S (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Lite 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Lite (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Lite (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra (12GB/512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F3 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (108MP Edition)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 Pro (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 Pro (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro Max (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K40 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K40 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K40
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9T (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9T (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10i 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10i 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 11 (12GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Power (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco C3 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10T 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10T Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10T Pro 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9i
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M2 (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco M2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 NFC (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X3 NFC
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Dual Camera
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Dual Camera (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 (India)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9C
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9C (3GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30i 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi X10
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 10X 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco F2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 5G Racing
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note 10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9S (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro (India)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual (3GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10 5G (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Poco X2 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K30 (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix Alpha
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note 10 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note 10 Pro (256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8 (4GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 8A (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K20 Pro Premium
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 8 Pro (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9 lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9 Pro 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9 Pro 5G (12GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9T Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9T Pro (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Black Shark 2 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A3 (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 7A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9e
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9e (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi CC9e (6GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K20
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K20 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi K20 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7S
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7S (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Y3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Y3 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 7 (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 7 (3GB/32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9 (128 GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 9 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (4GB/64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (4GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (6GB/128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Go
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Go (16GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 6 Pro (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 8 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Pocophone F1
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A2 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A2 Lite (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 8 Explorer
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 6A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 8 SE
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi S2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi S2 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 5 AI Dual Camera
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix 2s
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 5 AI Dual Camera 3GB/32GB
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix 2s (128GB ROM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 5 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 5 Plus (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 5A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Y1 (Note 5A)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 5A Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi A1
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 5A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 3s Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Max 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 4X
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 6
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Mix
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 4X
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 4A
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 4A (32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 4 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 5s Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 3s
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 3 Pro (3GB+32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 3 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 4s (3GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 4s
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 3 (MediaTek)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 3 (MediaTek) (3GB+32GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 2 Prime
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 2 (2GB+16GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi Note Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi4
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Mi 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 15s
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Max
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 14 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Redmi K90 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi Note 13R
+    - Added new field: serial_number
+
+  - **Updated phone**: Xiaomi Redmi 15 Pro
+    - Added new field: serial_number
+
+
+#### symphony
+
+- **Updated phones**: 498
+
+  - **Updated phone**: Symphony Innova 40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 40 (8GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L256
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z72 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Hero 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L137
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony MAX 10 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony MAX 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S75
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T94
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL125
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ATOM 5
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G27 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G27
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D54Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 30 (6GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 30 (8GB+128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL102
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL98
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FiRE 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L280
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L34
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Hero 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ATOM 4
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X121
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G26
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z60 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony SL100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D43
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Innova 10 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z60 (4GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony SL75
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony SL70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i96
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T93
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D89
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Theater 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i73
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L47
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z47
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ATOM 3
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L145
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L136
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V139
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B62
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z42 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio 30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Helio30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z55
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z55 (128GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V138 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony EVO 10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i71
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z42
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V138
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony PD1 4G
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z22
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B12 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L43
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L44
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D76
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L33
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL99
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i69
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z33
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D48
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B69
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D78
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ATOM II
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ATOM
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z35 (4GB+64GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z35
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L46
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D47
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z18
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L270
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L140
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T140
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B67
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T180
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z30 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L260
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D74
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D82
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T92
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L135
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i98
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V99 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i99
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i12
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z28
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B68
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i66
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z16
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S99
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL120
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i67
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B24
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V102
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B26
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D92
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i74
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z12
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL96
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V105
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L250i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B66
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony E95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D40i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i68
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT06
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V99
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L130
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L42
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony SL20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i97
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D41
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL97
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D37
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i18
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V141
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D54i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L250
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D52 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D54 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S250
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L55i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L52
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V128
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V142
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D101
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V97
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D38i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B17i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V94
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V155
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V145
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V98
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L62
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i120
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony G100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V135
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i75
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Roar V150
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V140
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony P11
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i110
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B12i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L65j
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T130
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony INOVA
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V75m
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Roar V95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V90
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i10 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony P8 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony E30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T110
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D68
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony P9
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T105
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i21
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V47
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D91
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D105
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer i25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V110
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony E62
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZVI
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V42
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZVIII
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V34
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L300
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R100 (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Roar E80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony R2
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony P7
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L17
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H300
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L56i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony H60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L23
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D22
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZVII
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZVII (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P6 PRO (3GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer i10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V46
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony i20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H400
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer i20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer i20 (2GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V46 (C)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E58
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony  E12
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L16
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D52
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Roar E79
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A88V
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V75
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B17
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B13i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D19
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D55i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony H175
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D120
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P6 PRO
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D140
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V49
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony H58
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D18
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M150
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E7
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E78
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H120
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony H120
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony H250
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L24
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V28
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL46
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D57
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZV Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V52
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M70i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D115
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L18
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D52i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony E60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony E10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P6
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P6 (2GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT37i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony m1
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X101
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D23
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M90
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E5
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T150
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V60 (1GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D53i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony C101
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D150
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D34
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D65i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony V70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B13
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H200
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer E50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer V55
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZV
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Roar A50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B14
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W75
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X111
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer GoFox F15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A86v
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B12
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X115
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W67
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W19
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W94
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer P5
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B5
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D64
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T55i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony BL40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L22
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S101
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZIV
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer H100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony L25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Play W17
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W18
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B3i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W68Q
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W31
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S200
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W15i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W70Q (1GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W70Q
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A86
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B5i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W160
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M44
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D31i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W91
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W86
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W69Q
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W69Q (1GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D125
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D35
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony F100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D26
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony ZIII
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W65i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W21
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D58
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W128
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W69
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZIII
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B9
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W66
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W22 (3G)
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M42
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B8i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D33
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony P8
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W140
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D61
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony KT10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B19
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony C42
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T35
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W82
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W82
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W92
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D46
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M40
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony F70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B6
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S111
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D25
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D56
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W68
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZI
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W85
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer ZII
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B7
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W35
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D130
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S101i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W71
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W71i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W150
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT33
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X94
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B2i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B10i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony C102
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D67
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT31
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D21
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D63
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W125
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D66
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony M70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B2
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT02i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W90
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W20
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D46i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S103
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony W60
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT36
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B3
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D54
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony KT15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony XT10
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B4i
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D110
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T44
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT29
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT02
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B45
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B46
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT03
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D80
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B20c
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B35
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Xplorer W50
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony EX70
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D36
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony EX65
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony S90
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony EX82
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony B15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony Z100
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony A95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT04
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT38
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X99
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony EX72
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D62
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony D32
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT15
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X95
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony FT30
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony X110
+    - Added new field: serial_number
+
+  - **Updated phone**: Symphony T20i
+    - Added new field: serial_number
+
+
+---
+
 ## 2025-09-09 19:27:54
 
 ### Summary
