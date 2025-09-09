@@ -4,8 +4,11 @@
     "name": "nio",
     "url": "https://www.mobiledokan.com/mobile-brand/nio",
     "image_url": null,
-    "last_updated": "2025-09-08 05:53:10",
-    "total_phones": 1
+    "last_updated": "2025-09-09 13:14:15",
+    "total_phones": 1,
+    "first_scraped": "2025-09-09 13:14:15",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -133,7 +136,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/nio-phone-2-official-image.webp",
         "https://www.mobiledokan.com/media/nio-phone-2-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:14:15"
     }
   ]
 }

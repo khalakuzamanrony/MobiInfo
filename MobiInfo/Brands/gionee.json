@@ -4,8 +4,11 @@
     "name": "gionee",
     "url": "https://www.mobiledokan.com/mobile-brand/gionee",
     "image_url": null,
-    "last_updated": "2025-09-08 05:53:59",
-    "total_phones": 7
+    "last_updated": "2025-09-09 13:15:12",
+    "total_phones": 7,
+    "first_scraped": "2025-09-09 13:15:12",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -79,7 +82,9 @@
         "https://www.mobiledokan.com/media/geo-r23-light-blue-official-image.webp",
         "https://www.mobiledokan.com/media/geo-r23-red-official-image.webp",
         "https://www.mobiledokan.com/media/geo-r23-green-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_l800",
@@ -154,7 +159,9 @@
         "https://www.mobiledokan.com/media/gionee-l800-grey-image.webp",
         "https://www.mobiledokan.com/media/gionee-l800-grey-image.webp",
         "https://www.mobiledokan.com/media/gionee-l800-grey-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_l910",
@@ -223,7 +230,9 @@
         "https://www.mobiledokan.com/media/gionee-l910-grey-image.webp",
         "https://www.mobiledokan.com/media/gionee-l910-grey-image.webp",
         "https://www.mobiledokan.com/media/gionee-l910-grey-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_p4s",
@@ -331,7 +340,9 @@
         "https://www.mobiledokan.com/media/gionee-p4s-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-p4s-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-p4s-black-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_elife_s7",
@@ -450,7 +461,9 @@
         "https://www.mobiledokan.com/media/gionee-elife-s7-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-elife-s7-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-elife-s7-black-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_pioneer_p6",
@@ -562,7 +575,9 @@
         "https://www.mobiledokan.com/media/gionee-pioneer-p6-black-image.webp",
         "https://www.mobiledokan.com/media/gionee-pioneer-p6-black-image.webp",
         "https://www.mobiledokan.com/media/gionee-pioneer-p6-white-image.webp"
-      ]
+      ],
+      "serial_number": 6,
+      "first_scraped": "2025-09-09 13:15:12"
     },
     {
       "id": "gionee_marathon_m3",
@@ -672,7 +687,9 @@
         "https://www.mobiledokan.com/media/gionee-marathon-m3-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-marathon-m3-white-image.webp",
         "https://www.mobiledokan.com/media/gionee-marathon-m3-white-image.webp"
-      ]
+      ],
+      "serial_number": 7,
+      "first_scraped": "2025-09-09 13:15:12"
     }
   ]
 }

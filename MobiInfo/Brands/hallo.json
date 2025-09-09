@@ -4,8 +4,11 @@
     "name": "hallo",
     "url": "https://www.mobiledokan.com/mobile-brand/hallo",
     "image_url": null,
-    "last_updated": "2025-09-08 05:56:51",
-    "total_phones": 3
+    "last_updated": "2025-09-09 13:17:21",
+    "total_phones": 3,
+    "first_scraped": "2025-09-09 13:17:21",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -64,7 +67,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/hallo-h100-music-official-image.webp",
         "https://www.mobiledokan.com/media/hallo-h100-music-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:17:21"
     },
     {
       "id": "hallo_power",
@@ -126,7 +131,9 @@
         "https://www.mobiledokan.com/media/hallo-power-green-image.webp",
         "https://www.mobiledokan.com/media/hallo-power-green-image.webp",
         "https://www.mobiledokan.com/media/hallo-power-blue-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:17:21"
     },
     {
       "id": "hallo_classic",
@@ -185,7 +192,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/hallo-classic-blue-official-image.webp",
         "https://www.mobiledokan.com/media/hallo-classic-blue-official-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:17:21"
     }
   ]
 }

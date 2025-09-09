@@ -4,8 +4,11 @@
     "name": "oscal",
     "url": "https://www.mobiledokan.com/mobile-brand/oscal",
     "image_url": null,
-    "last_updated": "2025-09-08 05:58:59",
-    "total_phones": 7
+    "last_updated": "2025-09-09 13:19:44",
+    "total_phones": 7,
+    "first_scraped": "2025-09-09 13:19:44",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -131,7 +134,9 @@
         "https://www.mobiledokan.com/media/oscal-pilot-3-orange-official-color-image.webp",
         "https://www.mobiledokan.com/media/oscal-pilot-3-orange-official-color-image.webp",
         "https://www.mobiledokan.com/media/oscal-pilot-3-orange-official-color-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_marine_1",
@@ -259,7 +264,9 @@
         "https://www.mobiledokan.com/media/oscal-marine-1-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-marine-1-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-marine-1-orange-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_pilot_1",
@@ -387,7 +394,9 @@
         "https://www.mobiledokan.com/media/oscal-pilot-1-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-pilot-1-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-pilot-1-orange-official-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_flat_2",
@@ -507,7 +516,9 @@
         "https://www.mobiledokan.com/media/oscal-flat-2-phantom-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-flat-2-ripple-blue-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-flat-2-sky-purple-official-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_flat_2c",
@@ -624,7 +635,9 @@
         "https://www.mobiledokan.com/media/oscal-flat-2c-phantom-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-flat-2c-phantom-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-flat-2c-phantom-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_tiger_13",
@@ -747,7 +760,9 @@
         "https://www.mobiledokan.com/media/oscal-tiger-13-hurricane-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-tiger-13-hurricane-black-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-tiger-13-violet-blue-official-image.webp"
-      ]
+      ],
+      "serial_number": 6,
+      "first_scraped": "2025-09-09 13:19:44"
     },
     {
       "id": "oscal_tiger_10",
@@ -872,7 +887,9 @@
         "https://www.mobiledokan.com/media/oscal-tiger-10-dim-forest-green-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-tiger-10-summer-sky-blue-official-image.webp",
         "https://www.mobiledokan.com/media/oscal-tiger-10-stardust-grey-official-image.webp"
-      ]
+      ],
+      "serial_number": 7,
+      "first_scraped": "2025-09-09 13:19:44"
     }
   ]
 }

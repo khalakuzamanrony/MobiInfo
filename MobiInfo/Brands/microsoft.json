@@ -4,8 +4,11 @@
     "name": "microsoft",
     "url": "https://www.mobiledokan.com/mobile-brand/microsoft",
     "image_url": null,
-    "last_updated": "2025-09-08 05:53:46",
-    "total_phones": 8
+    "last_updated": "2025-09-09 13:14:58",
+    "total_phones": 8,
+    "first_scraped": "2025-09-09 13:14:58",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -132,7 +135,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-950-xl-black-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-950-xl-black-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-950-xl-white-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_950",
@@ -253,7 +258,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-950-front-side-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-950-front-side-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-950-black-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_430_dual_sim",
@@ -364,7 +371,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-430-dual-sim-orange-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-430-dual-sim-orange-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-430-dual-sim-black-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_540_dual_sim",
@@ -478,7 +487,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-540-dual-sim.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-540-dual-sim.webp",
         "https://www.mobiledokan.com/media/14bd0wgc.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_640_xl_dual_sim",
@@ -599,7 +610,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-640-xl-dual-sim-matte-white-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-640-xl-dual-sim-orange-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-640-xl-dual-sim-black-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_435",
@@ -715,7 +728,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-435-white-official-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-435-green-official-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-435-orange-official-image.webp"
-      ]
+      ],
+      "serial_number": 6,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_532_dual_sim",
@@ -823,7 +838,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-532-dual-sim-green-official-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-532-dual-sim-orange-official-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-532-dual-sim-white-official-image.webp"
-      ]
+      ],
+      "serial_number": 7,
+      "first_scraped": "2025-09-09 13:14:58"
     },
     {
       "id": "microsoft_lumia_535_dual_sim",
@@ -944,7 +961,9 @@
         "https://www.mobiledokan.com/media/microsoft-lumia-535-dual-sim-grey-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-535-dual-sim-orange-image.webp",
         "https://www.mobiledokan.com/media/microsoft-lumia-535-dual-sim-white-image.w"
-      ]
+      ],
+      "serial_number": 8,
+      "first_scraped": "2025-09-09 13:14:58"
     }
   ]
 }

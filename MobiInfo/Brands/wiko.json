@@ -4,8 +4,11 @@
     "name": "wiko",
     "url": "https://www.mobiledokan.com/mobile-brand/wiko",
     "image_url": null,
-    "last_updated": "2025-09-08 05:58:57",
-    "total_phones": 1
+    "last_updated": "2025-09-09 13:19:43",
+    "total_phones": 1,
+    "first_scraped": "2025-09-09 13:19:43",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -119,7 +122,9 @@
         "https://www.mobiledokan.com/media/wiko-hi-enjoy-70-ice-blue-official-image.webp",
         "https://www.mobiledokan.com/media/wiko-hi-enjoy-70-snow-white-official-image.webp",
         "https://www.mobiledokan.com/media/wiko-hi-enjoy-70-gold-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:19:43"
     }
   ]
 }

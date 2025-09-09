@@ -4,8 +4,11 @@
     "name": "cubot",
     "url": "https://www.mobiledokan.com/mobile-brand/cubot",
     "image_url": null,
-    "last_updated": "2025-09-08 05:54:34",
-    "total_phones": 7
+    "last_updated": "2025-09-09 13:15:35",
+    "total_phones": 7,
+    "first_scraped": "2025-09-09 13:15:35",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -124,7 +127,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/cubot-kingkong-x-pro-black-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-x-pro-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_kingkong_power_3",
@@ -244,7 +249,9 @@
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_kingkong_star_2",
@@ -370,7 +377,9 @@
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-black-official-image_1.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-black-official-image_1.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-power-3-black-official-image_1.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_a20",
@@ -489,7 +498,9 @@
         "https://www.mobiledokan.com/media/cubot-a20-black-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-a20-black-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-a20-pink-official-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_kingkong_es",
@@ -613,7 +624,9 @@
         "https://www.mobiledokan.com/media/cubot-kingkong-es-blackorange-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-es-blackorange-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-es-blackorange-official-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_kingkong_mini_3",
@@ -731,7 +744,9 @@
         "https://www.mobiledokan.com/media/cubot-kingkong-mini-3-blackred-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-mini-3-blackred-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-kingkong-mini-3-blackred-official-image.webp"
-      ]
+      ],
+      "serial_number": 6,
+      "first_scraped": "2025-09-09 13:15:35"
     },
     {
       "id": "cubot_pocket_3",
@@ -848,7 +863,9 @@
         "https://www.mobiledokan.com/media/cubot-pocket-3-blue-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-pocket-3-black-official-image.webp",
         "https://www.mobiledokan.com/media/cubot-pocket-3-green-official-image.webp"
-      ]
+      ],
+      "serial_number": 7,
+      "first_scraped": "2025-09-09 13:15:35"
     }
   ]
 }

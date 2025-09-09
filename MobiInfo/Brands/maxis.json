@@ -4,8 +4,11 @@
     "name": "maxis",
     "url": "https://www.mobiledokan.com/mobile-brand/maxis",
     "image_url": null,
-    "last_updated": "2025-09-08 05:56:24",
-    "total_phones": 1
+    "last_updated": "2025-09-09 13:16:45",
+    "total_phones": 1,
+    "first_scraped": "2025-09-09 13:16:45",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -100,7 +103,9 @@
         "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
         "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
         "https://www.mobiledokan.com/media/maxis-t10-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:16:45"
     }
   ]
 }

@@ -4,8 +4,11 @@
     "name": "acer",
     "url": "https://www.mobiledokan.com/mobile-brand/acer",
     "image_url": null,
-    "last_updated": "2025-09-08 05:57:12",
-    "total_phones": 2
+    "last_updated": "2025-09-09 13:18:10",
+    "total_phones": 2,
+    "first_scraped": "2025-09-09 13:18:10",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -127,7 +130,9 @@
         "https://www.mobiledokan.com/media/acer-super-zx-carbon-black-official-color-image.webp",
         "https://www.mobiledokan.com/media/acer-super-zx-cosmic-green-official-color-image.webp",
         "https://www.mobiledokan.com/media/acer-super-zx-lunar-blue-official-color-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:18:10"
     },
     {
       "id": "acer_super_zx_pro",
@@ -243,7 +248,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/acer-super-zx-pro-blue-official-image.webp",
         "https://www.mobiledokan.com/media/acer-super-zx-pro-blue-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:18:10"
     }
   ]
 }

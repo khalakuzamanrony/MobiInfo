@@ -4,8 +4,11 @@
     "name": "leitz",
     "url": "https://www.mobiledokan.com/mobile-brand/leitz",
     "image_url": null,
-    "last_updated": "2025-09-08 05:53:03",
-    "total_phones": 1
+    "last_updated": "2025-09-09 13:14:11",
+    "total_phones": 1,
+    "first_scraped": "2025-09-09 13:14:11",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -132,7 +135,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/leitz-phone-1-black-official-image.webp",
         "https://www.mobiledokan.com/media/leitz-phone-1-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:14:11"
     }
   ]
 }

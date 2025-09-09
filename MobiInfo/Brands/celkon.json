@@ -4,8 +4,11 @@
     "name": "celkon",
     "url": "https://www.mobiledokan.com/mobile-brand/celkon",
     "image_url": null,
-    "last_updated": "2025-09-08 05:56:40",
-    "total_phones": 3
+    "last_updated": "2025-09-09 13:17:03",
+    "total_phones": 3,
+    "first_scraped": "2025-09-09 13:17:03",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -81,7 +84,9 @@
         "https://www.mobiledokan.com/media/celkon-c6-star.webp",
         "https://www.mobiledokan.com/media/celkon-c6-star.webp",
         "https://www.mobiledokan.com/media/celkon-c6-star.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:17:03"
     },
     {
       "id": "celkon_c9_jumbo",
@@ -154,7 +159,9 @@
         "https://www.mobiledokan.com/media/celkon-c9-jumbo.webp",
         "https://www.mobiledokan.com/media/celkon-c9-jumbo.webp",
         "https://www.mobiledokan.com/media/celkon-c9-jumbo.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:17:03"
     },
     {
       "id": "celkon_c366",
@@ -228,7 +235,9 @@
         "https://www.mobiledokan.com/media/celkon-c366.webp",
         "https://www.mobiledokan.com/media/celkon-c366.webp",
         "https://www.mobiledokan.com/media/celkon-c366.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:17:03"
     }
   ]
 }

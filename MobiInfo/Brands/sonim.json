@@ -4,8 +4,11 @@
     "name": "sonim",
     "url": "https://www.mobiledokan.com/mobile-brand/sonim",
     "image_url": null,
-    "last_updated": "2025-09-08 05:57:52",
-    "total_phones": 4
+    "last_updated": "2025-09-09 13:18:48",
+    "total_phones": 4,
+    "first_scraped": "2025-09-09 13:18:48",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -127,7 +130,9 @@
         "https://www.mobiledokan.com/media/sonim-xp400-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp400-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp400-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:18:48"
     },
     {
       "id": "sonim_xp100",
@@ -216,7 +221,9 @@
         "https://www.mobiledokan.com/media/sonim-xp100-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp100-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp100-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:18:48"
     },
     {
       "id": "sonim_xp5plus",
@@ -318,7 +325,9 @@
         "https://www.mobiledokan.com/media/sonim-xp5plus-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp5plus-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp5plus-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:18:48"
     },
     {
       "id": "sonim_xp3plus",
@@ -418,7 +427,9 @@
         "https://www.mobiledokan.com/media/sonim-xp3plus-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp3plus-black-official-image.webp",
         "https://www.mobiledokan.com/media/sonim-xp3plus-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:18:48"
     }
   ]
 }

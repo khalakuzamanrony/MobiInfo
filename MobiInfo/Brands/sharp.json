@@ -4,8 +4,11 @@
     "name": "sharp",
     "url": "https://www.mobiledokan.com/mobile-brand/sharp",
     "image_url": null,
-    "last_updated": "2025-09-08 05:58:17",
-    "total_phones": 5
+    "last_updated": "2025-09-09 13:19:07",
+    "total_phones": 5,
+    "first_scraped": "2025-09-09 13:19:07",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -129,7 +132,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/sharp-aquos-r10-cashmere-white-official-color-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-r10-cashmere-white-official-color-image.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:19:07"
     },
     {
       "id": "sharp_aquos_r9_pro",
@@ -251,7 +256,9 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/sharp-aquos-r9-pro-black-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-r9-pro-black-official-image.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:19:07"
     },
     {
       "id": "sharp_aquos_sense9",
@@ -385,7 +392,9 @@
         "https://www.mobiledokan.com/media/sharp-aquos-sense9-coral-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-sense9-greige-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-sense9-blue-official-image.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:19:07"
     },
     {
       "id": "sharp_aquos_r9",
@@ -515,7 +524,9 @@
         "https://www.mobiledokan.com/media/sharp-aquos-r9-snow-white-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-r9-snow-white-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-r9-forest-green-official-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:19:07"
     },
     {
       "id": "sharp_aquos_wish4",
@@ -641,7 +652,9 @@
         "https://www.mobiledokan.com/media/sharp-aquos-wish4-black-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-wish4-blue-official-image.webp",
         "https://www.mobiledokan.com/media/sharp-aquos-wish4-white-official-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:19:07"
     }
   ]
 }

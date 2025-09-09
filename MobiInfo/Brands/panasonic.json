@@ -4,8 +4,11 @@
     "name": "panasonic",
     "url": "https://www.mobiledokan.com/mobile-brand/panasonic",
     "image_url": null,
-    "last_updated": "2025-09-08 05:56:34",
-    "total_phones": 6
+    "last_updated": "2025-09-09 13:17:05",
+    "total_phones": 6,
+    "first_scraped": "2025-09-09 13:17:05",
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 0
   },
   "phones": [
     {
@@ -128,7 +131,9 @@
         "https://www.mobiledokan.com/media/panasonic-eluga-i7-2019-front-side.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-i7-2019-left-side.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-i7-2019-right-side.webp"
-      ]
+      ],
+      "serial_number": 1,
+      "first_scraped": "2025-09-09 13:17:05"
     },
     {
       "id": "panasonic_eluga_ray_800",
@@ -253,7 +258,9 @@
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-800-golden-color.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-800-golden-color.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-800-golden-color.webp"
-      ]
+      ],
+      "serial_number": 2,
+      "first_scraped": "2025-09-09 13:17:05"
     },
     {
       "id": "panasonic_p85_nxt",
@@ -384,7 +391,9 @@
         "https://www.mobiledokan.com/media/panasonic-p85-nxt-gold-color-back.webp",
         "https://www.mobiledokan.com/media/panasonic-p85-nxt-blue-color-back.webp",
         "https://www.mobiledokan.com/media/panasonic-p85-nxt-black-color-back.webp"
-      ]
+      ],
+      "serial_number": 3,
+      "first_scraped": "2025-09-09 13:17:05"
     },
     {
       "id": "panasonic_eluga_ray_530",
@@ -502,7 +511,9 @@
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-530-blue-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-530-blue-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-530-black-image.webp"
-      ]
+      ],
+      "serial_number": 4,
+      "first_scraped": "2025-09-09 13:17:05"
     },
     {
       "id": "panasonic_eluga_ray_600",
@@ -634,7 +645,9 @@
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-600-black-color-official-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-600-black-color-official-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-ray-600-black-color-official-image.webp"
-      ]
+      ],
+      "serial_number": 5,
+      "first_scraped": "2025-09-09 13:17:05"
     },
     {
       "id": "panasonic_eluga_z1_pro",
@@ -768,7 +781,9 @@
         "https://www.mobiledokan.com/media/panasonic-eluga-z1-pro-black-color-official-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-z1-pro-black-color-official-image.webp",
         "https://www.mobiledokan.com/media/panasonic-eluga-z1-pro-blue-color-official-image.webp"
-      ]
+      ],
+      "serial_number": 6,
+      "first_scraped": "2025-09-09 13:17:05"
     }
   ]
 }
