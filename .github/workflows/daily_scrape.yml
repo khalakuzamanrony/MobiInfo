@@ -57,23 +57,46 @@ jobs:
             # If no entry found, use a default message
             if [ -z "$latest_changelog" ]; then
               latest_changelog="No changelog entry found for today."
+              formatted_message="📱 MobiInfo DB Update%0A%0ANo changelog entry found for today."
+            else
+              # Extract date from changelog
+              changelog_date=$(echo "$latest_changelog" | head -n1 | sed 's/^## //')
+              
+              # Extract summary section
+              summary_section=$(echo "$latest_changelog" | sed -n '/### Summary/,/### Detailed Changes/{/### Detailed Changes/!p;}' | grep -E '^- \*\*')
+              
+              # Extract detailed changes (first few brands only to avoid message length limits)
+              detailed_section=$(echo "$latest_changelog" | sed -n '/### Detailed Changes/,$p' | head -n 30)
+              
+              # Format the message with proper structure
+              formatted_message="📱 MobiInfo DB Update%0A%0A${changelog_date}%0A%0A"
+              
+              # Add summary with proper formatting
+              if [ ! -z "$summary_section" ]; then
+                summary_clean=$(echo "$summary_section" | sed 's/\*\*\([^*]*\)\*\*/\1/g' | sed 's/^- /• /')
+                formatted_message="${formatted_message}${summary_clean}%0A%0A"
+              fi
+              
+              # Add details summary header
+              formatted_message="${formatted_message}Details Summary:%0A"
+              
+              # Process detailed changes - clean up markdown and preserve structure
+              if [ ! -z "$detailed_section" ]; then
+                details_clean=$(echo "$detailed_section" | \
+                  sed 's/#### \([^#]*\)/• \1/g' | \
+                  sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
+                  sed 's/\*\([^*]*\)\*/\1/g' | \
+                  sed '/^### Detailed Changes/d' | \
+                  sed 's/^  - /    - /g' | \
+                  sed 's/^    - \*\*\([^*]*\)\*\*/    - \1/g')
+                formatted_message="${formatted_message}${details_clean}"
+              fi
             fi
             
-            # Clean up the changelog content for Telegram
-            # Remove markdown formatting that causes parsing issues
-            clean_changelog=$(echo "$latest_changelog" | \
-              sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
-              sed 's/\*\([^*]*\)\*/\1/g' | \
-              sed 's/###\? //g' | \
-              sed 's/####\? //g' | \
-              tr '\n' ' ' | \
-              sed 's/  */ /g')
+            # URL encode the entire message
+            encoded_message=$(echo -e "$formatted_message" | python3 -c "import sys, urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
             
-            # URL encode the message to handle special characters
-            encoded_message=$(echo "🤖 Latest Mobile Scraper Update: $clean_changelog" | \
-              python3 -c "import sys, urllib.parse; print(urllib.parse.quote(sys.stdin.read().strip()))")
-            
-            # Send to Telegram without parse_mode to avoid parsing issues
+            # Send to Telegram
             curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
               -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
               -d text="$encoded_message"
