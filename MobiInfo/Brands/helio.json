@@ -4,7 +4,7 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2025-09-09 07:45:23",
+    "last_updated": "2025-09-09 09:25:48",
     "total_phones": 14
   },
   "phones": [
@@ -339,6 +339,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP, Wide Angle, Primary Camera, 2 MP Camera",
@@ -349,12 +355,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -475,6 +475,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "108 MP, f1.8, Wide Angle, Primary Camera, 2 MP Macro Camera",
@@ -488,14 +496,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Display flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -620,6 +620,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "108 MP, f1.8, Wide Angle, Primary Camera, 2 MP Macro Camera",
@@ -633,14 +641,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Display flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1485,12 +1485,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -1502,6 +1496,12 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "HDR, Face beauty, Night, Panorama, Professional, Time Lapse, Slow Motion, Smart Scene",
             "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },

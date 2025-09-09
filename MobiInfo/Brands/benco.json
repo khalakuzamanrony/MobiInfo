@@ -4,7 +4,7 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2025-09-09 07:46:43",
+    "last_updated": "2025-09-09 09:27:03",
     "total_phones": 17
   },
   "phones": [
@@ -538,6 +538,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, Camera",
@@ -551,13 +558,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -663,6 +663,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera, 2 MP",
@@ -676,13 +683,6 @@
             "Camera Features": "Filters",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1183,6 +1183,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle Primary Camera, 2 MP, Camera, 2 MP, Camera",
@@ -1196,13 +1203,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {

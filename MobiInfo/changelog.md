@@ -2,6 +2,273 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 15:27:47
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 54
+- **Updated phones**: 4
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### realme
+
+- **New phones**: 18
+- **Updated phones**: 1
+
+  - **Updated phone**: Realme 15T
+    - Added new field: specifications.General.Device Type
+
+  - **New phone**: Realme Note 70 (128GB)
+  - **New phone**: Realme P4
+  - **New phone**: Realme P4 Pro
+  - **New phone**: Realme P4 (256GB)
+  - **New phone**: Realme Note 70T
+  - **New phone**: Realme 15
+  - **New phone**: Realme 15 (256GB)
+  - **New phone**: Realme 15 Pro
+  - **New phone**: Realme 15 Pro (256GB)
+  - **New phone**: Realme 15 Pro (12GB+256GB)
+  - **New phone**: Realme Narzo 80 Lite
+  - **New phone**: Realme GT7 Dream Edition
+  - **New phone**: Realme C73
+  - **New phone**: Realme Neo7 Turbo (512GB)
+  - **New phone**: Realme Neo7 Turbo (16GB+512GB)
+  - **New phone**: Realme Neo7 Turbo
+  - **New phone**: Realme GT 7T
+  - **New phone**: Realme GT 7
+
+#### oppo
+
+- **New phones**: 0
+- **Updated phones**: 1
+
+  - **Updated phone**: Oppo A5i Pro
+    - Added new field: specifications.General.Brand
+    - Added new field: specifications.General.Model
+    - Added new field: specifications.General.Device Type
+    - Added new field: specifications.General.Release Date
+    - Added new field: specifications.General.Status
+
+
+#### oneplus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### infinix
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### samsung
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### tecno
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### apple
+
+- **New phones**: 18
+- **Updated phones**: 1
+
+  - **Updated phone**: Apple iPhone 17 Pro Max
+    - Removed field: specifications.General.Statuss
+
+  - **New phone**: Apple iPhone SE 4
+  - **New phone**: Apple iPhone 16e
+  - **New phone**: Apple iPhone 16e (256GB)
+  - **New phone**: Apple iPhone 16 Pro Max
+  - **New phone**: Apple iPhone 16
+  - **New phone**: Apple iPhone 16 Pro
+  - **New phone**: Apple iPhone 16 Pro Max (512GB SG)
+  - **New phone**: Apple iPhone 16 Pro Max (1TB SG)
+  - **New phone**: Apple iPhone 16 Pro (256GB SG)
+  - **New phone**: Apple iPhone 16 Pro (512GB SG)
+  - **New phone**: Apple iPhone 16 Pro (1TB SG)
+  - **New phone**: Apple iPhone 16 (256GB SG)
+  - **New phone**: Apple iPhone 16 Plus (256GB SG)
+  - **New phone**: Apple iPhone 16 (256GB USA)
+  - **New phone**: Apple iPhone 16 (512GB USA)
+  - **New phone**: Apple iPhone 16 Pro (256GB USA)
+  - **New phone**: Apple iPhone 16 Pro (512GB USA)
+  - **New phone**: Apple iPhone 16 Pro (1TB USA)
+
+#### xiaomi
+
+- **New phones**: 18
+- **Updated phones**: 1
+
+  - **Updated phone**: Xiaomi Poco C85
+    - Added new field: specifications.General.Device Type
+    - Added new field: specifications.General.Release Date
+    - Added new field: specifications.General.Status
+
+  - **New phone**: Xiaomi Redmi 15c (8GB+256GB)
+  - **New phone**: Xiaomi Redmi Note 15 Pro
+  - **New phone**: Xiaomi Redmi Note 15 Pro Plus
+  - **New phone**: Xiaomi Redmi Note 15
+  - **New phone**: Xiaomi Redmi Note 15 (12GB RAM)
+  - **New phone**: Xiaomi Redmi Note 15 Pro (12GB RAM)
+  - **New phone**: Xiaomi Redmi Note 15 Pro Plus (512GB)
+  - **New phone**: Xiaomi Poco M7 Plus
+  - **New phone**: Xiaomi Poco M7 4G
+  - **New phone**: Xiaomi Redmi 15 5G
+  - **New phone**: Xiaomi Redmi 15
+  - **New phone**: Xiaomi Redmi K80 Ultra
+  - **New phone**: Xiaomi Poco F7 (512GB)
+  - **New phone**: Xiaomi Poco F7
+  - **New phone**: Xiaomi Civi 5 Pro
+  - **New phone**: Xiaomi 15S Pro
+  - **New phone**: Xiaomi Civi 5 Pro (512GB)
+  - **New phone**: Xiaomi Civi 5 Pro (16GB+512GB)
+
+#### vivo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nokia
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### helio
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nothing
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### honor
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### lava
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### itel
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### walton
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### symphony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### google
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### asus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### huawei
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### benco
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### ulefone
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### umidigi
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### iqoo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### motorola
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### sony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### lenovo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### meizu
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### zte
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### doogee
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+---
+
 ## 2025-09-09 14:31:21
 
 ### Summary

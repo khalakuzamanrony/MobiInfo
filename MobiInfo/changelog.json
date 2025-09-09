@@ -1,5 +1,540 @@
 [
   {
+    "timestamp": "2025-09-09 15:27:47",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 30,
+      "failed_brands": 0,
+      "new_phones": 54,
+      "updated_phones": 4,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 18,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Realme 15T",
+            "phone_id": "realme_15t",
+            "differences": [
+              "Added new field: specifications.General.Device Type"
+            ]
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Note 70 (128GB)",
+            "phone_id": "realme_note_70_128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme P4",
+            "phone_id": "realme_p4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme P4 Pro",
+            "phone_id": "realme_p4_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme P4 (256GB)",
+            "phone_id": "realme_p4_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Note 70T",
+            "phone_id": "realme_note_70t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 15",
+            "phone_id": "realme_15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 15 (256GB)",
+            "phone_id": "realme_15_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 15 Pro",
+            "phone_id": "realme_15_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 15 Pro (256GB)",
+            "phone_id": "realme_15_pro_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 15 Pro (12GB+256GB)",
+            "phone_id": "realme_15_pro_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Narzo 80 Lite",
+            "phone_id": "realme_narzo_80_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme GT7 Dream Edition",
+            "phone_id": "realme_gt7_dream_edition"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme C73",
+            "phone_id": "realme_c73"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Neo7 Turbo (512GB)",
+            "phone_id": "realme_neo7_turbo_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Neo7 Turbo (16GB+512GB)",
+            "phone_id": "realme_neo7_turbo_16gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Neo7 Turbo",
+            "phone_id": "realme_neo7_turbo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme GT 7T",
+            "phone_id": "realme_gt_7t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme GT 7",
+            "phone_id": "realme_gt_7"
+          }
+        ]
+      },
+      {
+        "brand_id": "oppo",
+        "brand_name": "oppo",
+        "new_phones": 0,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5i Pro",
+            "phone_id": "oppo_a5i_pro",
+            "differences": [
+              "Added new field: specifications.General.Brand",
+              "Added new field: specifications.General.Model",
+              "Added new field: specifications.General.Device Type",
+              "Added new field: specifications.General.Release Date",
+              "Added new field: specifications.General.Status"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "oneplus",
+        "brand_name": "oneplus",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "infinix",
+        "brand_name": "infinix",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "samsung",
+        "brand_name": "samsung",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "tecno",
+        "brand_name": "tecno",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 18,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 17 Pro Max",
+            "phone_id": "apple_iphone_17_pro_max",
+            "differences": [
+              "Removed field: specifications.General.Statuss"
+            ]
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone SE 4",
+            "phone_id": "apple_iphone_se_4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16e",
+            "phone_id": "apple_iphone_16e"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16e (256GB)",
+            "phone_id": "apple_iphone_16e_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro Max",
+            "phone_id": "apple_iphone_16_pro_max"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16",
+            "phone_id": "apple_iphone_16"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro",
+            "phone_id": "apple_iphone_16_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro Max (512GB SG)",
+            "phone_id": "apple_iphone_16_pro_max_512gb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro Max (1TB SG)",
+            "phone_id": "apple_iphone_16_pro_max_1tb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (256GB SG)",
+            "phone_id": "apple_iphone_16_pro_256gb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (512GB SG)",
+            "phone_id": "apple_iphone_16_pro_512gb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (1TB SG)",
+            "phone_id": "apple_iphone_16_pro_1tb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 (256GB SG)",
+            "phone_id": "apple_iphone_16_256gb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Plus (256GB SG)",
+            "phone_id": "apple_iphone_16_plus_256gb_sg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 (256GB USA)",
+            "phone_id": "apple_iphone_16_256gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 (512GB USA)",
+            "phone_id": "apple_iphone_16_512gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (256GB USA)",
+            "phone_id": "apple_iphone_16_pro_256gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (512GB USA)",
+            "phone_id": "apple_iphone_16_pro_512gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro (1TB USA)",
+            "phone_id": "apple_iphone_16_pro_1tb_usa"
+          }
+        ]
+      },
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 18,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Poco C85",
+            "phone_id": "xiaomi_poco_c85",
+            "differences": [
+              "Added new field: specifications.General.Device Type",
+              "Added new field: specifications.General.Release Date",
+              "Added new field: specifications.General.Status"
+            ]
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi 15c (8GB+256GB)",
+            "phone_id": "xiaomi_redmi_15c_8gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15 Pro",
+            "phone_id": "xiaomi_redmi_note_15_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15 Pro Plus",
+            "phone_id": "xiaomi_redmi_note_15_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15",
+            "phone_id": "xiaomi_redmi_note_15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15 (12GB RAM)",
+            "phone_id": "xiaomi_redmi_note_15_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15 Pro (12GB RAM)",
+            "phone_id": "xiaomi_redmi_note_15_pro_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 15 Pro Plus (512GB)",
+            "phone_id": "xiaomi_redmi_note_15_pro_plus_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco M7 Plus",
+            "phone_id": "xiaomi_poco_m7_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco M7 4G",
+            "phone_id": "xiaomi_poco_m7_4g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi 15 5G",
+            "phone_id": "xiaomi_redmi_15_5g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi 15",
+            "phone_id": "xiaomi_redmi_15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi K80 Ultra",
+            "phone_id": "xiaomi_redmi_k80_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco F7 (512GB)",
+            "phone_id": "xiaomi_poco_f7_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco F7",
+            "phone_id": "xiaomi_poco_f7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Civi 5 Pro",
+            "phone_id": "xiaomi_civi_5_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi 15S Pro",
+            "phone_id": "xiaomi_15s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Civi 5 Pro (512GB)",
+            "phone_id": "xiaomi_civi_5_pro_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Civi 5 Pro (16GB+512GB)",
+            "phone_id": "xiaomi_civi_5_pro_16gb512gb"
+          }
+        ]
+      },
+      {
+        "brand_id": "vivo",
+        "brand_name": "vivo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nokia",
+        "brand_name": "nokia",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "helio",
+        "brand_name": "helio",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nothing",
+        "brand_name": "nothing",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "honor",
+        "brand_name": "honor",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "lava",
+        "brand_name": "lava",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "itel",
+        "brand_name": "itel",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "walton",
+        "brand_name": "walton",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "symphony",
+        "brand_name": "symphony",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "google",
+        "brand_name": "google",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "asus",
+        "brand_name": "asus",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "huawei",
+        "brand_name": "huawei",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "benco",
+        "brand_name": "benco",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "ulefone",
+        "brand_name": "ulefone",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "umidigi",
+        "brand_name": "umidigi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "iqoo",
+        "brand_name": "iqoo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "motorola",
+        "brand_name": "motorola",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "sony",
+        "brand_name": "sony",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "lenovo",
+        "brand_name": "lenovo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "meizu",
+        "brand_name": "meizu",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "doogee",
+        "brand_name": "doogee",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 14:31:21",
     "summary": {
       "new_brands": 0,

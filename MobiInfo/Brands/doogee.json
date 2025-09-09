@@ -4,8 +4,8 @@
     "name": "doogee",
     "url": "https://www.mobiledokan.com/mobile-brand/doogee",
     "image_url": null,
-    "last_updated": "2025-09-09 07:48:42",
-    "total_phones": 26
+    "last_updated": "2025-09-09 09:27:47",
+    "total_phones": 20
   },
   "phones": [
     {
@@ -46,6 +46,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.2, Macro Camera",
@@ -59,13 +66,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -300,6 +300,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP, f/1.8, Wide Angle, Primary Camera",
@@ -313,13 +320,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -548,6 +548,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP, f/1.8, Wide Angle, primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, Thermal camera, 160x120 px, 8-14μm",
@@ -561,13 +568,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -678,6 +678,13 @@
           "Features": "Secondary screen on the back:\r\nAMOLED, 1.32 inches, 466 x 466 pixels"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "100 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 2 MP, f/2.4, Macro Camera",
@@ -691,13 +698,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -1066,6 +1066,11 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.9, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1078,11 +1083,6 @@
             "Aperture": "f/1.9",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080"
           }
         },
         "Design": {
@@ -1939,6 +1939,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1951,12 +1957,6 @@
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Primary Camera",
-            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
@@ -2299,12 +2299,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, Wide Angle, Primary Camera",
@@ -2315,6 +2309,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2508,757 +2508,6 @@
         "https://www.mobiledokan.com/media/doogee-v-max-plus-obsidian-black-official-image.webp",
         "https://www.mobiledokan.com/media/doogee-v-max-plus-obsidian-black-official-image.webp",
         "https://www.mobiledokan.com/media/doogee-v-max-plus-pewter-gray-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_s_punk",
-      "name": "Doogee S Punk",
-      "url": "https://www.mobiledokan.com/mobile/doogee-s-punk",
-      "image_url": "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "S Punk",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 20 June 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.58 inches (16.71 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "70.3%",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual-LED flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "178.5 mm",
-          "Width": "83.1 mm",
-          "Thickness": "17.9 mm",
-          "Colors": "Black, Green",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68/IP69K",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "10800 mAh",
-          "Quick Charging": "33W wired",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-back-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-punk-green-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_s_cyber",
-      "name": "Doogee S Cyber",
-      "url": "https://www.mobiledokan.com/mobile/doogee-s-cyber",
-      "image_url": "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "S Cyber",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 10 June 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.58 inches (16.71 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "70.3%",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual-LED flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "178.5 mm",
-          "Width": "83.1 mm",
-          "Thickness": "17.9 mm",
-          "Colors": "Red, Silver",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68/IP69K",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "10800 mAh",
-          "Quick Charging": "18W wired",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-power-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-s-cyber-silver-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_n55_plus",
-      "name": "Doogee N55 Plus",
-      "url": "https://www.mobiledokan.com/mobile/doogee-n55-plus",
-      "image_url": "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "N55 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 01 June 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Unisoc T606",
-          "CPU Cores": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.70 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "83.3 %",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "350 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "5160 x 3872 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "163.8 mm",
-          "Width": "75.8 mm",
-          "Thickness": "8.6 mm",
-          "Weight": "186 grams",
-          "Colors": "Phantom Black, Lightweave Silver"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5150 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Expandable Memory": "Up to 1 TB",
-          "RAM": "8 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Accelerometer",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_dk10",
-      "name": "Doogee DK10",
-      "url": "https://www.mobiledokan.com/mobile/doogee-dk10",
-      "image_url": "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "DK10",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 30 March 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Mediatek Dimensity 8020",
-          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G77 MC9"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "71.1%",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera, 16 MP, f/2.5, Telephoto Camera, 50 MP, f/2.2, Ultra-Wide Angle Camera, 64 MP, f/1.8, Night Vision Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual-LED flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          }
-        },
-        "Design": {
-          "Height": "181.7 mm",
-          "Width": "83.1 mm",
-          "Thickness": "12.7 mm",
-          "Colors": "Leather Black, Orange, Emerald Green, Kevlar Black",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5150 mAh",
-          "Wireless Charging": "50W wireless",
-          "Quick Charging": "120W wired",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "uMCP",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.1",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-back-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-emerald-green-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-dk10-kevlar-black-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_v20s",
-      "name": "Doogee V20S",
-      "url": "https://www.mobiledokan.com/mobile/doogee-v20s",
-      "image_url": "https://www.mobiledokan.com/media/doogee-v20s-orange-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "V20S",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 20 March 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "MediaTek Dimensity 6020",
-          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "7 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.43 inches (16.33 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "410 ppi",
-          "Screen to Body Ratio": "71.32 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "500 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720, 720x480",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.8, Primary Camera, 24 MP f/1.8 Night-Vision Camera, 8 MP f/2.2, Ultra-Wide Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Custom Watermark",
-            "Video Recording": "1920x1080, 1280x720, 720x480",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "170.9 mm",
-          "Width": "81.9 mm",
-          "Thickness": "14 mm",
-          "Colors": "Black, Orange",
-          "Waterproof": "Water resistant",
-          "IP Rating": "IP68, IP69K",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "33W wired",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Expandable Memory": "Up to 2 TB",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.1",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-Mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Video": "1440p, 1080p"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-v20s-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-black-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v20s-orange-official-image.webp"
-      ]
-    },
-    {
-      "id": "doogee_v30t",
-      "name": "Doogee V30T",
-      "url": "https://www.mobiledokan.com/mobile/doogee-v30t",
-      "image_url": "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Doogee",
-          "Model": "V30T",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 01 May 2023",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "Mediatek Dimensity 1080",
-          "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G68 MC4"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.58 inches (16.71 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "70.51 %",
-          "Screen Protection": "Corning Gorilla Glass 5",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "108 MP f/1.8, Wide Angle (90° field-of-view), Primary Camera, 20 MP f/1.8, Wide Angle Camera, 16 MP f/2.2, Wide Angle Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "Quad LED Flash",
-            "Image Resolution": "12000 x 9000 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection,Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720, 720x480",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/1.8, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720, 720x480",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.8"
-          }
-        },
-        "Design": {
-          "Height": "178.4 mm",
-          "Width": "83.1 mm",
-          "Thickness": "17.8 mm",
-          "Weight": "376 grams",
-          "Colors": "Marble Black, Galaxy Grey, Rose Gold",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "10800 mAh",
-          "Quick Charging": "Fast, 66W: 55 % in 30 minutes",
-          "Placement": "Non-removable",
-          "Standby": "Up to 960 Hours(2G)",
-          "Talk Time": "Up to 12 Hours(2G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "Expandable Memory": "Up to 2 TB",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/ac/ax)",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-back.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-side.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp"
       ]
     }
   ]

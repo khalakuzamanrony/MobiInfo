@@ -4,8 +4,8 @@
     "name": "sony",
     "url": "https://www.mobiledokan.com/mobile-brand/sony",
     "image_url": null,
-    "last_updated": "2025-09-09 07:48:37",
-    "total_phones": 32
+    "last_updated": "2025-09-09 09:27:40",
+    "total_phones": 20
   },
   "phones": [
     {
@@ -57,6 +57,13 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.9, Wide Angle, Primary Camera, 48 MP f/2.0, Ultra-Wide Angle Camera, 12 MP f/2.3, Telephoto Camera",
@@ -71,13 +78,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "24 fps, 30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1023,6 +1023,13 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "12 MP, f/1.7, Wide Angle (82° field-of-view), Primary Camera, 12 MP, f/2.3, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 0.3 MP, TOF 3D, (depth)",
@@ -1037,13 +1044,6 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1295,6 +1295,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.6, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.4, Telephoto Camera",
@@ -1310,14 +1318,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1428,14 +1428,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP, f/1.6, Wide Angle (78° field-of-view), Primary Camera, 12 MP, f/2.4, Telephoto Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
@@ -1451,6 +1443,14 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1562,14 +1562,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Wide Angle (76.3° field-of-view), Primary Camera, 8 MP f/2.4, Telephoto Camera",
@@ -1584,6 +1576,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1830,14 +1830,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.2, Primary Camera, 2 MP, f/2.4",
@@ -1851,6 +1843,14 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2233,13 +2233,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "19 MP f/2.0, Wide Angle, Primary Camera, 12 MP Depth Camera",
@@ -2253,6 +2246,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection, Touch to focus",
             "Video Recording": "3840x2160, 1280x720",
             "Video FPS": "30 fps, 960 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2634,14 +2634,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "23 MP, f/2.0, Primary Camera",
@@ -2655,6 +2647,14 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -2724,1530 +2724,6 @@
         "https://www.mobiledokan.com/media/sony-xperia-xa2-black-image.webp",
         "https://www.mobiledokan.com/media/sony-xperia-xa2-blue-image.webp",
         "https://www.mobiledokan.com/media/sony-xperia-xa2-pink-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_l2",
-      "name": "Sony Xperia L2",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-l2",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-      "variants": [
-        {
-          "name": "3GB+32GB",
-          "price": "৳.21,990",
-          "url": "https://www.mobiledokan.com/mobile/sony-xperia-l2"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia L2",
-          "Device Type": "Smartphone",
-          "Release Date": "02 January 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.1 (Nougat)",
-          "Chipset": "MediaTek MT6737T",
-          "CPU": "Quad core, 1.5 GHz, Cortex A53",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T720 MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "71.11 %",
-          "Screen Protection": "Corning Gorilla Glass v4",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0, Primary Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "150 mm",
-          "Width": "78 mm",
-          "Thickness": "9.8 mm",
-          "Weight": "178 grams",
-          "Build": "Glass front (Gorilla Glass 4), plastic back, plastic frame",
-          "Colors": "Black, Gold, Pink"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "3300 mAh",
-          "Quick Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.0",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration; MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-front-side-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-back-side-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-left-side-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-gold-color-official-picture_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l2-pink-color-official-picture_1.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_r1_plus",
-      "name": "Sony Xperia R1 (Plus)",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-r1-plus",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia R1 (Plus)",
-          "Device Type": "Smartphone",
-          "Release Date": "17 November 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.1 (Nougat)",
-          "Chipset": "Qualcomm MSM8937 Snapdragon 430",
-          "CPU": "Octa-core 1.5 GHz Cortex-A53",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Adreno 505"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.2 inches (13.21 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "282 ppi",
-          "Screen to Body Ratio": "69.59 %",
-          "Screen Protection": "Glass front, plastic back, plastic frame",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
-            "Autofocus": "Hybrid autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Front Camera"
-          }
-        },
-        "Design": {
-          "Height": "146 mm",
-          "Width": "73.2 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "154 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Black, Silver"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2620 mAh",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-front-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-r1-plus-silver-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xa1_plus_dual_4gb32gb",
-      "name": "Sony Xperia XA1 Plus Dual (4GB+32GB)",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-plus-dual-4gb-32gb",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XA1 Plus Dual (4GB+32GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "20 October 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.0 (Nougat)",
-          "Chipset": "MediaTek MT6757",
-          "CPU": "Octa core (2.3 GHz, Quad core, Cortex A53 + 1.6 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "16 bit",
-          "Fabrication": "16 nm",
-          "GPU": "Mali-T880 MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "71.57 %",
-          "Screen Protection": "Corning Gorilla Glass 4",
-          "Bezel-less Display": "With waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "23 MP f/2.0, Primary Camera",
-            "Autofocus": "Hybrid autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "5536 x 4152 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Beautify",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "155 mm",
-          "Width": "75 mm",
-          "Thickness": "8.7 mm",
-          "Weight": "189 grams",
-          "Build": "Glass front (Gorilla Glass 4), plastic back, aluminum frame",
-          "Colors": "Black, Blue, Gold"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3430 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 MB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps or LTE (2CA) Cat6 300/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Proximity sensor, Accelerometer, Compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-front-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-back-image_1.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-gold-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-blue-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xz1_compact",
-      "name": "Sony Xperia XZ1 Compact",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1-compact",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZ1 Compact",
-          "Device Type": "Smartphone",
-          "Release Date": "10 October 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0 (Oreo)",
-          "Chipset": "Qualcomm MSM8998 Snapdragon 835",
-          "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "4.6 inches (11.68 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "319 ppi",
-          "Screen to Body Ratio": "69.6%",
-          "Screen Protection": "Corning Gorilla Glass 5",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "19 MP f/2.0, Primary Camera",
-            "Autofocus": "Hybrid autofocus, Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "5000 x 3500 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "8 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Burst mode",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "129 mm",
-          "Width": "65 mm",
-          "Thickness": "9.3 mm",
-          "Weight": "140 grams",
-          "Build": "Glass front (Gorilla Glass 4), plastic back, plastic frame",
-          "Colors": "Black, White Silver, Horizon Blue, Twilight Pink",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "18W wired, QC3",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "UFS 2.0",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat15 800/75 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-font-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-horizon-blue-image-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-twilight-pink-official-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xz1_dual",
-      "name": "Sony Xperia XZ1 Dual",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1-dual",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZ1 Dual",
-          "Device Type": "Smartphone",
-          "Release Date": "24 September 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0",
-          "Chipset": "Qualcomm MSM8998 Snapdragon 835",
-          "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.2 inches",
-          "Resolution": "1080x1920 px (HD+)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "68.6%",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "19 MP f/2.0, Primary Camera",
-            "Autofocus": "Hybrid autofocus, Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "5000 x 3500 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "8 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Beautify",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "148 mm",
-          "Width": "73.4 mm",
-          "Thickness": "7.4 mm",
-          "Weight": "155 grams",
-          "Build": "Back: Aluminium",
-          "Colors": "Black, Warm Silver, Venus Pink, Moonlit Blue",
-          "Waterproof": "Water resistant",
-          "IP Rating": "IP65, IP68"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2700mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Up to 512 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano-SIM, dual stand-by",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat16 1024/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 3.1"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@60fps, 1080p@30fps (gyro-EIS), 720p@960fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-button-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-moonlit-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-venus-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-warm-silver-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xz1",
-      "name": "Sony Xperia XZ1",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.56,900",
-          "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZ1",
-          "Device Type": "Smartphone",
-          "Release Date": "31 August 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0 (Oreo)",
-          "Chipset": "Qualcomm Snapdragon 835 MSM8998",
-          "CPU": "Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.2 inches (13.21 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "68.84 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "19 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor-RS CMOS Sensor",
-            "Autofocus": "Hybrid autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "5000 x 3500 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "8 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "148 mm",
-          "Width": "73 mm",
-          "Thickness": "7.4 mm",
-          "Weight": "155 grams",
-          "Build": "Glass front (Gorilla Glass 5), aluminum back, aluminum frame",
-          "Colors": "Black, Moonlit Blue, Venus Pink, Warm Silver",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP65, IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "18W wired, Quick, v3.0",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.1"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat16 1024/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration; MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@60fps, 1080p@30fps (gyro-EIS), 720p@960fps"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, Barometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-front-side.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-back-side.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-left-side.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-right-side.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-light-pink-color-official-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz1-white-color-official-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xa1_ultra_dual_4gb64gb",
-      "name": "Sony Xperia XA1 Ultra Dual (4GB+64GB)",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-ultra-dual-4gb-64gb",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XA1 Ultra Dual (4GB+64GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "20 July 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.0 (Nougat)",
-          "Chipset": "Mediatek MT6757 Helio P20",
-          "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "16 nm",
-          "GPU": "Mali-T880MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.0 inches (15.24 cm)",
-          "Resolution": "1080x1920 px (HD FULL)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "367 ppi",
-          "Screen to Body Ratio": "76.1%",
-          "Screen Protection": "Corning Gorilla Glass 4",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "23 MP, f/2.0 Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "5520 x 4140 pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "5 x Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Video Recording": "1080p (Full HD)",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0 Primary Camera",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "165 mm",
-          "Width": "79 mm",
-          "Thickness": "8.1 mm",
-          "Weight": "188 grams",
-          "Colors": "White, Black, Gold, Pink"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "Standby": "Up to 658 h (2G) / Up to 708 h (3G)",
-          "Talk Time": "Up to 13 h (2G) / Up to 12 h (3G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano-SIM, dual stand-by",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps, stereo sound rec., HDR",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-button-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-gold-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-white-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_l1_dual_sim",
-      "name": "Sony Xperia L1 Dual SIM",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-l1-dual-sim",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia L1 Dual SIM",
-          "Device Type": "Smartphone",
-          "Release Date": "10 June 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.0",
-          "Chipset": "Mediatek MT6737T",
-          "CPU": "Quad-core 1.45 GHz Cortex-A53.",
-          "CPU Cores": "4 Cores",
-          "Architecture": "32 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T720MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "720x1280 px (HD+)",
-          "Pixel Density": "267 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Yes",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "151 mm",
-          "Width": "74 mm",
-          "Thickness": "8.7 mm",
-          "Weight": "180 grams",
-          "Colors": "White, Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2620 mAh",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "2 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro, SIM2: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "VoLTE",
-          "Speed": "HSPA 21.1/5.76 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "MicroUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "720p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-white-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-white-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-white-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-black-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xz_premium_dual",
-      "name": "Sony Xperia XZ Premium Dual",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz-premium-dual",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZ Premium Dual",
-          "Device Type": "Smartphone",
-          "Release Date": "10 June 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0",
-          "Chipset": "Qualcomm MSM8998 Snapdragon 835",
-          "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.46 inches",
-          "Resolution": "3840x2160 px (FHD+)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "807 ppi",
-          "Screen to Body Ratio": "68.4%",
-          "Screen Protection": "Corning Gorilla Glass 5",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "19 MP, f/2.0 Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Beautify",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0 Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "156 mm",
-          "Width": "77 mm",
-          "Thickness": "7.9 mm",
-          "Weight": "195 grams",
-          "Build": "Back: Aluminium",
-          "Colors": "Luminous Chrome, Deepsea Black, Bronze Pink",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "3230 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.1"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat16 1024/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 3.1"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30fps (gyro-EIS), 720p@960fps, HDR",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, gyro, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-deepsea-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-luminous-chrome-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xa1_ultra_dual",
-      "name": "Sony Xperia XA1 Ultra Dual",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-ultra-dual",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XA1 Ultra Dual",
-          "Device Type": "Smartphone",
-          "Release Date": "07 May 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.0 (Nougat)",
-          "Chipset": "Mediatek MT6757 Helio P20",
-          "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "16 nm",
-          "GPU": "Mali-T880MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.0 inches (15.24 cm)",
-          "Resolution": "1080x1920 px (HD FULL)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "367 ppi",
-          "Screen to Body Ratio": "76.1%",
-          "Screen Protection": "Corning Gorilla Glass 4",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0 Primary Camera",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "23 MP, f/2.0 Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "5520 x 4140 pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "5 x Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Video Recording": "1080p (Full HD)",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "165 mm",
-          "Width": "79 mm",
-          "Thickness": "8.1 mm",
-          "Weight": "188 grams",
-          "Colors": "White, Black, Gold, Pink"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "Standby": "Up to 658 h (2G) / Up to 708 h (3G)",
-          "Talk Time": "Up to 13 h (2G) / Up to 12 h (3G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano-SIM, dual stand-by",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps, stereo sound rec., HDR",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-button-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-gold-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-pink-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-white-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xz",
-      "name": "Sony Xperia XZ",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZ",
-          "Device Type": "Smartphone",
-          "Release Date": "14 April 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v6.0.1 (Marshmallow)",
-          "Chipset": "Qualcomm Snapdragon 820 MSM8996",
-          "CPU": "Quad core (2.15 GHz, Dual core, Kryo + 1.6 GHz, Dual core, Kryo)",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Adreno 530"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.2 inches (13.21 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "70.75 %",
-          "Screen Protection": "Corning Gorilla Glass v4",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "23 MP f/2.0, Primary Camera",
-            "Autofocus": "Hybrid autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "5520 x 4140 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "146 mm",
-          "Width": "72 mm",
-          "Thickness": "8.1 mm",
-          "Weight": "161 grams",
-          "Build": "Glass front (Gorilla Glass 4), aluminum back, aluminum frame",
-          "Colors": "Forest Blue, Mineral Black, Platinum",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP65, IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2900 mAh",
-          "Quick Charging": "18W wired, QC3",
-          "Placement": "Non-removable",
-          "Standby": "Up to 600 h (2G) / Up to 610 h (3G)",
-          "Talk Time": "Up to 11 h 40 min (2G) / Up to 17 h 30 min (3G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Front-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-front-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-platinum-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xz-black-image.webp"
-      ]
-    },
-    {
-      "id": "sony_xperia_xzs_dual",
-      "name": "Sony Xperia XZs Dual",
-      "url": "https://www.mobiledokan.com/mobile/sony-xperia-xzs-dual",
-      "image_url": "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Sony",
-          "Model": "Xperia XZs Dual",
-          "Device Type": "Smartphone",
-          "Release Date": "04 April 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0",
-          "Chipset": "Qualcomm MSM8996 Snapdragon 820",
-          "CPU": "1.6 GHz Kryo",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Adreno 530"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.2 inches",
-          "Resolution": "1080x1920 px (FUII HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "77.48 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "19 MP f/2.0, Primary Camera",
-            "Autofocus": "Hybrid autofocus, Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160 ,1280x720",
-            "Video FPS": "30 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "146 mm",
-          "Width": "72 mm",
-          "Thickness": "8.1 mm",
-          "Weight": "161 grams",
-          "Colors": "Black, Ice Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "2900 mAh",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro, SIM2: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat9 450/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "MicroUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Japan",
-          "Features": "Accelerometer, gyro, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-front-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-back-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-button-side-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
-        "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-black-image.webp"
       ]
     }
   ]

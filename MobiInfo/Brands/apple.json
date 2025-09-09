@@ -4,8 +4,8 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-09 08:31:21",
-    "total_phones": 2
+    "last_updated": "2025-09-09 09:24:37",
+    "total_phones": 20
   },
   "phones": [
     {
@@ -20,8 +20,7 @@
           "Model": "iPhone 17 Pro Max",
           "Device Type": "Smartphone",
           "Release Date": "Not announced yet",
-          "Status": "Rumored",
-          "Statuss": "Rumored"
+          "Status": "Rumored"
         },
         "Hardware & Software": {
           "Operating System": "iOS",
@@ -174,15 +173,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide-Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -197,6 +187,15 @@
             "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -260,6 +259,2780 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_se_4",
+      "name": "Apple iPhone SE 4",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-4",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-4-image_1.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone SE 4",
+          "Device Type": "Smartphone",
+          "Release Date": "Not announced yet",
+          "Status": "Rumored"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v15",
+          "Chipset": "Apple A15 Bionic",
+          "CPU": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Apple GPU (4-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (15.49 cm)",
+          "Resolution": "1170x2532 px (FHD+)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "65.4%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "800 nits",
+          "Refresh Rate": "60 Hz"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "48 MP, f/1.5, Wide Angle, Primary Camera",
+            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.5",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "24 fps, 30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "138.4 mm",
+          "Width": "67.3 mm",
+          "Thickness": "7.3 mm",
+          "Weight": "144 grams",
+          "Build": "Glass Front, Glass Back, Aluminum Frame",
+          "Colors": "Black, Red, White",
+          "Waterproof": "Water resistant (up to 1m for 30 mins)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3279 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "20W wired Dash: 50% charge in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G, EV-DO Rev.A 3.1 Mbps",
+          "SAR Value": "Head: 1.18 W/kg, Body: 1.19 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Front-mounted",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "More": {
+          "Made By": "USA",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-se-4-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16e",
+      "name": "Apple iPhone 16e",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+      "variants": [
+        {
+          "name": "128GB GB",
+          "price": "৳.104,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e"
+        },
+        {
+          "name": "256GB GB",
+          "price": "৳.78,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e-256gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16e",
+          "Device Type": "Smartphone",
+          "Release Date": "28 February 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18.3.1",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core (2x4.04 GHz + 4x2.20 GHz)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (4-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (15.49 cm)",
+          "Resolution": "1170x2532 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "457 ppi",
+          "Screen to Body Ratio": "87.1%",
+          "Screen Protection": "Ceramic Shield Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1200 nits",
+          "HDR 10 / HDR + support": "HDR10"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual-LED dual-tone flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Slo-motion, Video HDR, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "146.7 mm",
+          "Width": "71.5 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "167 grams",
+          "Build": "Glass front, glass back, aluminum frame",
+          "Colors": "Black, White",
+          "Waterproof": "Water resistant (immersible up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4005 mAh",
+          "Wireless Charging": "7.5W wireless (Qi)",
+          "Quick Charging": "Wired, 50% in 30 min",
+          "Reverse Charging": "7.5W wireless (Qi)",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (CA), 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, OIS, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, Emergency SOS, Messages and Find My via satellite"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16e_256gb",
+      "name": "Apple iPhone 16e (256GB)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e-256gb",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image_1.webp",
+      "variants": [
+        {
+          "name": "256GB GB",
+          "price": "৳.78,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e-256gb"
+        },
+        {
+          "name": "128GB GB",
+          "price": "৳.104,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16e (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "28 February 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18.3.1",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core (2x4.04 GHz + 4x2.20 GHz)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (4-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (15.49 cm)",
+          "Resolution": "1170x2532 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "457 ppi",
+          "Screen to Body Ratio": "87.1%",
+          "Screen Protection": "Ceramic Shield Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1200 nits",
+          "HDR 10 / HDR + support": "HDR10"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual-LED dual-tone flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Slo-motion, Video HDR, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "146.7 mm",
+          "Width": "71.5 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "167 grams",
+          "Build": "Glass front, glass back, aluminum frame",
+          "Colors": "Black, White",
+          "Waterproof": "Water resistant (immersible up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4005 mAh",
+          "Wireless Charging": "7.5W wireless (Qi)",
+          "Quick Charging": "Wired, 50% in 30 min",
+          "Reverse Charging": "7.5W wireless (Qi)",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (CA), 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, OIS, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, Emergency SOS, Messages and Find My via satellite"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_max",
+      "name": "Apple iPhone 16 Pro Max",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image.webp",
+      "variants": [
+        {
+          "name": "256GB SG",
+          "price": "৳.205,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max"
+        },
+        {
+          "name": "512GB SG",
+          "price": "৳.236,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-sg"
+        },
+        {
+          "name": "1TB SG",
+          "price": "৳.295,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-sg"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro Max",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18 Pro",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.9 inches (116.3 cm)",
+          "Resolution": "1320x2864 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "91.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "5x optical zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "77.6 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "227 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust Proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion )",
+          "Capacity": "4685 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "20 Wired, PD2.0, 50% in 30 min (advertised)",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5T"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-power-button-side.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-white-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-ima"
+      ]
+    },
+    {
+      "id": "apple_iphone_16",
+      "name": "Apple iPhone 16",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp",
+      "variants": [
+        {
+          "name": "128GB SG",
+          "price": "৳.154,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16"
+        },
+        {
+          "name": "256GB USA",
+          "price": "৳.105,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-usa"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.130,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-512gb-usa"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (91.3 cm2)",
+          "Resolution": "1179x2556 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "461 ppi",
+          "Screen to Body Ratio": "86.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Duel",
+            "Resolution": "48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide-Angle Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "147. 6 mm",
+          "Width": "71.6 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "170 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+          "Colors": "Black, White, Pink, Teal, Ultramarine",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3561mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-side-image.webp",
+        "https://www.mobiledokan.com/media/app",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro",
+      "name": "Apple iPhone 16 Pro",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp",
+      "variants": [
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        },
+        {
+          "name": "256GB USA",
+          "price": "৳.131,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.160,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa"
+        },
+        {
+          "name": "1TB USA",
+          "price": "৳.165,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_max_512gb_sg",
+      "name": "Apple iPhone 16 Pro Max (512GB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+      "variants": [
+        {
+          "name": "512GB SG",
+          "price": "৳.236,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-sg"
+        },
+        {
+          "name": "256GB SG",
+          "price": "৳.205,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max"
+        },
+        {
+          "name": "1TB SG",
+          "price": "৳.295,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-sg"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro Max (512GB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18 Pro",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.9 inches (116.3 cm)",
+          "Resolution": "1320x2864 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "91.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "5x optical zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "77.6 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "227 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion )",
+          "Capacity": "4686 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "20 Wired, PD2.0, 50% in 30 min (advertised)",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5T"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-white-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image_2.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_max_1tb_sg",
+      "name": "Apple iPhone 16 Pro Max (1TB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+      "variants": [
+        {
+          "name": "1TB SG",
+          "price": "৳.295,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-sg"
+        },
+        {
+          "name": "512GB SG",
+          "price": "৳.236,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-sg"
+        },
+        {
+          "name": "256GB SG",
+          "price": "৳.205,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro Max (1TB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18 Pro",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.9 inches (116.3 cm)",
+          "Resolution": "1320x2864 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "91.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "5x optical zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "77.6 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "227 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4686 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "20 Wired, PD2.0, 50% in 30 min (advertised)",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "1 TB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5T"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-white-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image_2.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_256gb_sg",
+      "name": "Apple iPhone 16 Pro (256GB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+      "variants": [
+        {
+          "name": "256GB SG",
+          "price": "৳.207,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-sg"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        },
+        {
+          "name": "512GB SG",
+          "price": "৳.249,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-sg"
+        },
+        {
+          "name": "1TB SG",
+          "price": "৳.319,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-sg"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (256GB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_512gb_sg",
+      "name": "Apple iPhone 16 Pro (512GB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+      "variants": [
+        {
+          "name": "512GB SG",
+          "price": "৳.249,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-sg"
+        },
+        {
+          "name": "256GB SG",
+          "price": "৳.207,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-sg"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        },
+        {
+          "name": "1TB SG",
+          "price": "৳.319,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-sg"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (512GB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_1tb_sg",
+      "name": "Apple iPhone 16 Pro (1TB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+      "variants": [
+        {
+          "name": "1TB SG",
+          "price": "৳.319,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-sg"
+        },
+        {
+          "name": "512GB SG",
+          "price": "৳.249,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-sg"
+        },
+        {
+          "name": "256GB SG",
+          "price": "৳.207,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-sg"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (1TB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "1 TB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_256gb_sg",
+      "name": "Apple iPhone 16 (256GB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_3.webp",
+      "variants": [
+        {
+          "name": "256GB SG",
+          "price": "৳.172,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-sg"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.154,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 (256GB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (91.3 cm2)",
+          "Resolution": "1179x2556 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "461 ppi",
+          "Screen to Body Ratio": "86.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Duel",
+            "Resolution": "48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide-Angle Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "147. 6 mm",
+          "Width": "71.6 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "170 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+          "Colors": "Black, White, Pink, Teal, Ultramarine",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3561 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_3.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_3.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-front-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-right-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_plus_256gb_sg",
+      "name": "Apple iPhone 16 Plus (256GB SG)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-256gb-sg",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_2.webp",
+      "variants": [
+        {
+          "name": "256GB SG",
+          "price": "৳.184,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-256gb-sg"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.164,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.144,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-512gb-usa"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Plus (256GB SG)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core (2x4.04 GHz + 4x2.20 GHz)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1290x2796 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "88.0%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "160.9 mm",
+          "Width": "77.8 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+          "Colors": "Black, White, Pink, Teal, Ultramarine",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4383 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_2.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-white-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-teal-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-plus-ultramarine-official-image_1.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_256gb_usa",
+      "name": "Apple iPhone 16 (256GB USA)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-usa",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+      "variants": [
+        {
+          "name": "256GB USA",
+          "price": "৳.105,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-usa"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.154,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.130,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-512gb-usa"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 (256GB USA)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (91.3 cm2)",
+          "Resolution": "1179x2556 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "461 ppi",
+          "Screen to Body Ratio": "86.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Duel",
+            "Resolution": "48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide-Angle Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "147. 6 mm",
+          "Width": "71.6 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "170 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+          "Colors": "Black, White, Pink, Teal, Ultramarine",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3561 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-front-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-right-side-blus.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_512gb_usa",
+      "name": "Apple iPhone 16 (512GB USA)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-512gb-usa",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+      "variants": [
+        {
+          "name": "512GB USA",
+          "price": "৳.130,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-512gb-usa"
+        },
+        {
+          "name": "256GB USA",
+          "price": "৳.105,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-usa"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.154,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 (512GB USA)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa-core",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "Super Retina XDR OLED",
+          "Screen Size": "6.1 inches (91.3 cm2)",
+          "Resolution": "1179x2556 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "461 ppi",
+          "Screen to Body Ratio": "86.4%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Duel",
+            "Resolution": "48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide-Angle Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "147. 6 mm",
+          "Width": "71.6 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "170 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+          "Colors": "Black, White, Pink, Teal, Ultramarine",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3561 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-back-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_256gb_usa",
+      "name": "Apple iPhone 16 Pro (256GB USA)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+      "variants": [
+        {
+          "name": "256GB USA",
+          "price": "৳.131,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.160,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa"
+        },
+        {
+          "name": "1TB USA",
+          "price": "৳.165,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (256GB USA)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_512gb_usa",
+      "name": "Apple iPhone 16 Pro (512GB USA)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+      "variants": [
+        {
+          "name": "512GB USA",
+          "price": "৳.160,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa"
+        },
+        {
+          "name": "256GB USA",
+          "price": "৳.131,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        },
+        {
+          "name": "1TB USA",
+          "price": "৳.165,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (512GB USA)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
+      ]
+    },
+    {
+      "id": "apple_iphone_16_pro_1tb_usa",
+      "name": "Apple iPhone 16 Pro (1TB USA)",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+      "variants": [
+        {
+          "name": "1TB USA",
+          "price": "৳.165,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-"
+        },
+        {
+          "name": "512GB USA",
+          "price": "৳.160,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa"
+        },
+        {
+          "name": "256GB USA",
+          "price": "৳.131,000",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa"
+        },
+        {
+          "name": "128GB SG",
+          "price": "৳.189,999",
+          "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 16 Pro (1TB USA)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v18",
+          "Chipset": "Apple A18",
+          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (97.2 cm2)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.9%",
+          "Screen Protection": "Ceramic Shield glass (2024 gen)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
+          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3582 mAh",
+          "Wireless Charging": "25W wireless (MagSafe)",
+          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "1 TB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-black-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-white-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
       ]
     }
   ]
