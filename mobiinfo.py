@@ -2094,13 +2094,13 @@ if __name__ == "__main__":
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
-    result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=brand_list,
-        # max_brands=5,  # Limit to first 5 brands from the list
-        max_pages=1,  # Limit to 2 pages per brand
-        max_products=20,  # Limit to 10 products per brand
-        max_workers=10  # Use 3 concurrent workers for faster processing
-    )
+    # result = scraper.scrape_multiple_brands_separate_files(
+    #     brand_inputs=brand_list,
+    #     # max_brands=5,  # Limit to first 5 brands from the list
+    #     max_pages=1,  # Limit to 2 pages per brand
+    #     max_products=20,  # Limit to 10 products per brand
+    #     max_workers=10  # Use 3 concurrent workers for faster processing
+    # )
 
 
     # Test
@@ -2111,6 +2111,16 @@ if __name__ == "__main__":
     #     max_products=2,  # Limit to 10 products per brand
     #     max_workers=3  # Use 3 concurrent workers for faster processing
     # )
+
+
+    # Test
+    result = scraper.scrape_multiple_brands_separate_files(
+        brand_inputs=brand_list,
+        max_brands=3,  # Limit to first 5 brands from the list
+        max_pages=1,  # Limit to 2 pages per brand
+        max_products=2,  # Limit to 10 products per brand
+        max_workers=3  # Use 3 concurrent workers for faster processing
+    )
 
 
 
