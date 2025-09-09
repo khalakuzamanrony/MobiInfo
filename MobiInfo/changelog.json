@@ -1,5 +1,337 @@
 [
   {
+    "timestamp": "2025-09-09 13:48:58",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 30,
+      "failed_brands": 0,
+      "new_phones": 2,
+      "updated_phones": 9,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 0,
+        "updated_phones": 5,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 15 Pro",
+            "phone_id": "xiaomi_redmi_note_15_pro",
+            "differences": [
+              "variants[0]: Changed from '{'name': '8GB+256GB CN', 'price': '৳.32,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}' to '{'name': '8GB+256GB CN', 'price': '৳.29,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 15 Pro Plus",
+            "phone_id": "xiaomi_redmi_note_15_pro_plus",
+            "differences": [
+              "variants[0]: Changed from '{'name': '12GB+256GB CN', 'price': '৳.39,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}' to '{'name': '12GB+256GB CN', 'price': '৳.36,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}'",
+              "variants[1]: Changed from '{'name': '12GB+512GB CN', 'price': '৳.47,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}' to '{'name': '12GB+512GB CN', 'price': '৳.40,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 15 Pro (12GB RAM)",
+            "phone_id": "xiaomi_redmi_note_15_pro_12gb_ram",
+            "differences": [
+              "variants[1]: Changed from '{'name': '8GB+256GB CN', 'price': '৳.32,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}' to '{'name': '8GB+256GB CN', 'price': '৳.29,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 15 Pro Plus (512GB)",
+            "phone_id": "xiaomi_redmi_note_15_pro_plus_512gb",
+            "differences": [
+              "variants[0]: Changed from '{'name': '12GB+512GB CN', 'price': '৳.47,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}' to '{'name': '12GB+512GB CN', 'price': '৳.40,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}'",
+              "variants[1]: Changed from '{'name': '12GB+256GB CN', 'price': '৳.39,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}' to '{'name': '12GB+256GB CN', 'price': '৳.36,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi K80 Ultra",
+            "phone_id": "xiaomi_redmi_k80_ultra",
+            "differences": [
+              "image_url: Changed from 'https://www.mobiledokan.com/media/xiaomi-redmi-k80-ultra-official-image.webp' to 'https://www.mobiledokan.com/media/xiaomi-redmi-k80-ultra-green-official-image.webp'",
+              "specifications.General.Release Date: Changed from 'Not announced yet' to '26 June 2025'",
+              "specifications.General.Status: Changed from 'Rumored' to 'Available'",
+              "specifications.Hardware & Software.User Interface: Changed from 'HyperOS 2.1' to 'HyperOS 2'",
+              "specifications.Cameras.Primary Camera.Camera Setup: Changed from 'Triple' to 'Dual'",
+              "specifications.Cameras.Primary Camera.Resolution: Changed from '50 MP, f/1.7, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera' to '50 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera'",
+              "specifications.Cameras.Primary Camera.Shooting Modes: Changed from 'Continuous Shooting, High Dynamic Range mode (HDR)' to 'Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode'",
+              "specifications.Cameras.Primary Camera.Aperture: Changed from 'f/1.7' to 'f/1.9'",
+              "specifications.Cameras.Selfie Camera.Video FPS: Changed from '30 fps' to '60 fps'",
+              "specifications.Design.IP Rating: Changed from 'IP68/IP69' to 'IP68'",
+              "specifications.Memory.Internal Storage: Changed from '1 TB' to '256 GB'",
+              "specifications.Memory.RAM: Changed from '24 GB' to '12 GB'",
+              "gallery_images: List length changed from 2 to 8"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "infinix",
+        "brand_name": "infinix",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "oppo",
+        "brand_name": "oppo",
+        "new_phones": 2,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Oppo F31",
+            "phone_id": "oppo_f31"
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 4G",
+            "phone_id": "oppo_a5_4g",
+            "differences": [
+              "variants: List length changed from 0 to 2",
+              "Added new field: specifications.Multimedia.Document Reader"
+            ]
+          },
+          {
+            "type": "new",
+            "phone_name": "Oppo A5 4G (8GB RAM)",
+            "phone_id": "oppo_a5_4g_8gb_ram"
+          }
+        ]
+      },
+      {
+        "brand_id": "samsung",
+        "brand_name": "samsung",
+        "new_phones": 0,
+        "updated_phones": 1,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy A17",
+            "phone_id": "samsung_galaxy_a17",
+            "differences": [
+              "specifications.General.Release Date: Changed from 'Exp. 14 August 2025' to '14 August 2025'",
+              "specifications.General.Status: Changed from 'Upcoming' to 'Available'",
+              "specifications.Memory.Internal Storage: Changed from '128 GB' to '256 GB'",
+              "Added new field: specifications.Memory.Storage Type",
+              "specifications.Memory.RAM: Changed from '6 GB' to '8 GB'",
+              "Added new field: specifications.Memory.RAM Type",
+              "Added new field: specifications.Network & Connectivity.SAR Value"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "tecno",
+        "brand_name": "tecno",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "vivo",
+        "brand_name": "vivo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "oneplus",
+        "brand_name": "oneplus",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nokia",
+        "brand_name": "nokia",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "helio",
+        "brand_name": "helio",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nothing",
+        "brand_name": "nothing",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "walton",
+        "brand_name": "walton",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "google",
+        "brand_name": "google",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "honor",
+        "brand_name": "honor",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "symphony",
+        "brand_name": "symphony",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "itel",
+        "brand_name": "itel",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "huawei",
+        "brand_name": "huawei",
+        "new_phones": 0,
+        "updated_phones": 2,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate XT Ultimate (512GB)",
+            "phone_id": "huawei_mate_xt_ultimate_512gb",
+            "differences": [
+              "variants[0]: Changed from '{'name': '16GB+512GB', 'price': '৳.550,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}' to '{'name': '16GB+512GB', 'price': '৳.470,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}'",
+              "variants[1]: Changed from '{'name': '16GB+1TB', 'price': '৳.680,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}' to '{'name': '16GB+1TB', 'price': '৳.490,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate XT Ultimate (1TB)",
+            "phone_id": "huawei_mate_xt_ultimate_1tb",
+            "differences": [
+              "variants[0]: Changed from '{'name': '16GB+1TB', 'price': '৳.680,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}' to '{'name': '16GB+1TB', 'price': '৳.490,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}'",
+              "variants[1]: Changed from '{'name': '16GB+512GB', 'price': '৳.550,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}' to '{'name': '16GB+512GB', 'price': '৳.470,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}'"
+            ]
+          }
+        ]
+      },
+      {
+        "brand_id": "lava",
+        "brand_name": "lava",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "benco",
+        "brand_name": "benco",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "asus",
+        "brand_name": "asus",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "ulefone",
+        "brand_name": "ulefone",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "umidigi",
+        "brand_name": "umidigi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "motorola",
+        "brand_name": "motorola",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "lenovo",
+        "brand_name": "lenovo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "iqoo",
+        "brand_name": "iqoo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "sony",
+        "brand_name": "sony",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "doogee",
+        "brand_name": "doogee",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "meizu",
+        "brand_name": "meizu",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-08 12:35:41",
     "summary": {
       "new_brands": 48,

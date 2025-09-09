@@ -2,6 +2,253 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 13:48:58
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 2
+- **Updated phones**: 9
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### xiaomi
+
+- **New phones**: 0
+- **Updated phones**: 5
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro
+    - variants[0]: Changed from '{'name': '8GB+256GB CN', 'price': '৳.32,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}' to '{'name': '8GB+256GB CN', 'price': '৳.29,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus
+    - variants[0]: Changed from '{'name': '12GB+256GB CN', 'price': '৳.39,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}' to '{'name': '12GB+256GB CN', 'price': '৳.36,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}'
+    - variants[1]: Changed from '{'name': '12GB+512GB CN', 'price': '৳.47,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}' to '{'name': '12GB+512GB CN', 'price': '৳.40,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM)
+    - variants[1]: Changed from '{'name': '8GB+256GB CN', 'price': '৳.32,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}' to '{'name': '8GB+256GB CN', 'price': '৳.29,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro'}'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB)
+    - variants[0]: Changed from '{'name': '12GB+512GB CN', 'price': '৳.47,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}' to '{'name': '12GB+512GB CN', 'price': '৳.40,000', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus-512gb'}'
+    - variants[1]: Changed from '{'name': '12GB+256GB CN', 'price': '৳.39,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}' to '{'name': '12GB+256GB CN', 'price': '৳.36,500', 'url': 'https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-plus'}'
+
+  - **Updated phone**: Xiaomi Redmi K80 Ultra
+    - image_url: Changed from 'https://www.mobiledokan.com/media/xiaomi-redmi-k80-ultra-official-image.webp' to 'https://www.mobiledokan.com/media/xiaomi-redmi-k80-ultra-green-official-image.webp'
+    - specifications.General.Release Date: Changed from 'Not announced yet' to '26 June 2025'
+    - specifications.General.Status: Changed from 'Rumored' to 'Available'
+    - specifications.Hardware & Software.User Interface: Changed from 'HyperOS 2.1' to 'HyperOS 2'
+    - specifications.Cameras.Primary Camera.Camera Setup: Changed from 'Triple' to 'Dual'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '50 MP, f/1.7, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera' to '50 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera'
+    - specifications.Cameras.Primary Camera.Shooting Modes: Changed from 'Continuous Shooting, High Dynamic Range mode (HDR)' to 'Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode'
+    - specifications.Cameras.Primary Camera.Aperture: Changed from 'f/1.7' to 'f/1.9'
+    - specifications.Cameras.Selfie Camera.Video FPS: Changed from '30 fps' to '60 fps'
+    - specifications.Design.IP Rating: Changed from 'IP68/IP69' to 'IP68'
+    - specifications.Memory.Internal Storage: Changed from '1 TB' to '256 GB'
+    - specifications.Memory.RAM: Changed from '24 GB' to '12 GB'
+    - gallery_images: List length changed from 2 to 8
+
+
+#### infinix
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### oppo
+
+- **New phones**: 2
+- **Updated phones**: 1
+
+  - **New phone**: Oppo F31
+  - **Updated phone**: Oppo A5 4G
+    - variants: List length changed from 0 to 2
+    - Added new field: specifications.Multimedia.Document Reader
+
+  - **New phone**: Oppo A5 4G (8GB RAM)
+
+#### samsung
+
+- **New phones**: 0
+- **Updated phones**: 1
+
+  - **Updated phone**: Samsung Galaxy A17
+    - specifications.General.Release Date: Changed from 'Exp. 14 August 2025' to '14 August 2025'
+    - specifications.General.Status: Changed from 'Upcoming' to 'Available'
+    - specifications.Memory.Internal Storage: Changed from '128 GB' to '256 GB'
+    - Added new field: specifications.Memory.Storage Type
+    - specifications.Memory.RAM: Changed from '6 GB' to '8 GB'
+    - Added new field: specifications.Memory.RAM Type
+    - Added new field: specifications.Network & Connectivity.SAR Value
+
+
+#### tecno
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### vivo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### realme
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### apple
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### oneplus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nokia
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### helio
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nothing
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### walton
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### google
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### honor
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### symphony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### itel
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### huawei
+
+- **New phones**: 0
+- **Updated phones**: 2
+
+  - **Updated phone**: Huawei Mate XT Ultimate (512GB)
+    - variants[0]: Changed from '{'name': '16GB+512GB', 'price': '৳.550,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}' to '{'name': '16GB+512GB', 'price': '৳.470,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}'
+    - variants[1]: Changed from '{'name': '16GB+1TB', 'price': '৳.680,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}' to '{'name': '16GB+1TB', 'price': '৳.490,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}'
+
+  - **Updated phone**: Huawei Mate XT Ultimate (1TB)
+    - variants[0]: Changed from '{'name': '16GB+1TB', 'price': '৳.680,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}' to '{'name': '16GB+1TB', 'price': '৳.490,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}'
+    - variants[1]: Changed from '{'name': '16GB+512GB', 'price': '৳.550,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}' to '{'name': '16GB+512GB', 'price': '৳.470,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}'
+
+
+#### lava
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### benco
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### asus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### ulefone
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### umidigi
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### motorola
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### lenovo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### iqoo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### sony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### doogee
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### zte
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### meizu
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+---
+
 ## 2025-09-08 12:35:41
 
 ### Summary

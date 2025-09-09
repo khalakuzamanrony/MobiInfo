@@ -4,7 +4,7 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2025-09-08 05:45:49",
+    "last_updated": "2025-09-09 07:45:23",
     "total_phones": 14
   },
   "phones": [
@@ -1485,6 +1485,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -1496,12 +1502,6 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "HDR, Face beauty, Night, Panorama, Professional, Time Lapse, Slow Motion, Smart Scene",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
