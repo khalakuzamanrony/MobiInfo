@@ -86,13 +86,14 @@ jobs:
                 # Add separator lines after each complete brand section
                 details_clean=$(echo "$details_clean" | \
                   awk '
-                  /^- [a-zA-Z]/ { 
-                    if (NR > 1) print "-----------------------\n"
+                  /^- (xiaomi|realme|apple|samsung|oppo|vivo|oneplus|huawei|honor|poco|redmi|infinix|tecno|itel|walton)$/ { 
+                    if (brand_count > 0) print "-----------------------\n"
                     print $0
+                    brand_count++
                     next
                   }
                   { print }
-                  END { print "-----------------------" }')
+                  END { if (brand_count > 0) print "-----------------------" }')
                 
                 formatted_message="${formatted_message}${details_clean}"
               fi
