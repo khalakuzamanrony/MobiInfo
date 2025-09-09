@@ -62,33 +62,40 @@ jobs:
               # Extract date from changelog
               changelog_date=$(echo "$latest_changelog" | head -n1 | sed 's/^## //')
               
-              # Extract summary section
-              summary_section=$(echo "$latest_changelog" | sed -n '/### Summary/,/### Detailed Changes/{/### Detailed Changes/!p;}' | grep -E '^- \*\*')
+              # Extract summary section and clean it
+              summary_section=$(echo "$latest_changelog" | sed -n '/### Summary/,/### Detailed Changes/{/### Detailed Changes/!p;}' | grep -E '^- \*\*' | sed 's/\*\*\([^*]*\)\*\*/\1/g' | sed 's/^- /• /')
               
               # Extract detailed changes (first few brands only to avoid message length limits)
               detailed_section=$(echo "$latest_changelog" | sed -n '/### Detailed Changes/,$p' | head -n 30)
               
-              # Format the message with proper structure
-              formatted_message="📱 MobiInfo DB Update%0A%0A${changelog_date}%0A%0A"
+              # Start building the message with proper sections
+              # Section 1: Title
+              formatted_message="📱 MobiInfo DB Update%0A%0A"
               
-              # Add summary with proper formatting
+              # Section 2: Date (separated with proper spacing)
+              formatted_message="${formatted_message}${changelog_date}%0A%0A"
+              
+              # Section 3: Summary (with clean formatting)
               if [ ! -z "$summary_section" ]; then
-                summary_clean=$(echo "$summary_section" | sed 's/\*\*\([^*]*\)\*\*/\1/g' | sed 's/^- /• /')
+                # Clean up any remaining formatting issues and ensure proper line breaks
+                summary_clean=$(echo "$summary_section" | sed 's/%0A%0ADetails Summary:%0A//g' | tr '\n' '\n')
                 formatted_message="${formatted_message}${summary_clean}%0A%0A"
               fi
               
-              # Add details summary header
-              formatted_message="${formatted_message}Details Summary:%0A"
+              # Section 4: Details Summary header
+              formatted_message="${formatted_message}Details Summary:%0A%0A"
               
-              # Process detailed changes - clean up markdown and preserve structure
+              # Section 5: Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
                 details_clean=$(echo "$detailed_section" | \
                   sed 's/#### \([^#]*\)/• \1/g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
                   sed 's/\*\([^*]*\)\*/\1/g' | \
                   sed '/^### Detailed Changes/d' | \
-                  sed 's/^  - /    - /g' | \
-                  sed 's/^    - \*\*\([^*]*\)\*\*/    - \1/g')
+                  sed 's/^  - /  - /g' | \
+                  sed 's/^    - \*\*\([^*]*\)\*\*/    - \1/g' | \
+                  sed 's/^$//' | \
+                  sed '/^[[:space:]]*$/d')
                 formatted_message="${formatted_message}${details_clean}"
               fi
             fi
