@@ -2,6 +2,27 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 14:17:36
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### xiaomi
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+---
+
 ## 2025-09-09 13:48:58
 
 ### Summary
