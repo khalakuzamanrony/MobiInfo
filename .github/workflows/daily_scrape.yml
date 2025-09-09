@@ -74,13 +74,26 @@ jobs:
               # Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
                 details_clean=$(echo "$detailed_section" | \
-                  sed 's/#### \([^#]*\)/\n- \1/g' | \
+                  sed 's/#### \([^#]*\)/- \1/g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
                   sed 's/\*\([^*]*\)\*/\1/g' | \
                   sed '/^### Detailed Changes/d' | \
                   sed 's/^  - /- /g' | \
                   sed 's/^    - /  - /g' | \
-                  sed '/^[[:space:]]*$/\n\nd')
+                  sed '/^[[:space:]]*$/d')
+               
+                
+                # Add separator lines after each complete brand section
+                details_clean=$(echo "$details_clean" | \
+                  awk '
+                  /^- [a-zA-Z]/ { 
+                    if (NR > 1) print "-----------------------\n"
+                    print $0
+                    next
+                  }
+                  { print }
+                  END { print "-----------------------" }')
+                
                 formatted_message="${formatted_message}${details_clean}"
               fi
             fi
