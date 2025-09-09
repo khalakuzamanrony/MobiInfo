@@ -4,13 +4,154 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2025-09-09 10:32:26",
-    "total_phones": 223,
+    "last_updated": "2025-09-09 18:01:26",
+    "total_phones": 224,
     "first_scraped": "2025-09-09 10:32:26",
-    "new_phones_this_run": 203,
+    "new_phones_this_run": 1,
     "updated_phones_this_run": 0
   },
   "phones": [
+    {
+      "id": "oppo_f31_pro",
+      "name": "Oppo F31 Pro",
+      "url": "https://www.mobiledokan.com/mobile/oppo-f31-pro",
+      "image_url": "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Oppo",
+          "Model": "F31 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Not announced yet",
+          "Status": "Rumored"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "MediaTek Dimensity 7300 Energy",
+          "CPU": "Octa core (2.5 GHz, Quad core, Cortex A78 + 2 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G615 MC2"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.57 inches (16.69 cm)",
+          "Resolution": "1080x2376 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "88.42%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1400 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Mono Camera",
+            "Autofocus": "Phase Detection Autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "158.2 mm",
+          "Width": "75 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "191 grams",
+          "Build": "Back: Polycarbonate",
+          "Colors": "Gold, Grey",
+          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
+          "IP Rating": "IP66/IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "80W Super VOOC Charging, 100% in 61 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-f31-pro-grey-official-image.webp"
+      ],
+      "first_scraped": "2025-09-09 18:01:26",
+      "last_updated": "2025-09-09 18:01:26"
+    },
     {
       "id": "oppo_k13",
       "name": "Oppo K13",
