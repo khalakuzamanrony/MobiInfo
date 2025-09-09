@@ -1,5 +1,1949 @@
 [
   {
+    "timestamp": "2025-09-09 18:24:57",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 30,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 282,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "oppo",
+        "brand_name": "oppo",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Oppo F31 Pro",
+            "phone_id": "oppo_f31_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13",
+            "phone_id": "oppo_k13",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 (256GB)",
+            "phone_id": "oppo_k13_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8s",
+            "phone_id": "oppo_find_x8s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8s Plus",
+            "phone_id": "oppo_find_x8s_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8 Ultra (16GB+512GB)",
+            "phone_id": "oppo_find_x8_ultra_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8 Ultra",
+            "phone_id": "oppo_find_x8_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F29 Pro 5G",
+            "phone_id": "oppo_f29_pro_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F29 5G",
+            "phone_id": "oppo_f29_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 (China)",
+            "phone_id": "oppo_a5_china",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Energy",
+            "phone_id": "oppo_a5_energy",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Pro (256GB)",
+            "phone_id": "oppo_a5_pro_256gb",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi 15S Pro (1TB)",
+            "phone_id": "xiaomi_15s_pro_1tb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro",
+            "phone_id": "xiaomi_redmi_turbo_4_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro (512GB)",
+            "phone_id": "xiaomi_redmi_turbo_4_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro (16GB+512GB)",
+            "phone_id": "xiaomi_redmi_turbo_4_pro_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Poco C71",
+            "phone_id": "xiaomi_poco_c71",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi 13x",
+            "phone_id": "xiaomi_redmi_13x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Poco F7 Pro",
+            "phone_id": "xiaomi_poco_f7_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Poco F7 Ultra",
+            "phone_id": "xiaomi_poco_f7_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi A5",
+            "phone_id": "xiaomi_redmi_a5",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 14 Pro 4G",
+            "phone_id": "xiaomi_redmi_note_14_pro_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 14 Pro (12GB+512GB)",
+            "phone_id": "xiaomi_redmi_note_14_pro_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Xiaomi Redmi Note 14 Pro",
+            "phone_id": "xiaomi_redmi_note_14_pro",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "vivo",
+        "brand_name": "vivo",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Vivo Y19s Pro",
+            "phone_id": "vivo_y19s_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo Y19s Pro (6GB RAM)",
+            "phone_id": "vivo_y19s_pro_6gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo Y300 GT",
+            "phone_id": "vivo_y300_gt",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo Y19 5G",
+            "phone_id": "vivo_y19_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo T4",
+            "phone_id": "vivo_t4",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo X200 Ultra",
+            "phone_id": "vivo_x200_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo Y37c",
+            "phone_id": "vivo_y37c",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo T4 (256GB)",
+            "phone_id": "vivo_t4_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo X200 Ultra (16GB+512GB)",
+            "phone_id": "vivo_x200_ultra_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo V50 Lite 5G",
+            "phone_id": "vivo_v50_lite_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo X200s",
+            "phone_id": "vivo_x200s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo X200s (512GB)",
+            "phone_id": "vivo_x200s_512gb",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 16 Pro Max (512GB USA)",
+            "phone_id": "apple_iphone_16_pro_max_512gb_usa",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 16 Pro Max (1TB USA)",
+            "phone_id": "apple_iphone_16_pro_max_1tb_usa",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 16 Plus (256GB USA)",
+            "phone_id": "apple_iphone_16_plus_256gb_usa",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 16 Plus (512GB USA)",
+            "phone_id": "apple_iphone_16_plus_512gb_usa",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 16 Plus",
+            "phone_id": "apple_iphone_16_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Pro Max",
+            "phone_id": "apple_iphone_15_pro_max",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Pro Max (512GB)",
+            "phone_id": "apple_iphone_15_pro_max_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Pro Max (1TB)",
+            "phone_id": "apple_iphone_15_pro_max_1tb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Plus (256GB)",
+            "phone_id": "apple_iphone_15_plus_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Plus",
+            "phone_id": "apple_iphone_15_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15 Pro",
+            "phone_id": "apple_iphone_15_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Apple iPhone 15",
+            "phone_id": "apple_iphone_15",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "nokia",
+        "brand_name": "nokia",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Nokia 110 (2023)",
+            "phone_id": "nokia_110_2023",
+            "differences": [
+              "Added new field: specifications.Display.Resolution",
+              "Added new field: specifications.Display.Aspect Ratio",
+              "Added new field: specifications.Display.Pixel Density",
+              "Added new field: specifications.Display.Screen to Body Ratio"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 106 (2023)",
+            "phone_id": "nokia_106_2023",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 105 DS (2023)",
+            "phone_id": "nokia_105_ds_2023",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 105 (2023)",
+            "phone_id": "nokia_105_2023",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 106 DS (2023)",
+            "phone_id": "nokia_106_ds_2023",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 106 4G (2023)",
+            "phone_id": "nokia_106_4g_2023",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia C110",
+            "phone_id": "nokia_c110",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia C12 Pro",
+            "phone_id": "nokia_c12_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia C32",
+            "phone_id": "nokia_c32",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia C22",
+            "phone_id": "nokia_c22",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia C12",
+            "phone_id": "nokia_c12",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Nokia 2780 Flip",
+            "phone_id": "nokia_2780_flip",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Realme C71",
+            "phone_id": "realme_c71",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme C71 (6GB RAM)",
+            "phone_id": "realme_c71_6gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme 14T",
+            "phone_id": "realme_14t",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme 14",
+            "phone_id": "realme_14",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme C75 5G",
+            "phone_id": "realme_c75_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme GT7 (China) (512GB)",
+            "phone_id": "realme_gt7_china_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme GT7 (China)",
+            "phone_id": "realme_gt7_china",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme C75x",
+            "phone_id": "realme_c75x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme Narzo 80x",
+            "phone_id": "realme_narzo_80x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme Narzo 80x (8GB RAM)",
+            "phone_id": "realme_narzo_80x_8gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme Narzo 80 Pro",
+            "phone_id": "realme_narzo_80_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Realme Narzo 80 Pro (256GB)",
+            "phone_id": "realme_narzo_80_pro_256gb",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "oneplus",
+        "brand_name": "oneplus",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "OnePlus 13",
+            "phone_id": "oneplus_13",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus 13 (16GB+512GB)",
+            "phone_id": "oneplus_13_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord 4 (12GB+256GB)",
+            "phone_id": "oneplus_nord_4_12gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord 4 (12GB+512GB)",
+            "phone_id": "oneplus_nord_4_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord 4",
+            "phone_id": "oneplus_nord_4",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord 4 (256GB)",
+            "phone_id": "oneplus_nord_4_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Ace 3 Pro",
+            "phone_id": "oneplus_ace_3_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord CE4 Lite",
+            "phone_id": "oneplus_nord_ce4_lite",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord CE4",
+            "phone_id": "oneplus_nord_ce4",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Nord CE4 (256GB)",
+            "phone_id": "oneplus_nord_ce4_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus Ace 3V",
+            "phone_id": "oneplus_ace_3v",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OnePlus 12R (16GB+256GB)",
+            "phone_id": "oneplus_12r_16gb256gb",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "tecno",
+        "brand_name": "tecno",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark Go 1S",
+            "phone_id": "tecno_spark_go_1s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Phantom V Fold2 Pro",
+            "phone_id": "tecno_phantom_v_fold2_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30",
+            "phone_id": "tecno_spark_30",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30 Pro",
+            "phone_id": "tecno_spark_30_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Camon 30S",
+            "phone_id": "tecno_camon_30s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30C 5G",
+            "phone_id": "tecno_spark_30c_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30 5G",
+            "phone_id": "tecno_spark_30_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Pop 9",
+            "phone_id": "tecno_pop_9",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Pop 9 5G",
+            "phone_id": "tecno_pop_9_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Phantom V Flip2",
+            "phone_id": "tecno_phantom_v_flip2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30C (8GB+256GB)",
+            "phone_id": "tecno_spark_30c_8gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Tecno Spark 30C",
+            "phone_id": "tecno_spark_30c",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "infinix",
+        "brand_name": "infinix",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50 Pro Plus 4G",
+            "phone_id": "infinix_hot_50_pro_plus_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50 4G",
+            "phone_id": "infinix_hot_50_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50",
+            "phone_id": "infinix_hot_50",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50 Pro",
+            "phone_id": "infinix_hot_50_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50 Pro 4G",
+            "phone_id": "infinix_hot_50_pro_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix HOT 50 5G",
+            "phone_id": "infinix_hot_50_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Zero Flip",
+            "phone_id": "infinix_zero_flip",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Hot 50i",
+            "phone_id": "infinix_hot_50i",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Smart 9",
+            "phone_id": "infinix_smart_9",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Smart 9 (4GB+128GB)",
+            "phone_id": "infinix_smart_9_4gb128gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Zero 40",
+            "phone_id": "infinix_zero_40",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Infinix Zero 40 4G",
+            "phone_id": "infinix_zero_40_4g",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "honor",
+        "brand_name": "honor",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V3",
+            "phone_id": "honor_magic_v3",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X5b Plus",
+            "phone_id": "honor_x5b_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X5b",
+            "phone_id": "honor_x5b",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7 Lite",
+            "phone_id": "honor_magic7_lite",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9c Smart",
+            "phone_id": "honor_x9c_smart",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7 RSR Porsche Design",
+            "phone_id": "honor_magic7_rsr_porsche_design",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor GT",
+            "phone_id": "honor_gt",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300 Pro",
+            "phone_id": "honor_300_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300 Ultra",
+            "phone_id": "honor_300_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300",
+            "phone_id": "honor_300",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X7c",
+            "phone_id": "honor_x7c",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7",
+            "phone_id": "honor_magic7",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "google",
+        "brand_name": "google",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 8 Pro (256GB)",
+            "phone_id": "google_pixel_8_pro_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 8 Pro (512GB)",
+            "phone_id": "google_pixel_8_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 8 Pro",
+            "phone_id": "google_pixel_8_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel Fold",
+            "phone_id": "google_pixel_fold",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel Fold (12GB+512GB)",
+            "phone_id": "google_pixel_fold_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7a",
+            "phone_id": "google_pixel_7a",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7 Pro (512GB)",
+            "phone_id": "google_pixel_7_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7",
+            "phone_id": "google_pixel_7",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7 (256GB)",
+            "phone_id": "google_pixel_7_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7 Pro",
+            "phone_id": "google_pixel_7_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 7 Pro (256GB)",
+            "phone_id": "google_pixel_7_pro_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Google Pixel 6A",
+            "phone_id": "google_pixel_6a",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "itel",
+        "brand_name": "itel",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Itel A50 (3GB RAM)",
+            "phone_id": "itel_a50_3gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel A50 (4GB RAM)",
+            "phone_id": "itel_a50_4gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel A50",
+            "phone_id": "itel_a50",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel S24",
+            "phone_id": "itel_s24",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel RS4",
+            "phone_id": "itel_rs4",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel P55T",
+            "phone_id": "itel_p55t",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel P55 Plus",
+            "phone_id": "itel_p55_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel P55 (8GB RAM)",
+            "phone_id": "itel_p55_8gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel P55",
+            "phone_id": "itel_p55",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel 5262 Dual SIM",
+            "phone_id": "itel_5262_dual_sim",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel 5031Dual SIM",
+            "phone_id": "itel_5031dual_sim",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Itel 5361 Dual SIM",
+            "phone_id": "itel_5361_dual_sim",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "walton",
+        "brand_name": "walton",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N72",
+            "phone_id": "walton_nexg_n72",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N25",
+            "phone_id": "walton_nexg_n25",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton Primo E2",
+            "phone_id": "walton_primo_e2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N71 Plus",
+            "phone_id": "walton_nexg_n71_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N8",
+            "phone_id": "walton_nexg_n8",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton Orbit Y70",
+            "phone_id": "walton_orbit_y70",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N71",
+            "phone_id": "walton_nexg_n71",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton NEXG N6 LITE",
+            "phone_id": "walton_nexg_n6_lite",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton XANON X20",
+            "phone_id": "walton_xanon_x20",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton Hello HP50",
+            "phone_id": "walton_hello_hp50",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton Olvio M100",
+            "phone_id": "walton_olvio_m100",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Walton Orbit Y11",
+            "phone_id": "walton_orbit_y11",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "lava",
+        "brand_name": "lava",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Lava Yuva 3",
+            "phone_id": "lava_yuva_3",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Agni 2",
+            "phone_id": "lava_agni_2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Blaze 2",
+            "phone_id": "lava_blaze_2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Yuva 2 Pro",
+            "phone_id": "lava_yuva_2_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Blaze 5G",
+            "phone_id": "lava_blaze_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava A9",
+            "phone_id": "lava_a9",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava A5",
+            "phone_id": "lava_a5",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Benco V7",
+            "phone_id": "lava_benco_v7",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Benco Iris 59",
+            "phone_id": "lava_benco_iris_59",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Iris 61",
+            "phone_id": "lava_iris_61",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Iris 42",
+            "phone_id": "lava_iris_42",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Lava Iris 43",
+            "phone_id": "lava_iris_43",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "samsung",
+        "brand_name": "samsung",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy A36 (8GB+256GB)",
+            "phone_id": "samsung_galaxy_a36_8gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy F56",
+            "phone_id": "samsung_galaxy_f56",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy F56 (256GB)",
+            "phone_id": "samsung_galaxy_f56_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy XCover7 Pro",
+            "phone_id": "samsung_galaxy_xcover7_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy M56",
+            "phone_id": "samsung_galaxy_m56",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy F16 (8GB RAM)",
+            "phone_id": "samsung_galaxy_f16_8gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy F16",
+            "phone_id": "samsung_galaxy_f16",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy A56",
+            "phone_id": "samsung_galaxy_a56",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy A56 (256GB)",
+            "phone_id": "samsung_galaxy_a56_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy A56 (12GB+256GB)",
+            "phone_id": "samsung_galaxy_a56_12gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy M06",
+            "phone_id": "samsung_galaxy_m06",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Samsung Galaxy M16 5G (8GB RAM)",
+            "phone_id": "samsung_galaxy_m16_5g_8gb_ram",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "ulefone",
+        "brand_name": "ulefone",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "umidigi",
+        "brand_name": "umidigi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "helio",
+        "brand_name": "helio",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "benco",
+        "brand_name": "benco",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nothing",
+        "brand_name": "nothing",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "lenovo",
+        "brand_name": "lenovo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "doogee",
+        "brand_name": "doogee",
+        "new_phones": 0,
+        "updated_phones": 6,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Doogee S Punk",
+            "phone_id": "doogee_s_punk",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Doogee S Cyber",
+            "phone_id": "doogee_s_cyber",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Doogee N55 Plus",
+            "phone_id": "doogee_n55_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Doogee DK10",
+            "phone_id": "doogee_dk10",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Doogee V20S",
+            "phone_id": "doogee_v20s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Doogee V30T",
+            "phone_id": "doogee_v30t",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "symphony",
+        "brand_name": "symphony",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Symphony Innova 20",
+            "phone_id": "symphony_innova_20",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Innova 30 (6GB RAM)",
+            "phone_id": "symphony_innova_30_6gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Innova 30",
+            "phone_id": "symphony_innova_30",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Innova 30 (8GB+128GB)",
+            "phone_id": "symphony_innova_30_8gb128gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Z70",
+            "phone_id": "symphony_z70",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony BL102",
+            "phone_id": "symphony_bl102",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony BL98",
+            "phone_id": "symphony_bl98",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony FiRE 30",
+            "phone_id": "symphony_fire_30",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony L280",
+            "phone_id": "symphony_l280",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony L34",
+            "phone_id": "symphony_l34",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Hero 20",
+            "phone_id": "symphony_hero_20",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Symphony Helio 80",
+            "phone_id": "symphony_helio_80",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "meizu",
+        "brand_name": "meizu",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Meizu 16X",
+            "phone_id": "meizu_16x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu V8 Pro",
+            "phone_id": "meizu_v8_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu V8",
+            "phone_id": "meizu_v8",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu 16",
+            "phone_id": "meizu_16",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu 16 Plus",
+            "phone_id": "meizu_16_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu M6T",
+            "phone_id": "meizu_m6t",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu M8c",
+            "phone_id": "meizu_m8c",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu E3",
+            "phone_id": "meizu_e3",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu 15 Lite",
+            "phone_id": "meizu_15_lite",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu 15 Plus",
+            "phone_id": "meizu_15_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu M6s",
+            "phone_id": "meizu_m6s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Meizu M6",
+            "phone_id": "meizu_m6",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "motorola",
+        "brand_name": "motorola",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto G75",
+            "phone_id": "motorola_moto_g75",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola ThinkPhone 25",
+            "phone_id": "motorola_thinkphone_25",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto G35",
+            "phone_id": "motorola_moto_g35",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto S50",
+            "phone_id": "motorola_moto_s50",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Edge 50 Neo",
+            "phone_id": "motorola_edge_50_neo",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto G45",
+            "phone_id": "motorola_moto_g45",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Edge 50",
+            "phone_id": "motorola_edge_50",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola S50 Neo (12GB RAM)",
+            "phone_id": "motorola_s50_neo_12gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola S50 Neo (12GB+512GB)",
+            "phone_id": "motorola_s50_neo_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola S50 Neo",
+            "phone_id": "motorola_s50_neo",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto G85 (12GB+256GB)",
+            "phone_id": "motorola_moto_g85_12gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Motorola Moto G85",
+            "phone_id": "motorola_moto_g85",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "iqoo",
+        "brand_name": "iqoo",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Neo 10R",
+            "phone_id": "vivo_iqoo_neo_10r",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Neo 10R (256GB)",
+            "phone_id": "vivo_iqoo_neo_10r_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Neo 10R (12GB+256GB)",
+            "phone_id": "vivo_iqoo_neo_10r_12gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Z9 Turbo Endurance",
+            "phone_id": "vivo_iqoo_z9_turbo_endurance",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Neo10 Pro (China)",
+            "phone_id": "vivo_iqoo_neo10_pro_china",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Neo10 (China)",
+            "phone_id": "vivo_iqoo_neo10_china",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO 13",
+            "phone_id": "vivo_iqoo_13",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO 13 (512GB)",
+            "phone_id": "vivo_iqoo_13_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Z9 Turbo Plus",
+            "phone_id": "vivo_iqoo_z9_turbo_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Z9 Turbo Plus (16GB RAM)",
+            "phone_id": "vivo_iqoo_z9_turbo_plus_16gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Z9s Pro",
+            "phone_id": "vivo_iqoo_z9s_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Vivo iQOO Z9s (256GB)",
+            "phone_id": "vivo_iqoo_z9s_256gb",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "huawei",
+        "brand_name": "huawei",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate XT Ultimate",
+            "phone_id": "huawei_mate_xt_ultimate",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate XT Ultimate (512GB)",
+            "phone_id": "huawei_mate_xt_ultimate_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate XT Ultimate (1TB)",
+            "phone_id": "huawei_mate_xt_ultimate_1tb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate X5",
+            "phone_id": "huawei_mate_x5",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate 60",
+            "phone_id": "huawei_mate_60",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei nova Flip",
+            "phone_id": "huawei_nova_flip",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Pura 70",
+            "phone_id": "huawei_pura_70",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Pura 70 (512GB)",
+            "phone_id": "huawei_pura_70_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Pura 70 Pro Plus",
+            "phone_id": "huawei_pura_70_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Pura 70 Ultra",
+            "phone_id": "huawei_pura_70_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate 60 Pro Plus",
+            "phone_id": "huawei_mate_60_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Huawei Mate 60 Pro",
+            "phone_id": "huawei_mate_60_pro",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "asus",
+        "brand_name": "asus",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 5s",
+            "phone_id": "asus_rog_phone_5s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 5s (16GB RAM)",
+            "phone_id": "asus_rog_phone_5s_16gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 5",
+            "phone_id": "asus_rog_phone_5",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 5 (256GB)",
+            "phone_id": "asus_rog_phone_5_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 5 (16GB/256GB)",
+            "phone_id": "asus_rog_phone_5_16gb256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 3 Strix",
+            "phone_id": "asus_rog_phone_3_strix",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 3 ZS661KS",
+            "phone_id": "asus_rog_phone_3_zs661ks",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone II ZS660KL",
+            "phone_id": "asus_rog_phone_ii_zs660kl",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 2",
+            "phone_id": "asus_rog_phone_2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus ROG Phone 2 (12GB/512GB)",
+            "phone_id": "asus_rog_phone_2_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus Zenfone 6 ZS630KL",
+            "phone_id": "asus_zenfone_6_zs630kl",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Asus Zenfone 6z",
+            "phone_id": "asus_zenfone_6z",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10 Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V60",
+            "phone_id": "zte_blade_v60",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A75 5G",
+            "phone_id": "zte_blade_a75_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35",
+            "phone_id": "zte_blade_a35",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z60 Ultra Leading",
+            "phone_id": "zte_nubia_z60_ultra_leading",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z60S Pro",
+            "phone_id": "zte_nubia_z60s_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z60S Pro (16GB+512GB)",
+            "phone_id": "zte_nubia_z60s_pro_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A55",
+            "phone_id": "zte_blade_a55",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A75",
+            "phone_id": "zte_blade_a75",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 9S Pro",
+            "phone_id": "zte_nubia_red_magic_9s_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 9S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_9s_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Voyage 3D",
+            "phone_id": "zte_voyage_3d",
+            "differences": []
+          }
+        ]
+      },
+      {
+        "brand_id": "sony",
+        "brand_name": "sony",
+        "new_phones": 0,
+        "updated_phones": 12,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia L2",
+            "phone_id": "sony_xperia_l2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia R1 (Plus)",
+            "phone_id": "sony_xperia_r1_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XA1 Plus Dual (4GB+32GB)",
+            "phone_id": "sony_xperia_xa1_plus_dual_4gb32gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZ1 Compact",
+            "phone_id": "sony_xperia_xz1_compact",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZ1 Dual",
+            "phone_id": "sony_xperia_xz1_dual",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZ1",
+            "phone_id": "sony_xperia_xz1",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XA1 Ultra Dual (4GB+64GB)",
+            "phone_id": "sony_xperia_xa1_ultra_dual_4gb64gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia L1 Dual SIM",
+            "phone_id": "sony_xperia_l1_dual_sim",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZ Premium Dual",
+            "phone_id": "sony_xperia_xz_premium_dual",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XA1 Ultra Dual",
+            "phone_id": "sony_xperia_xa1_ultra_dual",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZ",
+            "phone_id": "sony_xperia_xz",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Sony Xperia XZs Dual",
+            "phone_id": "sony_xperia_xzs_dual",
+            "differences": []
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 18:15:49",
     "summary": {
       "new_brands": 0,
