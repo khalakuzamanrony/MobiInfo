@@ -27,8 +27,6 @@ function calculateMobiInfoStats() {
         let totalPhones = 0;
         const brandDetails = [];
         
-        console.log('📊 Calculating MobiInfo Statistics...\n');
-        
         // Process each brand file
         jsonFiles.forEach(file => {
             try {
@@ -50,8 +48,6 @@ function calculateMobiInfoStats() {
                         lastUpdated: lastUpdated,
                         file: file
                     });
-                    
-                    console.log(`✅ ${brandName.padEnd(15)} | ${phoneCount.toString().padStart(3)} phones | Updated: ${lastUpdated}`);
                 } else {
                     console.log(`⚠️  Invalid format in ${file}`);
                 }
@@ -68,26 +64,16 @@ function calculateMobiInfoStats() {
         console.log('='.repeat(70));
         console.log(`📱 Total Brands: ${totalBrands}`);
         console.log(`📞 Total Phones: ${totalPhones}`);
-        console.log(`📊 Average Phones per Brand: ${(totalPhones / totalBrands).toFixed(1)}`);
         console.log('='.repeat(70));
         
-        // Show top 10 brands by phone count
-        console.log('\n🏆 TOP 10 BRANDS BY PHONE COUNT:');
+        // Show all brands by phone count
+        console.log('\n🏆 BRANDS BY PHONE COUNT:');
         console.log('-'.repeat(50));
-        brandDetails.slice(0, 10).forEach((brand, index) => {
+        brandDetails.forEach((brand, index) => {
             const rank = (index + 1).toString().padStart(2);
             const name = brand.name.padEnd(15);
             const phones = brand.phones.toString().padStart(3);
-            console.log(`${rank}. ${name} | ${phones} phones`);
-        });
-        
-        // Show brands with least phones
-        console.log('\n📉 BRANDS WITH FEWEST PHONES:');
-        console.log('-'.repeat(50));
-        brandDetails.slice(-5).reverse().forEach((brand, index) => {
-            const name = brand.name.padEnd(15);
-            const phones = brand.phones.toString().padStart(3);
-            console.log(`   ${name} | ${phones} phones`);
+            console.log(`${rank}. ${name} | ${phones} phones | Last Update: ${brand.lastUpdated}`);
         });
         
         // Save detailed report to JSON file
@@ -96,7 +82,6 @@ function calculateMobiInfoStats() {
             summary: {
                 totalBrands: totalBrands,
                 totalPhones: totalPhones,
-                averagePhonesPerBrand: parseFloat((totalPhones / totalBrands).toFixed(1))
             },
             brandDetails: brandDetails
         };

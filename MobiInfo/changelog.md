@@ -2,6 +2,504 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 17:45:35
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 478
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### symphony
+
+- **New phones**: 478
+
+  - **New phone**: Symphony Innova 20
+  - **New phone**: Symphony Innova 30 (6GB RAM)
+  - **New phone**: Symphony Innova 30
+  - **New phone**: Symphony Innova 30 (8GB+128GB)
+  - **New phone**: Symphony Z70
+  - **New phone**: Symphony BL102
+  - **New phone**: Symphony BL98
+  - **New phone**: Symphony FiRE 30
+  - **New phone**: Symphony L280
+  - **New phone**: Symphony L34
+  - **New phone**: Symphony Hero 20
+  - **New phone**: Symphony Helio 80
+  - **New phone**: Symphony ATOM 4
+  - **New phone**: Symphony X121
+  - **New phone**: Symphony G26
+  - **New phone**: Symphony Z60 Plus
+  - **New phone**: Symphony SL100
+  - **New phone**: Symphony D43
+  - **New phone**: Symphony Innova 10
+  - **New phone**: Symphony Innova 10 (128GB)
+  - **New phone**: Symphony Z60
+  - **New phone**: Symphony Z60 (4GB RAM)
+  - **New phone**: Symphony SL75
+  - **New phone**: Symphony SL70
+  - **New phone**: Symphony S70
+  - **New phone**: Symphony i96
+  - **New phone**: Symphony B70
+  - **New phone**: Symphony T93
+  - **New phone**: Symphony D89
+  - **New phone**: Symphony Theater 20
+  - **New phone**: Symphony i73
+  - **New phone**: Symphony L47
+  - **New phone**: Symphony Z47
+  - **New phone**: Symphony ATOM 3
+  - **New phone**: Symphony i85
+  - **New phone**: Symphony L145
+  - **New phone**: Symphony L136
+  - **New phone**: Symphony S30
+  - **New phone**: Symphony V139
+  - **New phone**: Symphony A30
+  - **New phone**: Symphony B62
+  - **New phone**: Symphony Z42 Pro
+  - **New phone**: Symphony Helio 30
+  - **New phone**: Symphony Helio30
+  - **New phone**: Symphony BL60
+  - **New phone**: Symphony Z55
+  - **New phone**: Symphony Z55 (128GB)
+  - **New phone**: Symphony V138 Lite
+  - **New phone**: Symphony EVO 10
+  - **New phone**: Symphony i71
+  - **New phone**: Symphony G50
+  - **New phone**: Symphony Z42
+  - **New phone**: Symphony i80
+  - **New phone**: Symphony Z45
+  - **New phone**: Symphony V138
+  - **New phone**: Symphony PD1 4G
+  - **New phone**: Symphony Z22
+  - **New phone**: Symphony B12 Plus
+  - **New phone**: Symphony L43
+  - **New phone**: Symphony L44
+  - **New phone**: Symphony D76
+  - **New phone**: Symphony L33
+  - **New phone**: Symphony BL99
+  - **New phone**: Symphony i69
+  - **New phone**: Symphony S45
+  - **New phone**: Symphony i32
+  - **New phone**: Symphony Z33
+  - **New phone**: Symphony G10 Plus
+  - **New phone**: Symphony D48
+  - **New phone**: Symphony B69
+  - **New phone**: Symphony D78
+  - **New phone**: Symphony ATOM II
+  - **New phone**: Symphony ATOM
+  - **New phone**: Symphony L95
+  - **New phone**: Symphony Z35 (4GB+64GB)
+  - **New phone**: Symphony Z35
+  - **New phone**: Symphony L46
+  - **New phone**: Symphony D47
+  - **New phone**: Symphony Z40
+  - **New phone**: Symphony Z32
+  - **New phone**: Symphony Z18
+  - **New phone**: Symphony L270
+  - **New phone**: Symphony L140
+  - **New phone**: Symphony T140
+  - **New phone**: Symphony B67
+  - **New phone**: Symphony T180
+  - **New phone**: Symphony Z30 Pro
+  - **New phone**: Symphony L260
+  - **New phone**: Symphony D74
+  - **New phone**: Symphony D82
+  - **New phone**: Symphony T92
+  - **New phone**: Symphony L135
+  - **New phone**: Symphony i98
+  - **New phone**: Symphony V99 Plus
+  - **New phone**: Symphony i99
+  - **New phone**: Symphony i12
+  - **New phone**: Symphony D72
+  - **New phone**: Symphony Z28
+  - **New phone**: Symphony Z30
+  - **New phone**: Symphony L45
+  - **New phone**: Symphony B68
+  - **New phone**: Symphony G10
+  - **New phone**: Symphony i66
+  - **New phone**: Symphony Z16
+  - **New phone**: Symphony S99
+  - **New phone**: Symphony BL120
+  - **New phone**: Symphony Z50
+  - **New phone**: Symphony i67
+  - **New phone**: Symphony B24
+  - **New phone**: Symphony V102
+  - **New phone**: Symphony i30
+  - **New phone**: Symphony B26
+  - **New phone**: Symphony D92
+  - **New phone**: Symphony i74
+  - **New phone**: Symphony Z25
+  - **New phone**: Symphony Z12
+  - **New phone**: Symphony BL96
+  - **New phone**: Symphony V105
+  - **New phone**: Symphony Z20
+  - **New phone**: Symphony L250i
+  - **New phone**: Symphony B66
+  - **New phone**: Symphony E95
+  - **New phone**: Symphony D40i
+  - **New phone**: Symphony i68
+  - **New phone**: Symphony S40
+  - **New phone**: Symphony FT06
+  - **New phone**: Symphony L20
+  - **New phone**: Symphony V99
+  - **New phone**: Symphony L130
+  - **New phone**: Symphony L42
+  - **New phone**: Symphony SL20
+  - **New phone**: Symphony i97
+  - **New phone**: Symphony D41
+  - **New phone**: Symphony BL97
+  - **New phone**: Symphony D37
+  - **New phone**: Symphony B65
+  - **New phone**: Symphony i18
+  - **New phone**: Symphony Z15
+  - **New phone**: Symphony V141
+  - **New phone**: Symphony B60
+  - **New phone**: Symphony i65
+  - **New phone**: Symphony R40
+  - **New phone**: Symphony D54i
+  - **New phone**: Symphony L250
+  - **New phone**: Symphony i72
+  - **New phone**: Symphony D52 Plus
+  - **New phone**: Symphony D54 Plus
+  - **New phone**: Symphony S250
+  - **New phone**: Symphony L55i
+  - **New phone**: Symphony L52
+  - **New phone**: Symphony V128
+  - **New phone**: Symphony V142
+  - **New phone**: Symphony D10
+  - **New phone**: Symphony D101
+  - **New phone**: Symphony i95
+  - **New phone**: Symphony V97
+  - **New phone**: Symphony D38i
+  - **New phone**: Symphony B17i
+  - **New phone**: Symphony V94
+  - **New phone**: Symphony V155
+  - **New phone**: Symphony L40
+  - **New phone**: Symphony BL95
+  - **New phone**: Symphony V145
+  - **New phone**: Symphony V98
+  - **New phone**: Symphony L62
+  - **New phone**: Symphony i120
+  - **New phone**: Symphony i15
+  - **New phone**: Symphony G100
+  - **New phone**: Symphony V135
+  - **New phone**: Symphony i75
+  - **New phone**: Symphony Roar V150
+  - **New phone**: Symphony V140
+  - **New phone**: Symphony P11
+  - **New phone**: Symphony i110
+  - **New phone**: Symphony B12i
+  - **New phone**: Symphony L65j
+  - **New phone**: Symphony T130
+  - **New phone**: Symphony INOVA
+  - **New phone**: Symphony T85
+  - **New phone**: Symphony V75m
+  - **New phone**: Symphony Roar V95
+  - **New phone**: Symphony R30
+  - **New phone**: Symphony V90
+  - **New phone**: Symphony i10
+  - **New phone**: Symphony i10 Plus
+  - **New phone**: Symphony P8 Pro
+  - **New phone**: Symphony E30
+  - **New phone**: Symphony L65
+  - **New phone**: Symphony T110
+  - **New phone**: Symphony D68
+  - **New phone**: Symphony P9
+  - **New phone**: Symphony T105
+  - **New phone**: Symphony i21
+  - **New phone**: Symphony V47
+  - **New phone**: Symphony D91
+  - **New phone**: Symphony D105
+  - **New phone**: Symphony Xplorer i25
+  - **New phone**: Symphony V110
+  - **New phone**: Symphony V65
+  - **New phone**: Symphony E62
+  - **New phone**: Symphony Xplorer ZVI
+  - **New phone**: Symphony V42
+  - **New phone**: Symphony Xplorer ZVIII
+  - **New phone**: Symphony V34
+  - **New phone**: Symphony L300
+  - **New phone**: Symphony S50
+  - **New phone**: Symphony R100 (3GB RAM)
+  - **New phone**: Symphony R100
+  - **New phone**: Symphony Roar E80
+  - **New phone**: Symphony R20
+  - **New phone**: Symphony R2
+  - **New phone**: Symphony i50
+  - **New phone**: Symphony P7
+  - **New phone**: Symphony L17
+  - **New phone**: Symphony Xplorer H300
+  - **New phone**: Symphony L56i
+  - **New phone**: Symphony BL20
+  - **New phone**: Symphony H60
+  - **New phone**: Symphony V32
+  - **New phone**: Symphony L23
+  - **New phone**: Symphony D22
+  - **New phone**: Symphony M95
+  - **New phone**: Symphony Xplorer ZVII
+  - **New phone**: Symphony Xplorer ZVII (3GB RAM)
+  - **New phone**: Symphony Xplorer P6 PRO (3GB RAM)
+  - **New phone**: Symphony Xplorer i10
+  - **New phone**: Symphony V46
+  - **New phone**: Symphony i20
+  - **New phone**: Symphony Xplorer H400
+  - **New phone**: Symphony Xplorer i20
+  - **New phone**: Symphony Xplorer i20 (2GB RAM)
+  - **New phone**: Symphony V46 (C)
+  - **New phone**: Symphony Xplorer E58
+  - **New phone**: Symphony V100
+  - **New phone**: Symphony  E12
+  - **New phone**: Symphony L16
+  - **New phone**: Symphony L50
+  - **New phone**: Symphony D52
+  - **New phone**: Symphony Roar E79
+  - **New phone**: Symphony A88V
+  - **New phone**: Symphony Xplorer V75
+  - **New phone**: Symphony B17
+  - **New phone**: Symphony B13i
+  - **New phone**: Symphony D19
+  - **New phone**: Symphony D55i
+  - **New phone**: Symphony V85
+  - **New phone**: Symphony H175
+  - **New phone**: Symphony D120
+  - **New phone**: Symphony Xplorer V85
+  - **New phone**: Symphony Xplorer P6 PRO
+  - **New phone**: Symphony D140
+  - **New phone**: Symphony Xplorer V49
+  - **New phone**: Symphony H58
+  - **New phone**: Symphony BL65
+  - **New phone**: Symphony D18
+  - **New phone**: Symphony M150
+  - **New phone**: Symphony Xplorer E7
+  - **New phone**: Symphony Xplorer E78
+  - **New phone**: Symphony Xplorer H120
+  - **New phone**: Symphony H120
+  - **New phone**: Symphony H250
+  - **New phone**: Symphony L24
+  - **New phone**: Symphony Xplorer V28
+  - **New phone**: Symphony A10
+  - **New phone**: Symphony BL46
+  - **New phone**: Symphony D57
+  - **New phone**: Symphony Xplorer V45
+  - **New phone**: Symphony Xplorer E25
+  - **New phone**: Symphony Xplorer ZV Pro
+  - **New phone**: Symphony V52
+  - **New phone**: Symphony M70i
+  - **New phone**: Symphony D115
+  - **New phone**: Symphony L18
+  - **New phone**: Symphony D52i
+  - **New phone**: Symphony E60
+  - **New phone**: Symphony E10
+  - **New phone**: Symphony Xplorer P6
+  - **New phone**: Symphony Xplorer P6 (2GB RAM)
+  - **New phone**: Symphony FT37i
+  - **New phone**: Symphony m1
+  - **New phone**: Symphony X101
+  - **New phone**: Symphony M85
+  - **New phone**: Symphony Xplorer V80
+  - **New phone**: Symphony D23
+  - **New phone**: Symphony M90
+  - **New phone**: Symphony Xplorer E5
+  - **New phone**: Symphony T150
+  - **New phone**: Symphony Xplorer V60
+  - **New phone**: Symphony Xplorer V60 (1GB RAM)
+  - **New phone**: Symphony D65
+  - **New phone**: Symphony D53i
+  - **New phone**: Symphony Xplorer V70
+  - **New phone**: Symphony Xplorer V30
+  - **New phone**: Symphony C101
+  - **New phone**: Symphony D150
+  - **New phone**: Symphony D34
+  - **New phone**: Symphony D65i
+  - **New phone**: Symphony V70
+  - **New phone**: Symphony B13
+  - **New phone**: Symphony Xplorer H200
+  - **New phone**: Symphony Xplorer E50
+  - **New phone**: Symphony Xplorer V55
+  - **New phone**: Symphony Xplorer ZV
+  - **New phone**: Symphony Roar A50
+  - **New phone**: Symphony B14
+  - **New phone**: Symphony Xplorer H50
+  - **New phone**: Symphony Xplorer W75
+  - **New phone**: Symphony X111
+  - **New phone**: Symphony S100
+  - **New phone**: Symphony Xplorer GoFox F15
+  - **New phone**: Symphony T50
+  - **New phone**: Symphony A86v
+  - **New phone**: Symphony B12
+  - **New phone**: Symphony X115
+  - **New phone**: Symphony D20
+  - **New phone**: Symphony Xplorer W67
+  - **New phone**: Symphony Xplorer W19
+  - **New phone**: Symphony Xplorer W94
+  - **New phone**: Symphony Xplorer P10
+  - **New phone**: Symphony Xplorer P5
+  - **New phone**: Symphony B5
+  - **New phone**: Symphony B25
+  - **New phone**: Symphony D64
+  - **New phone**: Symphony T55i
+  - **New phone**: Symphony BL40
+  - **New phone**: Symphony L22
+  - **New phone**: Symphony S101
+  - **New phone**: Symphony Xplorer ZIV
+  - **New phone**: Symphony Xplorer H100
+  - **New phone**: Symphony L25
+  - **New phone**: Symphony Play W17
+  - **New phone**: Symphony W18
+  - **New phone**: Symphony T80
+  - **New phone**: Symphony B3i
+  - **New phone**: Symphony Xplorer W68Q
+  - **New phone**: Symphony Xplorer W95
+  - **New phone**: Symphony W31
+  - **New phone**: Symphony S200
+  - **New phone**: Symphony Xplorer W15i
+  - **New phone**: Symphony Xplorer W70Q (1GB RAM)
+  - **New phone**: Symphony Xplorer W70Q
+  - **New phone**: Symphony A86
+  - **New phone**: Symphony B5i
+  - **New phone**: Symphony B10
+  - **New phone**: Symphony Xplorer W160
+  - **New phone**: Symphony M44
+  - **New phone**: Symphony D31i
+  - **New phone**: Symphony Xplorer W91
+  - **New phone**: Symphony Xplorer W86
+  - **New phone**: Symphony Xplorer W69Q
+  - **New phone**: Symphony Xplorer W69Q (1GB RAM)
+  - **New phone**: Symphony D125
+  - **New phone**: Symphony D35
+  - **New phone**: Symphony F100
+  - **New phone**: Symphony D26
+  - **New phone**: Symphony ZIII
+  - **New phone**: Symphony Xplorer W65i
+  - **New phone**: Symphony Xplorer W21
+  - **New phone**: Symphony D58
+  - **New phone**: Symphony Xplorer W128
+  - **New phone**: Symphony Xplorer W69
+  - **New phone**: Symphony A70
+  - **New phone**: Symphony Xplorer ZIII
+  - **New phone**: Symphony B9
+  - **New phone**: Symphony Xplorer W66
+  - **New phone**: Symphony W22 (3G)
+  - **New phone**: Symphony D60
+  - **New phone**: Symphony Xplorer W72
+  - **New phone**: Symphony M42
+  - **New phone**: Symphony B8i
+  - **New phone**: Symphony W72
+  - **New phone**: Symphony D33
+  - **New phone**: Symphony P8
+  - **New phone**: Symphony Xplorer W140
+  - **New phone**: Symphony D61
+  - **New phone**: Symphony KT10
+  - **New phone**: Symphony B19
+  - **New phone**: Symphony C42
+  - **New phone**: Symphony T35
+  - **New phone**: Symphony Xplorer W10
+  - **New phone**: Symphony W82
+  - **New phone**: Symphony Xplorer W25
+  - **New phone**: Symphony Xplorer W82
+  - **New phone**: Symphony B30
+  - **New phone**: Symphony FT40
+  - **New phone**: Symphony W92
+  - **New phone**: Symphony D46
+  - **New phone**: Symphony M40
+  - **New phone**: Symphony F70
+  - **New phone**: Symphony M60
+  - **New phone**: Symphony B6
+  - **New phone**: Symphony S111
+  - **New phone**: Symphony D25
+  - **New phone**: Symphony M50
+  - **New phone**: Symphony D56
+  - **New phone**: Symphony A100
+  - **New phone**: Symphony W68
+  - **New phone**: Symphony Xplorer ZI
+  - **New phone**: Symphony W65
+  - **New phone**: Symphony Xplorer W85
+  - **New phone**: Symphony Xplorer ZII
+  - **New phone**: Symphony W32
+  - **New phone**: Symphony B7
+  - **New phone**: Symphony D45
+  - **New phone**: Symphony W35
+  - **New phone**: Symphony D130
+  - **New phone**: Symphony S101i
+  - **New phone**: Symphony W71
+  - **New phone**: Symphony Xplorer W71i
+  - **New phone**: Symphony W150
+  - **New phone**: Symphony FT33
+  - **New phone**: Symphony X94
+  - **New phone**: Symphony B2i
+  - **New phone**: Symphony FT10
+  - **New phone**: Symphony B10i
+  - **New phone**: Symphony C102
+  - **New phone**: Symphony D67
+  - **New phone**: Symphony FT31
+  - **New phone**: Symphony D21
+  - **New phone**: Symphony D63
+  - **New phone**: Symphony Xplorer W125
+  - **New phone**: Symphony Xplorer W15
+  - **New phone**: Symphony W70
+  - **New phone**: Symphony W30
+  - **New phone**: Symphony D66
+  - **New phone**: Symphony M70
+  - **New phone**: Symphony B2
+  - **New phone**: Symphony B32
+  - **New phone**: Symphony FT02i
+  - **New phone**: Symphony W90
+  - **New phone**: Symphony W20
+  - **New phone**: Symphony D46i
+  - **New phone**: Symphony S103
+  - **New phone**: Symphony Xplorer W60
+  - **New phone**: Symphony W60
+  - **New phone**: Symphony FT36
+  - **New phone**: Symphony B3
+  - **New phone**: Symphony D54
+  - **New phone**: Symphony KT15
+  - **New phone**: Symphony XT10
+  - **New phone**: Symphony D100
+  - **New phone**: Symphony B4i
+  - **New phone**: Symphony D70
+  - **New phone**: Symphony D110
+  - **New phone**: Symphony T44
+  - **New phone**: Symphony FT45
+  - **New phone**: Symphony FT29
+  - **New phone**: Symphony FT32
+  - **New phone**: Symphony Xplorer W100
+  - **New phone**: Symphony FT02
+  - **New phone**: Symphony B45
+  - **New phone**: Symphony B46
+  - **New phone**: Symphony FT03
+  - **New phone**: Symphony D80
+  - **New phone**: Symphony B20c
+  - **New phone**: Symphony B35
+  - **New phone**: Symphony Xplorer W50
+  - **New phone**: Symphony EX70
+  - **New phone**: Symphony D36
+  - **New phone**: Symphony EX65
+  - **New phone**: Symphony S90
+  - **New phone**: Symphony EX82
+  - **New phone**: Symphony B15
+  - **New phone**: Symphony Z100
+  - **New phone**: Symphony A95
+  - **New phone**: Symphony FT04
+  - **New phone**: Symphony FT38
+  - **New phone**: Symphony D30
+  - **New phone**: Symphony T30
+  - **New phone**: Symphony X99
+  - **New phone**: Symphony EX72
+  - **New phone**: Symphony D62
+  - **New phone**: Symphony D32
+  - **New phone**: Symphony FT15
+  - **New phone**: Symphony X95
+  - **New phone**: Symphony FT30
+  - **New phone**: Symphony X110
+  - **New phone**: Symphony T20i
+
+---
+
 ## 2025-09-09 17:05:57
 
 ### Summary

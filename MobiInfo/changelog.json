@@ -1,5 +1,2416 @@
 [
   {
+    "timestamp": "2025-09-09 17:45:35",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 478,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "symphony",
+        "brand_name": "symphony",
+        "new_phones": 478,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 20",
+            "phone_id": "symphony_innova_20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 30 (6GB RAM)",
+            "phone_id": "symphony_innova_30_6gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 30",
+            "phone_id": "symphony_innova_30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 30 (8GB+128GB)",
+            "phone_id": "symphony_innova_30_8gb128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z70",
+            "phone_id": "symphony_z70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL102",
+            "phone_id": "symphony_bl102"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL98",
+            "phone_id": "symphony_bl98"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FiRE 30",
+            "phone_id": "symphony_fire_30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L280",
+            "phone_id": "symphony_l280"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L34",
+            "phone_id": "symphony_l34"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Hero 20",
+            "phone_id": "symphony_hero_20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Helio 80",
+            "phone_id": "symphony_helio_80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony ATOM 4",
+            "phone_id": "symphony_atom_4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X121",
+            "phone_id": "symphony_x121"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony G26",
+            "phone_id": "symphony_g26"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z60 Plus",
+            "phone_id": "symphony_z60_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony SL100",
+            "phone_id": "symphony_sl100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D43",
+            "phone_id": "symphony_d43"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 10",
+            "phone_id": "symphony_innova_10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Innova 10 (128GB)",
+            "phone_id": "symphony_innova_10_128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z60",
+            "phone_id": "symphony_z60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z60 (4GB RAM)",
+            "phone_id": "symphony_z60_4gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony SL75",
+            "phone_id": "symphony_sl75"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony SL70",
+            "phone_id": "symphony_sl70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S70",
+            "phone_id": "symphony_s70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i96",
+            "phone_id": "symphony_i96"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B70",
+            "phone_id": "symphony_b70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T93",
+            "phone_id": "symphony_t93"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D89",
+            "phone_id": "symphony_d89"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Theater 20",
+            "phone_id": "symphony_theater_20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i73",
+            "phone_id": "symphony_i73"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L47",
+            "phone_id": "symphony_l47"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z47",
+            "phone_id": "symphony_z47"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony ATOM 3",
+            "phone_id": "symphony_atom_3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i85",
+            "phone_id": "symphony_i85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L145",
+            "phone_id": "symphony_l145"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L136",
+            "phone_id": "symphony_l136"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S30",
+            "phone_id": "symphony_s30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V139",
+            "phone_id": "symphony_v139"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A30",
+            "phone_id": "symphony_a30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B62",
+            "phone_id": "symphony_b62"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z42 Pro",
+            "phone_id": "symphony_z42_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Helio 30",
+            "phone_id": "symphony_helio_30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Helio30",
+            "phone_id": "symphony_helio30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL60",
+            "phone_id": "symphony_bl60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z55",
+            "phone_id": "symphony_z55"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z55 (128GB)",
+            "phone_id": "symphony_z55_128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V138 Lite",
+            "phone_id": "symphony_v138_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony EVO 10",
+            "phone_id": "symphony_evo_10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i71",
+            "phone_id": "symphony_i71"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony G50",
+            "phone_id": "symphony_g50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z42",
+            "phone_id": "symphony_z42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i80",
+            "phone_id": "symphony_i80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z45",
+            "phone_id": "symphony_z45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V138",
+            "phone_id": "symphony_v138"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony PD1 4G",
+            "phone_id": "symphony_pd1_4g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z22",
+            "phone_id": "symphony_z22"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B12 Plus",
+            "phone_id": "symphony_b12_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L43",
+            "phone_id": "symphony_l43"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L44",
+            "phone_id": "symphony_l44"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D76",
+            "phone_id": "symphony_d76"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L33",
+            "phone_id": "symphony_l33"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL99",
+            "phone_id": "symphony_bl99"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i69",
+            "phone_id": "symphony_i69"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S45",
+            "phone_id": "symphony_s45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i32",
+            "phone_id": "symphony_i32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z33",
+            "phone_id": "symphony_z33"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony G10 Plus",
+            "phone_id": "symphony_g10_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D48",
+            "phone_id": "symphony_d48"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B69",
+            "phone_id": "symphony_b69"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D78",
+            "phone_id": "symphony_d78"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony ATOM II",
+            "phone_id": "symphony_atom_ii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony ATOM",
+            "phone_id": "symphony_atom"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L95",
+            "phone_id": "symphony_l95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z35 (4GB+64GB)",
+            "phone_id": "symphony_z35_4gb64gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z35",
+            "phone_id": "symphony_z35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L46",
+            "phone_id": "symphony_l46"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D47",
+            "phone_id": "symphony_d47"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z40",
+            "phone_id": "symphony_z40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z32",
+            "phone_id": "symphony_z32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z18",
+            "phone_id": "symphony_z18"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L270",
+            "phone_id": "symphony_l270"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L140",
+            "phone_id": "symphony_l140"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T140",
+            "phone_id": "symphony_t140"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B67",
+            "phone_id": "symphony_b67"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T180",
+            "phone_id": "symphony_t180"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z30 Pro",
+            "phone_id": "symphony_z30_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L260",
+            "phone_id": "symphony_l260"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D74",
+            "phone_id": "symphony_d74"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D82",
+            "phone_id": "symphony_d82"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T92",
+            "phone_id": "symphony_t92"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L135",
+            "phone_id": "symphony_l135"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i98",
+            "phone_id": "symphony_i98"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V99 Plus",
+            "phone_id": "symphony_v99_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i99",
+            "phone_id": "symphony_i99"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i12",
+            "phone_id": "symphony_i12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D72",
+            "phone_id": "symphony_d72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z28",
+            "phone_id": "symphony_z28"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z30",
+            "phone_id": "symphony_z30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L45",
+            "phone_id": "symphony_l45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B68",
+            "phone_id": "symphony_b68"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony G10",
+            "phone_id": "symphony_g10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i66",
+            "phone_id": "symphony_i66"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z16",
+            "phone_id": "symphony_z16"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S99",
+            "phone_id": "symphony_s99"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL120",
+            "phone_id": "symphony_bl120"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z50",
+            "phone_id": "symphony_z50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i67",
+            "phone_id": "symphony_i67"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B24",
+            "phone_id": "symphony_b24"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V102",
+            "phone_id": "symphony_v102"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i30",
+            "phone_id": "symphony_i30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B26",
+            "phone_id": "symphony_b26"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D92",
+            "phone_id": "symphony_d92"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i74",
+            "phone_id": "symphony_i74"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z25",
+            "phone_id": "symphony_z25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z12",
+            "phone_id": "symphony_z12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL96",
+            "phone_id": "symphony_bl96"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V105",
+            "phone_id": "symphony_v105"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z20",
+            "phone_id": "symphony_z20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L250i",
+            "phone_id": "symphony_l250i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B66",
+            "phone_id": "symphony_b66"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony E95",
+            "phone_id": "symphony_e95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D40i",
+            "phone_id": "symphony_d40i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i68",
+            "phone_id": "symphony_i68"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S40",
+            "phone_id": "symphony_s40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT06",
+            "phone_id": "symphony_ft06"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L20",
+            "phone_id": "symphony_l20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V99",
+            "phone_id": "symphony_v99"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L130",
+            "phone_id": "symphony_l130"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L42",
+            "phone_id": "symphony_l42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony SL20",
+            "phone_id": "symphony_sl20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i97",
+            "phone_id": "symphony_i97"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D41",
+            "phone_id": "symphony_d41"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL97",
+            "phone_id": "symphony_bl97"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D37",
+            "phone_id": "symphony_d37"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B65",
+            "phone_id": "symphony_b65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i18",
+            "phone_id": "symphony_i18"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z15",
+            "phone_id": "symphony_z15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V141",
+            "phone_id": "symphony_v141"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B60",
+            "phone_id": "symphony_b60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i65",
+            "phone_id": "symphony_i65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R40",
+            "phone_id": "symphony_r40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D54i",
+            "phone_id": "symphony_d54i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L250",
+            "phone_id": "symphony_l250"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i72",
+            "phone_id": "symphony_i72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D52 Plus",
+            "phone_id": "symphony_d52_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D54 Plus",
+            "phone_id": "symphony_d54_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S250",
+            "phone_id": "symphony_s250"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L55i",
+            "phone_id": "symphony_l55i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L52",
+            "phone_id": "symphony_l52"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V128",
+            "phone_id": "symphony_v128"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V142",
+            "phone_id": "symphony_v142"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D10",
+            "phone_id": "symphony_d10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D101",
+            "phone_id": "symphony_d101"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i95",
+            "phone_id": "symphony_i95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V97",
+            "phone_id": "symphony_v97"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D38i",
+            "phone_id": "symphony_d38i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B17i",
+            "phone_id": "symphony_b17i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V94",
+            "phone_id": "symphony_v94"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V155",
+            "phone_id": "symphony_v155"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L40",
+            "phone_id": "symphony_l40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL95",
+            "phone_id": "symphony_bl95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V145",
+            "phone_id": "symphony_v145"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V98",
+            "phone_id": "symphony_v98"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L62",
+            "phone_id": "symphony_l62"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i120",
+            "phone_id": "symphony_i120"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i15",
+            "phone_id": "symphony_i15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony G100",
+            "phone_id": "symphony_g100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V135",
+            "phone_id": "symphony_v135"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i75",
+            "phone_id": "symphony_i75"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Roar V150",
+            "phone_id": "symphony_roar_v150"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V140",
+            "phone_id": "symphony_v140"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony P11",
+            "phone_id": "symphony_p11"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i110",
+            "phone_id": "symphony_i110"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B12i",
+            "phone_id": "symphony_b12i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L65j",
+            "phone_id": "symphony_l65j"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T130",
+            "phone_id": "symphony_t130"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony INOVA",
+            "phone_id": "symphony_inova"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T85",
+            "phone_id": "symphony_t85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V75m",
+            "phone_id": "symphony_v75m"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Roar V95",
+            "phone_id": "symphony_roar_v95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R30",
+            "phone_id": "symphony_r30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V90",
+            "phone_id": "symphony_v90"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i10",
+            "phone_id": "symphony_i10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i10 Plus",
+            "phone_id": "symphony_i10_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony P8 Pro",
+            "phone_id": "symphony_p8_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony E30",
+            "phone_id": "symphony_e30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L65",
+            "phone_id": "symphony_l65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T110",
+            "phone_id": "symphony_t110"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D68",
+            "phone_id": "symphony_d68"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony P9",
+            "phone_id": "symphony_p9"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T105",
+            "phone_id": "symphony_t105"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i21",
+            "phone_id": "symphony_i21"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V47",
+            "phone_id": "symphony_v47"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D91",
+            "phone_id": "symphony_d91"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D105",
+            "phone_id": "symphony_d105"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer i25",
+            "phone_id": "symphony_xplorer_i25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V110",
+            "phone_id": "symphony_v110"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V65",
+            "phone_id": "symphony_v65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony E62",
+            "phone_id": "symphony_e62"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZVI",
+            "phone_id": "symphony_xplorer_zvi"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V42",
+            "phone_id": "symphony_v42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZVIII",
+            "phone_id": "symphony_xplorer_zviii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V34",
+            "phone_id": "symphony_v34"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L300",
+            "phone_id": "symphony_l300"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S50",
+            "phone_id": "symphony_s50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R100 (3GB RAM)",
+            "phone_id": "symphony_r100_3gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R100",
+            "phone_id": "symphony_r100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Roar E80",
+            "phone_id": "symphony_roar_e80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R20",
+            "phone_id": "symphony_r20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony R2",
+            "phone_id": "symphony_r2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i50",
+            "phone_id": "symphony_i50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony P7",
+            "phone_id": "symphony_p7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L17",
+            "phone_id": "symphony_l17"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H300",
+            "phone_id": "symphony_xplorer_h300"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L56i",
+            "phone_id": "symphony_l56i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL20",
+            "phone_id": "symphony_bl20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony H60",
+            "phone_id": "symphony_h60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V32",
+            "phone_id": "symphony_v32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L23",
+            "phone_id": "symphony_l23"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D22",
+            "phone_id": "symphony_d22"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M95",
+            "phone_id": "symphony_m95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZVII",
+            "phone_id": "symphony_xplorer_zvii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZVII (3GB RAM)",
+            "phone_id": "symphony_xplorer_zvii_3gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P6 PRO (3GB RAM)",
+            "phone_id": "symphony_xplorer_p6_pro_3gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer i10",
+            "phone_id": "symphony_xplorer_i10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V46",
+            "phone_id": "symphony_v46"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony i20",
+            "phone_id": "symphony_i20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H400",
+            "phone_id": "symphony_xplorer_h400"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer i20",
+            "phone_id": "symphony_xplorer_i20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer i20 (2GB RAM)",
+            "phone_id": "symphony_xplorer_i20_2gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V46 (C)",
+            "phone_id": "symphony_v46_c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E58",
+            "phone_id": "symphony_xplorer_e58"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V100",
+            "phone_id": "symphony_v100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony  E12",
+            "phone_id": "symphony_e12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L16",
+            "phone_id": "symphony_l16"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L50",
+            "phone_id": "symphony_l50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D52",
+            "phone_id": "symphony_d52"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Roar E79",
+            "phone_id": "symphony_roar_e79"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A88V",
+            "phone_id": "symphony_a88v"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V75",
+            "phone_id": "symphony_xplorer_v75"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B17",
+            "phone_id": "symphony_b17"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B13i",
+            "phone_id": "symphony_b13i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D19",
+            "phone_id": "symphony_d19"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D55i",
+            "phone_id": "symphony_d55i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V85",
+            "phone_id": "symphony_v85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony H175",
+            "phone_id": "symphony_h175"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D120",
+            "phone_id": "symphony_d120"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V85",
+            "phone_id": "symphony_xplorer_v85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P6 PRO",
+            "phone_id": "symphony_xplorer_p6_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D140",
+            "phone_id": "symphony_d140"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V49",
+            "phone_id": "symphony_xplorer_v49"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony H58",
+            "phone_id": "symphony_h58"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL65",
+            "phone_id": "symphony_bl65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D18",
+            "phone_id": "symphony_d18"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M150",
+            "phone_id": "symphony_m150"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E7",
+            "phone_id": "symphony_xplorer_e7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E78",
+            "phone_id": "symphony_xplorer_e78"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H120",
+            "phone_id": "symphony_xplorer_h120"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony H120",
+            "phone_id": "symphony_h120"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony H250",
+            "phone_id": "symphony_h250"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L24",
+            "phone_id": "symphony_l24"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V28",
+            "phone_id": "symphony_xplorer_v28"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A10",
+            "phone_id": "symphony_a10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL46",
+            "phone_id": "symphony_bl46"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D57",
+            "phone_id": "symphony_d57"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V45",
+            "phone_id": "symphony_xplorer_v45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E25",
+            "phone_id": "symphony_xplorer_e25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZV Pro",
+            "phone_id": "symphony_xplorer_zv_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V52",
+            "phone_id": "symphony_v52"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M70i",
+            "phone_id": "symphony_m70i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D115",
+            "phone_id": "symphony_d115"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L18",
+            "phone_id": "symphony_l18"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D52i",
+            "phone_id": "symphony_d52i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony E60",
+            "phone_id": "symphony_e60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony E10",
+            "phone_id": "symphony_e10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P6",
+            "phone_id": "symphony_xplorer_p6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P6 (2GB RAM)",
+            "phone_id": "symphony_xplorer_p6_2gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT37i",
+            "phone_id": "symphony_ft37i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony m1",
+            "phone_id": "symphony_m1"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X101",
+            "phone_id": "symphony_x101"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M85",
+            "phone_id": "symphony_m85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V80",
+            "phone_id": "symphony_xplorer_v80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D23",
+            "phone_id": "symphony_d23"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M90",
+            "phone_id": "symphony_m90"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E5",
+            "phone_id": "symphony_xplorer_e5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T150",
+            "phone_id": "symphony_t150"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V60",
+            "phone_id": "symphony_xplorer_v60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V60 (1GB RAM)",
+            "phone_id": "symphony_xplorer_v60_1gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D65",
+            "phone_id": "symphony_d65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D53i",
+            "phone_id": "symphony_d53i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V70",
+            "phone_id": "symphony_xplorer_v70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V30",
+            "phone_id": "symphony_xplorer_v30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony C101",
+            "phone_id": "symphony_c101"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D150",
+            "phone_id": "symphony_d150"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D34",
+            "phone_id": "symphony_d34"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D65i",
+            "phone_id": "symphony_d65i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony V70",
+            "phone_id": "symphony_v70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B13",
+            "phone_id": "symphony_b13"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H200",
+            "phone_id": "symphony_xplorer_h200"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer E50",
+            "phone_id": "symphony_xplorer_e50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer V55",
+            "phone_id": "symphony_xplorer_v55"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZV",
+            "phone_id": "symphony_xplorer_zv"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Roar A50",
+            "phone_id": "symphony_roar_a50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B14",
+            "phone_id": "symphony_b14"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H50",
+            "phone_id": "symphony_xplorer_h50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W75",
+            "phone_id": "symphony_xplorer_w75"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X111",
+            "phone_id": "symphony_x111"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S100",
+            "phone_id": "symphony_s100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer GoFox F15",
+            "phone_id": "symphony_xplorer_gofox_f15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T50",
+            "phone_id": "symphony_t50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A86v",
+            "phone_id": "symphony_a86v"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B12",
+            "phone_id": "symphony_b12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X115",
+            "phone_id": "symphony_x115"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D20",
+            "phone_id": "symphony_d20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W67",
+            "phone_id": "symphony_xplorer_w67"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W19",
+            "phone_id": "symphony_xplorer_w19"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W94",
+            "phone_id": "symphony_xplorer_w94"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P10",
+            "phone_id": "symphony_xplorer_p10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer P5",
+            "phone_id": "symphony_xplorer_p5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B5",
+            "phone_id": "symphony_b5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B25",
+            "phone_id": "symphony_b25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D64",
+            "phone_id": "symphony_d64"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T55i",
+            "phone_id": "symphony_t55i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony BL40",
+            "phone_id": "symphony_bl40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L22",
+            "phone_id": "symphony_l22"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S101",
+            "phone_id": "symphony_s101"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZIV",
+            "phone_id": "symphony_xplorer_ziv"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer H100",
+            "phone_id": "symphony_xplorer_h100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony L25",
+            "phone_id": "symphony_l25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Play W17",
+            "phone_id": "symphony_play_w17"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W18",
+            "phone_id": "symphony_w18"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T80",
+            "phone_id": "symphony_t80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B3i",
+            "phone_id": "symphony_b3i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W68Q",
+            "phone_id": "symphony_xplorer_w68q"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W95",
+            "phone_id": "symphony_xplorer_w95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W31",
+            "phone_id": "symphony_w31"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S200",
+            "phone_id": "symphony_s200"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W15i",
+            "phone_id": "symphony_xplorer_w15i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W70Q (1GB RAM)",
+            "phone_id": "symphony_xplorer_w70q_1gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W70Q",
+            "phone_id": "symphony_xplorer_w70q"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A86",
+            "phone_id": "symphony_a86"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B5i",
+            "phone_id": "symphony_b5i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B10",
+            "phone_id": "symphony_b10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W160",
+            "phone_id": "symphony_xplorer_w160"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M44",
+            "phone_id": "symphony_m44"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D31i",
+            "phone_id": "symphony_d31i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W91",
+            "phone_id": "symphony_xplorer_w91"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W86",
+            "phone_id": "symphony_xplorer_w86"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W69Q",
+            "phone_id": "symphony_xplorer_w69q"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W69Q (1GB RAM)",
+            "phone_id": "symphony_xplorer_w69q_1gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D125",
+            "phone_id": "symphony_d125"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D35",
+            "phone_id": "symphony_d35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony F100",
+            "phone_id": "symphony_f100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D26",
+            "phone_id": "symphony_d26"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony ZIII",
+            "phone_id": "symphony_ziii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W65i",
+            "phone_id": "symphony_xplorer_w65i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W21",
+            "phone_id": "symphony_xplorer_w21"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D58",
+            "phone_id": "symphony_d58"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W128",
+            "phone_id": "symphony_xplorer_w128"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W69",
+            "phone_id": "symphony_xplorer_w69"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A70",
+            "phone_id": "symphony_a70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZIII",
+            "phone_id": "symphony_xplorer_ziii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B9",
+            "phone_id": "symphony_b9"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W66",
+            "phone_id": "symphony_xplorer_w66"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W22 (3G)",
+            "phone_id": "symphony_w22_3g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D60",
+            "phone_id": "symphony_d60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W72",
+            "phone_id": "symphony_xplorer_w72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M42",
+            "phone_id": "symphony_m42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B8i",
+            "phone_id": "symphony_b8i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W72",
+            "phone_id": "symphony_w72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D33",
+            "phone_id": "symphony_d33"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony P8",
+            "phone_id": "symphony_p8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W140",
+            "phone_id": "symphony_xplorer_w140"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D61",
+            "phone_id": "symphony_d61"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony KT10",
+            "phone_id": "symphony_kt10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B19",
+            "phone_id": "symphony_b19"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony C42",
+            "phone_id": "symphony_c42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T35",
+            "phone_id": "symphony_t35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W10",
+            "phone_id": "symphony_xplorer_w10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W82",
+            "phone_id": "symphony_w82"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W25",
+            "phone_id": "symphony_xplorer_w25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W82",
+            "phone_id": "symphony_xplorer_w82"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B30",
+            "phone_id": "symphony_b30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT40",
+            "phone_id": "symphony_ft40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W92",
+            "phone_id": "symphony_w92"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D46",
+            "phone_id": "symphony_d46"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M40",
+            "phone_id": "symphony_m40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony F70",
+            "phone_id": "symphony_f70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M60",
+            "phone_id": "symphony_m60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B6",
+            "phone_id": "symphony_b6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S111",
+            "phone_id": "symphony_s111"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D25",
+            "phone_id": "symphony_d25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M50",
+            "phone_id": "symphony_m50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D56",
+            "phone_id": "symphony_d56"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A100",
+            "phone_id": "symphony_a100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W68",
+            "phone_id": "symphony_w68"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZI",
+            "phone_id": "symphony_xplorer_zi"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W65",
+            "phone_id": "symphony_w65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W85",
+            "phone_id": "symphony_xplorer_w85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer ZII",
+            "phone_id": "symphony_xplorer_zii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W32",
+            "phone_id": "symphony_w32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B7",
+            "phone_id": "symphony_b7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D45",
+            "phone_id": "symphony_d45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W35",
+            "phone_id": "symphony_w35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D130",
+            "phone_id": "symphony_d130"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S101i",
+            "phone_id": "symphony_s101i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W71",
+            "phone_id": "symphony_w71"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W71i",
+            "phone_id": "symphony_xplorer_w71i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W150",
+            "phone_id": "symphony_w150"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT33",
+            "phone_id": "symphony_ft33"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X94",
+            "phone_id": "symphony_x94"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B2i",
+            "phone_id": "symphony_b2i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT10",
+            "phone_id": "symphony_ft10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B10i",
+            "phone_id": "symphony_b10i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony C102",
+            "phone_id": "symphony_c102"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D67",
+            "phone_id": "symphony_d67"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT31",
+            "phone_id": "symphony_ft31"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D21",
+            "phone_id": "symphony_d21"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D63",
+            "phone_id": "symphony_d63"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W125",
+            "phone_id": "symphony_xplorer_w125"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W15",
+            "phone_id": "symphony_xplorer_w15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W70",
+            "phone_id": "symphony_w70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W30",
+            "phone_id": "symphony_w30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D66",
+            "phone_id": "symphony_d66"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony M70",
+            "phone_id": "symphony_m70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B2",
+            "phone_id": "symphony_b2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B32",
+            "phone_id": "symphony_b32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT02i",
+            "phone_id": "symphony_ft02i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W90",
+            "phone_id": "symphony_w90"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W20",
+            "phone_id": "symphony_w20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D46i",
+            "phone_id": "symphony_d46i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S103",
+            "phone_id": "symphony_s103"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W60",
+            "phone_id": "symphony_xplorer_w60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony W60",
+            "phone_id": "symphony_w60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT36",
+            "phone_id": "symphony_ft36"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B3",
+            "phone_id": "symphony_b3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D54",
+            "phone_id": "symphony_d54"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony KT15",
+            "phone_id": "symphony_kt15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony XT10",
+            "phone_id": "symphony_xt10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D100",
+            "phone_id": "symphony_d100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B4i",
+            "phone_id": "symphony_b4i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D70",
+            "phone_id": "symphony_d70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D110",
+            "phone_id": "symphony_d110"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T44",
+            "phone_id": "symphony_t44"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT45",
+            "phone_id": "symphony_ft45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT29",
+            "phone_id": "symphony_ft29"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT32",
+            "phone_id": "symphony_ft32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W100",
+            "phone_id": "symphony_xplorer_w100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT02",
+            "phone_id": "symphony_ft02"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B45",
+            "phone_id": "symphony_b45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B46",
+            "phone_id": "symphony_b46"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT03",
+            "phone_id": "symphony_ft03"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D80",
+            "phone_id": "symphony_d80"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B20c",
+            "phone_id": "symphony_b20c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B35",
+            "phone_id": "symphony_b35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Xplorer W50",
+            "phone_id": "symphony_xplorer_w50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony EX70",
+            "phone_id": "symphony_ex70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D36",
+            "phone_id": "symphony_d36"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony EX65",
+            "phone_id": "symphony_ex65"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony S90",
+            "phone_id": "symphony_s90"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony EX82",
+            "phone_id": "symphony_ex82"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony B15",
+            "phone_id": "symphony_b15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony Z100",
+            "phone_id": "symphony_z100"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony A95",
+            "phone_id": "symphony_a95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT04",
+            "phone_id": "symphony_ft04"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT38",
+            "phone_id": "symphony_ft38"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D30",
+            "phone_id": "symphony_d30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T30",
+            "phone_id": "symphony_t30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X99",
+            "phone_id": "symphony_x99"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony EX72",
+            "phone_id": "symphony_ex72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D62",
+            "phone_id": "symphony_d62"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony D32",
+            "phone_id": "symphony_d32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT15",
+            "phone_id": "symphony_ft15"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X95",
+            "phone_id": "symphony_x95"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony FT30",
+            "phone_id": "symphony_ft30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony X110",
+            "phone_id": "symphony_x110"
+          },
+          {
+            "type": "new",
+            "phone_name": "Symphony T20i",
+            "phone_id": "symphony_t20i"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 17:05:57",
     "summary": {
       "new_brands": 0,

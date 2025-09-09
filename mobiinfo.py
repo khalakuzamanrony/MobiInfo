@@ -742,34 +742,34 @@ class MobiInfoScraper:
             for i, phone in enumerate(phones):
                 try:
                     print(f"\n{'-'*70}")
-                    print(f"Processing phone {i+1}/{len(phones)}: {phone['name']}")
+                    print(f"▶ Processing phone {i+1}/{len(phones)}: {phone['name']}")
                     self.log_debug(f"Processing phone {i+1}/{len(phones)}: {phone['name']}")
                     
                     start_time = time.time()
                     
                     # Get variant information
-                    print(f"Fetching variants for {phone['name']}...")
+                    print(f"↓ Fetching variants for {phone['name']}...")
                     variants = self.get_phone_variants(phone['url'])
                     if variants:
-                        print(f"Successfully fetched variants for {phone['name']}")
+                        print(f"✓ Successfully fetched variants for {phone['name']}")
                     else:
-                        print(f"Failed to fetch variants for {phone['name']}")
+                        print(f"✗ Failed to fetch variants for {phone['name']}")
                     
                     # Get detailed specifications
-                    print(f"Fetching specifications for {phone['name']}...")
+                    print(f"↓ Fetching specifications for {phone['name']}...")
                     specs = self.get_phone_specs(phone['url'])
                     if specs:
-                        print(f"Successfully fetched specifications for {phone['name']}")
+                        print(f"✓ Successfully fetched specifications for {phone['name']}")
                     else:
-                        print(f"Failed to fetch specifications for {phone['name']}")
+                        print(f"✗ Failed to fetch specifications for {phone['name']}")
                     
                     # Get gallery images
-                    print(f"Fetching gallery images for {phone['name']}...")
+                    print(f"↓ Fetching gallery images for {phone['name']}...")
                     gallery_images = self.get_phone_gallery(phone['url'])
                     if gallery_images:
-                        print(f"Successfully fetched gallery images for {phone['name']}")
+                        print(f"✓ Successfully fetched gallery images for {phone['name']}")
                     else:
-                        print(f"Failed to fetch gallery images for {phone['name']}")
+                        print(f"✗ Failed to fetch gallery images for {phone['name']}")
                     
                     phone_data = {
                         "id": phone['id'],
@@ -785,7 +785,7 @@ class MobiInfoScraper:
                     
                     # Calculate total time
                     elapsed = time.time() - start_time
-                    print(f"Successfully written to JSON for {phone['name']} in {elapsed:.2f} seconds")
+                    print(f"✓ Successfully written to JSON for {phone['name']} in {elapsed:.2f} seconds")
                     
                     # Add gap between phones
                     print(f"{'-'*70}")
@@ -794,7 +794,7 @@ class MobiInfoScraper:
                     error_msg = f"Error processing phone {phone['name']}: {str(e)}"
                     print(error_msg)
                     self.log_error(error_msg)
-                    print(f"Failed to add to JSON for {phone['name']}")
+                    print(f"✗ Failed to add to JSON for {phone['name']}")
                     continue
             
             self.log_success(f"Successfully scraped {len(brand_data['phones'])} phones for brand: {brand['name']}")
@@ -2209,9 +2209,7 @@ if __name__ == "__main__":
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
     result = scraper.scrape_multiple_brands_separate_files(
-        #brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo","tecno", "oneplus", "google", "walton", "honor", "lava", "itel"],
-        brand_inputs=["huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
-    "meizu", "zte", "umidigi", "lenovo","doogee", "ulefone"],
+        brand_inputs=["symphony"],
         # max_brands=5,  # Limit to first 5 brands from the list
         # max_pages=1,  # Limit to 2 pages per brand
         # max_products=20,  # Limit to 10 products per brand
