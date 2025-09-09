@@ -74,7 +74,7 @@ jobs:
               # Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
                 details_clean=$(echo "$detailed_section" | \
-                  sed 's/#### \([^#]*\)/- \1/g' | \
+                  sed 's/#### \([^#]*\)/\n- \1/g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
                   sed 's/\*\([^*]*\)\*/\1/g' | \
                   sed '/^### Detailed Changes/d' | \
