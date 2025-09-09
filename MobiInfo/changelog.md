@@ -13,188 +13,6 @@ This document tracks all changes to the MobiInfo phone database.
 - **Updated phones**: 0
 - **Failed phones**: 0
 
-### Detailed Changes
-
-#### oppo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### infinix
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nokia
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### realme
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### tecno
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### vivo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### apple
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### samsung
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### oneplus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### xiaomi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### helio
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nothing
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### walton
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### honor
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### asus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### symphony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### google
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### itel
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### huawei
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### lava
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### benco
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### ulefone
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### umidigi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### iqoo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### motorola
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### lenovo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### zte
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### doogee
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### sony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### meizu
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 ---
 
 ## 2025-09-09 15:27:47
@@ -239,7 +57,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### oppo
 
-- **New phones**: 0
 - **Updated phones**: 1
 
   - **Updated phone**: Oppo A5i Pro
@@ -248,30 +65,6 @@ This document tracks all changes to the MobiInfo phone database.
     - Added new field: specifications.General.Device Type
     - Added new field: specifications.General.Release Date
     - Added new field: specifications.General.Status
-
-
-#### oneplus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### infinix
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### samsung
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### tecno
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 #### apple
@@ -330,138 +123,6 @@ This document tracks all changes to the MobiInfo phone database.
   - **New phone**: Xiaomi Civi 5 Pro (512GB)
   - **New phone**: Xiaomi Civi 5 Pro (16GB+512GB)
 
-#### vivo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nokia
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### helio
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nothing
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### honor
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### lava
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### itel
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### walton
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### symphony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### google
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### asus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### huawei
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### benco
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### ulefone
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### umidigi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### iqoo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### motorola
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### sony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### lenovo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### meizu
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### zte
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### doogee
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 ---
 
 ## 2025-09-09 14:31:21
@@ -479,7 +140,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### realme
 
-- **New phones**: 0
 - **Updated phones**: 1
 
   - **Updated phone**: Realme 15T
@@ -489,13 +149,11 @@ This document tracks all changes to the MobiInfo phone database.
 #### xiaomi
 
 - **New phones**: 1
-- **Updated phones**: 0
 
   - **New phone**: Xiaomi Poco C85
 
 #### apple
 
-- **New phones**: 0
 - **Updated phones**: 1
 
   - **Updated phone**: Apple iPhone 17 Pro Max
@@ -515,20 +173,6 @@ This document tracks all changes to the MobiInfo phone database.
 - **Updated phones**: 0
 - **Failed phones**: 0
 
-### Detailed Changes
-
-#### apple
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### xiaomi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 ---
 
 ## 2025-09-09 14:17:36
@@ -541,14 +185,6 @@ This document tracks all changes to the MobiInfo phone database.
 - **New phones**: 0
 - **Updated phones**: 0
 - **Failed phones**: 0
-
-### Detailed Changes
-
-#### xiaomi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
 
 ---
 
@@ -567,7 +203,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 
-- **New phones**: 0
 - **Updated phones**: 5
 
   - **Updated phone**: Xiaomi Redmi Note 15 Pro
@@ -600,12 +235,6 @@ This document tracks all changes to the MobiInfo phone database.
     - gallery_images: List length changed from 2 to 8
 
 
-#### infinix
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### oppo
 
 - **New phones**: 2
@@ -620,7 +249,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### samsung
 
-- **New phones**: 0
 - **Updated phones**: 1
 
   - **Updated phone**: Samsung Galaxy A17
@@ -633,87 +261,8 @@ This document tracks all changes to the MobiInfo phone database.
     - Added new field: specifications.Network & Connectivity.SAR Value
 
 
-#### tecno
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### vivo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### realme
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### apple
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### oneplus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nokia
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### helio
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### nothing
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### walton
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### google
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### honor
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### symphony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### itel
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### huawei
 
-- **New phones**: 0
 - **Updated phones**: 2
 
   - **Updated phone**: Huawei Mate XT Ultimate (512GB)
@@ -723,78 +272,6 @@ This document tracks all changes to the MobiInfo phone database.
   - **Updated phone**: Huawei Mate XT Ultimate (1TB)
     - variants[0]: Changed from '{'name': '16GB+1TB', 'price': '৳.680,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}' to '{'name': '16GB+1TB', 'price': '৳.490,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb'}'
     - variants[1]: Changed from '{'name': '16GB+512GB', 'price': '৳.550,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}' to '{'name': '16GB+512GB', 'price': '৳.470,000', 'url': 'https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb'}'
-
-
-#### lava
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### benco
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### asus
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### ulefone
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### umidigi
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### motorola
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### lenovo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### iqoo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### sony
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### doogee
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### zte
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### meizu
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 ---
@@ -1002,27 +479,9 @@ This document tracks all changes to the MobiInfo phone database.
 - **New brand added** with 71 phones
 
 
-#### allview
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### lg
 
 - **New brand added** with 73 phones
-
-
-#### maxis
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### panasonic
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 #### hmd
@@ -1030,75 +489,9 @@ This document tracks all changes to the MobiInfo phone database.
 - **New brand added** with 11 phones
 
 
-#### celkon
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### xtra
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### hallo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### leica
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### acer
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### motorola
 
 - **New brand added** with 151 phones
-
-
-#### ulefone
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### 5star
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### thuraya
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### sonim
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### gdl
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### sharp
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 #### we
@@ -1106,80 +499,14 @@ This document tracks all changes to the MobiInfo phone database.
 - **New brand added** with 35 phones
 
 
-#### geo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### proton
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### alcatel
 
 - **New brand added** with 54 phones
 
 
-#### doogee
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### wiko
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### oscal
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### bengal
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### oukitel
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### philips
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### tcl
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### energizer
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 #### micromax
 
 - **New brand added** with 83 phones
-
-
-#### kingstar
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 #### samsung
@@ -1190,18 +517,6 @@ This document tracks all changes to the MobiInfo phone database.
 #### maximus
 
 - **New brand added** with 167 phones
-
-
-#### mycell
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### okapia
-
-- **New phones**: 0
-- **Updated phones**: 0
 
 
 #### xiaomi
@@ -1306,7 +621,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### wiko
 
-- **New phones**: 0
 - **Updated phones**: 1
 
   - **Updated phone**: Wiko Hi Enjoy 70
@@ -1316,7 +630,6 @@ This document tracks all changes to the MobiInfo phone database.
 #### oscal
 
 - **New phones**: 1
-- **Updated phones**: 0
 
   - **New phone**: Oscal Pilot 3
 
@@ -1333,20 +646,6 @@ This document tracks all changes to the MobiInfo phone database.
 - **Updated phones**: 0
 - **Failed phones**: 0
 
-### Detailed Changes
-
-#### wiko
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### energizer
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
 ---
 
 ## 2025-09-08 04:00:09
@@ -1359,20 +658,6 @@ This document tracks all changes to the MobiInfo phone database.
 - **New phones**: 0
 - **Updated phones**: 0
 - **Failed phones**: 0
-
-### Detailed Changes
-
-#### geo
-
-- **New phones**: 0
-- **Updated phones**: 0
-
-
-#### energizer
-
-- **New phones**: 0
-- **Updated phones**: 0
-
 
 ---
 

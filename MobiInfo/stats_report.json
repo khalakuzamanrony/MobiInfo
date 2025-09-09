@@ -1,130 +1,16 @@
 {
-  "timestamp": "2025-09-08T06:55:41.337Z",
+  "timestamp": "2025-09-09T09:56:21.284Z",
   "summary": {
     "totalBrands": 75,
-    "totalPhones": 5254,
-    "averagePhonesPerBrand": 70.1
+    "totalPhones": 1393,
+    "averagePhonesPerBrand": 18.6
   },
   "brandDetails": [
-    {
-      "name": "xiaomi",
-      "phones": 530,
-      "lastUpdated": "2025-09-08 06:07:40",
-      "file": "xiaomi.json"
-    },
-    {
-      "name": "symphony",
-      "phones": 498,
-      "lastUpdated": "2025-09-08 06:35:41",
-      "file": "symphony.json"
-    },
-    {
-      "name": "samsung",
-      "phones": 449,
-      "lastUpdated": "2025-09-08 06:01:25",
-      "file": "samsung.json"
-    },
-    {
-      "name": "walton",
-      "phones": 336,
-      "lastUpdated": "2025-09-08 05:55:53",
-      "file": "walton.json"
-    },
-    {
-      "name": "realme",
-      "phones": 285,
-      "lastUpdated": "2025-09-08 05:50:05",
-      "file": "realme.json"
-    },
-    {
-      "name": "nokia",
-      "phones": 283,
-      "lastUpdated": "2025-09-08 05:50:01",
-      "file": "nokia.json"
-    },
-    {
-      "name": "vivo",
-      "phones": 258,
-      "lastUpdated": "2025-09-08 05:48:02",
-      "file": "vivo.json"
-    },
-    {
-      "name": "oppo",
-      "phones": 222,
-      "lastUpdated": "2025-09-08 05:46:01",
-      "file": "oppo.json"
-    },
     {
       "name": "maximus",
       "phones": 167,
       "lastUpdated": "2025-09-08 06:01:48",
       "file": "maximus.json"
-    },
-    {
-      "name": "motorola",
-      "phones": 151,
-      "lastUpdated": "2025-09-08 05:57:27",
-      "file": "motorola.json"
-    },
-    {
-      "name": "huawei",
-      "phones": 141,
-      "lastUpdated": "2025-09-08 05:50:59",
-      "file": "huawei.json"
-    },
-    {
-      "name": "tecno",
-      "phones": 141,
-      "lastUpdated": "2025-09-08 05:39:25",
-      "file": "tecno.json"
-    },
-    {
-      "name": "oneplus",
-      "phones": 116,
-      "lastUpdated": "2025-09-08 05:37:33",
-      "file": "oneplus.json"
-    },
-    {
-      "name": "infinix",
-      "phones": 114,
-      "lastUpdated": "2025-09-08 05:36:55",
-      "file": "infinix.json"
-    },
-    {
-      "name": "itel",
-      "phones": 105,
-      "lastUpdated": "2025-09-08 05:45:28",
-      "file": "itel.json"
-    },
-    {
-      "name": "apple",
-      "phones": 103,
-      "lastUpdated": "2025-09-08 05:36:00",
-      "file": "apple.json"
-    },
-    {
-      "name": "honor",
-      "phones": 99,
-      "lastUpdated": "2025-09-08 05:40:29",
-      "file": "honor.json"
-    },
-    {
-      "name": "lava",
-      "phones": 99,
-      "lastUpdated": "2025-09-08 05:44:41",
-      "file": "lava.json"
-    },
-    {
-      "name": "iqoo",
-      "phones": 86,
-      "lastUpdated": "2025-09-08 05:52:44",
-      "file": "iqoo.json"
-    },
-    {
-      "name": "sony",
-      "phones": 85,
-      "lastUpdated": "2025-09-08 05:52:56",
-      "file": "sony.json"
     },
     {
       "name": "micromax",
@@ -137,12 +23,6 @@
       "phones": 73,
       "lastUpdated": "2025-09-08 05:56:16",
       "file": "lg.json"
-    },
-    {
-      "name": "zte",
-      "phones": 71,
-      "lastUpdated": "2025-09-08 05:56:02",
-      "file": "zte.json"
     },
     {
       "name": "htc",
@@ -163,28 +43,10 @@
       "file": "alcatel.json"
     },
     {
-      "name": "google",
-      "phones": 53,
-      "lastUpdated": "2025-09-08 05:32:06",
-      "file": "google.json"
-    },
-    {
-      "name": "asus",
-      "phones": 50,
-      "lastUpdated": "2025-09-08 05:46:06",
-      "file": "asus.json"
-    },
-    {
       "name": "mycell",
       "phones": 49,
       "lastUpdated": "2025-09-08 06:02:16",
       "file": "mycell.json"
-    },
-    {
-      "name": "meizu",
-      "phones": 40,
-      "lastUpdated": "2025-09-08 05:50:15",
-      "file": "meizu.json"
     },
     {
       "name": "kingstar",
@@ -199,15 +61,153 @@
       "file": "we.json"
     },
     {
+      "name": "apple",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:46",
+      "file": "apple.json"
+    },
+    {
+      "name": "asus",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:13",
+      "file": "asus.json"
+    },
+    {
       "name": "doogee",
-      "phones": 26,
-      "lastUpdated": "2025-09-08 05:58:51",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:43",
       "file": "doogee.json"
+    },
+    {
+      "name": "google",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:16",
+      "file": "google.json"
+    },
+    {
+      "name": "honor",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:13",
+      "file": "honor.json"
+    },
+    {
+      "name": "huawei",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:18",
+      "file": "huawei.json"
+    },
+    {
+      "name": "infinix",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:41",
+      "file": "infinix.json"
+    },
+    {
+      "name": "iqoo",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:41",
+      "file": "iqoo.json"
+    },
+    {
+      "name": "itel",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:17",
+      "file": "itel.json"
+    },
+    {
+      "name": "lava",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:19",
+      "file": "lava.json"
+    },
+    {
+      "name": "meizu",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:45",
+      "file": "meizu.json"
+    },
+    {
+      "name": "motorola",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:42",
+      "file": "motorola.json"
+    },
+    {
+      "name": "nokia",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:42",
+      "file": "nokia.json"
+    },
+    {
+      "name": "oneplus",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:48",
+      "file": "oneplus.json"
+    },
+    {
+      "name": "oppo",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:40",
+      "file": "oppo.json"
+    },
+    {
+      "name": "realme",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:43",
+      "file": "realme.json"
+    },
+    {
+      "name": "samsung",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:47",
+      "file": "samsung.json"
+    },
+    {
+      "name": "sony",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:44",
+      "file": "sony.json"
+    },
+    {
+      "name": "symphony",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:16",
+      "file": "symphony.json"
+    },
+    {
+      "name": "tecno",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:45",
+      "file": "tecno.json"
+    },
+    {
+      "name": "vivo",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:45",
+      "file": "vivo.json"
+    },
+    {
+      "name": "walton",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:33:09",
+      "file": "walton.json"
+    },
+    {
+      "name": "xiaomi",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:31:50",
+      "file": "xiaomi.json"
+    },
+    {
+      "name": "zte",
+      "phones": 20,
+      "lastUpdated": "2025-09-09 09:34:43",
+      "file": "zte.json"
     },
     {
       "name": "lenovo",
       "phones": 19,
-      "lastUpdated": "2025-09-08 05:55:23",
+      "lastUpdated": "2025-09-09 09:34:42",
       "file": "lenovo.json"
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "nothing",
       "phones": 18,
-      "lastUpdated": "2025-09-08 05:41:53",
+      "lastUpdated": "2025-09-09 09:33:09",
       "file": "nothing.json"
     },
     {
@@ -231,7 +231,7 @@
     {
       "name": "benco",
       "phones": 17,
-      "lastUpdated": "2025-09-08 05:46:53",
+      "lastUpdated": "2025-09-09 09:34:08",
       "file": "benco.json"
     },
     {
@@ -249,13 +249,13 @@
     {
       "name": "helio",
       "phones": 14,
-      "lastUpdated": "2025-09-08 05:45:49",
+      "lastUpdated": "2025-09-09 09:32:52",
       "file": "helio.json"
     },
     {
       "name": "umidigi",
       "phones": 14,
-      "lastUpdated": "2025-09-08 05:53:21",
+      "lastUpdated": "2025-09-09 09:34:19",
       "file": "umidigi.json"
     },
     {
@@ -279,7 +279,7 @@
     {
       "name": "ulefone",
       "phones": 11,
-      "lastUpdated": "2025-09-08 05:57:31",
+      "lastUpdated": "2025-09-09 09:34:10",
       "file": "ulefone.json"
     },
     {

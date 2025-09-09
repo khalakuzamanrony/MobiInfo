@@ -1826,7 +1826,7 @@ class MobiInfoScraper:
             self.log_error(error_msg)
     
     def save_brand_as_separate_file(self, brand_data):
-        """Save a single brand as a separate JSON file in the Brands directory"""
+        """Save a single brand as a separate JSON file with incremental updates"""
         try:
             # Create Brands directory if it doesn't exist
             os.makedirs(self.brands_dir, exist_ok=True)
@@ -1835,31 +1835,145 @@ class MobiInfoScraper:
             brand_filename = f"{brand_data['id']}.json"
             brand_file_path = os.path.join(self.brands_dir, brand_filename)
             
-            # Create brand file data structure
-            brand_file_data = {
-                "brand_info": {
-                    "id": brand_data['id'],
-                    "name": brand_data['name'],
-                    "url": brand_data['url'],
-                    "image_url": brand_data['image_url'],
-                    "last_updated": brand_data.get('last_updated', datetime.now().strftime("%Y-%m-%d %H:%M:%S")),
-                    "total_phones": len(brand_data['phones'])
-                },
-                "phones": brand_data['phones']
-            }
+            # Load existing data if file exists
+            existing_data = None
+            if os.path.exists(brand_file_path):
+                try:
+                    with open(brand_file_path, 'r', encoding='utf-8') as f:
+                        existing_data = json.load(f)
+                except Exception as e:
+                    print(f"Warning: Could not load existing data for {brand_data['name']}: {str(e)}")
+                    existing_data = None
             
-            # Save to separate file
+            # Merge new data with existing data
+            merged_data = self._merge_brand_data(existing_data, brand_data)
+            
+            # Save merged data to file
             with open(brand_file_path, 'w', encoding='utf-8') as f:
-                json.dump(brand_file_data, f, ensure_ascii=False, indent=2)
+                json.dump(merged_data, f, ensure_ascii=False, indent=2)
             
-            print(f"Brand '{brand_data['name']}' saved to {brand_file_path}")
-            self.log_success(f"Brand '{brand_data['name']}' saved to {brand_file_path}")
+            # Calculate statistics
+            new_phones = merged_data['brand_info']['total_phones'] - (existing_data['brand_info']['total_phones'] if existing_data else 0)
+            
+            print(f"Brand '{brand_data['name']}' updated: {merged_data['brand_info']['total_phones']} total phones ({new_phones} new)")
+            self.log_success(f"Brand '{brand_data['name']}' updated with {new_phones} new phones")
             return brand_file_path
         except Exception as e:
             error_msg = f"Error saving brand '{brand_data['name']}' as separate file: {str(e)}"
             print(error_msg)
             self.log_error(error_msg)
             return None
+    
+    def _merge_brand_data(self, existing_data, new_brand_data):
+        """Merge new brand data with existing data, preserving all phones and updating when necessary"""
+        try:
+            current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            
+            # If no existing data, create new structure
+            if not existing_data:
+                return {
+                    "brand_info": {
+                        "id": new_brand_data['id'],
+                        "name": new_brand_data['name'],
+                        "url": new_brand_data['url'],
+                        "image_url": new_brand_data['image_url'],
+                        "last_updated": current_time,
+                        "total_phones": len(new_brand_data['phones']),
+                        "first_scraped": current_time
+                    },
+                    "phones": new_brand_data['phones']
+                }
+            
+            # Create a dictionary of existing phones for quick lookup
+            existing_phones = {}
+            for phone in existing_data.get('phones', []):
+                # Use phone URL as unique identifier
+                phone_key = phone.get('url', phone.get('id', phone.get('name', '')))
+                existing_phones[phone_key] = phone
+            
+            # Track changes
+            new_phones_added = []
+            updated_phones = []
+            
+            # Process new phones
+            for new_phone in new_brand_data['phones']:
+                phone_key = new_phone.get('url', new_phone.get('id', new_phone.get('name', '')))
+                
+                if phone_key in existing_phones:
+                    # Phone exists, check for updates
+                    existing_phone = existing_phones[phone_key]
+                    if self._phone_data_changed(existing_phone, new_phone):
+                        # Update the existing phone with new data
+                        updated_phone = existing_phone.copy()
+                        updated_phone.update(new_phone)
+                        updated_phone['last_updated'] = current_time
+                        existing_phones[phone_key] = updated_phone
+                        updated_phones.append(updated_phone)
+                    # If no changes, keep existing phone as is
+                else:
+                    # New phone, add it
+                    new_phone['first_scraped'] = current_time
+                    new_phone['last_updated'] = current_time
+                    existing_phones[phone_key] = new_phone
+                    new_phones_added.append(new_phone)
+            
+            # Convert back to list, with new phones at the top
+            all_phones = new_phones_added + [phone for key, phone in existing_phones.items() if phone not in new_phones_added]
+            
+            # Update brand info
+            merged_data = {
+                "brand_info": {
+                    "id": new_brand_data['id'],
+                    "name": new_brand_data['name'],
+                    "url": new_brand_data['url'],
+                    "image_url": new_brand_data['image_url'],
+                    "last_updated": current_time,
+                    "total_phones": len(all_phones),
+                    "first_scraped": existing_data['brand_info'].get('first_scraped', current_time),
+                    "new_phones_this_run": len(new_phones_added),
+                    "updated_phones_this_run": len(updated_phones)
+                },
+                "phones": all_phones
+            }
+            
+            # Log the changes
+            if new_phones_added or updated_phones:
+                print(f"  → {len(new_phones_added)} new phones, {len(updated_phones)} updated phones")
+            
+            return merged_data
+            
+        except Exception as e:
+            error_msg = f"Error merging brand data: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            # Return new data as fallback
+            return {
+                "brand_info": {
+                    "id": new_brand_data['id'],
+                    "name": new_brand_data['name'],
+                    "url": new_brand_data['url'],
+                    "image_url": new_brand_data['image_url'],
+                    "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                    "total_phones": len(new_brand_data['phones'])
+                },
+                "phones": new_brand_data['phones']
+            }
+    
+    def _phone_data_changed(self, existing_phone, new_phone):
+        """Check if phone data has changed by comparing key fields"""
+        try:
+            # Compare key fields that might change
+            fields_to_compare = ['name', 'variants', 'specs', 'gallery']
+            
+            for field in fields_to_compare:
+                if field in new_phone:
+                    if existing_phone.get(field) != new_phone.get(field):
+                        return True
+            
+            return False
+        except Exception as e:
+            # If comparison fails, assume data changed to be safe
+            return True
     
     def save_brands_as_separate_files(self, brands_data):
         """Save multiple brands as separate JSON files"""
@@ -2118,7 +2232,7 @@ if __name__ == "__main__":
         brand_inputs=brand_list,
         max_brands=3,  # Limit to first 5 brands from the list
         max_pages=1,  # Limit to 2 pages per brand
-        max_products=2,  # Limit to 10 products per brand
+        # max_products=2,  # Limit to 10 products per brand
         max_workers=3  # Use 3 concurrent workers for faster processing
     )
 
