@@ -111,89 +111,90 @@
 [SUCCESS 2025-09-09 10:12:08.258] Found 32 phones on page 7 (Total: 224)
 [SUCCESS 2025-09-09 10:12:08.759] Found 32 phones on page 8 (Total: 256)
 [SUCCESS 2025-09-09 10:12:09.535] Found 27 p[SUCCESS 2025-09-09 18:01:40.597] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:40.643] Brand 'apple' updated with 0 new phones
-[SUCCESS 2025-09-09 18:01:41.091] Brand 'xiaomi' updated with 0 new phones
-[SUCCESS 2025-09-09 18:01:41.291] Found 17 phones on page 1 (Total: 17)
-[SUCCESS 2025-09-09 18:01:41.455] Successfully fetched 17 total phones for brand
-[SUCCESS 2025-09-09 18:01:42.152] Found brand: Sony
-[SUCCESS 2025-09-09 18:01:42.391] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:43.530] Found 32 phones on page 1 (Total: 32)
-[SUCCESS 2025-09-09 18:01:43.604] Successfully fetched 32 total phones for brand
-[SUCCESS 2025-09-09 18:01:43.887] Successfully scraped 32 phones for brand: honor
-[SUCCESS 2025-09-09 18:01:44.889] Found brand: Meizu
-[SUCCESS 2025-09-09 18:01:45.120] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:46.029] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:01:46.180] Found brand: Lenovo
-[SUCCESS 2025-09-09 18:01:46.267] Found brand: Umidigi
-[SUCCESS 2025-09-09 18:01:46.392] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:46.669] Brand 'honor' updated with 0 new phones
-[SUCCESS 2025-09-09 18:01:46.652] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:46.784] Found brand: ZTE
-[SUCCESS 2025-09-09 18:01:46.968] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:47.185] Found brand: Doogee
-[SUCCESS 2025-09-09 18:01:47.320] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:48.236] Found 32 phones on page 1 (Total: 32)
-[SUCCESS 2025-09-09 18:01:48.313] Successfully fetched 32 total phones for brand
-[SUCCESS 2025-09-09 18:01:49.999] Found 32 phones on page 1 (Total: 32)
-[SUCCESS 2025-09-09 18:01:50.064] Successfully fetched 32 total phones for brand
-[SUCCESS 2025-09-09 18:01:50.591] Found 14 phones on page 1 (Total: 14)
-[SUCCESS 2025-09-09 18:01:50.651] Found brand: Ulefone
-[SUCCESS 2025-09-09 18:01:50.682] Successfully fetched 14 total phones for brand
-[SUCCESS 2025-09-09 18:01:50.840] Found 19 phones on page 1 (Total: 19)
-[SUCCESS 2025-09-09 18:01:50.803] Successfully loaded existing data with 5 brands
-[SUCCESS 2025-09-09 18:01:50.887] Successfully fetched 19 total phones for brand
-[SUCCESS 2025-09-09 18:01:50.996] Found 32 phones on page 1 (Total: 32)
-[SUCCESS 2025-09-09 18:01:51.062] Successfully fetched 32 total phones for brand
-[SUCCESS 2025-09-09 18:01:51.460] Found 32 phones on page 1 (Total: 32)
-[SUCCESS 2025-09-09 18:01:51.502] Successfully fetched 32 total phones for brand
-[SUCCESS 2025-09-09 18:01:52.036] Found 26 phones on page 1 (Total: 26)
-[SUCCESS 2025-09-09 18:01:52.133] Successfully fetched 26 total phones for brand
-[SUCCESS 2025-09-09 18:01:54.065] Found 11 phones on page 1 (Total: 11)
-[SUCCESS 2025-09-09 18:01:54.118] Successfully fetched 11 total phones for brand
-[SUCCESS 2025-09-09 18:03:35.486] Successfully scraped 11 phones for brand: ulefone
-[SUCCESS 2025-09-09 18:03:36.503] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:03:36.571] Brand 'ulefone' updated with 0 new phones
-[SUCCESS 2025-09-09 18:03:59.322] Successfully scraped 14 phones for brand: helio
-[SUCCESS 2025-09-09 18:04:00.060] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:04:00.201] Brand 'helio' updated with 0 new phones
-[SUCCESS 2025-09-09 18:04:05.492] Successfully scraped 14 phones for brand: umidigi
-[SUCCESS 2025-09-09 18:04:06.164] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:04:06.290] Brand 'umidigi' updated with 0 new phones
-[SUCCESS 2025-09-09 18:04:14.509] Successfully scraped 17 phones for brand: benco
-[SUCCESS 2025-09-09 18:04:14.988] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:04:15.065] Brand 'benco' updated with 0 new phones
-[SUCCESS 2025-09-09 18:04:27.350] Successfully scraped 18 phones for brand: nothing
-[SUCCESS 2025-09-09 18:04:27.760] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:04:27.908] Brand 'nothing' updated with 0 new phones
-[SUCCESS 2025-09-09 18:04:32.125] Successfully scraped 19 phones for brand: lenovo
-[SUCCESS 2025-09-09 18:04:33.468] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:04:33.549] Brand 'lenovo' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:26.360] Successfully scraped 26 phones for brand: doogee
-[SUCCESS 2025-09-09 18:05:26.764] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:26.828] Brand 'doogee' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:39.839] Successfully scraped 32 phones for brand: symphony
-[SUCCESS 2025-09-09 18:05:40.448] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:40.728] Brand 'symphony' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:43.510] Successfully scraped 32 phones for brand: huawei
-[SUCCESS 2025-09-09 18:05:44.698] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:44.955] Brand 'huawei' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:48.448] Successfully scraped 32 phones for brand: iqoo
-[SUCCESS 2025-09-09 18:05:49.071] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:49.171] Brand 'iqoo' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:50.895] Successfully scraped 32 phones for brand: motorola
-[SUCCESS 2025-09-09 18:05:51.388] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:51.491] Brand 'motorola' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:51.942] Successfully scraped 32 phones for brand: zte
-[SUCCESS 2025-09-09 18:05:52.458] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:52.740] Brand 'zte' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:56.981] Successfully scraped 32 phones for brand: sony
-[SUCCESS 2025-09-09 18:05:57.447] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:57.493] Brand 'sony' updated with 0 new phones
-[SUCCESS 2025-09-09 18:05:58.523] Successfully scraped 32 phones for brand: meizu
-[SUCCESS 2025-09-09 18:05:59.050] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:05:59.086] Brand 'meizu' updated with 0 new phones
-[SUCCESS 2025-09-09 18:06:01.592] Successfully scraped 32 phones for brand: asus
-[SUCCESS 2025-09-09 18:06:01.947] Final data saved to MobiInfo\allbrands.json
-[SUCCESS 2025-09-09 18:06:01.982] Brand 'asus' updated with 0 new phones
-[SUCCESS 2025-09-09 18:06:02.089] Successfully loaded changelog with 5 entries
-[SUCCESS 2025-09-09 18:06:02.259] Changelog saved to E:\Projects\Github\MobiInfo\MobiInfo\changelog.md
+[SUCCESS 2025-09-09 12:13:15.159] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:13:15.163] Found 14 phones on page 1 (Total: 14)
+[SUCCESS 2025-09-09 12:13:15.227] Successfully fetched 14 total phones for brand
+[SUCCESS 2025-09-09 12:13:15.250] Successfully scraped 32 phones for brand: tecno
+[SUCCESS 2025-09-09 12:13:15.384] Found brand: IQOO
+[SUCCESS 2025-09-09 12:13:15.736] Found brand: Meizu
+[SUCCESS 2025-09-09 12:13:15.767] Brand 'vivo' updated with 0 new phones
+[SUCCESS 2025-09-09 12:13:15.998] Found brand: ZTE
+[SUCCESS 2025-09-09 12:13:16.080] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:13:16.152] Brand 'xiaomi' updated with 0 new phones
+[SUCCESS 2025-09-09 12:13:16.233] Brand 'tecno' updated with 0 new phones
+[SUCCESS 2025-09-09 12:13:16.309] Found 32 phones on page 1 (Total: 32)
+[SUCCESS 2025-09-09 12:13:16.333] Successfully fetched 32 total phones for brand
+[SUCCESS 2025-09-09 12:13:16.894] Found brand: Umidigi
+[SUCCESS 2025-09-09 12:13:16.916] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 12:13:16.979] Found 32 phones on page 1 (Total: 32)
+[SUCCESS 2025-09-09 12:13:16.989] Successfully fetched 32 total phones for brand
+[SUCCESS 2025-09-09 12:13:17.181] Found brand: Lenovo
+[SUCCESS 2025-09-09 12:13:17.199] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 12:13:17.484] Found brand: Doogee
+[SUCCESS 2025-09-09 12:13:17.560] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 12:13:17.694] Successfully scraped 32 phones for brand: apple
+[SUCCESS 2025-09-09 12:13:18.044] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:13:18.161] Brand 'apple' updated with 0 new phones
+[SUCCESS 2025-09-09 12:13:19.223] Found 32 phones on page 1 (Total: 32)
+[SUCCESS 2025-09-09 12:13:19.245] Successfully fetched 32 total phones for brand
+[SUCCESS 2025-09-09 12:13:19.334] Found 32 phones on page 1 (Total: 32)
+[SUCCESS 2025-09-09 12:13:19.352] Successfully fetched 32 total phones for brand
+[SUCCESS 2025-09-09 12:13:19.762] Found 19 phones on page 1 (Total: 19)
+[SUCCESS 2025-09-09 12:13:19.786] Successfully fetched 19 total phones for brand
+[SUCCESS 2025-09-09 12:13:19.929] Found brand: Ulefone
+[SUCCESS 2025-09-09 12:13:19.968] Successfully loaded existing data with 5 brands
+[SUCCESS 2025-09-09 12:13:20.419] Found 26 phones on page 1 (Total: 26)
+[SUCCESS 2025-09-09 12:13:20.446] Successfully fetched 26 total phones for brand
+[SUCCESS 2025-09-09 12:13:20.636] Found 14 phones on page 1 (Total: 14)
+[SUCCESS 2025-09-09 12:13:20.649] Successfully fetched 14 total phones for brand
+[SUCCESS 2025-09-09 12:13:20.687] Found 32 phones on page 1 (Total: 32)
+[SUCCESS 2025-09-09 12:13:20.698] Successfully fetched 32 total phones for brand
+[SUCCESS 2025-09-09 12:13:22.218] Found 11 phones on page 1 (Total: 11)
+[SUCCESS 2025-09-09 12:13:22.235] Successfully fetched 11 total phones for brand
+[SUCCESS 2025-09-09 12:14:20.906] Successfully scraped 11 phones for brand: ulefone
+[SUCCESS 2025-09-09 12:14:21.680] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:21.714] Brand 'ulefone' updated with 0 new phones
+[SUCCESS 2025-09-09 12:14:26.585] Successfully scraped 14 phones for brand: helio
+[SUCCESS 2025-09-09 12:14:26.635] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:26.681] Brand 'helio' updated with 0 new phones
+[SUCCESS 2025-09-09 12:14:33.885] Successfully scraped 14 phones for brand: umidigi
+[SUCCESS 2025-09-09 12:14:34.210] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:34.241] Brand 'umidigi' updated with 0 new phones
+[SUCCESS 2025-09-09 12:14:40.869] Successfully scraped 18 phones for brand: nothing
+[SUCCESS 2025-09-09 12:14:41.334] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:41.379] Brand 'nothing' updated with 0 new phones
+[SUCCESS 2025-09-09 12:14:41.458] Successfully scraped 17 phones for brand: benco
+[SUCCESS 2025-09-09 12:14:42.048] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:42.088] Brand 'benco' updated with 0 new phones
+[SUCCESS 2025-09-09 12:14:54.613] Successfully scraped 19 phones for brand: lenovo
+[SUCCESS 2025-09-09 12:14:54.719] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:14:54.726] Brand 'lenovo' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:29.152] Successfully scraped 26 phones for brand: doogee
+[SUCCESS 2025-09-09 12:15:29.425] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:29.475] Brand 'doogee' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:32.941] Successfully scraped 32 phones for brand: huawei
+[SUCCESS 2025-09-09 12:15:33.040] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:33.069] Brand 'huawei' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:39.745] Successfully scraped 32 phones for brand: symphony
+[SUCCESS 2025-09-09 12:15:39.761] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:39.828] Brand 'symphony' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:44.497] Successfully scraped 32 phones for brand: asus
+[SUCCESS 2025-09-09 12:15:44.591] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:44.604] Brand 'asus' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:45.166] Successfully scraped 32 phones for brand: zte
+[SUCCESS 2025-09-09 12:15:45.174] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:45.190] Brand 'zte' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:45.757] Successfully scraped 32 phones for brand: motorola
+[SUCCESS 2025-09-09 12:15:45.852] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:45.884] Brand 'motorola' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:46.216] Successfully scraped 32 phones for brand: sony
+[SUCCESS 2025-09-09 12:15:46.223] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:46.240] Brand 'sony' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:49.440] Successfully scraped 32 phones for brand: meizu
+[SUCCESS 2025-09-09 12:15:49.446] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:49.455] Brand 'meizu' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:49.915] Successfully scraped 32 phones for brand: iqoo
+[SUCCESS 2025-09-09 12:15:49.923] Final data saved to MobiInfo/allbrands.json
+[SUCCESS 2025-09-09 12:15:49.942] Brand 'iqoo' updated with 0 new phones
+[SUCCESS 2025-09-09 12:15:49.951] Successfully loaded changelog with 6 entries
+[SUCCESS 2025-09-09 12:15:49.987] Changelog saved to /home/runner/work/MobiInfo/MobiInfo/MobiInfo/changelog.md
