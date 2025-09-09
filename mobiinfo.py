@@ -2075,7 +2075,7 @@ if __name__ == "__main__":
     # )
     result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=brand_list,
-        max_brands=2,  # Limit to first 5 brands from the list
+        max_brands=3,  # Limit to first 5 brands from the list
         max_pages=1,  # Limit to 2 pages per brand
         max_products=2,  # Limit to 10 products per brand
         max_workers=3  # Use 3 concurrent workers for faster processing
