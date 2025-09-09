@@ -2209,7 +2209,9 @@ if __name__ == "__main__":
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
     result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo","tecno", "oneplus", "google", "walton", "honor", "lava", "itel"],
+        #brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo","tecno", "oneplus", "google", "walton", "honor", "lava", "itel"],
+        brand_inputs=["huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
+    "meizu", "zte", "umidigi", "lenovo","doogee", "ulefone"],
         # max_brands=5,  # Limit to first 5 brands from the list
         # max_pages=1,  # Limit to 2 pages per brand
         # max_products=20,  # Limit to 10 products per brand
