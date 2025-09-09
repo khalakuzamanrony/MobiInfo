@@ -63,50 +63,33 @@ jobs:
               changelog_date=$(echo "$latest_changelog" | head -n1 | sed 's/^## //')
               
               # Extract summary section and clean it
-              summary_section=$(echo "$latest_changelog" | sed -n '/### Summary/,/### Detailed Changes/{/### Detailed Changes/!p;}' | grep -E '^- \*\*' | sed 's/\*\*\([^*]*\)\*\*/\1/g' | sed 's/^- /• /')
+              summary_section=$(echo "$latest_changelog" | sed -n '/### Summary/,/### Detailed Changes/{/### Detailed Changes/!p;}' | grep -E '^- \*\*' | sed 's/\*\*\([^*]*\)\*\*/\1/g' | sed 's/^- /- /')
               
               # Extract detailed changes (first few brands only to avoid message length limits)
               detailed_section=$(echo "$latest_changelog" | sed -n '/### Detailed Changes/,$p' | head -n 30)
               
-              # Start building the message with proper sections
-              # Section 1: Title
-              formatted_message="📱 MobiInfo DB Update%0A%0A"
+              # Build message step by step with proper escaping
+              formatted_message="📱 MobiInfo DB Update\n\n${changelog_date}\n\n${summary_section}\n\nDetails Summary:\n"
               
-              # Section 2: Date (separated with proper spacing)
-              formatted_message="${formatted_message}${changelog_date}%0A%0A"
-              
-              # Section 3: Summary (with clean formatting)
-              if [ ! -z "$summary_section" ]; then
-                # Clean up any remaining formatting issues and ensure proper line breaks
-                summary_clean=$(echo "$summary_section" | sed 's/%0A%0ADetails Summary:%0A//g' | tr '\n' '\n')
-                formatted_message="${formatted_message}${summary_clean}%0A%0A"
-              fi
-              
-              # Section 4: Details Summary header
-              formatted_message="${formatted_message}Details Summary:%0A%0A"
-              
-              # Section 5: Process detailed changes with clean formatting
+              # Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
                 details_clean=$(echo "$detailed_section" | \
-                  sed 's/#### \([^#]*\)/• \1/g' | \
+                  sed 's/#### \([^#]*\)/- \1/g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
                   sed 's/\*\([^*]*\)\*/\1/g' | \
                   sed '/^### Detailed Changes/d' | \
-                  sed 's/^  - /  - /g' | \
-                  sed 's/^    - \*\*\([^*]*\)\*\*/    - \1/g' | \
-                  sed 's/^$//' | \
+                  sed 's/^  - /- /g' | \
+                  sed 's/^    - /  - /g' | \
                   sed '/^[[:space:]]*$/d')
                 formatted_message="${formatted_message}${details_clean}"
               fi
             fi
             
-            # URL encode the entire message
-            encoded_message=$(echo -e "$formatted_message" | python3 -c "import sys, urllib.parse; print(urllib.parse.quote(sys.stdin.read()))")
-            
-            # Send to Telegram
+            # Send to Telegram with proper formatting
             curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
               -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-              -d text="$encoded_message"
+              -d parse_mode=HTML \
+              -d text="$(echo -e "$formatted_message")"
           else
             # Send error message if changelog doesn't exist
             curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
