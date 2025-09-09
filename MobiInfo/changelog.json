@@ -1,5 +1,818 @@
 [
   {
+    "timestamp": "2025-09-09 19:08:54",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 99,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "honor",
+        "brand_name": "honor",
+        "new_phones": 0,
+        "updated_phones": 99,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Honor 400 Lite",
+            "phone_id": "honor_400_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V5",
+            "phone_id": "honor_magic_v5",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play10C",
+            "phone_id": "honor_play10c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X6c",
+            "phone_id": "honor_x6c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 400 Pro (China)",
+            "phone_id": "honor_400_pro_china",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 400 (China)",
+            "phone_id": "honor_400_china",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 400",
+            "phone_id": "honor_400",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 400 Pro",
+            "phone_id": "honor_400_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 400 (512GB)",
+            "phone_id": "honor_400_512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Power (512GB)",
+            "phone_id": "honor_power_512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X70i",
+            "phone_id": "honor_x70i",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X8c",
+            "phone_id": "honor_x8c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor GT Pro",
+            "phone_id": "honor_gt_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor GT Pro (512GB)",
+            "phone_id": "honor_gt_pro_512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor GT Pro (16GB+512GB)",
+            "phone_id": "honor_gt_pro_16gb512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X60 GT",
+            "phone_id": "honor_x60_gt",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Power",
+            "phone_id": "honor_power",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play 60",
+            "phone_id": "honor_play_60",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9c (512GB)",
+            "phone_id": "honor_x9c_512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9c",
+            "phone_id": "honor_x9c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V3",
+            "phone_id": "honor_magic_v3",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X5b Plus",
+            "phone_id": "honor_x5b_plus",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X5b",
+            "phone_id": "honor_x5b",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7 Lite",
+            "phone_id": "honor_magic7_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9c Smart",
+            "phone_id": "honor_x9c_smart",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7 RSR Porsche Design",
+            "phone_id": "honor_magic7_rsr_porsche_design",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor GT",
+            "phone_id": "honor_gt",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300 Pro",
+            "phone_id": "honor_300_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300 Ultra",
+            "phone_id": "honor_300_ultra",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 300",
+            "phone_id": "honor_300",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X7c",
+            "phone_id": "honor_x7c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7",
+            "phone_id": "honor_magic7",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic7 Pro",
+            "phone_id": "honor_magic7_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X60",
+            "phone_id": "honor_x60",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X60 Pro",
+            "phone_id": "honor_x60_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play9C",
+            "phone_id": "honor_play9c",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 Smart",
+            "phone_id": "honor_200_smart",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play9T",
+            "phone_id": "honor_play9t",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X60i",
+            "phone_id": "honor_x60i",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V Flip",
+            "phone_id": "honor_magic_v_flip",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X6b",
+            "phone_id": "honor_x6b",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 (12GB RAM)",
+            "phone_id": "honor_200_12gb_ram",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 (16GB RAM)",
+            "phone_id": "honor_200_16gb_ram",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 (16GB+512GB)",
+            "phone_id": "honor_200_16gb512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 Pro",
+            "phone_id": "honor_200_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200",
+            "phone_id": "honor_200",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 200 Lite",
+            "phone_id": "honor_200_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic6 RSR Porsche Design",
+            "phone_id": "honor_magic6_rsr_porsche_design",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic6 Ultimate",
+            "phone_id": "honor_magic6_ultimate",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic5 Ultimate",
+            "phone_id": "honor_magic5_ultimate",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic6 Pro",
+            "phone_id": "honor_magic6_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic6",
+            "phone_id": "honor_magic6",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V2 RSR Porsche Design",
+            "phone_id": "honor_magic_v2_rsr_porsche_design",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X7a",
+            "phone_id": "honor_x7a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X8b",
+            "phone_id": "honor_x8b",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 90 GT",
+            "phone_id": "honor_90_gt",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 90 GT (16GB RAM)",
+            "phone_id": "honor_90_gt_16gb_ram",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X7b",
+            "phone_id": "honor_x7b",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 100 5G",
+            "phone_id": "honor_100_5g",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 100 5G (16GB RAM)",
+            "phone_id": "honor_100_5g_16gb_ram",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 100 Pro",
+            "phone_id": "honor_100_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 100 Pro (16GB RAM)",
+            "phone_id": "honor_100_pro_16gb_ram",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9b",
+            "phone_id": "honor_x9b",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X5 Plus",
+            "phone_id": "honor_x5_plus",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X6a",
+            "phone_id": "honor_x6a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic V2",
+            "phone_id": "honor_magic_v2",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 90 Lite 5G",
+            "phone_id": "honor_90_lite_5g",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 90 Lite",
+            "phone_id": "honor_90_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 90",
+            "phone_id": "honor_90",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic5 Pro",
+            "phone_id": "honor_magic5_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic5 Pro (512GB)",
+            "phone_id": "honor_magic5_pro_512gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic5",
+            "phone_id": "honor_magic5",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X8a",
+            "phone_id": "honor_x8a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9a",
+            "phone_id": "honor_x9a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X6",
+            "phone_id": "honor_x6",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 70",
+            "phone_id": "honor_70",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X9",
+            "phone_id": "honor_x9",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X7",
+            "phone_id": "honor_x7",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic4 Pro",
+            "phone_id": "honor_magic4_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X8",
+            "phone_id": "honor_x8",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor X10 5G",
+            "phone_id": "honor_x10_5g",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 30 Lite",
+            "phone_id": "honor_30_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play4 Pro",
+            "phone_id": "honor_play4_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 30 Pro Plus",
+            "phone_id": "honor_30_pro_plus",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play 9A",
+            "phone_id": "honor_play_9a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 9X",
+            "phone_id": "honor_9x",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 8a Pro",
+            "phone_id": "honor_8a_pro",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 20 Lite",
+            "phone_id": "honor_20_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 20i",
+            "phone_id": "honor_20i",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 8S",
+            "phone_id": "honor_8s",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Play 8A",
+            "phone_id": "honor_play_8a",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor View 20",
+            "phone_id": "honor_view_20",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor View 20 (8GB+256GB)",
+            "phone_id": "honor_view_20_8gb256gb",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Magic 2",
+            "phone_id": "honor_magic_2",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 10 Lite",
+            "phone_id": "honor_10_lite",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 7s",
+            "phone_id": "honor_7s",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 6 Plus",
+            "phone_id": "honor_6_plus",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor Holly",
+            "phone_id": "honor_holly",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Honor 4X",
+            "phone_id": "honor_4x",
+            "differences": [
+              "Added new field: serial_number"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 18:24:57",
     "summary": {
       "new_brands": 0,

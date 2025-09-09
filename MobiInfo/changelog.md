@@ -2,6 +2,323 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 19:08:54
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 99
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### honor
+
+- **Updated phones**: 99
+
+  - **Updated phone**: Honor 400 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic V5
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play10C
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X6c
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 400 Pro (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 400 (China)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 400
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 400 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 400 (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Power (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X70i
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X8c
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor GT Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor GT Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor GT Pro (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X60 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Power
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play 60
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9c (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9c
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic V3
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X5b Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X5b
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic7 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9c Smart
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic7 RSR Porsche Design
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 300 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 300 Ultra
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 300
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X7c
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic7
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic7 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X60
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X60 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play9C
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 Smart
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play9T
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X60i
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic V Flip
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X6b
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 (12GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 (16GB+512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 200 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic6 RSR Porsche Design
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic6 Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic5 Ultimate
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic6 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic6
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic V2 RSR Porsche Design
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X7a
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X8b
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 90 GT
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 90 GT (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X7b
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 100 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 100 5G (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 100 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 100 Pro (16GB RAM)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9b
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X5 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X6a
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic V2
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 90 Lite 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 90 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 90
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic5 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic5 Pro (512GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic5
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X8a
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9a
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X6
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 70
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X9
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X7
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X8
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor X10 5G
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 30 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play4 Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 30 Pro Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play 9A
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 9X
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 8a Pro
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 20 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 20i
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 8S
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Play 8A
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor View 20
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor View 20 (8GB+256GB)
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Magic 2
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 10 Lite
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 7s
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 6 Plus
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor Holly
+    - Added new field: serial_number
+
+  - **Updated phone**: Honor 4X
+    - Added new field: serial_number
+
+
+---
+
 ## 2025-09-09 18:24:57
 
 ### Summary

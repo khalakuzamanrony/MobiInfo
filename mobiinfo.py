@@ -412,11 +412,15 @@ class MobiInfoScraper:
                         
                         phone_id = self.generate_phone_id(phone_name)
                         
+                        # Calculate serial number based on current position
+                        serial_number = products_collected + len(page_phones) + 1
+                        
                         page_phones.append({
                             'id': phone_id,
                             'name': phone_name,
                             'url': phone_url,
-                            'image_url': img_url
+                            'image_url': img_url,
+                            'serial_number': serial_number
                         })
                     except Exception as e:
                         error_msg = f"Error processing phone item on page {page}: {str(e)}"
@@ -776,6 +780,7 @@ class MobiInfoScraper:
                         "name": phone['name'],
                         "url": phone['url'],
                         "image_url": phone['image_url'],
+                        "serial_number": phone.get('serial_number', i + 1),
                         "variants": variants,
                         "specifications": specs,
                         "gallery_images": gallery_images
@@ -1865,12 +1870,19 @@ class MobiInfoScraper:
             return None
     
     def _merge_brand_data(self, existing_data, new_brand_data):
-        """Merge new brand data with existing data, preserving all phones and updating when necessary"""
+        """Merge new brand data with existing data, maintaining serial order from website"""
         try:
             current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             
-            # If no existing data, create new structure
+            # If no existing data, create new structure with serial numbers
             if not existing_data:
+                # Ensure all phones have serial numbers
+                for i, phone in enumerate(new_brand_data['phones'], 1):
+                    if 'serial_number' not in phone:
+                        phone['serial_number'] = i
+                    phone['first_scraped'] = current_time
+                    phone['last_updated'] = current_time
+                
                 return {
                     "brand_info": {
                         "id": new_brand_data['id'],
@@ -1879,46 +1891,86 @@ class MobiInfoScraper:
                         "image_url": new_brand_data['image_url'],
                         "last_updated": current_time,
                         "total_phones": len(new_brand_data['phones']),
-                        "first_scraped": current_time
+                        "first_scraped": current_time,
+                        "new_phones_this_run": len(new_brand_data['phones']),
+                        "updated_phones_this_run": 0
                     },
                     "phones": new_brand_data['phones']
                 }
             
-            # Create a dictionary of existing phones for quick lookup
-            existing_phones = {}
-            for phone in existing_data.get('phones', []):
-                # Use phone URL as unique identifier
-                phone_key = phone.get('url', phone.get('id', phone.get('name', '')))
-                existing_phones[phone_key] = phone
+            # Migrate existing phones to serial system if needed
+            existing_phones = existing_data.get('phones', [])
+            existing_phones = self._migrate_existing_phones_to_serial_system(existing_phones)
+            
+            # Create dictionaries for quick lookup
+            existing_phones_by_url = {}
+            existing_phones_by_serial = {}
+            
+            for phone in existing_phones:
+                phone_url = phone.get('url', '')
+                phone_serial = phone.get('serial_number', 0)
+                
+                if phone_url:
+                    existing_phones_by_url[phone_url] = phone
+                if phone_serial:
+                    existing_phones_by_serial[phone_serial] = phone
             
             # Track changes
             new_phones_added = []
             updated_phones = []
+            final_phones_list = []
             
-            # Process new phones
+            # Process new phones in their website order (by serial number)
             for new_phone in new_brand_data['phones']:
-                phone_key = new_phone.get('url', new_phone.get('id', new_phone.get('name', '')))
+                phone_url = new_phone.get('url', '')
+                new_serial = new_phone.get('serial_number', 0)
                 
-                if phone_key in existing_phones:
+                if phone_url in existing_phones_by_url:
                     # Phone exists, check for updates
-                    existing_phone = existing_phones[phone_key]
-                    if self._phone_data_changed(existing_phone, new_phone):
-                        # Update the existing phone with new data
-                        updated_phone = existing_phone.copy()
+                    existing_phone = existing_phones_by_url[phone_url]
+                    old_serial = existing_phone.get('serial_number', 0)
+                    
+                    # Update serial number to match website position
+                    updated_phone = existing_phone.copy()
+                    updated_phone['serial_number'] = new_serial
+                    
+                    # Check if other data changed
+                    if self._phone_data_changed(existing_phone, new_phone) or old_serial != new_serial:
                         updated_phone.update(new_phone)
                         updated_phone['last_updated'] = current_time
-                        existing_phones[phone_key] = updated_phone
+                        # Preserve original scraping time
+                        if 'first_scraped' not in updated_phone:
+                            updated_phone['first_scraped'] = existing_phone.get('first_scraped', current_time)
                         updated_phones.append(updated_phone)
-                    # If no changes, keep existing phone as is
+                    else:
+                        # No changes except possibly serial number
+                        if 'first_scraped' not in updated_phone:
+                            updated_phone['first_scraped'] = existing_phone.get('first_scraped', current_time)
+                    
+                    final_phones_list.append(updated_phone)
                 else:
-                    # New phone, add it
+                    # New phone found
                     new_phone['first_scraped'] = current_time
                     new_phone['last_updated'] = current_time
-                    existing_phones[phone_key] = new_phone
+                    if 'serial_number' not in new_phone:
+                        new_phone['serial_number'] = new_serial
+                    
                     new_phones_added.append(new_phone)
+                    final_phones_list.append(new_phone)
             
-            # Convert back to list, with new phones at the top
-            all_phones = new_phones_added + [phone for key, phone in existing_phones.items() if phone not in new_phones_added]
+            # Add any existing phones that weren't found in the new data
+            # (This preserves phones that might have been removed from website but we want to keep)
+            existing_urls = {phone.get('url', '') for phone in final_phones_list}
+            for existing_phone in existing_phones:
+                if existing_phone.get('url', '') not in existing_urls:
+                    # This phone is no longer on the website, but we keep it
+                    # Assign it a high serial number to put it at the end
+                    max_serial = max([p.get('serial_number', 0) for p in final_phones_list] + [0])
+                    existing_phone['serial_number'] = max_serial + 1
+                    final_phones_list.append(existing_phone)
+            
+            # Sort by serial number to maintain website order
+            final_phones_list.sort(key=lambda x: x.get('serial_number', 999999))
             
             # Update brand info
             merged_data = {
@@ -1928,12 +1980,12 @@ class MobiInfoScraper:
                     "url": new_brand_data['url'],
                     "image_url": new_brand_data['image_url'],
                     "last_updated": current_time,
-                    "total_phones": len(all_phones),
+                    "total_phones": len(final_phones_list),
                     "first_scraped": existing_data['brand_info'].get('first_scraped', current_time),
                     "new_phones_this_run": len(new_phones_added),
                     "updated_phones_this_run": len(updated_phones)
                 },
-                "phones": all_phones
+                "phones": final_phones_list
             }
             
             # Log the changes
@@ -1959,11 +2011,24 @@ class MobiInfoScraper:
                 "phones": new_brand_data['phones']
             }
     
+    def _migrate_existing_phones_to_serial_system(self, phones_list):
+        """Add serial numbers to existing phones that don't have them"""
+        try:
+            for i, phone in enumerate(phones_list, 1):
+                if 'serial_number' not in phone or phone.get('serial_number', 0) == 0:
+                    phone['serial_number'] = i
+            return phones_list
+        except Exception as e:
+            error_msg = f"Error migrating phones to serial system: {str(e)}"
+            print(error_msg)
+            self.log_error(error_msg)
+            return phones_list
+    
     def _phone_data_changed(self, existing_phone, new_phone):
         """Check if phone data has changed by comparing key fields"""
         try:
             # Compare key fields that might change
-            fields_to_compare = ['name', 'variants', 'specs', 'gallery']
+            fields_to_compare = ['name', 'variants', 'specifications', 'gallery_images']
             
             for field in fields_to_compare:
                 if field in new_phone:
@@ -2198,7 +2263,7 @@ if __name__ == "__main__":
 #     "geo", "tcl", "oukitel", "oscal", "bengal", "mycell", "wiko", "kingstar", 
 #     "energizer", "philips", "okapia"
 # ]
-    brand_list = [
+    brand_list = ["meizu", "maximus", "lg", "zte", "htc", "coolpad", "umidigi", "kyocera", 
     "xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
@@ -2208,24 +2273,30 @@ if __name__ == "__main__":
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
-    result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=brand_list,
-        # max_brands=5,  # Limit to first 5 brands from the list
-        max_pages=1,  # Limit to 2 pages per brand
-        # max_products=20,  # Limit to 10 products per brand
-        max_workers=15  # Use 3 concurrent workers for faster processing
-    )
+    # result = scraper.scrape_multiple_brands_separate_files(
+    #     brand_inputs=brand_list,
+    #     # max_brands=5,  # Limit to first 5 brands from the list
+    #     max_pages=1,  # Limit to 2 pages per brand
+    #     # max_products=20,  # Limit to 10 products per brand
+    #     max_workers=15  # Use 3 concurrent workers for faster processing
+    # )
 
 
 
     # Test
-    # result = scraper.scrape_multiple_brands_separate_files(
-    #     brand_inputs=brand_list,
-    #     max_brands=3,  # Limit to first 5 brands from the list
-    #     max_pages=1,  # Limit to 2 pages per brand
-    #     max_products=2,  # Limit to 10 products per brand
-    #     max_workers=3  # Use 3 concurrent workers for faster processing
-    # )
+    result = scraper.scrape_multiple_brands_separate_files(
+        brand_inputs=["meizu", "maximus", "lg", "zte", "htc", "coolpad", "umidigi", "kyocera", 
+"cat", "blu", "blackview", "leitz", "nio", "microsoft", "micromax", "gionee", 
+"lenovo", "cubot", "alcatel", "fairphone", "we", "freeyond", "hmd", "blackberry", 
+"allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", 
+"ulefone", "leica", "acer", "gdl", "proton", "sonim", "thuraya", "sharp", 
+"geo", "tcl", "oukitel", "oscal", "bengal", "mycell", "wiko", "kingstar", 
+"energizer", "philips", "okapia"],
+        # max_brands=3,  # Limit to first 5 brands from the list
+        # max_pages=1,  # Limit to 2 pages per brand
+        # max_products=2,  # Limit to 10 products per brand
+        max_workers=10  # Use 3 concurrent workers for faster processing
+    )
 
 
 
