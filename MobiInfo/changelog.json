@@ -1,5 +1,2574 @@
 [
   {
+    "timestamp": "2025-09-09 17:05:57",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 14,
+      "failed_brands": 0,
+      "new_phones": 490,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "ulefone",
+        "brand_name": "ulefone",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "helio",
+        "brand_name": "helio",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "umidigi",
+        "brand_name": "umidigi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "benco",
+        "brand_name": "benco",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "nothing",
+        "brand_name": "nothing",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "lenovo",
+        "brand_name": "lenovo",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "doogee",
+        "brand_name": "doogee",
+        "new_phones": 6,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Doogee S Punk",
+            "phone_id": "doogee_s_punk"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee S Cyber",
+            "phone_id": "doogee_s_cyber"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee N55 Plus",
+            "phone_id": "doogee_n55_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee DK10",
+            "phone_id": "doogee_dk10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V20S",
+            "phone_id": "doogee_v20s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Doogee V30T",
+            "phone_id": "doogee_v30t"
+          }
+        ]
+      },
+      {
+        "brand_id": "meizu",
+        "brand_name": "meizu",
+        "new_phones": 20,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Meizu 16X",
+            "phone_id": "meizu_16x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu V8 Pro",
+            "phone_id": "meizu_v8_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu V8",
+            "phone_id": "meizu_v8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu 16",
+            "phone_id": "meizu_16"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu 16 Plus",
+            "phone_id": "meizu_16_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M6T",
+            "phone_id": "meizu_m6t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M8c",
+            "phone_id": "meizu_m8c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu E3",
+            "phone_id": "meizu_e3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu 15 Lite",
+            "phone_id": "meizu_15_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu 15 Plus",
+            "phone_id": "meizu_15_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M6s",
+            "phone_id": "meizu_m6s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M6",
+            "phone_id": "meizu_m6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M6 Note",
+            "phone_id": "meizu_m6_note"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu Pro 7",
+            "phone_id": "meizu_pro_7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu Pro 7 Plus",
+            "phone_id": "meizu_pro_7_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M5c",
+            "phone_id": "meizu_m5c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu E2",
+            "phone_id": "meizu_e2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M5s",
+            "phone_id": "meizu_m5s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu Pro 6",
+            "phone_id": "meizu_pro_6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Meizu M2 Note",
+            "phone_id": "meizu_m2_note"
+          }
+        ]
+      },
+      {
+        "brand_id": "asus",
+        "brand_name": "asus",
+        "new_phones": 30,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 5s",
+            "phone_id": "asus_rog_phone_5s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 5s (16GB RAM)",
+            "phone_id": "asus_rog_phone_5s_16gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 5",
+            "phone_id": "asus_rog_phone_5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 5 (256GB)",
+            "phone_id": "asus_rog_phone_5_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 5 (16GB/256GB)",
+            "phone_id": "asus_rog_phone_5_16gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 3 Strix",
+            "phone_id": "asus_rog_phone_3_strix"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 3 ZS661KS",
+            "phone_id": "asus_rog_phone_3_zs661ks"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone II ZS660KL",
+            "phone_id": "asus_rog_phone_ii_zs660kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 2",
+            "phone_id": "asus_rog_phone_2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus ROG Phone 2 (12GB/512GB)",
+            "phone_id": "asus_rog_phone_2_12gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 6 ZS630KL",
+            "phone_id": "asus_zenfone_6_zs630kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 6z",
+            "phone_id": "asus_zenfone_6z"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Max Shot (ZB634KL)",
+            "phone_id": "asus_zenfone_max_shot_zb634kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Max Plus (M2) ZB634KL",
+            "phone_id": "asus_zenfone_max_plus_m2_zb634kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Go ZB552KL",
+            "phone_id": "asus_zenfone_go_zb552kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Live ZB501KL",
+            "phone_id": "asus_zenfone_live_zb501kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 3s Max ZC521TL",
+            "phone_id": "asus_zenfone_3s_max_zc521tl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 3 Max ZC553KL",
+            "phone_id": "asus_zenfone_3_max_zc553kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone GO ZB500KG",
+            "phone_id": "asus_zenfone_go_zb500kg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Go ZB500KL",
+            "phone_id": "asus_zenfone_go_zb500kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 3 Max ZC520TL",
+            "phone_id": "asus_zenfone_3_max_zc520tl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Max ZC550KL",
+            "phone_id": "asus_zenfone_max_zc550kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 Laser ZE601KL",
+            "phone_id": "asus_zenfone_2_laser_ze601kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 Laser ZE500KG",
+            "phone_id": "asus_zenfone_2_laser_ze500kg"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 Laser ZE550KL",
+            "phone_id": "asus_zenfone_2_laser_ze550kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 Deluxe ZE551ML",
+            "phone_id": "asus_zenfone_2_deluxe_ze551ml"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 Laser ZE500KL",
+            "phone_id": "asus_zenfone_2_laser_ze500kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone Selfie ZD551KL",
+            "phone_id": "asus_zenfone_selfie_zd551kl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 ZE551ML",
+            "phone_id": "asus_zenfone_2_ze551ml"
+          },
+          {
+            "type": "new",
+            "phone_name": "Asus Zenfone 2 ZE500CL",
+            "phone_id": "asus_zenfone_2_ze500cl"
+          }
+        ]
+      },
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 51,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 10 Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade V60",
+            "phone_id": "zte_blade_v60"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A75 5G",
+            "phone_id": "zte_blade_a75_5g"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A35",
+            "phone_id": "zte_blade_a35"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60 Ultra Leading",
+            "phone_id": "zte_nubia_z60_ultra_leading"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60S Pro",
+            "phone_id": "zte_nubia_z60s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60S Pro (16GB+512GB)",
+            "phone_id": "zte_nubia_z60s_pro_16gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A55",
+            "phone_id": "zte_blade_a55"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A75",
+            "phone_id": "zte_blade_a75"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 9S Pro",
+            "phone_id": "zte_nubia_red_magic_9s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 9S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_9s_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Voyage 3D",
+            "phone_id": "zte_voyage_3d"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade V60 Design",
+            "phone_id": "zte_blade_v60_design"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Axon 60",
+            "phone_id": "zte_axon_60"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Music",
+            "phone_id": "zte_nubia_music"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Flip",
+            "phone_id": "zte_nubia_flip"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Flip (256GB)",
+            "phone_id": "zte_nubia_flip_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A34",
+            "phone_id": "zte_blade_a34"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60 Ultra (16GB+512GB)",
+            "phone_id": "zte_nubia_z60_ultra_16gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60 Ultra",
+            "phone_id": "zte_nubia_z60_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 9 Pro Plus",
+            "phone_id": "zte_nubia_red_magic_9_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 9 Pro",
+            "phone_id": "zte_nubia_red_magic_9_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A54",
+            "phone_id": "zte_blade_a54"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade V50 Design 4G",
+            "phone_id": "zte_blade_v50_design_4g"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A73",
+            "phone_id": "zte_blade_a73"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Neo",
+            "phone_id": "zte_nubia_neo"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Z50S Pro",
+            "phone_id": "zte_nubia_z50s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8S Pro",
+            "phone_id": "zte_nubia_red_magic_8s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8S Pro (512GB RAM)",
+            "phone_id": "zte_nubia_red_magic_8s_pro_512gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8S Pro (16GB+512GB)",
+            "phone_id": "zte_nubia_red_magic_8s_pro_16gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A72s",
+            "phone_id": "zte_blade_a72s"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Z50 Ultra",
+            "phone_id": "zte_nubia_z50_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade V40",
+            "phone_id": "zte_blade_v40"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade V40 Design",
+            "phone_id": "zte_blade_v40_design"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8 Pro",
+            "phone_id": "zte_nubia_red_magic_8_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8 Pro (512GB)",
+            "phone_id": "zte_nubia_red_magic_8_pro_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 8 Pro Plus",
+            "phone_id": "zte_nubia_red_magic_8_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Z50",
+            "phone_id": "zte_nubia_z50"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Red Magic 7S Pro",
+            "phone_id": "zte_nubia_red_magic_7s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Axon 40 Ultra",
+            "phone_id": "zte_axon_40_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic 6S Pro",
+            "phone_id": "zte_nubia_red_magic_6s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic 6 Pro",
+            "phone_id": "zte_nubia_red_magic_6_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic 5G (12GB+256GB)",
+            "phone_id": "zte_nubia_red_magic_5g_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic 5G",
+            "phone_id": "zte_nubia_red_magic_5g"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic 3",
+            "phone_id": "zte_nubia_red_magic_3"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade L8",
+            "phone_id": "zte_blade_l8"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Blade A3 (2019)",
+            "phone_id": "zte_blade_a3_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Red Magic",
+            "phone_id": "zte_nubia_red_magic"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia Z18 mini",
+            "phone_id": "zte_nubia_z18_mini"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE Nubia V18",
+            "phone_id": "zte_nubia_v18"
+          },
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia Z60 Ultra (2024)",
+            "phone_id": "zte_nubia_z60_ultra_2024"
+          }
+        ]
+      },
+      {
+        "brand_id": "iqoo",
+        "brand_name": "iqoo",
+        "new_phones": 66,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 10R",
+            "phone_id": "vivo_iqoo_neo_10r"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 10R (256GB)",
+            "phone_id": "vivo_iqoo_neo_10r_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 10R (12GB+256GB)",
+            "phone_id": "vivo_iqoo_neo_10r_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Turbo Endurance",
+            "phone_id": "vivo_iqoo_z9_turbo_endurance"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo10 Pro (China)",
+            "phone_id": "vivo_iqoo_neo10_pro_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo10 (China)",
+            "phone_id": "vivo_iqoo_neo10_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 13",
+            "phone_id": "vivo_iqoo_13"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 13 (512GB)",
+            "phone_id": "vivo_iqoo_13_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Turbo Plus",
+            "phone_id": "vivo_iqoo_z9_turbo_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Turbo Plus (16GB RAM)",
+            "phone_id": "vivo_iqoo_z9_turbo_plus_16gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s Pro",
+            "phone_id": "vivo_iqoo_z9s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s (256GB)",
+            "phone_id": "vivo_iqoo_z9s_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s",
+            "phone_id": "vivo_iqoo_z9s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s (12GB RAM)",
+            "phone_id": "vivo_iqoo_z9s_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s Pro (256GB)",
+            "phone_id": "vivo_iqoo_z9s_pro_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9s Pro (12GB+256GB)",
+            "phone_id": "vivo_iqoo_z9s_pro_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Lite (6GB RAM)",
+            "phone_id": "vivo_iqoo_z9_lite_6gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Lite",
+            "phone_id": "vivo_iqoo_z9_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9s Pro Plus",
+            "phone_id": "vivo_iqoo_neo9s_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9s Pro",
+            "phone_id": "vivo_iqoo_neo9s_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9s Pro (256GB)",
+            "phone_id": "vivo_iqoo_neo9s_pro_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9s Pro (12GB+256GB)",
+            "phone_id": "vivo_iqoo_neo9s_pro_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9x (8GB RAM)",
+            "phone_id": "vivo_iqoo_z9x_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 Turbo",
+            "phone_id": "vivo_iqoo_z9_turbo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 (China)",
+            "phone_id": "vivo_iqoo_z9_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9x",
+            "phone_id": "vivo_iqoo_z9x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9",
+            "phone_id": "vivo_iqoo_z9"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z9 (256GB)",
+            "phone_id": "vivo_iqoo_z9_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9 Pro (12GB RAM)",
+            "phone_id": "vivo_iqoo_neo9_pro_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9 Pro",
+            "phone_id": "vivo_iqoo_neo9_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9 Pro (China)",
+            "phone_id": "vivo_iqoo_neo9_pro_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9 (512GB)",
+            "phone_id": "vivo_iqoo_neo9_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9",
+            "phone_id": "vivo_iqoo_neo9"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo9 (16GB RAM)",
+            "phone_id": "vivo_iqoo_neo9_16gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 12 Pro",
+            "phone_id": "vivo_iqoo_12_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 12",
+            "phone_id": "vivo_iqoo_12"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z7 Pro (256GB)",
+            "phone_id": "vivo_iqoo_z7_pro_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z7 Pro",
+            "phone_id": "vivo_iqoo_z7_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z8 (China)",
+            "phone_id": "vivo_iqoo_z8_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 7 Pro (12GB/256GB)",
+            "phone_id": "vivo_iqoo_neo_7_pro_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 7 Pro",
+            "phone_id": "vivo_iqoo_neo_7_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 11s",
+            "phone_id": "vivo_iqoo_11s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo8 Pro",
+            "phone_id": "vivo_iqoo_neo8_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo8",
+            "phone_id": "vivo_iqoo_neo8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z7s",
+            "phone_id": "vivo_iqoo_z7s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z7",
+            "phone_id": "vivo_iqoo_z7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z7 (8GB RAM)",
+            "phone_id": "vivo_iqoo_z7_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 7",
+            "phone_id": "vivo_iqoo_neo_7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo 7 (256GB)",
+            "phone_id": "vivo_iqoo_neo_7_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 11 Pro",
+            "phone_id": "vivo_iqoo_11_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo7 SE",
+            "phone_id": "vivo_iqoo_neo7_se"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 11 (16GB/256GB)",
+            "phone_id": "vivo_iqoo_11_16gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z6 Lite",
+            "phone_id": "vivo_iqoo_z6_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z6 Lite (128GB)",
+            "phone_id": "vivo_iqoo_z6_lite_128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 9T",
+            "phone_id": "vivo_iqoo_9t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Neo6",
+            "phone_id": "vivo_iqoo_neo6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z6 Pro",
+            "phone_id": "vivo_iqoo_z6_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z6 Pro (8GB RAM)",
+            "phone_id": "vivo_iqoo_z6_pro_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO Z6 44W",
+            "phone_id": "vivo_iqoo_z6_44w"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 9 SE",
+            "phone_id": "vivo_iqoo_9_se"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 9 SE (12GB/256GB)",
+            "phone_id": "vivo_iqoo_9_se_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 9 (China)",
+            "phone_id": "vivo_iqoo_9_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 11",
+            "phone_id": "vivo_iqoo_11"
+          },
+          {
+            "type": "new",
+            "phone_name": "vivo iQOO 7 (256GB)",
+            "phone_id": "vivo_iqoo_7_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "vivo iQOO 7",
+            "phone_id": "vivo_iqoo_7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Vivo iQOO 14",
+            "phone_id": "vivo_iqoo_14"
+          }
+        ]
+      },
+      {
+        "brand_id": "sony",
+        "brand_name": "sony",
+        "new_phones": 65,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia L2",
+            "phone_id": "sony_xperia_l2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia R1 (Plus)",
+            "phone_id": "sony_xperia_r1_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA1 Plus Dual (4GB+32GB)",
+            "phone_id": "sony_xperia_xa1_plus_dual_4gb32gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ1 Compact",
+            "phone_id": "sony_xperia_xz1_compact"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ1 Dual",
+            "phone_id": "sony_xperia_xz1_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ1",
+            "phone_id": "sony_xperia_xz1"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA1 Ultra Dual (4GB+64GB)",
+            "phone_id": "sony_xperia_xa1_ultra_dual_4gb64gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia L1 Dual SIM",
+            "phone_id": "sony_xperia_l1_dual_sim"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ Premium Dual",
+            "phone_id": "sony_xperia_xz_premium_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA1 Ultra Dual",
+            "phone_id": "sony_xperia_xa1_ultra_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ",
+            "phone_id": "sony_xperia_xz"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZs Dual",
+            "phone_id": "sony_xperia_xzs_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA1 Dual",
+            "phone_id": "sony_xperia_xa1_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XZ Dual",
+            "phone_id": "sony_xperia_xz_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA Ultra Dual",
+            "phone_id": "sony_xperia_xa_ultra_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA Dual",
+            "phone_id": "sony_xperia_xa_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia X",
+            "phone_id": "sony_xperia_x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia X Dual",
+            "phone_id": "sony_xperia_x_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z5 Premium Dual",
+            "phone_id": "sony_xperia_z5_premium_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z5 Dual",
+            "phone_id": "sony_xperia_z5_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia XA1 Plus",
+            "phone_id": "sony_xperia_xa1_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M5 Dual",
+            "phone_id": "sony_xperia_m5_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia C5 Ultra Dual",
+            "phone_id": "sony_xperia_c5_ultra_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia C4",
+            "phone_id": "sony_xperia_c4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M4 Aqua Dual",
+            "phone_id": "sony_xperia_m4_aqua_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M4 Aqua",
+            "phone_id": "sony_xperia_m4_aqua"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia C4 Dual",
+            "phone_id": "sony_xperia_c4_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia E4 Dual",
+            "phone_id": "sony_xperia_e4_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z3",
+            "phone_id": "sony_xperia_z3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z3 Compact",
+            "phone_id": "sony_xperia_z3_compact"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia E3 Dual",
+            "phone_id": "sony_xperia_e3_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia C3 Dual",
+            "phone_id": "sony_xperia_c3_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia T3",
+            "phone_id": "sony_xperia_t3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M2",
+            "phone_id": "sony_xperia_m2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M2 dual",
+            "phone_id": "sony_xperia_m2_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z2",
+            "phone_id": "sony_xperia_z2"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia E1 dual",
+            "phone_id": "sony_xperia_e1_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia T2 Ultra dual",
+            "phone_id": "sony_xperia_t2_ultra_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z1",
+            "phone_id": "sony_xperia_z1"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M DUAL",
+            "phone_id": "sony_xperia_m_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia M",
+            "phone_id": "sony_xperia_m"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z Ultra",
+            "phone_id": "sony_xperia_z_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia C",
+            "phone_id": "sony_xperia_c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia ZR",
+            "phone_id": "sony_xperia_zr"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia L",
+            "phone_id": "sony_xperia_l"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia ZL",
+            "phone_id": "sony_xperia_zl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia SP",
+            "phone_id": "sony_xperia_sp"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia Z",
+            "phone_id": "sony_xperia_z"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia E dual",
+            "phone_id": "sony_xperia_e_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia V",
+            "phone_id": "sony_xperia_v"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia tipo dual",
+            "phone_id": "sony_xperia_tipo_dual"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia T",
+            "phone_id": "sony_xperia_t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia SL",
+            "phone_id": "sony_xperia_sl"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia miro",
+            "phone_id": "sony_xperia_miro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia TX",
+            "phone_id": "sony_xperia_tx"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia acro S",
+            "phone_id": "sony_xperia_acro_s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia J",
+            "phone_id": "sony_xperia_j"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia tipo",
+            "phone_id": "sony_xperia_tipo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia go",
+            "phone_id": "sony_xperia_go"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia neo L",
+            "phone_id": "sony_xperia_neo_l"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia P",
+            "phone_id": "sony_xperia_p"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia U",
+            "phone_id": "sony_xperia_u"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Xperia S",
+            "phone_id": "sony_xperia_s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Live with Walkman",
+            "phone_id": "sony_live_with_walkman"
+          },
+          {
+            "type": "new",
+            "phone_name": "Sony Ericsson Xperia Arc S",
+            "phone_id": "sony_ericsson_xperia_arc_s"
+          }
+        ]
+      },
+      {
+        "brand_id": "huawei",
+        "brand_name": "huawei",
+        "new_phones": 121,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate XT Ultimate",
+            "phone_id": "huawei_mate_xt_ultimate"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate XT Ultimate (512GB)",
+            "phone_id": "huawei_mate_xt_ultimate_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate XT Ultimate (1TB)",
+            "phone_id": "huawei_mate_xt_ultimate_1tb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate X5",
+            "phone_id": "huawei_mate_x5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 60",
+            "phone_id": "huawei_mate_60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei nova Flip",
+            "phone_id": "huawei_nova_flip"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Pura 70",
+            "phone_id": "huawei_pura_70"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Pura 70 (512GB)",
+            "phone_id": "huawei_pura_70_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Pura 70 Pro Plus",
+            "phone_id": "huawei_pura_70_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Pura 70 Ultra",
+            "phone_id": "huawei_pura_70_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 60 Pro Plus",
+            "phone_id": "huawei_mate_60_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 60 Pro",
+            "phone_id": "huawei_mate_60_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 60 Pro (256GB)",
+            "phone_id": "huawei_mate_60_pro_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 11 Pro",
+            "phone_id": "huawei_nova_11_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P60 Art",
+            "phone_id": "huawei_p60_art"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate X3",
+            "phone_id": "huawei_mate_x3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P60",
+            "phone_id": "huawei_p60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P60 Pro",
+            "phone_id": "huawei_p60_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P60 Pro (12/512GB)",
+            "phone_id": "huawei_p60_pro_12512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 50",
+            "phone_id": "huawei_mate_50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 50 Pro",
+            "phone_id": "huawei_mate_50_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P50 Pocket",
+            "phone_id": "huawei_p50_pocket"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P50 Pro",
+            "phone_id": "huawei_p50_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 40 Pro",
+            "phone_id": "huawei_mate_40_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y8p",
+            "phone_id": "huawei_y8p"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P40 Pro Plus",
+            "phone_id": "huawei_p40_pro_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5p",
+            "phone_id": "huawei_y5p"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6p",
+            "phone_id": "huawei_y6p"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6s",
+            "phone_id": "huawei_y6s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P40 Pro",
+            "phone_id": "huawei_p40_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate Xs",
+            "phone_id": "huawei_mate_xs"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y7p",
+            "phone_id": "huawei_y7p"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 7i",
+            "phone_id": "huawei_nova_7i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y9s",
+            "phone_id": "huawei_y9s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate X",
+            "phone_id": "huawei_mate_x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 30 Pro 5G",
+            "phone_id": "huawei_mate_30_pro_5g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 5T",
+            "phone_id": "huawei_nova_5t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 30 Pro",
+            "phone_id": "huawei_mate_30_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y9 Prime 2019",
+            "phone_id": "huawei_y9_prime_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5 (2019)",
+            "phone_id": "huawei_y5_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor 8a Pro",
+            "phone_id": "huawei_honor_8a_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P30 Lite",
+            "phone_id": "huawei_p30_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Enjoy 9e",
+            "phone_id": "huawei_enjoy_9e"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P30",
+            "phone_id": "huawei_p30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P30 Pro",
+            "phone_id": "huawei_p30_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 Pro (2019)",
+            "phone_id": "huawei_y6_pro_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y7 Pro (2019)",
+            "phone_id": "huawei_y7_pro_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y Max",
+            "phone_id": "huawei_y_max"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 4",
+            "phone_id": "huawei_nova_4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 20",
+            "phone_id": "huawei_mate_20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 20 Pro",
+            "phone_id": "huawei_mate_20_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y9 (2019)",
+            "phone_id": "huawei_y9_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Honor 8X",
+            "phone_id": "honor_8x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 3",
+            "phone_id": "huawei_nova_3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 3i",
+            "phone_id": "huawei_nova_3i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5 Prime (2018)",
+            "phone_id": "huawei_y5_prime_2018"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y3 2018",
+            "phone_id": "huawei_y3_2018"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 Prime (2018)",
+            "phone_id": "huawei_y6_prime_2018"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y7 Pro (2018)",
+            "phone_id": "huawei_y7_pro_2018"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y9 (2018)",
+            "phone_id": "huawei_y9_2018"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 3e",
+            "phone_id": "huawei_nova_3e"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P20",
+            "phone_id": "huawei_p20"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P20 Lite",
+            "phone_id": "huawei_p20_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P20 Pro",
+            "phone_id": "huawei_p20_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P Smart",
+            "phone_id": "huawei_p_smart"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 10 Pro",
+            "phone_id": "huawei_mate_10_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 10",
+            "phone_id": "huawei_mate_10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Nova 2i",
+            "phone_id": "huawei_nova_2i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6lite",
+            "phone_id": "huawei_y6lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P9 Lite Mini",
+            "phone_id": "huawei_p9_lite_mini"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 (2017)",
+            "phone_id": "huawei_y6_2017"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y7",
+            "phone_id": "huawei_y7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 II Prime",
+            "phone_id": "huawei_y6_ii_prime"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y3 (2017)",
+            "phone_id": "huawei_y3_2017"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5 (2017)",
+            "phone_id": "huawei_y5_2017"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y7 Prime",
+            "phone_id": "huawei_y7_prime"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P10 Plus",
+            "phone_id": "huawei_p10_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P10",
+            "phone_id": "huawei_p10"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P10 Lite",
+            "phone_id": "huawei_p10_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P8 Lite",
+            "phone_id": "huawei_p8_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei GR3 (2017)",
+            "phone_id": "huawei_gr3_2017"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei GR5 (2017) Premium",
+            "phone_id": "huawei_gr5_2017_premium"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 II",
+            "phone_id": "huawei_y6_ii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei GR5 Mini",
+            "phone_id": "huawei_gr5_mini"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5II",
+            "phone_id": "huawei_y5ii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y3 II",
+            "phone_id": "huawei_y3_ii"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P9 lite",
+            "phone_id": "huawei_p9_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P9",
+            "phone_id": "huawei_p9"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei GR5",
+            "phone_id": "huawei_gr5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate 8",
+            "phone_id": "huawei_mate_8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6 Pro",
+            "phone_id": "huawei_y6_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei G7 Plus",
+            "phone_id": "huawei_g7_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y3C",
+            "phone_id": "huawei_y3c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y6",
+            "phone_id": "huawei_y6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P8lite",
+            "phone_id": "huawei_p8lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei GR3",
+            "phone_id": "huawei_gr3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y5c (Honor Bee)",
+            "phone_id": "huawei_y5c_honor_bee"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Y625",
+            "phone_id": "huawei_y625"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei P8",
+            "phone_id": "huawei_p8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei G Play Mini",
+            "phone_id": "huawei_g_play_mini"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor 6 Plus",
+            "phone_id": "huawei_honor_6_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Y520",
+            "phone_id": "huawei_ascend_y520"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor Holly",
+            "phone_id": "huawei_honor_holly"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend G7",
+            "phone_id": "huawei_ascend_g7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Mate7",
+            "phone_id": "huawei_ascend_mate7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor 4X",
+            "phone_id": "huawei_honor_4x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor 6",
+            "phone_id": "huawei_honor_6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend P7",
+            "phone_id": "huawei_ascend_p7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend G630",
+            "phone_id": "huawei_ascend_g630"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend G700",
+            "phone_id": "huawei_ascend_g700"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Honor 3C",
+            "phone_id": "huawei_honor_3c"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Y511",
+            "phone_id": "huawei_ascend_y511"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend G610",
+            "phone_id": "huawei_ascend_g610"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend P6",
+            "phone_id": "huawei_ascend_p6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend W1",
+            "phone_id": "huawei_ascend_w1"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend G510",
+            "phone_id": "huawei_ascend_g510"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Mate",
+            "phone_id": "huawei_ascend_mate"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Y210D",
+            "phone_id": "huawei_ascend_y210d"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Y300",
+            "phone_id": "huawei_ascend_y300"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Ascend Y200",
+            "phone_id": "huawei_ascend_y200"
+          },
+          {
+            "type": "new",
+            "phone_name": "Huawei Mate XT",
+            "phone_id": "huawei_mate_xt"
+          }
+        ]
+      },
+      {
+        "brand_id": "motorola",
+        "brand_name": "motorola",
+        "new_phones": 131,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G75",
+            "phone_id": "motorola_moto_g75"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ThinkPhone 25",
+            "phone_id": "motorola_thinkphone_25"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G35",
+            "phone_id": "motorola_moto_g35"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto S50",
+            "phone_id": "motorola_moto_s50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Neo",
+            "phone_id": "motorola_edge_50_neo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G45",
+            "phone_id": "motorola_moto_g45"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50",
+            "phone_id": "motorola_edge_50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola S50 Neo (12GB RAM)",
+            "phone_id": "motorola_s50_neo_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola S50 Neo (12GB+512GB)",
+            "phone_id": "motorola_s50_neo_12gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola S50 Neo",
+            "phone_id": "motorola_s50_neo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G85 (12GB+256GB)",
+            "phone_id": "motorola_moto_g85_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G85",
+            "phone_id": "motorola_moto_g85"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 50 Ultra",
+            "phone_id": "motorola_razr_50_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 50",
+            "phone_id": "motorola_razr_50"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola One Hyper",
+            "phone_id": "motorola_one_hyper"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge (2024)",
+            "phone_id": "motorola_edge_2024"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G Stylus 5G (2024)",
+            "phone_id": "motorola_moto_g_stylus_5g_2024"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto X50 Ultra",
+            "phone_id": "motorola_moto_x50_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Ultra (16GB RAM)",
+            "phone_id": "motorola_edge_50_ultra_16gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Fusion (12GB+256GB)",
+            "phone_id": "motorola_edge_50_fusion_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Fusion",
+            "phone_id": "motorola_edge_50_fusion"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Ultra",
+            "phone_id": "motorola_edge_50_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G04s",
+            "phone_id": "motorola_moto_g04s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G04s (8GB+128GB)",
+            "phone_id": "motorola_moto_g04s_8gb128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G64",
+            "phone_id": "motorola_moto_g64"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G64 (12GB/256GB)",
+            "phone_id": "motorola_moto_g64_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Pro (12GB RAM)",
+            "phone_id": "motorola_edge_50_pro_12gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 50 Pro",
+            "phone_id": "motorola_edge_50_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G24 Power",
+            "phone_id": "motorola_moto_g24_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G24 Power (8GB RAM)",
+            "phone_id": "motorola_moto_g24_power_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G24 Power (256GB)",
+            "phone_id": "motorola_moto_g24_power_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G04",
+            "phone_id": "motorola_moto_g04"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G24",
+            "phone_id": "motorola_moto_g24"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G34",
+            "phone_id": "motorola_moto_g34"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G34 (256GB)",
+            "phone_id": "motorola_moto_g34_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 40 Neo",
+            "phone_id": "motorola_edge_40_neo"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 40 Neo (12GB/256GB)",
+            "phone_id": "motorola_edge_40_neo_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G84",
+            "phone_id": "motorola_moto_g84"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G54",
+            "phone_id": "motorola_moto_g54"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G54 (12GB+256GB)",
+            "phone_id": "motorola_moto_g54_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G14",
+            "phone_id": "motorola_moto_g14"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 40",
+            "phone_id": "motorola_razr_40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 40 Ultra",
+            "phone_id": "motorola_razr_40_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 40 Ultra (12GB+512GB)",
+            "phone_id": "motorola_razr_40_ultra_12gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G Stylus 5G (2023)",
+            "phone_id": "motorola_moto_g_stylus_5g_2023"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 40",
+            "phone_id": "motorola_edge_40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E13",
+            "phone_id": "motorola_moto_e13"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G73",
+            "phone_id": "motorola_moto_g73"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G13",
+            "phone_id": "motorola_moto_g13"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto X40",
+            "phone_id": "motorola_moto_x40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E22s",
+            "phone_id": "motorola_moto_e22s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G72",
+            "phone_id": "motorola_moto_g72"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30 Fusion",
+            "phone_id": "motorola_edge_30_fusion"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30 Ultra",
+            "phone_id": "motorola_edge_30_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 2022",
+            "phone_id": "motorola_razr_2022"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G32",
+            "phone_id": "motorola_moto_g32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto S30 Pro",
+            "phone_id": "motorola_moto_s30_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G62",
+            "phone_id": "motorola_moto_g62"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G42",
+            "phone_id": "motorola_moto_g42"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G82",
+            "phone_id": "motorola_moto_g82"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G82 (8GB RAM)",
+            "phone_id": "motorola_moto_g82_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30",
+            "phone_id": "motorola_edge_30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30 (8GB RAM)",
+            "phone_id": "motorola_edge_30_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E32",
+            "phone_id": "motorola_moto_e32"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30 Pro",
+            "phone_id": "motorola_edge_30_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 30 Ultra (12GB+256GB)",
+            "phone_id": "motorola_edge_30_ultra_12gb256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge S30",
+            "phone_id": "motorola_edge_s30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G31",
+            "phone_id": "motorola_moto_g31"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G31 (6GB/128GB)",
+            "phone_id": "motorola_moto_g31_6gb128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E40",
+            "phone_id": "motorola_moto_e40"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 20 Fusion",
+            "phone_id": "motorola_edge_20_fusion"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 20 Fusion (8GB RAM)",
+            "phone_id": "motorola_edge_20_fusion_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge 20 Pro",
+            "phone_id": "motorola_edge_20_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G40 Fusion",
+            "phone_id": "motorola_moto_g40_fusion"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G40 Fusion (6GB/128GB)",
+            "phone_id": "motorola_moto_g40_fusion_6gb128gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G60",
+            "phone_id": "motorola_moto_g60"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G30",
+            "phone_id": "motorola_moto_g30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G10 Power",
+            "phone_id": "motorola_moto_g10_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E7 Power",
+            "phone_id": "motorola_moto_e7_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge S",
+            "phone_id": "motorola_edge_s"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E7 Plus",
+            "phone_id": "motorola_moto_e7_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G9 Plus",
+            "phone_id": "motorola_moto_g9_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G9 Play",
+            "phone_id": "motorola_moto_g9_play"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge",
+            "phone_id": "motorola_edge"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Edge Plus",
+            "phone_id": "motorola_edge_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E6s (2020)",
+            "phone_id": "motorola_moto_e6s_2020"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G8 Power",
+            "phone_id": "motorola_moto_g8_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 2019",
+            "phone_id": "motorola_razr_2019"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G8 Power Lite",
+            "phone_id": "motorola_moto_g8_power_lite"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola One Action",
+            "phone_id": "motorola_one_action"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola G8 Plus",
+            "phone_id": "motorola_g8_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola One Macro",
+            "phone_id": "motorola_one_macro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E6 Plus",
+            "phone_id": "motorola_moto_e6_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto Z4",
+            "phone_id": "motorola_moto_z4"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola One Vision",
+            "phone_id": "motorola_one_vision"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G7 Plus",
+            "phone_id": "motorola_moto_g7_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G7",
+            "phone_id": "motorola_moto_g7"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G7 Play",
+            "phone_id": "motorola_moto_g7_play"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G7 Power",
+            "phone_id": "motorola_moto_g7_power"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola One",
+            "phone_id": "motorola_one"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto Z3",
+            "phone_id": "motorola_moto_z3"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E5 Play Go",
+            "phone_id": "motorola_moto_e5_play_go"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E5 Cruise",
+            "phone_id": "motorola_moto_e5_cruise"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto Z3 Play",
+            "phone_id": "motorola_moto_z3_play"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E5",
+            "phone_id": "motorola_moto_e5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E5 Plus",
+            "phone_id": "motorola_moto_e5_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto E4 Plus",
+            "phone_id": "motorola_moto_e4_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Nexus 6",
+            "phone_id": "motorola_nexus_6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G (2014)",
+            "phone_id": "motorola_moto_g_2014"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G (16GB)",
+            "phone_id": "motorola_moto_g_16gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G",
+            "phone_id": "motorola_moto_g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto X",
+            "phone_id": "motorola_moto_x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ZN200",
+            "phone_id": "motorola_zn200"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ROKR EM325",
+            "phone_id": "motorola_rokr_em325"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ZN5",
+            "phone_id": "motorola_zn5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola EM30",
+            "phone_id": "motorola_em30"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W388",
+            "phone_id": "motorola_w388"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W181",
+            "phone_id": "motorola_w181"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W230",
+            "phone_id": "motorola_w230"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W270",
+            "phone_id": "motorola_w270"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W160",
+            "phone_id": "motorola_w160"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ROKR E8",
+            "phone_id": "motorola_rokr_e8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola RAZR2 V8",
+            "phone_id": "motorola_razr2_v8"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola ROKR E6",
+            "phone_id": "motorola_rokr_e6"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola KRZR K1",
+            "phone_id": "motorola_krzr_k1"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola W220",
+            "phone_id": "motorola_w220"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola RAZR V3i",
+            "phone_id": "motorola_razr_v3i"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola C118",
+            "phone_id": "motorola_c118"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola V3x",
+            "phone_id": "motorola_v3x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Moto G55",
+            "phone_id": "motorola_moto_g55"
+          },
+          {
+            "type": "new",
+            "phone_name": "Motorola Razr 50s",
+            "phone_id": "motorola_razr_50s"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 16:52:07",
     "summary": {
       "new_brands": 0,

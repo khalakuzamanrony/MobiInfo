@@ -2,6 +2,551 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 17:05:57
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 14
+- **Failed brands**: 0
+- **New phones**: 490
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### doogee
+
+- **New phones**: 6
+
+  - **New phone**: Doogee S Punk
+  - **New phone**: Doogee S Cyber
+  - **New phone**: Doogee N55 Plus
+  - **New phone**: Doogee DK10
+  - **New phone**: Doogee V20S
+  - **New phone**: Doogee V30T
+
+#### meizu
+
+- **New phones**: 20
+
+  - **New phone**: Meizu 16X
+  - **New phone**: Meizu V8 Pro
+  - **New phone**: Meizu V8
+  - **New phone**: Meizu 16
+  - **New phone**: Meizu 16 Plus
+  - **New phone**: Meizu M6T
+  - **New phone**: Meizu M8c
+  - **New phone**: Meizu E3
+  - **New phone**: Meizu 15 Lite
+  - **New phone**: Meizu 15 Plus
+  - **New phone**: Meizu M6s
+  - **New phone**: Meizu M6
+  - **New phone**: Meizu M6 Note
+  - **New phone**: Meizu Pro 7
+  - **New phone**: Meizu Pro 7 Plus
+  - **New phone**: Meizu M5c
+  - **New phone**: Meizu E2
+  - **New phone**: Meizu M5s
+  - **New phone**: Meizu Pro 6
+  - **New phone**: Meizu M2 Note
+
+#### asus
+
+- **New phones**: 30
+
+  - **New phone**: Asus ROG Phone 5s
+  - **New phone**: Asus ROG Phone 5s (16GB RAM)
+  - **New phone**: Asus ROG Phone 5
+  - **New phone**: Asus ROG Phone 5 (256GB)
+  - **New phone**: Asus ROG Phone 5 (16GB/256GB)
+  - **New phone**: Asus ROG Phone 3 Strix
+  - **New phone**: Asus ROG Phone 3 ZS661KS
+  - **New phone**: Asus ROG Phone II ZS660KL
+  - **New phone**: Asus ROG Phone 2
+  - **New phone**: Asus ROG Phone 2 (12GB/512GB)
+  - **New phone**: Asus Zenfone 6 ZS630KL
+  - **New phone**: Asus Zenfone 6z
+  - **New phone**: Asus Zenfone Max Shot (ZB634KL)
+  - **New phone**: Asus Zenfone Max Plus (M2) ZB634KL
+  - **New phone**: Asus Zenfone Go ZB552KL
+  - **New phone**: Asus Zenfone Live ZB501KL
+  - **New phone**: Asus Zenfone 3s Max ZC521TL
+  - **New phone**: Asus Zenfone 3 Max ZC553KL
+  - **New phone**: Asus Zenfone GO ZB500KG
+  - **New phone**: Asus Zenfone Go ZB500KL
+  - **New phone**: Asus Zenfone 3 Max ZC520TL
+  - **New phone**: Asus Zenfone Max ZC550KL
+  - **New phone**: Asus Zenfone 2 Laser ZE601KL
+  - **New phone**: Asus Zenfone 2 Laser ZE500KG
+  - **New phone**: Asus Zenfone 2 Laser ZE550KL
+  - **New phone**: Asus Zenfone 2 Deluxe ZE551ML
+  - **New phone**: Asus Zenfone 2 Laser ZE500KL
+  - **New phone**: Asus Zenfone Selfie ZD551KL
+  - **New phone**: Asus Zenfone 2 ZE551ML
+  - **New phone**: Asus Zenfone 2 ZE500CL
+
+#### zte
+
+- **New phones**: 51
+
+  - **New phone**: ZTE nubia Red Magic 10 Pro Plus
+  - **New phone**: ZTE Blade V60
+  - **New phone**: ZTE Blade A75 5G
+  - **New phone**: ZTE Blade A35
+  - **New phone**: ZTE nubia Z60 Ultra Leading
+  - **New phone**: ZTE nubia Z60S Pro
+  - **New phone**: ZTE nubia Z60S Pro (16GB+512GB)
+  - **New phone**: ZTE Blade A55
+  - **New phone**: ZTE Blade A75
+  - **New phone**: ZTE nubia Red Magic 9S Pro
+  - **New phone**: ZTE nubia Red Magic 9S Pro Plus
+  - **New phone**: ZTE Voyage 3D
+  - **New phone**: ZTE Blade V60 Design
+  - **New phone**: ZTE Axon 60
+  - **New phone**: ZTE nubia Music
+  - **New phone**: ZTE nubia Flip
+  - **New phone**: ZTE nubia Flip (256GB)
+  - **New phone**: ZTE Blade A34
+  - **New phone**: ZTE nubia Z60 Ultra (16GB+512GB)
+  - **New phone**: ZTE nubia Z60 Ultra
+  - **New phone**: ZTE nubia Red Magic 9 Pro Plus
+  - **New phone**: ZTE nubia Red Magic 9 Pro
+  - **New phone**: ZTE Blade A54
+  - **New phone**: ZTE Blade V50 Design 4G
+  - **New phone**: ZTE Blade A73
+  - **New phone**: ZTE Nubia Neo
+  - **New phone**: ZTE Nubia Z50S Pro
+  - **New phone**: ZTE nubia Red Magic 8S Pro
+  - **New phone**: ZTE nubia Red Magic 8S Pro (512GB RAM)
+  - **New phone**: ZTE nubia Red Magic 8S Pro (16GB+512GB)
+  - **New phone**: ZTE Blade A72s
+  - **New phone**: ZTE Nubia Z50 Ultra
+  - **New phone**: ZTE Blade V40
+  - **New phone**: ZTE Blade V40 Design
+  - **New phone**: ZTE nubia Red Magic 8 Pro
+  - **New phone**: ZTE nubia Red Magic 8 Pro (512GB)
+  - **New phone**: ZTE nubia Red Magic 8 Pro Plus
+  - **New phone**: ZTE Nubia Z50
+  - **New phone**: ZTE nubia Red Magic 7S Pro
+  - **New phone**: ZTE Axon 40 Ultra
+  - **New phone**: ZTE Nubia Red Magic 6S Pro
+  - **New phone**: ZTE Nubia Red Magic 6 Pro
+  - **New phone**: ZTE Nubia Red Magic 5G (12GB+256GB)
+  - **New phone**: ZTE Nubia Red Magic 5G
+  - **New phone**: ZTE Nubia Red Magic 3
+  - **New phone**: ZTE Blade L8
+  - **New phone**: ZTE Blade A3 (2019)
+  - **New phone**: ZTE Nubia Red Magic
+  - **New phone**: ZTE Nubia Z18 mini
+  - **New phone**: ZTE Nubia V18
+  - **New phone**: ZTE nubia Z60 Ultra (2024)
+
+#### iqoo
+
+- **New phones**: 66
+
+  - **New phone**: Vivo iQOO Neo 10R
+  - **New phone**: Vivo iQOO Neo 10R (256GB)
+  - **New phone**: Vivo iQOO Neo 10R (12GB+256GB)
+  - **New phone**: Vivo iQOO Z9 Turbo Endurance
+  - **New phone**: Vivo iQOO Neo10 Pro (China)
+  - **New phone**: Vivo iQOO Neo10 (China)
+  - **New phone**: Vivo iQOO 13
+  - **New phone**: Vivo iQOO 13 (512GB)
+  - **New phone**: Vivo iQOO Z9 Turbo Plus
+  - **New phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM)
+  - **New phone**: Vivo iQOO Z9s Pro
+  - **New phone**: Vivo iQOO Z9s (256GB)
+  - **New phone**: Vivo iQOO Z9s
+  - **New phone**: Vivo iQOO Z9s (12GB RAM)
+  - **New phone**: Vivo iQOO Z9s Pro (256GB)
+  - **New phone**: Vivo iQOO Z9s Pro (12GB+256GB)
+  - **New phone**: Vivo iQOO Z9 Lite (6GB RAM)
+  - **New phone**: Vivo iQOO Z9 Lite
+  - **New phone**: Vivo iQOO Neo9s Pro Plus
+  - **New phone**: Vivo iQOO Neo9s Pro
+  - **New phone**: Vivo iQOO Neo9s Pro (256GB)
+  - **New phone**: Vivo iQOO Neo9s Pro (12GB+256GB)
+  - **New phone**: Vivo iQOO Z9x (8GB RAM)
+  - **New phone**: Vivo iQOO Z9 Turbo
+  - **New phone**: Vivo iQOO Z9 (China)
+  - **New phone**: Vivo iQOO Z9x
+  - **New phone**: Vivo iQOO Z9
+  - **New phone**: Vivo iQOO Z9 (256GB)
+  - **New phone**: Vivo iQOO Neo9 Pro (12GB RAM)
+  - **New phone**: Vivo iQOO Neo9 Pro
+  - **New phone**: Vivo iQOO Neo9 Pro (China)
+  - **New phone**: Vivo iQOO Neo9 (512GB)
+  - **New phone**: Vivo iQOO Neo9
+  - **New phone**: Vivo iQOO Neo9 (16GB RAM)
+  - **New phone**: Vivo iQOO 12 Pro
+  - **New phone**: Vivo iQOO 12
+  - **New phone**: Vivo iQOO Z7 Pro (256GB)
+  - **New phone**: Vivo iQOO Z7 Pro
+  - **New phone**: Vivo iQOO Z8 (China)
+  - **New phone**: Vivo iQOO Neo 7 Pro (12GB/256GB)
+  - **New phone**: Vivo iQOO Neo 7 Pro
+  - **New phone**: Vivo iQOO 11s
+  - **New phone**: Vivo iQOO Neo8 Pro
+  - **New phone**: Vivo iQOO Neo8
+  - **New phone**: Vivo iQOO Z7s
+  - **New phone**: Vivo iQOO Z7
+  - **New phone**: Vivo iQOO Z7 (8GB RAM)
+  - **New phone**: Vivo iQOO Neo 7
+  - **New phone**: Vivo iQOO Neo 7 (256GB)
+  - **New phone**: Vivo iQOO 11 Pro
+  - **New phone**: Vivo iQOO Neo7 SE
+  - **New phone**: Vivo iQOO 11 (16GB/256GB)
+  - **New phone**: Vivo iQOO Z6 Lite
+  - **New phone**: Vivo iQOO Z6 Lite (128GB)
+  - **New phone**: Vivo iQOO 9T
+  - **New phone**: Vivo iQOO Neo6
+  - **New phone**: Vivo iQOO Z6 Pro
+  - **New phone**: Vivo iQOO Z6 Pro (8GB RAM)
+  - **New phone**: Vivo iQOO Z6 44W
+  - **New phone**: Vivo iQOO 9 SE
+  - **New phone**: Vivo iQOO 9 SE (12GB/256GB)
+  - **New phone**: Vivo iQOO 9 (China)
+  - **New phone**: Vivo iQOO 11
+  - **New phone**: vivo iQOO 7 (256GB)
+  - **New phone**: vivo iQOO 7
+  - **New phone**: Vivo iQOO 14
+
+#### sony
+
+- **New phones**: 65
+
+  - **New phone**: Sony Xperia L2
+  - **New phone**: Sony Xperia R1 (Plus)
+  - **New phone**: Sony Xperia XA1 Plus Dual (4GB+32GB)
+  - **New phone**: Sony Xperia XZ1 Compact
+  - **New phone**: Sony Xperia XZ1 Dual
+  - **New phone**: Sony Xperia XZ1
+  - **New phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB)
+  - **New phone**: Sony Xperia L1 Dual SIM
+  - **New phone**: Sony Xperia XZ Premium Dual
+  - **New phone**: Sony Xperia XA1 Ultra Dual
+  - **New phone**: Sony Xperia XZ
+  - **New phone**: Sony Xperia XZs Dual
+  - **New phone**: Sony Xperia XA1 Dual
+  - **New phone**: Sony Xperia XZ Dual
+  - **New phone**: Sony Xperia XA Ultra Dual
+  - **New phone**: Sony Xperia XA Dual
+  - **New phone**: Sony Xperia X
+  - **New phone**: Sony Xperia X Dual
+  - **New phone**: Sony Xperia Z5 Premium Dual
+  - **New phone**: Sony Xperia Z5 Dual
+  - **New phone**: Sony Xperia XA1 Plus
+  - **New phone**: Sony Xperia M5 Dual
+  - **New phone**: Sony Xperia C5 Ultra Dual
+  - **New phone**: Sony Xperia C4
+  - **New phone**: Sony Xperia M4 Aqua Dual
+  - **New phone**: Sony Xperia M4 Aqua
+  - **New phone**: Sony Xperia C4 Dual
+  - **New phone**: Sony Xperia E4 Dual
+  - **New phone**: Sony Xperia Z3
+  - **New phone**: Sony Xperia Z3 Compact
+  - **New phone**: Sony Xperia E3 Dual
+  - **New phone**: Sony Xperia C3 Dual
+  - **New phone**: Sony Xperia T3
+  - **New phone**: Sony Xperia M2
+  - **New phone**: Sony Xperia M2 dual
+  - **New phone**: Sony Xperia Z2
+  - **New phone**: Sony Xperia E1 dual
+  - **New phone**: Sony Xperia T2 Ultra dual
+  - **New phone**: Sony Xperia Z1
+  - **New phone**: Sony Xperia M DUAL
+  - **New phone**: Sony Xperia M
+  - **New phone**: Sony Xperia Z Ultra
+  - **New phone**: Sony Xperia C
+  - **New phone**: Sony Xperia ZR
+  - **New phone**: Sony Xperia L
+  - **New phone**: Sony Xperia ZL
+  - **New phone**: Sony Xperia SP
+  - **New phone**: Sony Xperia Z
+  - **New phone**: Sony Xperia E dual
+  - **New phone**: Sony Xperia V
+  - **New phone**: Sony Xperia tipo dual
+  - **New phone**: Sony Xperia T
+  - **New phone**: Sony Xperia SL
+  - **New phone**: Sony Xperia miro
+  - **New phone**: Sony Xperia TX
+  - **New phone**: Sony Xperia acro S
+  - **New phone**: Sony Xperia J
+  - **New phone**: Sony Xperia tipo
+  - **New phone**: Sony Xperia go
+  - **New phone**: Sony Xperia neo L
+  - **New phone**: Sony Xperia P
+  - **New phone**: Sony Xperia U
+  - **New phone**: Sony Xperia S
+  - **New phone**: Sony Live with Walkman
+  - **New phone**: Sony Ericsson Xperia Arc S
+
+#### huawei
+
+- **New phones**: 121
+
+  - **New phone**: Huawei Mate XT Ultimate
+  - **New phone**: Huawei Mate XT Ultimate (512GB)
+  - **New phone**: Huawei Mate XT Ultimate (1TB)
+  - **New phone**: Huawei Mate X5
+  - **New phone**: Huawei Mate 60
+  - **New phone**: Huawei nova Flip
+  - **New phone**: Huawei Pura 70
+  - **New phone**: Huawei Pura 70 (512GB)
+  - **New phone**: Huawei Pura 70 Pro Plus
+  - **New phone**: Huawei Pura 70 Ultra
+  - **New phone**: Huawei Mate 60 Pro Plus
+  - **New phone**: Huawei Mate 60 Pro
+  - **New phone**: Huawei Mate 60 Pro (256GB)
+  - **New phone**: Huawei Nova 11 Pro
+  - **New phone**: Huawei P60 Art
+  - **New phone**: Huawei Mate X3
+  - **New phone**: Huawei P60
+  - **New phone**: Huawei P60 Pro
+  - **New phone**: Huawei P60 Pro (12/512GB)
+  - **New phone**: Huawei Mate 50
+  - **New phone**: Huawei Mate 50 Pro
+  - **New phone**: Huawei P50 Pocket
+  - **New phone**: Huawei P50 Pro
+  - **New phone**: Huawei Mate 40 Pro
+  - **New phone**: Huawei Y8p
+  - **New phone**: Huawei P40 Pro Plus
+  - **New phone**: Huawei Y5p
+  - **New phone**: Huawei Y6p
+  - **New phone**: Huawei Y6s
+  - **New phone**: Huawei P40 Pro
+  - **New phone**: Huawei Mate Xs
+  - **New phone**: Huawei Y7p
+  - **New phone**: Huawei Nova 7i
+  - **New phone**: Huawei Y9s
+  - **New phone**: Huawei Mate X
+  - **New phone**: Huawei Mate 30 Pro 5G
+  - **New phone**: Huawei Nova 5T
+  - **New phone**: Huawei Mate 30 Pro
+  - **New phone**: Huawei Y9 Prime 2019
+  - **New phone**: Huawei Y5 (2019)
+  - **New phone**: Huawei Honor 8a Pro
+  - **New phone**: Huawei P30 Lite
+  - **New phone**: Huawei Enjoy 9e
+  - **New phone**: Huawei P30
+  - **New phone**: Huawei P30 Pro
+  - **New phone**: Huawei Y6 Pro (2019)
+  - **New phone**: Huawei Y7 Pro (2019)
+  - **New phone**: Huawei Y Max
+  - **New phone**: Huawei Nova 4
+  - **New phone**: Huawei Mate 20
+  - **New phone**: Huawei Mate 20 Pro
+  - **New phone**: Huawei Y9 (2019)
+  - **New phone**: Honor 8X
+  - **New phone**: Huawei Nova 3
+  - **New phone**: Huawei Nova 3i
+  - **New phone**: Huawei Y5 Prime (2018)
+  - **New phone**: Huawei Y3 2018
+  - **New phone**: Huawei Y6 Prime (2018)
+  - **New phone**: Huawei Y7 Pro (2018)
+  - **New phone**: Huawei Y9 (2018)
+  - **New phone**: Huawei Nova 3e
+  - **New phone**: Huawei P20
+  - **New phone**: Huawei P20 Lite
+  - **New phone**: Huawei P20 Pro
+  - **New phone**: Huawei P Smart
+  - **New phone**: Huawei Mate 10 Pro
+  - **New phone**: Huawei Mate 10
+  - **New phone**: Huawei Nova 2i
+  - **New phone**: Huawei Y6lite
+  - **New phone**: Huawei P9 Lite Mini
+  - **New phone**: Huawei Y6 (2017)
+  - **New phone**: Huawei Y7
+  - **New phone**: Huawei Y6 II Prime
+  - **New phone**: Huawei Y3 (2017)
+  - **New phone**: Huawei Y5 (2017)
+  - **New phone**: Huawei Y7 Prime
+  - **New phone**: Huawei P10 Plus
+  - **New phone**: Huawei P10
+  - **New phone**: Huawei P10 Lite
+  - **New phone**: Huawei P8 Lite
+  - **New phone**: Huawei GR3 (2017)
+  - **New phone**: Huawei GR5 (2017) Premium
+  - **New phone**: Huawei Y6 II
+  - **New phone**: Huawei GR5 Mini
+  - **New phone**: Huawei Y5II
+  - **New phone**: Huawei Y3 II
+  - **New phone**: Huawei P9 lite
+  - **New phone**: Huawei P9
+  - **New phone**: Huawei GR5
+  - **New phone**: Huawei Mate 8
+  - **New phone**: Huawei Y6 Pro
+  - **New phone**: Huawei G7 Plus
+  - **New phone**: Huawei Y3C
+  - **New phone**: Huawei Y6
+  - **New phone**: Huawei P8lite
+  - **New phone**: Huawei GR3
+  - **New phone**: Huawei Y5c (Honor Bee)
+  - **New phone**: Huawei Y625
+  - **New phone**: Huawei P8
+  - **New phone**: Huawei G Play Mini
+  - **New phone**: Huawei Honor 6 Plus
+  - **New phone**: Huawei Ascend Y520
+  - **New phone**: Huawei Honor Holly
+  - **New phone**: Huawei Ascend G7
+  - **New phone**: Huawei Ascend Mate7
+  - **New phone**: Huawei Honor 4X
+  - **New phone**: Huawei Honor 6
+  - **New phone**: Huawei Ascend P7
+  - **New phone**: Huawei Ascend G630
+  - **New phone**: Huawei Ascend G700
+  - **New phone**: Huawei Honor 3C
+  - **New phone**: Huawei Ascend Y511
+  - **New phone**: Huawei Ascend G610
+  - **New phone**: Huawei Ascend P6
+  - **New phone**: Huawei Ascend W1
+  - **New phone**: Huawei Ascend G510
+  - **New phone**: Huawei Ascend Mate
+  - **New phone**: Huawei Ascend Y210D
+  - **New phone**: Huawei Ascend Y300
+  - **New phone**: Huawei Ascend Y200
+  - **New phone**: Huawei Mate XT
+
+#### motorola
+
+- **New phones**: 131
+
+  - **New phone**: Motorola Moto G75
+  - **New phone**: Motorola ThinkPhone 25
+  - **New phone**: Motorola Moto G35
+  - **New phone**: Motorola Moto S50
+  - **New phone**: Motorola Edge 50 Neo
+  - **New phone**: Motorola Moto G45
+  - **New phone**: Motorola Edge 50
+  - **New phone**: Motorola S50 Neo (12GB RAM)
+  - **New phone**: Motorola S50 Neo (12GB+512GB)
+  - **New phone**: Motorola S50 Neo
+  - **New phone**: Motorola Moto G85 (12GB+256GB)
+  - **New phone**: Motorola Moto G85
+  - **New phone**: Motorola Razr 50 Ultra
+  - **New phone**: Motorola Razr 50
+  - **New phone**: Motorola One Hyper
+  - **New phone**: Motorola Edge (2024)
+  - **New phone**: Motorola Moto G Stylus 5G (2024)
+  - **New phone**: Motorola Moto X50 Ultra
+  - **New phone**: Motorola Edge 50 Ultra (16GB RAM)
+  - **New phone**: Motorola Edge 50 Fusion (12GB+256GB)
+  - **New phone**: Motorola Edge 50 Fusion
+  - **New phone**: Motorola Edge 50 Ultra
+  - **New phone**: Motorola Moto G04s
+  - **New phone**: Motorola Moto G04s (8GB+128GB)
+  - **New phone**: Motorola Moto G64
+  - **New phone**: Motorola Moto G64 (12GB/256GB)
+  - **New phone**: Motorola Edge 50 Pro (12GB RAM)
+  - **New phone**: Motorola Edge 50 Pro
+  - **New phone**: Motorola Moto G24 Power
+  - **New phone**: Motorola Moto G24 Power (8GB RAM)
+  - **New phone**: Motorola Moto G24 Power (256GB)
+  - **New phone**: Motorola Moto G04
+  - **New phone**: Motorola Moto G24
+  - **New phone**: Motorola Moto G34
+  - **New phone**: Motorola Moto G34 (256GB)
+  - **New phone**: Motorola Edge 40 Neo
+  - **New phone**: Motorola Edge 40 Neo (12GB/256GB)
+  - **New phone**: Motorola Moto G84
+  - **New phone**: Motorola Moto G54
+  - **New phone**: Motorola Moto G54 (12GB+256GB)
+  - **New phone**: Motorola Moto G14
+  - **New phone**: Motorola Razr 40
+  - **New phone**: Motorola Razr 40 Ultra
+  - **New phone**: Motorola Razr 40 Ultra (12GB+512GB)
+  - **New phone**: Motorola Moto G Stylus 5G (2023)
+  - **New phone**: Motorola Edge 40
+  - **New phone**: Motorola Moto E13
+  - **New phone**: Motorola Moto G73
+  - **New phone**: Motorola Moto G13
+  - **New phone**: Motorola Moto X40
+  - **New phone**: Motorola Moto E22s
+  - **New phone**: Motorola Moto G72
+  - **New phone**: Motorola Edge 30 Fusion
+  - **New phone**: Motorola Edge 30 Ultra
+  - **New phone**: Motorola Razr 2022
+  - **New phone**: Motorola Moto G32
+  - **New phone**: Motorola Moto S30 Pro
+  - **New phone**: Motorola Moto G62
+  - **New phone**: Motorola Moto G42
+  - **New phone**: Motorola Moto G82
+  - **New phone**: Motorola Moto G82 (8GB RAM)
+  - **New phone**: Motorola Edge 30
+  - **New phone**: Motorola Edge 30 (8GB RAM)
+  - **New phone**: Motorola Moto E32
+  - **New phone**: Motorola Edge 30 Pro
+  - **New phone**: Motorola Edge 30 Ultra (12GB+256GB)
+  - **New phone**: Motorola Edge S30
+  - **New phone**: Motorola Moto G31
+  - **New phone**: Motorola Moto G31 (6GB/128GB)
+  - **New phone**: Motorola Moto E40
+  - **New phone**: Motorola Edge 20 Fusion
+  - **New phone**: Motorola Edge 20 Fusion (8GB RAM)
+  - **New phone**: Motorola Edge 20 Pro
+  - **New phone**: Motorola Moto G40 Fusion
+  - **New phone**: Motorola Moto G40 Fusion (6GB/128GB)
+  - **New phone**: Motorola Moto G60
+  - **New phone**: Motorola Moto G30
+  - **New phone**: Motorola Moto G10 Power
+  - **New phone**: Motorola Moto E7 Power
+  - **New phone**: Motorola Edge S
+  - **New phone**: Motorola Moto E7 Plus
+  - **New phone**: Motorola Moto G9 Plus
+  - **New phone**: Motorola Moto G9 Play
+  - **New phone**: Motorola Edge
+  - **New phone**: Motorola Edge Plus
+  - **New phone**: Motorola Moto E6s (2020)
+  - **New phone**: Motorola Moto G8 Power
+  - **New phone**: Motorola Razr 2019
+  - **New phone**: Motorola Moto G8 Power Lite
+  - **New phone**: Motorola One Action
+  - **New phone**: Motorola G8 Plus
+  - **New phone**: Motorola One Macro
+  - **New phone**: Motorola Moto E6 Plus
+  - **New phone**: Motorola Moto Z4
+  - **New phone**: Motorola One Vision
+  - **New phone**: Motorola Moto G7 Plus
+  - **New phone**: Motorola Moto G7
+  - **New phone**: Motorola Moto G7 Play
+  - **New phone**: Motorola Moto G7 Power
+  - **New phone**: Motorola One
+  - **New phone**: Motorola Moto Z3
+  - **New phone**: Motorola Moto E5 Play Go
+  - **New phone**: Motorola Moto E5 Cruise
+  - **New phone**: Motorola Moto Z3 Play
+  - **New phone**: Motorola Moto E5
+  - **New phone**: Motorola Moto E5 Plus
+  - **New phone**: Motorola Moto E4 Plus
+  - **New phone**: Motorola Nexus 6
+  - **New phone**: Motorola Moto G (2014)
+  - **New phone**: Motorola Moto G (16GB)
+  - **New phone**: Motorola Moto G
+  - **New phone**: Motorola Moto X
+  - **New phone**: Motorola ZN200
+  - **New phone**: Motorola ROKR EM325
+  - **New phone**: Motorola ZN5
+  - **New phone**: Motorola EM30
+  - **New phone**: Motorola W388
+  - **New phone**: Motorola W181
+  - **New phone**: Motorola W230
+  - **New phone**: Motorola W270
+  - **New phone**: Motorola W160
+  - **New phone**: Motorola ROKR E8
+  - **New phone**: Motorola RAZR2 V8
+  - **New phone**: Motorola ROKR E6
+  - **New phone**: Motorola KRZR K1
+  - **New phone**: Motorola W220
+  - **New phone**: Motorola RAZR V3i
+  - **New phone**: Motorola C118
+  - **New phone**: Motorola V3x
+  - **New phone**: Motorola Moto G55
+  - **New phone**: Motorola Razr 50s
+
+---
+
 ## 2025-09-09 16:52:07
 
 ### Summary
