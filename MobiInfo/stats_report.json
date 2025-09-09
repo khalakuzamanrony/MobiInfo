@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-09-09T09:56:21.284Z",
+  "timestamp": "2025-09-09T10:08:01.393Z",
   "summary": {
     "totalBrands": 75,
-    "totalPhones": 1393,
-    "averagePhonesPerBrand": 18.6
+    "totalPhones": 1429,
+    "averagePhonesPerBrand": 19.1
   },
   "brandDetails": [
     {
@@ -62,9 +62,21 @@
     },
     {
       "name": "apple",
-      "phones": 20,
-      "lastUpdated": "2025-09-09 09:31:46",
+      "phones": 32,
+      "lastUpdated": "2025-09-09 16:07:54",
       "file": "apple.json"
+    },
+    {
+      "name": "realme",
+      "phones": 32,
+      "lastUpdated": "2025-09-09 16:07:55",
+      "file": "realme.json"
+    },
+    {
+      "name": "xiaomi",
+      "phones": 32,
+      "lastUpdated": "2025-09-09 16:07:55",
+      "file": "xiaomi.json"
     },
     {
       "name": "asus",
@@ -151,12 +163,6 @@
       "file": "oppo.json"
     },
     {
-      "name": "realme",
-      "phones": 20,
-      "lastUpdated": "2025-09-09 09:31:43",
-      "file": "realme.json"
-    },
-    {
       "name": "samsung",
       "phones": 20,
       "lastUpdated": "2025-09-09 09:31:47",
@@ -191,12 +197,6 @@
       "phones": 20,
       "lastUpdated": "2025-09-09 09:33:09",
       "file": "walton.json"
-    },
-    {
-      "name": "xiaomi",
-      "phones": 20,
-      "lastUpdated": "2025-09-09 09:31:50",
-      "file": "xiaomi.json"
     },
     {
       "name": "zte",

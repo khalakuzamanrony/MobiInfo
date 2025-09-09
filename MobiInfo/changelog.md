@@ -2,6 +2,85 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 16:07:55
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 3
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+---
+
+## 2025-09-09 16:06:50
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 3
+- **Failed brands**: 0
+- **New phones**: 36
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### xiaomi
+
+- **New phones**: 12
+
+  - **New phone**: Xiaomi 15S Pro (1TB)
+  - **New phone**: Xiaomi Redmi Turbo 4 Pro
+  - **New phone**: Xiaomi Redmi Turbo 4 Pro (512GB)
+  - **New phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB)
+  - **New phone**: Xiaomi Poco C71
+  - **New phone**: Xiaomi Redmi 13x
+  - **New phone**: Xiaomi Poco F7 Pro
+  - **New phone**: Xiaomi Poco F7 Ultra
+  - **New phone**: Xiaomi Redmi A5
+  - **New phone**: Xiaomi Redmi Note 14 Pro 4G
+  - **New phone**: Xiaomi Redmi Note 14 Pro (12GB+512GB)
+  - **New phone**: Xiaomi Redmi Note 14 Pro
+
+#### apple
+
+- **New phones**: 12
+
+  - **New phone**: Apple iPhone 16 Pro Max (512GB USA)
+  - **New phone**: Apple iPhone 16 Pro Max (1TB USA)
+  - **New phone**: Apple iPhone 16 Plus (256GB USA)
+  - **New phone**: Apple iPhone 16 Plus (512GB USA)
+  - **New phone**: Apple iPhone 16 Plus
+  - **New phone**: Apple iPhone 15 Pro Max
+  - **New phone**: Apple iPhone 15 Pro Max (512GB)
+  - **New phone**: Apple iPhone 15 Pro Max (1TB)
+  - **New phone**: Apple iPhone 15 Plus (256GB)
+  - **New phone**: Apple iPhone 15 Plus
+  - **New phone**: Apple iPhone 15 Pro
+  - **New phone**: Apple iPhone 15
+
+#### realme
+
+- **New phones**: 12
+
+  - **New phone**: Realme C71
+  - **New phone**: Realme C71 (6GB RAM)
+  - **New phone**: Realme 14T
+  - **New phone**: Realme 14
+  - **New phone**: Realme C75 5G
+  - **New phone**: Realme GT7 (China) (512GB)
+  - **New phone**: Realme GT7 (China)
+  - **New phone**: Realme C75x
+  - **New phone**: Realme Narzo 80x
+  - **New phone**: Realme Narzo 80x (8GB RAM)
+  - **New phone**: Realme Narzo 80 Pro
+  - **New phone**: Realme Narzo 80 Pro (256GB)
+
+---
+
 ## 2025-09-09 15:34:45
 
 ### Summary

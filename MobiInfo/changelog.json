@@ -1,5 +1,256 @@
 [
   {
+    "timestamp": "2025-09-09 16:07:55",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 3,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      },
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 0,
+        "updated_phones": 0,
+        "phone_changes": []
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-09 16:06:50",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 3,
+      "failed_brands": 0,
+      "new_phones": 36,
+      "updated_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "xiaomi",
+        "brand_name": "xiaomi",
+        "new_phones": 12,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Xiaomi 15S Pro (1TB)",
+            "phone_id": "xiaomi_15s_pro_1tb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro",
+            "phone_id": "xiaomi_redmi_turbo_4_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro (512GB)",
+            "phone_id": "xiaomi_redmi_turbo_4_pro_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Turbo 4 Pro (16GB+512GB)",
+            "phone_id": "xiaomi_redmi_turbo_4_pro_16gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco C71",
+            "phone_id": "xiaomi_poco_c71"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi 13x",
+            "phone_id": "xiaomi_redmi_13x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco F7 Pro",
+            "phone_id": "xiaomi_poco_f7_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Poco F7 Ultra",
+            "phone_id": "xiaomi_poco_f7_ultra"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi A5",
+            "phone_id": "xiaomi_redmi_a5"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 14 Pro 4G",
+            "phone_id": "xiaomi_redmi_note_14_pro_4g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 14 Pro (12GB+512GB)",
+            "phone_id": "xiaomi_redmi_note_14_pro_12gb512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Xiaomi Redmi Note 14 Pro",
+            "phone_id": "xiaomi_redmi_note_14_pro"
+          }
+        ]
+      },
+      {
+        "brand_id": "apple",
+        "brand_name": "apple",
+        "new_phones": 12,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro Max (512GB USA)",
+            "phone_id": "apple_iphone_16_pro_max_512gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Pro Max (1TB USA)",
+            "phone_id": "apple_iphone_16_pro_max_1tb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Plus (256GB USA)",
+            "phone_id": "apple_iphone_16_plus_256gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Plus (512GB USA)",
+            "phone_id": "apple_iphone_16_plus_512gb_usa"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 16 Plus",
+            "phone_id": "apple_iphone_16_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Pro Max",
+            "phone_id": "apple_iphone_15_pro_max"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Pro Max (512GB)",
+            "phone_id": "apple_iphone_15_pro_max_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Pro Max (1TB)",
+            "phone_id": "apple_iphone_15_pro_max_1tb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Plus (256GB)",
+            "phone_id": "apple_iphone_15_plus_256gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Plus",
+            "phone_id": "apple_iphone_15_plus"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15 Pro",
+            "phone_id": "apple_iphone_15_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Apple iPhone 15",
+            "phone_id": "apple_iphone_15"
+          }
+        ]
+      },
+      {
+        "brand_id": "realme",
+        "brand_name": "realme",
+        "new_phones": 12,
+        "updated_phones": 0,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "Realme C71",
+            "phone_id": "realme_c71"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme C71 (6GB RAM)",
+            "phone_id": "realme_c71_6gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 14T",
+            "phone_id": "realme_14t"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme 14",
+            "phone_id": "realme_14"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme C75 5G",
+            "phone_id": "realme_c75_5g"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme GT7 (China) (512GB)",
+            "phone_id": "realme_gt7_china_512gb"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme GT7 (China)",
+            "phone_id": "realme_gt7_china"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme C75x",
+            "phone_id": "realme_c75x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Narzo 80x",
+            "phone_id": "realme_narzo_80x"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Narzo 80x (8GB RAM)",
+            "phone_id": "realme_narzo_80x_8gb_ram"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Narzo 80 Pro",
+            "phone_id": "realme_narzo_80_pro"
+          },
+          {
+            "type": "new",
+            "phone_name": "Realme Narzo 80 Pro (256GB)",
+            "phone_id": "realme_narzo_80_pro_256gb"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-09 15:34:45",
     "summary": {
       "new_brands": 0,
