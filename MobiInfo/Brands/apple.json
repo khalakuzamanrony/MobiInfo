@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-09 09:24:37",
+    "last_updated": "2025-09-09 09:31:46",
     "total_phones": 20
   },
   "phones": [
@@ -299,6 +299,14 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.5, Wide Angle, Primary Camera",
@@ -313,14 +321,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "24 fps, 30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -441,6 +441,14 @@
           "HDR 10 / HDR + support": "HDR10"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -456,14 +464,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -733,15 +733,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -757,6 +748,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -1050,6 +1050,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1065,15 +1074,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -1679,6 +1679,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1694,15 +1703,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -1839,6 +1839,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1854,15 +1863,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -2146,6 +2146,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2161,15 +2170,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -2937,15 +2937,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2961,6 +2952,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {

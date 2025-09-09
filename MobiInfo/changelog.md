@@ -2,6 +2,201 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-09 15:34:45
+
+### Summary
+
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### oppo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### infinix
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nokia
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### realme
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### tecno
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### vivo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### apple
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### samsung
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### oneplus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### xiaomi
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### helio
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### nothing
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### walton
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### honor
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### asus
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### symphony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### google
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### itel
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### huawei
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### lava
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### benco
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### ulefone
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### umidigi
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### iqoo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### motorola
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### lenovo
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### zte
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### doogee
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### sony
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+#### meizu
+
+- **New phones**: 0
+- **Updated phones**: 0
+
+
+---
+
 ## 2025-09-09 15:27:47
 
 ### Summary

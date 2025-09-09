@@ -4,7 +4,7 @@
     "name": "samsung",
     "url": "https://www.mobiledokan.com/mobile-brand/samsung",
     "image_url": null,
-    "last_updated": "2025-09-09 09:24:36",
+    "last_updated": "2025-09-09 09:31:47",
     "total_phones": 20
   },
   "phones": [
@@ -2480,13 +2480,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Camera, 5 MP, f/2.4, Macro Camera",
@@ -2501,6 +2494,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {

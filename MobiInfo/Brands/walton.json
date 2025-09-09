@@ -4,7 +4,7 @@
     "name": "walton",
     "url": "https://www.mobiledokan.com/mobile-brand/walton",
     "image_url": null,
-    "last_updated": "2025-09-09 09:26:07",
+    "last_updated": "2025-09-09 09:33:09",
     "total_phones": 20
   },
   "phones": [
@@ -546,13 +546,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -566,6 +559,13 @@
             "Camera Features": "Composition Line, Touch Focus, Brand Watermark, Time Watermark, Smile Shutter, AI scene recognition, Countdown timer, Touching Photograph, Levels, Finger capture, Quick Capture, Volume Key function",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -674,6 +674,13 @@
           "Notch": "V-Type"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "52 MP, f/2.2, Primary Camera, 2 MP, Depth Camera",
@@ -687,13 +694,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -800,6 +800,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.9, Primary Camera, 2 MP, Macro Camera, 2 MP Camera",
@@ -814,13 +821,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1164,13 +1164,6 @@
           "Notch": "V-Type"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0 Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "52 MP, f/2.2 Primary Camera, AI Lens",
@@ -1184,6 +1177,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0 Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1660,13 +1660,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.5 Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, 1/2.76\", Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, 2 MP, f/2.4, Macro Camera",
@@ -1680,6 +1673,13 @@
             "Camera Features": "AI camera, Auto focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.5 Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1906,12 +1906,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -1922,6 +1916,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Custom Watermark, Face detection",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -2416,13 +2416,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP Primary Camera",
-            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Gesture recognition, Levels, Smile Shutter, Finger Capture, Countdown timer, Touching Photograph, Mirror reflection, Beauty",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "52 MP, f/2.2, Primary Camera, 2 MP f/2.0 Camera",
@@ -2436,6 +2429,13 @@
             "Camera Features": "BSI, Face Detection, Digital Zoom (4.0x), Antibanding, HDR, AE/AF lock, Composition Line, Fingerprint capture, Smile Shutter, Face attribute detect, AI scene detection, Touch to capture, Motion photo, Add Logo Watermark, Virtual aperture portrait mode",
             "Video Recording": "1080x720",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera",
+            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Gesture recognition, Levels, Smile Shutter, Finger Capture, Countdown timer, Touching Photograph, Mirror reflection, Beauty",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps"
           }
         },
         "Design": {

@@ -4,7 +4,7 @@
     "name": "vivo",
     "url": "https://www.mobiledokan.com/mobile-brand/vivo",
     "image_url": null,
-    "last_updated": "2025-09-09 09:24:42",
+    "last_updated": "2025-09-09 09:31:45",
     "total_phones": 20
   },
   "phones": [
@@ -814,6 +814,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -828,14 +836,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1379,13 +1379,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1400,6 +1393,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1839,6 +1839,13 @@
           "Features": "Cover display:\r\nLTPO AMOLED, 120Hz, HDR10+, Dolby Vision, 5500 nits (peak)\r\n6.53 inches, 1172 x 2748 pixels, 21:9 ratio\r\nArmor Glass (2nd gen)"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, f/2.4, Wide Angle, Primary Camera\r\nCover camera:\r\n20 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.1, Ultra-Wide Angle Camera",
@@ -1853,13 +1860,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Bokeh portrait video",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, f/2.4, Wide Angle, Primary Camera\r\nCover camera:\r\n20 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1975,13 +1975,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -1995,6 +1988,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {

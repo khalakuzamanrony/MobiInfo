@@ -4,7 +4,7 @@
     "name": "sony",
     "url": "https://www.mobiledokan.com/mobile-brand/sony",
     "image_url": null,
-    "last_updated": "2025-09-09 09:27:40",
+    "last_updated": "2025-09-09 09:34:44",
     "total_phones": 20
   },
   "phones": [
@@ -884,6 +884,13 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP, f/1.7, Wide Angle (82° field-of-view), Primary Camera, 12 MP, f/2.3, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -898,13 +905,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1023,13 +1023,6 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "12 MP, f/1.7, Wide Angle (82° field-of-view), Primary Camera, 12 MP, f/2.3, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 0.3 MP, TOF 3D, (depth)",
@@ -1044,6 +1037,13 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1162,13 +1162,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP, f/1.8, Wide Angle (75° field-of-view), Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 8 MP, f/2.4, Telephoto Camera",
@@ -1182,6 +1175,13 @@
             "Camera Features": "Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1295,14 +1295,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.6, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.4, Telephoto Camera",
@@ -1318,6 +1310,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1966,13 +1966,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/1.9, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "19 MP, f/2.0, Primary Camera",
@@ -1988,6 +1981,13 @@
             "Camera Features": "Auto Flash, \r\nFace detection",
             "Video Recording": "3840x2160, 1280x720",
             "Video FPS": "30 fps, 60 fps, 960 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/1.9, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -2364,6 +2364,13 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "19 MP, f/2.0, Wide Angle, Primary Camera",
@@ -2377,13 +2384,6 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 , 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {

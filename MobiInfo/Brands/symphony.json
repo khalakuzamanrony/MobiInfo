@@ -4,7 +4,7 @@
     "name": "symphony",
     "url": "https://www.mobiledokan.com/mobile-brand/symphony",
     "image_url": null,
-    "last_updated": "2025-09-09 09:26:08",
+    "last_updated": "2025-09-09 09:33:16",
     "total_phones": 20
   },
   "phones": [
@@ -213,6 +213,14 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Primary Camera, 0.08 MP, Camera, 0.08 MP, Camera",
@@ -226,14 +234,6 @@
             "Camera Features": "AI, Slow motion, Portrait Mode, Geo tagging Watermark, Night Mode, Insight Google lens, Pro mode, intelligent Scanning, Face beauty, Time laps, HDR, Flashlight, Auto HDR",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Flash": "Display flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {

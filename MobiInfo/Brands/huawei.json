@@ -4,7 +4,7 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2025-09-09 09:26:14",
+    "last_updated": "2025-09-09 09:33:18",
     "total_phones": 20
   },
   "phones": [
@@ -449,13 +449,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 240 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP, f/1.6-4.0, Wide Angle, Primary Camera, 50 MP, f/2.4, Periscope Telephoto Camera, 40 MP, f/2.2, Ultra-Wide Angle Camera, 12.5 MP, f/3.6, Telephoto Camera",
@@ -470,6 +463,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 960fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 240 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -582,6 +582,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 240 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6-4.0, Wide Angle, Primary Camera, 48 MP, f/2.1, Telephoto Camera, 40 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -596,13 +603,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 240 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1083,13 +1083,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
@@ -1103,6 +1096,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {

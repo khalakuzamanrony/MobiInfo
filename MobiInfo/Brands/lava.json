@@ -4,7 +4,7 @@
     "name": "lava",
     "url": "https://www.mobiledokan.com/mobile-brand/lava",
     "image_url": null,
-    "last_updated": "2025-09-09 09:26:07",
+    "last_updated": "2025-09-09 09:33:19",
     "total_phones": 20
   },
   "phones": [
@@ -699,10 +699,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 0.3 MP, Camera",
@@ -715,6 +711,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -1697,6 +1697,11 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "Screen flash"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Primary Camera, 2 MP, Camera, 2 MP, Camera",
@@ -1709,11 +1714,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "Screen flash"
           }
         },
         "Design": {

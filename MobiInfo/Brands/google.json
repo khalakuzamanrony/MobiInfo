@@ -4,7 +4,7 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2025-09-09 09:26:09",
+    "last_updated": "2025-09-09 09:33:16",
     "total_phones": 20
   },
   "phones": [
@@ -206,6 +206,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Dual Pixel PD autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/1.7, Ultra-Wide Angle Camera",
@@ -220,14 +228,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Slow Motion, Video HDR, Night Time-Lapse, Macro Video\r\nAudio Zoom, Stereo recording",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Dual Pixel PD autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -659,6 +659,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Dual Pixel PD autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 48 MP, f/2.8, Telephoto Camera, 48 MP, f/1.7, Ultra-Wide Angle Camera",
@@ -673,14 +681,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Dual Video Recording, Slo-motion, Video HDR, Video Pro Mode, Macro Video, Audio Zoom, Stereo recording",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Dual Pixel PD autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1501,6 +1501,14 @@
           "Features": "Cover display:\r\nOLED, 120Hz, HDR, Corning Gorilla Glass Victus 2\r\n6.3 inches, 1080 x 2424 pixels, 20:9 ratio, 422 ppi\r\n1800 nits (HBM), 2700 nits (peak)"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10 MP f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Dual Pixel PD autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.7, Wide Angle (82° field-of-view), Primary Camera, 10.5 MP f/2.2, Ultra-Wide Angle Camera, 10.8 MP f/3.1, Telephoto Camera",
@@ -1515,14 +1523,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Dual Video Recording, Slo-motion, Video HDR, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10 MP f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Dual Pixel PD autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1948,13 +1948,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "42 MP, f/2.2, Ultra-wide Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Wide Angle Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/1.7, Ultra-Wide Camera",
@@ -1968,6 +1961,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "42 MP, f/2.2, Ultra-wide Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2244,6 +2244,13 @@
           "Features": "Always-on display"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10.5 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 48 MP, f/1.7, Ultra-Wide Angle Camera",
@@ -2258,13 +2265,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2529,6 +2529,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.2, Ultra-Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP f/1.9, Wide Angle (80° field-of-view), Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera",
@@ -2543,14 +2551,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {

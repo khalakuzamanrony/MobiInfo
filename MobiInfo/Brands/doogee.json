@@ -4,7 +4,7 @@
     "name": "doogee",
     "url": "https://www.mobiledokan.com/mobile-brand/doogee",
     "image_url": null,
-    "last_updated": "2025-09-09 09:27:47",
+    "last_updated": "2025-09-09 09:34:43",
     "total_phones": 20
   },
   "phones": [
@@ -176,6 +176,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera",
@@ -189,13 +196,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -678,13 +678,6 @@
           "Features": "Secondary screen on the back:\r\nAMOLED, 1.32 inches, 466 x 466 pixels"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "100 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 2 MP, f/2.4, Macro Camera",
@@ -698,6 +691,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -808,6 +808,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "100 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -821,13 +828,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -1066,11 +1066,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.9, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1083,6 +1078,11 @@
             "Aperture": "f/1.9",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080"
           }
         },
         "Design": {
@@ -1576,12 +1576,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "100 MP, Wide Angle, Primary Camera, 20 MP, Night Vision Camera, 2 MP, Macro Camera",
@@ -1593,6 +1587,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
@@ -1939,12 +1939,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1957,6 +1951,12 @@
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Primary Camera",
+            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
@@ -2419,6 +2419,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.8"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "200 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, 125˚ Ultra-Wide Angle Camera",
@@ -2432,13 +2439,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.8"
           }
         },
         "Design": {
