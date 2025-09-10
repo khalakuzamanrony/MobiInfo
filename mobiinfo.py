@@ -852,6 +852,46 @@ class MobiInfoScraper:
             self.log_error(error_msg)
             return False
     
+    def calculate_total_brands(self):
+        """Calculate total number of brands from the Brands directory"""
+        try:
+            if not os.path.exists(self.brands_dir):
+                return 0
+            
+            # Count JSON files in the Brands directory
+            brand_files = [f for f in os.listdir(self.brands_dir) if f.endswith('.json')]
+            return len(brand_files)
+        except Exception as e:
+            self.log_error(f"Error calculating total brands: {str(e)}")
+            return 0
+    
+    def calculate_total_phones(self):
+        """Calculate total number of phones across all brand JSON files"""
+        try:
+            if not os.path.exists(self.brands_dir):
+                return 0
+            
+            total_phones = 0
+            brand_files = [f for f in os.listdir(self.brands_dir) if f.endswith('.json')]
+            
+            for brand_file in brand_files:
+                brand_file_path = os.path.join(self.brands_dir, brand_file)
+                try:
+                    with open(brand_file_path, 'r', encoding='utf-8') as f:
+                        brand_data = json.load(f)
+                        if 'phones' in brand_data:
+                            total_phones += len(brand_data['phones'])
+                        elif 'brand_info' in brand_data and 'total_phones' in brand_data['brand_info']:
+                            total_phones += brand_data['brand_info']['total_phones']
+                except Exception as e:
+                    self.log_error(f"Error reading brand file {brand_file}: {str(e)}")
+                    continue
+            
+            return total_phones
+        except Exception as e:
+            self.log_error(f"Error calculating total phones: {str(e)}")
+            return 0
+
     def save_changelog(self, changelog):
         """Save changelog to both JSON and Markdown formats"""
         try:
@@ -870,9 +910,15 @@ class MobiInfoScraper:
                 for entry in sorted(changelog, key=lambda x: x['timestamp'], reverse=True):
                     f.write(f"## {entry['timestamp']}\n\n")
                     
+                    # Calculate totals for the current entry
+                    total_brands = self.calculate_total_brands()
+                    total_phones = self.calculate_total_phones()
+                    
                     # Write summary
                     summary = entry['summary']
                     f.write("### Summary\n\n")
+                    f.write(f"- **Total Brands**: {total_brands}\n")
+                    f.write(f"- **Total Phones Available**: {total_phones}\n")
                     f.write(f"- **New brands**: {summary['new_brands']}\n")
                     f.write(f"- **Updated brands**: {summary['updated_brands']}\n")
                     f.write(f"- **Failed brands**: {summary['failed_brands']}\n")
@@ -2285,12 +2331,10 @@ if __name__ == "__main__":
 
     # Test
     result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
-    "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
-    "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", ],
-        # max_brands=3,  # Limit to first 5 brands from the list
-        # max_pages=1,  # Limit to 2 pages per brand
-        # max_products=2,  # Limit to 10 products per brand
+        brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung"],
+        max_brands=1,  # Limit to first 5 brands from the list
+        max_pages=1,  # Limit to 2 pages per brand
+        max_products=2,  # Limit to 10 products per brand
         max_workers=10  # Use 3 concurrent workers for faster processing
     )
 
