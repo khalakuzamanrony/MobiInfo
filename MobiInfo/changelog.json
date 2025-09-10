@@ -1,5 +1,1706 @@
 [
   {
+    "timestamp": "2025-09-10 12:48:22",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 226,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "oppo",
+        "brand_name": "oppo",
+        "new_phones": 0,
+        "updated_phones": 226,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X9 Plus",
+            "phone_id": "oppo_find_x9_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F31",
+            "phone_id": "oppo_f31",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F31 Pro",
+            "phone_id": "oppo_f31_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F31 Pro Plus",
+            "phone_id": "oppo_f31_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X9 Pro",
+            "phone_id": "oppo_find_x9_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5i Pro",
+            "phone_id": "oppo_a5i_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A6 Max",
+            "phone_id": "oppo_a6_max",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 4G",
+            "phone_id": "oppo_a5_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 4G (8GB RAM)",
+            "phone_id": "oppo_a5_4g_8gb_ram",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno14 F",
+            "phone_id": "oppo_reno14_f",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno14",
+            "phone_id": "oppo_reno14",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 Turbo",
+            "phone_id": "oppo_k13_turbo",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 Turbo Pro",
+            "phone_id": "oppo_k13_turbo_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 Turbo (512GB)",
+            "phone_id": "oppo_k13_turbo_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 Turbo Pro (512GB)",
+            "phone_id": "oppo_k13_turbo_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13x",
+            "phone_id": "oppo_k13x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5i",
+            "phone_id": "oppo_a5i",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno14 Pro",
+            "phone_id": "oppo_reno14_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno14 (512GB)",
+            "phone_id": "oppo_reno14_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno14 Pro (512GB)",
+            "phone_id": "oppo_reno14_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5x",
+            "phone_id": "oppo_a5x",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 5G",
+            "phone_id": "oppo_a5_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13",
+            "phone_id": "oppo_k13",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K13 (256GB)",
+            "phone_id": "oppo_k13_256gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8s",
+            "phone_id": "oppo_find_x8s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8s Plus",
+            "phone_id": "oppo_find_x8s_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8 Ultra (16GB+512GB)",
+            "phone_id": "oppo_find_x8_ultra_16gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8 Ultra",
+            "phone_id": "oppo_find_x8_ultra",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F29 Pro 5G",
+            "phone_id": "oppo_f29_pro_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F29 5G",
+            "phone_id": "oppo_f29_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 (China)",
+            "phone_id": "oppo_a5_china",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Energy",
+            "phone_id": "oppo_a5_energy",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Pro (256GB)",
+            "phone_id": "oppo_a5_pro_256gb",
+            "differences": [
+              "serial_number: Changed from '225' to '33'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Pro",
+            "phone_id": "oppo_a5_pro",
+            "differences": [
+              "serial_number: Changed from '226' to '34'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N5",
+            "phone_id": "oppo_find_n5",
+            "differences": [
+              "serial_number: Changed from '33' to '35'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13",
+            "phone_id": "oppo_reno13",
+            "differences": [
+              "serial_number: Changed from '34' to '36'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 F",
+            "phone_id": "oppo_reno13_f",
+            "differences": [
+              "serial_number: Changed from '35' to '37'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 Pro",
+            "phone_id": "oppo_reno13_pro",
+            "differences": [
+              "serial_number: Changed from '36' to '38'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 F 5G",
+            "phone_id": "oppo_reno13_f_5g",
+            "differences": [
+              "serial_number: Changed from '37' to '39'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 Pro (China)",
+            "phone_id": "oppo_a5_pro_china",
+            "differences": [
+              "serial_number: Changed from '38' to '40'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 (China)",
+            "phone_id": "oppo_reno13_china",
+            "differences": [
+              "serial_number: Changed from '39' to '41'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 Pro (China)",
+            "phone_id": "oppo_reno13_pro_china",
+            "differences": [
+              "serial_number: Changed from '40' to '42'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 (China) (256GB)",
+            "phone_id": "oppo_reno13_china_256gb",
+            "differences": [
+              "serial_number: Changed from '41' to '43'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 (China) (12GB+256GB)",
+            "phone_id": "oppo_reno13_china_12gb256gb",
+            "differences": [
+              "serial_number: Changed from '42' to '44'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno13 Pro (China) (512GB)",
+            "phone_id": "oppo_reno13_pro_china_512gb",
+            "differences": [
+              "serial_number: Changed from '43' to '45'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8",
+            "phone_id": "oppo_find_x8",
+            "differences": [
+              "serial_number: Changed from '44' to '46'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X8 Pro",
+            "phone_id": "oppo_find_x8_pro",
+            "differences": [
+              "serial_number: Changed from '45' to '47'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K12 Plus",
+            "phone_id": "oppo_k12_plus",
+            "differences": [
+              "serial_number: Changed from '46' to '48'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3",
+            "phone_id": "oppo_a3",
+            "differences": [
+              "serial_number: Changed from '47' to '49'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3x 4G",
+            "phone_id": "oppo_a3x_4g",
+            "differences": [
+              "serial_number: Changed from '48' to '50'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3x",
+            "phone_id": "oppo_a3x",
+            "differences": [
+              "serial_number: Changed from '49' to '51'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno11",
+            "phone_id": "oppo_reno11",
+            "differences": [
+              "serial_number: Changed from '50' to '52'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3 4G",
+            "phone_id": "oppo_a3_4g",
+            "differences": [
+              "serial_number: Changed from '51' to '53'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F27",
+            "phone_id": "oppo_f27",
+            "differences": [
+              "serial_number: Changed from '52' to '54'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3 5G",
+            "phone_id": "oppo_a3_5g",
+            "differences": [
+              "serial_number: Changed from '53' to '55'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3x (128GB)",
+            "phone_id": "oppo_a3x_128gb",
+            "differences": [
+              "serial_number: Changed from '54' to '56'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A80",
+            "phone_id": "oppo_a80",
+            "differences": [
+              "serial_number: Changed from '55' to '57'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K12x",
+            "phone_id": "oppo_k12x",
+            "differences": [
+              "serial_number: Changed from '56' to '58'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3x 5G",
+            "phone_id": "oppo_a3x_5g",
+            "differences": [
+              "serial_number: Changed from '57' to '59'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno12 F 4G",
+            "phone_id": "oppo_reno12_f_4g",
+            "differences": [
+              "serial_number: Changed from '58' to '60'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno 12",
+            "phone_id": "oppo_reno_12",
+            "differences": [
+              "serial_number: Changed from '59' to '61'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno12 F",
+            "phone_id": "oppo_reno12_f",
+            "differences": [
+              "serial_number: Changed from '60' to '62'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "OPPO Reno12 F (12GB RAM)",
+            "phone_id": "oppo_reno12_f_12gb_ram",
+            "differences": [
+              "serial_number: Changed from '61' to '63'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno12 5G",
+            "phone_id": "oppo_reno12_5g",
+            "differences": [
+              "serial_number: Changed from '62' to '64'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3 Pro",
+            "phone_id": "oppo_a3_pro",
+            "differences": [
+              "serial_number: Changed from '63' to '65'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F27 Pro Plus",
+            "phone_id": "oppo_f27_pro_plus",
+            "differences": [
+              "serial_number: Changed from '64' to '66'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno12 Pro",
+            "phone_id": "oppo_reno12_pro",
+            "differences": [
+              "serial_number: Changed from '227' to '67'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno12 Pro (512GB)",
+            "phone_id": "oppo_reno12_pro_512gb",
+            "differences": [
+              "serial_number: Changed from '65' to '68'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K12",
+            "phone_id": "oppo_k12",
+            "differences": [
+              "serial_number: Changed from '66' to '69'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3 Pro (China)",
+            "phone_id": "oppo_a3_pro_china",
+            "differences": [
+              "serial_number: Changed from '67' to '70'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A60",
+            "phone_id": "oppo_a60",
+            "differences": [
+              "serial_number: Changed from '68' to '71'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A60 (256GB)",
+            "phone_id": "oppo_a60_256gb",
+            "differences": [
+              "serial_number: Changed from '69' to '72'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F25 Pro",
+            "phone_id": "oppo_f25_pro",
+            "differences": [
+              "serial_number: Changed from '70' to '73'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno 11 Pro",
+            "phone_id": "oppo_reno_11_pro",
+            "differences": [
+              "serial_number: Changed from '71' to '74'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno11 Pro (512GB)",
+            "phone_id": "oppo_reno11_pro_512gb",
+            "differences": [
+              "serial_number: Changed from '72' to '75'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X7 Ultra",
+            "phone_id": "oppo_find_x7_ultra",
+            "differences": [
+              "serial_number: Changed from '73' to '76'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X7 Ultra (16GB RAM)",
+            "phone_id": "oppo_find_x7_ultra_16gb_ram",
+            "differences": [
+              "serial_number: Changed from '74' to '77'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X7 Ultra (16GB/512GB)",
+            "phone_id": "oppo_find_x7_ultra_16gb512gb",
+            "differences": [
+              "serial_number: Changed from '75' to '78'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X7",
+            "phone_id": "oppo_find_x7",
+            "differences": [
+              "serial_number: Changed from '76' to '79'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X7 (16GB/1TB)",
+            "phone_id": "oppo_find_x7_16gb1tb",
+            "differences": [
+              "serial_number: Changed from '77' to '80'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oukitel WP32",
+            "phone_id": "oukitel_wp32",
+            "differences": [
+              "serial_number: Changed from '78' to '81'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N3",
+            "phone_id": "oppo_find_n3",
+            "differences": [
+              "serial_number: Changed from '79' to '82'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A18 (128GB)",
+            "phone_id": "oppo_a18_128gb",
+            "differences": [
+              "serial_number: Changed from '80' to '83'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A18",
+            "phone_id": "oppo_a18",
+            "differences": [
+              "serial_number: Changed from '81' to '84'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A38",
+            "phone_id": "oppo_a38",
+            "differences": [
+              "serial_number: Changed from '82' to '85'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A38 (6GB RAM)",
+            "phone_id": "oppo_a38_6gb_ram",
+            "differences": [
+              "serial_number: Changed from '83' to '86'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N3 Flip (512GB)",
+            "phone_id": "oppo_find_n3_flip_512gb",
+            "differences": [
+              "serial_number: Changed from '84' to '87'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N3 Flip",
+            "phone_id": "oppo_find_n3_flip",
+            "differences": [
+              "serial_number: Changed from '85' to '88'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno10 5G",
+            "phone_id": "oppo_reno10_5g",
+            "differences": [
+              "serial_number: Changed from '86' to '89'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno10 Pro 5G",
+            "phone_id": "oppo_reno10_pro_5g",
+            "differences": [
+              "serial_number: Changed from '87' to '90'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno10 5G (12GB RAM)",
+            "phone_id": "oppo_reno10_5g_12gb_ram",
+            "differences": [
+              "serial_number: Changed from '88' to '91'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno10 Pro Plus",
+            "phone_id": "oppo_reno10_pro_plus",
+            "differences": [
+              "serial_number: Changed from '89' to '92'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X6 (16GB/512GB)",
+            "phone_id": "oppo_find_x6_16gb512gb",
+            "differences": [
+              "serial_number: Changed from '90' to '93'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X6 Pro",
+            "phone_id": "oppo_find_x6_pro",
+            "differences": [
+              "serial_number: Changed from '91' to '94'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X6 Pro (16GB/512GB)",
+            "phone_id": "oppo_find_x6_pro_16gb512gb",
+            "differences": [
+              "serial_number: Changed from '92' to '95'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X6",
+            "phone_id": "oppo_find_x6",
+            "differences": [
+              "serial_number: Changed from '93' to '96'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno8 T 5G",
+            "phone_id": "oppo_reno8_t_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno8 T",
+            "phone_id": "oppo_reno8_t",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A78",
+            "phone_id": "oppo_a78",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N2 Flip",
+            "phone_id": "oppo_find_n2_flip",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find N2",
+            "phone_id": "oppo_find_n2",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno9 Pro",
+            "phone_id": "oppo_reno9_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "OPPO Reno9 Pro Plus",
+            "phone_id": "oppo_reno9_pro_plus",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno9",
+            "phone_id": "oppo_reno9",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno9 (12GB/512GB)",
+            "phone_id": "oppo_reno9_12gb512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oukitel WP21",
+            "phone_id": "oukitel_wp21",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A17K",
+            "phone_id": "oppo_a17k",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A77s",
+            "phone_id": "oppo_a77s",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A17",
+            "phone_id": "oppo_a17",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F21s Pro",
+            "phone_id": "oppo_f21s_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A77",
+            "phone_id": "oppo_a77",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno8",
+            "phone_id": "oppo_reno8",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno8 Pro",
+            "phone_id": "oppo_reno8_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A57 4G",
+            "phone_id": "oppo_a57_4g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F21 Pro",
+            "phone_id": "oppo_f21_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F21 Pro 5G",
+            "phone_id": "oppo_f21_pro_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K10",
+            "phone_id": "oppo_k10",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A16e",
+            "phone_id": "oppo_a16e",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X5 Pro",
+            "phone_id": "oppo_find_x5_pro",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X5 Pro (512GB)",
+            "phone_id": "oppo_find_x5_pro_512gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A76",
+            "phone_id": "oppo_a76",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno7 5G",
+            "phone_id": "oppo_reno7_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno7 Pro 5G",
+            "phone_id": "oppo_reno7_pro_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A95",
+            "phone_id": "oppo_a95",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno6",
+            "phone_id": "oppo_reno6",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A16",
+            "phone_id": "oppo_a16",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A16 (4GB+64GB)",
+            "phone_id": "oppo_a16_4gb64gb",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno6 5G",
+            "phone_id": "oppo_reno6_5g",
+            "differences": []
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno6 Pro 5G",
+            "phone_id": "oppo_reno6_pro_5g",
+            "differences": [
+              "serial_number: Changed from '228' to '129'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "OPPO A95 5G",
+            "phone_id": "oppo_a95_5g",
+            "differences": [
+              "serial_number: Changed from '229' to '130'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A54",
+            "phone_id": "oppo_a54",
+            "differences": [
+              "serial_number: Changed from '129' to '131'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F19",
+            "phone_id": "oppo_f19",
+            "differences": [
+              "serial_number: Changed from '130' to '132'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X3 Pro",
+            "phone_id": "oppo_find_x3_pro",
+            "differences": [
+              "serial_number: Changed from '131' to '133'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F19 Pro",
+            "phone_id": "oppo_f19_pro",
+            "differences": [
+              "serial_number: Changed from '132' to '134'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno5 5G",
+            "phone_id": "oppo_reno5_5g",
+            "differences": [
+              "serial_number: Changed from '133' to '135'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A15s",
+            "phone_id": "oppo_a15s",
+            "differences": [
+              "serial_number: Changed from '134' to '136'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A15",
+            "phone_id": "oppo_a15",
+            "differences": [
+              "serial_number: Changed from '135' to '137'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A33",
+            "phone_id": "oppo_a33",
+            "differences": [
+              "serial_number: Changed from '136' to '138'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F17",
+            "phone_id": "oppo_f17",
+            "differences": [
+              "serial_number: Changed from '137' to '139'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F17 Pro",
+            "phone_id": "oppo_f17_pro",
+            "differences": [
+              "serial_number: Changed from '138' to '140'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A53",
+            "phone_id": "oppo_a53",
+            "differences": [
+              "serial_number: Changed from '139' to '141'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno4",
+            "phone_id": "oppo_reno4",
+            "differences": [
+              "serial_number: Changed from '140' to '142'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A58 4G (8GB RAM)",
+            "phone_id": "oppo_a58_4g_8gb_ram",
+            "differences": [
+              "serial_number: Changed from '141' to '143'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A58 4G",
+            "phone_id": "oppo_a58_4g",
+            "differences": [
+              "serial_number: Changed from '142' to '144'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A92",
+            "phone_id": "oppo_a92",
+            "differences": [
+              "serial_number: Changed from '143' to '145'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A72",
+            "phone_id": "oppo_a72",
+            "differences": [
+              "serial_number: Changed from '144' to '146'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Ace2",
+            "phone_id": "oppo_ace2",
+            "differences": [
+              "serial_number: Changed from '145' to '147'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A12",
+            "phone_id": "oppo_a12",
+            "differences": [
+              "serial_number: Changed from '146' to '148'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A52",
+            "phone_id": "oppo_a52",
+            "differences": [
+              "serial_number: Changed from '147' to '149'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A12 (4GB+64GB)",
+            "phone_id": "oppo_a12_4gb64gb",
+            "differences": [
+              "serial_number: Changed from '148' to '150'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A92s",
+            "phone_id": "oppo_a92s",
+            "differences": [
+              "serial_number: Changed from '149' to '151'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X2 Pro",
+            "phone_id": "oppo_find_x2_pro",
+            "differences": [
+              "serial_number: Changed from '150' to '152'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno3 Pro",
+            "phone_id": "oppo_reno3_pro",
+            "differences": [
+              "serial_number: Changed from '151' to '153'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X2",
+            "phone_id": "oppo_find_x2",
+            "differences": [
+              "serial_number: Changed from '152' to '154'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A31",
+            "phone_id": "oppo_a31",
+            "differences": [
+              "serial_number: Changed from '153' to '155'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F15",
+            "phone_id": "oppo_f15",
+            "differences": [
+              "serial_number: Changed from '154' to '156'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno5",
+            "phone_id": "oppo_reno5",
+            "differences": [
+              "serial_number: Changed from '155' to '157'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A91",
+            "phone_id": "oppo_a91",
+            "differences": [
+              "serial_number: Changed from '156' to '158'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno2 F",
+            "phone_id": "oppo_reno2_f",
+            "differences": [
+              "serial_number: Changed from '157' to '159'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K5",
+            "phone_id": "oppo_k5",
+            "differences": [
+              "serial_number: Changed from '158' to '160'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A11",
+            "phone_id": "oppo_a11",
+            "differences": [
+              "serial_number: Changed from '159' to '161'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno Ace",
+            "phone_id": "oppo_reno_ace",
+            "differences": [
+              "serial_number: Changed from '160' to '162'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno Ace (256GB)",
+            "phone_id": "oppo_reno_ace_256gb",
+            "differences": [
+              "serial_number: Changed from '161' to '163'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno Ace (12GB RAM)",
+            "phone_id": "oppo_reno_ace_12gb_ram",
+            "differences": [
+              "serial_number: Changed from '162' to '164'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 (2020)",
+            "phone_id": "oppo_a5_2020",
+            "differences": [
+              "serial_number: Changed from '163' to '165'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5 (2020) (4GB+128GB)",
+            "phone_id": "oppo_a5_2020_4gb128gb",
+            "differences": [
+              "serial_number: Changed from '164' to '166'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A9 (2020)",
+            "phone_id": "oppo_a9_2020",
+            "differences": [
+              "serial_number: Changed from '165' to '167'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno 2",
+            "phone_id": "oppo_reno_2",
+            "differences": [
+              "serial_number: Changed from '166' to '168'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno2 Z",
+            "phone_id": "oppo_reno2_z",
+            "differences": [
+              "serial_number: Changed from '167' to '169'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno 10x Zoom",
+            "phone_id": "oppo_reno_10x_zoom",
+            "differences": [
+              "serial_number: Changed from '168' to '170'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F11 Pro Marvels Avengers",
+            "phone_id": "oppo_f11_pro_marvels_avengers",
+            "differences": [
+              "serial_number: Changed from '169' to '171'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F11",
+            "phone_id": "oppo_f11",
+            "differences": [
+              "serial_number: Changed from '170' to '172'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A1K",
+            "phone_id": "oppo_a1k",
+            "differences": [
+              "serial_number: Changed from '171' to '173'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Reno",
+            "phone_id": "oppo_reno",
+            "differences": [
+              "serial_number: Changed from '172' to '174'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5s",
+            "phone_id": "oppo_a5s",
+            "differences": [
+              "serial_number: Changed from '173' to '175'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F11 Pro",
+            "phone_id": "oppo_f11_pro",
+            "differences": [
+              "serial_number: Changed from '174' to '176'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A7",
+            "phone_id": "oppo_a7",
+            "differences": [
+              "serial_number: Changed from '175' to '177'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo RX17 Pro",
+            "phone_id": "oppo_rx17_pro",
+            "differences": [
+              "serial_number: Changed from '176' to '178'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo R17 Pro",
+            "phone_id": "oppo_r17_pro",
+            "differences": [
+              "serial_number: Changed from '177' to '179'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo K1",
+            "phone_id": "oppo_k1",
+            "differences": [
+              "serial_number: Changed from '178' to '180'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A7x",
+            "phone_id": "oppo_a7x",
+            "differences": [
+              "serial_number: Changed from '179' to '181'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F9",
+            "phone_id": "oppo_f9",
+            "differences": [
+              "serial_number: Changed from '180' to '182'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F9 (6GB+64GB)",
+            "phone_id": "oppo_f9_6gb64gb",
+            "differences": [
+              "serial_number: Changed from '181' to '183'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F9 Pro",
+            "phone_id": "oppo_f9_pro",
+            "differences": [
+              "serial_number: Changed from '182' to '184'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F9 Pro (6GB RAM)",
+            "phone_id": "oppo_f9_pro_6gb_ram",
+            "differences": [
+              "serial_number: Changed from '183' to '185'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A5",
+            "phone_id": "oppo_a5",
+            "differences": [
+              "serial_number: Changed from '184' to '186'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3s (32GB)",
+            "phone_id": "oppo_a3s_32gb",
+            "differences": [
+              "serial_number: Changed from '185' to '187'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A3s",
+            "phone_id": "oppo_a3s",
+            "differences": [
+              "serial_number: Changed from '186' to '188'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find X",
+            "phone_id": "oppo_find_x",
+            "differences": [
+              "serial_number: Changed from '187' to '189'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F7 (128GB)",
+            "phone_id": "oppo_f7_128gb",
+            "differences": [
+              "serial_number: Changed from '188' to '190'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F7",
+            "phone_id": "oppo_f7",
+            "differences": [
+              "serial_number: Changed from '189' to '191'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A71 (2018)",
+            "phone_id": "oppo_a71_2018",
+            "differences": [
+              "serial_number: Changed from '190' to '192'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A83 (2018)",
+            "phone_id": "oppo_a83_2018",
+            "differences": [
+              "serial_number: Changed from '191' to '193'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A83 (3GB+32GB)",
+            "phone_id": "oppo_a83_3gb32gb",
+            "differences": [
+              "serial_number: Changed from '192' to '194'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A83",
+            "phone_id": "oppo_a83",
+            "differences": [
+              "serial_number: Changed from '230' to '195'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F5 Youth",
+            "phone_id": "oppo_f5_youth",
+            "differences": [
+              "serial_number: Changed from '231' to '196'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F5",
+            "phone_id": "oppo_f5",
+            "differences": [
+              "serial_number: Changed from '193' to '197'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F5 (64GB)",
+            "phone_id": "oppo_f5_64gb",
+            "differences": [
+              "serial_number: Changed from '194' to '198'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A71",
+            "phone_id": "oppo_a71",
+            "differences": [
+              "serial_number: Changed from '195' to '199'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F3",
+            "phone_id": "oppo_f3",
+            "differences": [
+              "serial_number: Changed from '196' to '200'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F3 Plus",
+            "phone_id": "oppo_f3_plus",
+            "differences": [
+              "serial_number: Changed from '197' to '201'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A37fw",
+            "phone_id": "oppo_a37fw",
+            "differences": [
+              "serial_number: Changed from '198' to '202'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A57",
+            "phone_id": "oppo_a57",
+            "differences": [
+              "serial_number: Changed from '199' to '203'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F1s",
+            "phone_id": "oppo_f1s",
+            "differences": [
+              "serial_number: Changed from '200' to '204'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F1s (4GB+64GB)",
+            "phone_id": "oppo_f1s_4gb64gb",
+            "differences": [
+              "serial_number: Changed from '201' to '205'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo C1",
+            "phone_id": "oppo_c1",
+            "differences": [
+              "serial_number: Changed from '202' to '206'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F1 Plus",
+            "phone_id": "oppo_f1_plus",
+            "differences": [
+              "serial_number: Changed from '203' to '207'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo F1",
+            "phone_id": "oppo_f1",
+            "differences": [
+              "serial_number: Changed from '204' to '208'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A33f",
+            "phone_id": "oppo_a33f",
+            "differences": [
+              "serial_number: Changed from '205' to '209'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Neo 7",
+            "phone_id": "oppo_neo_7",
+            "differences": [
+              "serial_number: Changed from '206' to '210'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo R7 lite",
+            "phone_id": "oppo_r7_lite",
+            "differences": [
+              "serial_number: Changed from '207' to '211'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Joy 3",
+            "phone_id": "oppo_joy_3",
+            "differences": [
+              "serial_number: Changed from '208' to '212'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Mirror 5",
+            "phone_id": "oppo_mirror_5",
+            "differences": [
+              "serial_number: Changed from '209' to '213'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo R7 Plus",
+            "phone_id": "oppo_r7_plus",
+            "differences": [
+              "serial_number: Changed from '210' to '214'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Joy Plus",
+            "phone_id": "oppo_joy_plus",
+            "differences": [
+              "serial_number: Changed from '211' to '215'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Mirror 3",
+            "phone_id": "oppo_mirror_3",
+            "differences": [
+              "serial_number: Changed from '212' to '216'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo R5",
+            "phone_id": "oppo_r5",
+            "differences": [
+              "serial_number: Changed from '213' to '217'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo R1k",
+            "phone_id": "oppo_r1k",
+            "differences": [
+              "serial_number: Changed from '214' to '218'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo N1 mini",
+            "phone_id": "oppo_n1_mini",
+            "differences": [
+              "serial_number: Changed from '215' to '219'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Joy",
+            "phone_id": "oppo_joy",
+            "differences": [
+              "serial_number: Changed from '216' to '220'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Neo 5",
+            "phone_id": "oppo_neo_5",
+            "differences": [
+              "serial_number: Changed from '217' to '221'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Neo 3",
+            "phone_id": "oppo_neo_3",
+            "differences": [
+              "serial_number: Changed from '218' to '222'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Yoyo",
+            "phone_id": "oppo_yoyo",
+            "differences": [
+              "serial_number: Changed from '219' to '223'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find 7",
+            "phone_id": "oppo_find_7",
+            "differences": [
+              "serial_number: Changed from '220' to '224'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo Find 7a",
+            "phone_id": "oppo_find_7a",
+            "differences": [
+              "serial_number: Changed from '223' to '225'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "Oppo A4",
+            "phone_id": "oppo_a4",
+            "differences": [
+              "serial_number: Changed from '224' to '226'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-10 12:34:25",
     "summary": {
       "new_brands": 0,

@@ -2,12 +2,648 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-10 12:48:22
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5258
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 226
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### oppo
+
+- **Updated phones**: 226
+
+  - **Updated phone**: Oppo Find X9 Plus
+
+  - **Updated phone**: Oppo F31
+
+  - **Updated phone**: Oppo F31 Pro
+
+  - **Updated phone**: Oppo F31 Pro Plus
+
+  - **Updated phone**: Oppo Find X9 Pro
+
+  - **Updated phone**: Oppo A5i Pro
+
+  - **Updated phone**: Oppo A6 Max
+
+  - **Updated phone**: Oppo A5 4G
+
+  - **Updated phone**: Oppo A5 4G (8GB RAM)
+
+  - **Updated phone**: Oppo Reno14 F
+
+  - **Updated phone**: Oppo Reno14
+
+  - **Updated phone**: Oppo K13 Turbo
+
+  - **Updated phone**: Oppo K13 Turbo Pro
+
+  - **Updated phone**: Oppo K13 Turbo (512GB)
+
+  - **Updated phone**: Oppo K13 Turbo Pro (512GB)
+
+  - **Updated phone**: Oppo K13x
+
+  - **Updated phone**: Oppo A5i
+
+  - **Updated phone**: Oppo Reno14 Pro
+
+  - **Updated phone**: Oppo Reno14 (512GB)
+
+  - **Updated phone**: Oppo Reno14 Pro (512GB)
+
+  - **Updated phone**: Oppo A5x
+
+  - **Updated phone**: Oppo A5 5G
+
+  - **Updated phone**: Oppo K13
+
+  - **Updated phone**: Oppo K13 (256GB)
+
+  - **Updated phone**: Oppo Find X8s
+
+  - **Updated phone**: Oppo Find X8s Plus
+
+  - **Updated phone**: Oppo Find X8 Ultra (16GB+512GB)
+
+  - **Updated phone**: Oppo Find X8 Ultra
+
+  - **Updated phone**: Oppo F29 Pro 5G
+
+  - **Updated phone**: Oppo F29 5G
+
+  - **Updated phone**: Oppo A5 (China)
+
+  - **Updated phone**: Oppo A5 Energy
+
+  - **Updated phone**: Oppo A5 Pro (256GB)
+    - serial_number: Changed from '225' to '33'
+
+  - **Updated phone**: Oppo A5 Pro
+    - serial_number: Changed from '226' to '34'
+
+  - **Updated phone**: Oppo Find N5
+    - serial_number: Changed from '33' to '35'
+
+  - **Updated phone**: Oppo Reno13
+    - serial_number: Changed from '34' to '36'
+
+  - **Updated phone**: Oppo Reno13 F
+    - serial_number: Changed from '35' to '37'
+
+  - **Updated phone**: Oppo Reno13 Pro
+    - serial_number: Changed from '36' to '38'
+
+  - **Updated phone**: Oppo Reno13 F 5G
+    - serial_number: Changed from '37' to '39'
+
+  - **Updated phone**: Oppo A5 Pro (China)
+    - serial_number: Changed from '38' to '40'
+
+  - **Updated phone**: Oppo Reno13 (China)
+    - serial_number: Changed from '39' to '41'
+
+  - **Updated phone**: Oppo Reno13 Pro (China)
+    - serial_number: Changed from '40' to '42'
+
+  - **Updated phone**: Oppo Reno13 (China) (256GB)
+    - serial_number: Changed from '41' to '43'
+
+  - **Updated phone**: Oppo Reno13 (China) (12GB+256GB)
+    - serial_number: Changed from '42' to '44'
+
+  - **Updated phone**: Oppo Reno13 Pro (China) (512GB)
+    - serial_number: Changed from '43' to '45'
+
+  - **Updated phone**: Oppo Find X8
+    - serial_number: Changed from '44' to '46'
+
+  - **Updated phone**: Oppo Find X8 Pro
+    - serial_number: Changed from '45' to '47'
+
+  - **Updated phone**: Oppo K12 Plus
+    - serial_number: Changed from '46' to '48'
+
+  - **Updated phone**: Oppo A3
+    - serial_number: Changed from '47' to '49'
+
+  - **Updated phone**: Oppo A3x 4G
+    - serial_number: Changed from '48' to '50'
+
+  - **Updated phone**: Oppo A3x
+    - serial_number: Changed from '49' to '51'
+
+  - **Updated phone**: Oppo Reno11
+    - serial_number: Changed from '50' to '52'
+
+  - **Updated phone**: Oppo A3 4G
+    - serial_number: Changed from '51' to '53'
+
+  - **Updated phone**: Oppo F27
+    - serial_number: Changed from '52' to '54'
+
+  - **Updated phone**: Oppo A3 5G
+    - serial_number: Changed from '53' to '55'
+
+  - **Updated phone**: Oppo A3x (128GB)
+    - serial_number: Changed from '54' to '56'
+
+  - **Updated phone**: Oppo A80
+    - serial_number: Changed from '55' to '57'
+
+  - **Updated phone**: Oppo K12x
+    - serial_number: Changed from '56' to '58'
+
+  - **Updated phone**: Oppo A3x 5G
+    - serial_number: Changed from '57' to '59'
+
+  - **Updated phone**: Oppo Reno12 F 4G
+    - serial_number: Changed from '58' to '60'
+
+  - **Updated phone**: Oppo Reno 12
+    - serial_number: Changed from '59' to '61'
+
+  - **Updated phone**: Oppo Reno12 F
+    - serial_number: Changed from '60' to '62'
+
+  - **Updated phone**: OPPO Reno12 F (12GB RAM)
+    - serial_number: Changed from '61' to '63'
+
+  - **Updated phone**: Oppo Reno12 5G
+    - serial_number: Changed from '62' to '64'
+
+  - **Updated phone**: Oppo A3 Pro
+    - serial_number: Changed from '63' to '65'
+
+  - **Updated phone**: Oppo F27 Pro Plus
+    - serial_number: Changed from '64' to '66'
+
+  - **Updated phone**: Oppo Reno12 Pro
+    - serial_number: Changed from '227' to '67'
+
+  - **Updated phone**: Oppo Reno12 Pro (512GB)
+    - serial_number: Changed from '65' to '68'
+
+  - **Updated phone**: Oppo K12
+    - serial_number: Changed from '66' to '69'
+
+  - **Updated phone**: Oppo A3 Pro (China)
+    - serial_number: Changed from '67' to '70'
+
+  - **Updated phone**: Oppo A60
+    - serial_number: Changed from '68' to '71'
+
+  - **Updated phone**: Oppo A60 (256GB)
+    - serial_number: Changed from '69' to '72'
+
+  - **Updated phone**: Oppo F25 Pro
+    - serial_number: Changed from '70' to '73'
+
+  - **Updated phone**: Oppo Reno 11 Pro
+    - serial_number: Changed from '71' to '74'
+
+  - **Updated phone**: Oppo Reno11 Pro (512GB)
+    - serial_number: Changed from '72' to '75'
+
+  - **Updated phone**: Oppo Find X7 Ultra
+    - serial_number: Changed from '73' to '76'
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB RAM)
+    - serial_number: Changed from '74' to '77'
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB/512GB)
+    - serial_number: Changed from '75' to '78'
+
+  - **Updated phone**: Oppo Find X7
+    - serial_number: Changed from '76' to '79'
+
+  - **Updated phone**: Oppo Find X7 (16GB/1TB)
+    - serial_number: Changed from '77' to '80'
+
+  - **Updated phone**: Oukitel WP32
+    - serial_number: Changed from '78' to '81'
+
+  - **Updated phone**: Oppo Find N3
+    - serial_number: Changed from '79' to '82'
+
+  - **Updated phone**: Oppo A18 (128GB)
+    - serial_number: Changed from '80' to '83'
+
+  - **Updated phone**: Oppo A18
+    - serial_number: Changed from '81' to '84'
+
+  - **Updated phone**: Oppo A38
+    - serial_number: Changed from '82' to '85'
+
+  - **Updated phone**: Oppo A38 (6GB RAM)
+    - serial_number: Changed from '83' to '86'
+
+  - **Updated phone**: Oppo Find N3 Flip (512GB)
+    - serial_number: Changed from '84' to '87'
+
+  - **Updated phone**: Oppo Find N3 Flip
+    - serial_number: Changed from '85' to '88'
+
+  - **Updated phone**: Oppo Reno10 5G
+    - serial_number: Changed from '86' to '89'
+
+  - **Updated phone**: Oppo Reno10 Pro 5G
+    - serial_number: Changed from '87' to '90'
+
+  - **Updated phone**: Oppo Reno10 5G (12GB RAM)
+    - serial_number: Changed from '88' to '91'
+
+  - **Updated phone**: Oppo Reno10 Pro Plus
+    - serial_number: Changed from '89' to '92'
+
+  - **Updated phone**: Oppo Find X6 (16GB/512GB)
+    - serial_number: Changed from '90' to '93'
+
+  - **Updated phone**: Oppo Find X6 Pro
+    - serial_number: Changed from '91' to '94'
+
+  - **Updated phone**: Oppo Find X6 Pro (16GB/512GB)
+    - serial_number: Changed from '92' to '95'
+
+  - **Updated phone**: Oppo Find X6
+    - serial_number: Changed from '93' to '96'
+
+  - **Updated phone**: Oppo Reno8 T 5G
+
+  - **Updated phone**: Oppo Reno8 T
+
+  - **Updated phone**: Oppo A78
+
+  - **Updated phone**: Oppo Find N2 Flip
+
+  - **Updated phone**: Oppo Find N2
+
+  - **Updated phone**: Oppo Reno9 Pro
+
+  - **Updated phone**: OPPO Reno9 Pro Plus
+
+  - **Updated phone**: Oppo Reno9
+
+  - **Updated phone**: Oppo Reno9 (12GB/512GB)
+
+  - **Updated phone**: Oukitel WP21
+
+  - **Updated phone**: Oppo A17K
+
+  - **Updated phone**: Oppo A77s
+
+  - **Updated phone**: Oppo A17
+
+  - **Updated phone**: Oppo F21s Pro
+
+  - **Updated phone**: Oppo A77
+
+  - **Updated phone**: Oppo Reno8
+
+  - **Updated phone**: Oppo Reno8 Pro
+
+  - **Updated phone**: Oppo A57 4G
+
+  - **Updated phone**: Oppo F21 Pro
+
+  - **Updated phone**: Oppo F21 Pro 5G
+
+  - **Updated phone**: Oppo K10
+
+  - **Updated phone**: Oppo A16e
+
+  - **Updated phone**: Oppo Find X5 Pro
+
+  - **Updated phone**: Oppo Find X5 Pro (512GB)
+
+  - **Updated phone**: Oppo A76
+
+  - **Updated phone**: Oppo Reno7 5G
+
+  - **Updated phone**: Oppo Reno7 Pro 5G
+
+  - **Updated phone**: Oppo A95
+
+  - **Updated phone**: Oppo Reno6
+
+  - **Updated phone**: Oppo A16
+
+  - **Updated phone**: Oppo A16 (4GB+64GB)
+
+  - **Updated phone**: Oppo Reno6 5G
+
+  - **Updated phone**: Oppo Reno6 Pro 5G
+    - serial_number: Changed from '228' to '129'
+
+  - **Updated phone**: OPPO A95 5G
+    - serial_number: Changed from '229' to '130'
+
+  - **Updated phone**: Oppo A54
+    - serial_number: Changed from '129' to '131'
+
+  - **Updated phone**: Oppo F19
+    - serial_number: Changed from '130' to '132'
+
+  - **Updated phone**: Oppo Find X3 Pro
+    - serial_number: Changed from '131' to '133'
+
+  - **Updated phone**: Oppo F19 Pro
+    - serial_number: Changed from '132' to '134'
+
+  - **Updated phone**: Oppo Reno5 5G
+    - serial_number: Changed from '133' to '135'
+
+  - **Updated phone**: Oppo A15s
+    - serial_number: Changed from '134' to '136'
+
+  - **Updated phone**: Oppo A15
+    - serial_number: Changed from '135' to '137'
+
+  - **Updated phone**: Oppo A33
+    - serial_number: Changed from '136' to '138'
+
+  - **Updated phone**: Oppo F17
+    - serial_number: Changed from '137' to '139'
+
+  - **Updated phone**: Oppo F17 Pro
+    - serial_number: Changed from '138' to '140'
+
+  - **Updated phone**: Oppo A53
+    - serial_number: Changed from '139' to '141'
+
+  - **Updated phone**: Oppo Reno4
+    - serial_number: Changed from '140' to '142'
+
+  - **Updated phone**: Oppo A58 4G (8GB RAM)
+    - serial_number: Changed from '141' to '143'
+
+  - **Updated phone**: Oppo A58 4G
+    - serial_number: Changed from '142' to '144'
+
+  - **Updated phone**: Oppo A92
+    - serial_number: Changed from '143' to '145'
+
+  - **Updated phone**: Oppo A72
+    - serial_number: Changed from '144' to '146'
+
+  - **Updated phone**: Oppo Ace2
+    - serial_number: Changed from '145' to '147'
+
+  - **Updated phone**: Oppo A12
+    - serial_number: Changed from '146' to '148'
+
+  - **Updated phone**: Oppo A52
+    - serial_number: Changed from '147' to '149'
+
+  - **Updated phone**: Oppo A12 (4GB+64GB)
+    - serial_number: Changed from '148' to '150'
+
+  - **Updated phone**: Oppo A92s
+    - serial_number: Changed from '149' to '151'
+
+  - **Updated phone**: Oppo Find X2 Pro
+    - serial_number: Changed from '150' to '152'
+
+  - **Updated phone**: Oppo Reno3 Pro
+    - serial_number: Changed from '151' to '153'
+
+  - **Updated phone**: Oppo Find X2
+    - serial_number: Changed from '152' to '154'
+
+  - **Updated phone**: Oppo A31
+    - serial_number: Changed from '153' to '155'
+
+  - **Updated phone**: Oppo F15
+    - serial_number: Changed from '154' to '156'
+
+  - **Updated phone**: Oppo Reno5
+    - serial_number: Changed from '155' to '157'
+
+  - **Updated phone**: Oppo A91
+    - serial_number: Changed from '156' to '158'
+
+  - **Updated phone**: Oppo Reno2 F
+    - serial_number: Changed from '157' to '159'
+
+  - **Updated phone**: Oppo K5
+    - serial_number: Changed from '158' to '160'
+
+  - **Updated phone**: Oppo A11
+    - serial_number: Changed from '159' to '161'
+
+  - **Updated phone**: Oppo Reno Ace
+    - serial_number: Changed from '160' to '162'
+
+  - **Updated phone**: Oppo Reno Ace (256GB)
+    - serial_number: Changed from '161' to '163'
+
+  - **Updated phone**: Oppo Reno Ace (12GB RAM)
+    - serial_number: Changed from '162' to '164'
+
+  - **Updated phone**: Oppo A5 (2020)
+    - serial_number: Changed from '163' to '165'
+
+  - **Updated phone**: Oppo A5 (2020) (4GB+128GB)
+    - serial_number: Changed from '164' to '166'
+
+  - **Updated phone**: Oppo A9 (2020)
+    - serial_number: Changed from '165' to '167'
+
+  - **Updated phone**: Oppo Reno 2
+    - serial_number: Changed from '166' to '168'
+
+  - **Updated phone**: Oppo Reno2 Z
+    - serial_number: Changed from '167' to '169'
+
+  - **Updated phone**: Oppo Reno 10x Zoom
+    - serial_number: Changed from '168' to '170'
+
+  - **Updated phone**: Oppo F11 Pro Marvels Avengers
+    - serial_number: Changed from '169' to '171'
+
+  - **Updated phone**: Oppo F11
+    - serial_number: Changed from '170' to '172'
+
+  - **Updated phone**: Oppo A1K
+    - serial_number: Changed from '171' to '173'
+
+  - **Updated phone**: Oppo Reno
+    - serial_number: Changed from '172' to '174'
+
+  - **Updated phone**: Oppo A5s
+    - serial_number: Changed from '173' to '175'
+
+  - **Updated phone**: Oppo F11 Pro
+    - serial_number: Changed from '174' to '176'
+
+  - **Updated phone**: Oppo A7
+    - serial_number: Changed from '175' to '177'
+
+  - **Updated phone**: Oppo RX17 Pro
+    - serial_number: Changed from '176' to '178'
+
+  - **Updated phone**: Oppo R17 Pro
+    - serial_number: Changed from '177' to '179'
+
+  - **Updated phone**: Oppo K1
+    - serial_number: Changed from '178' to '180'
+
+  - **Updated phone**: Oppo A7x
+    - serial_number: Changed from '179' to '181'
+
+  - **Updated phone**: Oppo F9
+    - serial_number: Changed from '180' to '182'
+
+  - **Updated phone**: Oppo F9 (6GB+64GB)
+    - serial_number: Changed from '181' to '183'
+
+  - **Updated phone**: Oppo F9 Pro
+    - serial_number: Changed from '182' to '184'
+
+  - **Updated phone**: Oppo F9 Pro (6GB RAM)
+    - serial_number: Changed from '183' to '185'
+
+  - **Updated phone**: Oppo A5
+    - serial_number: Changed from '184' to '186'
+
+  - **Updated phone**: Oppo A3s (32GB)
+    - serial_number: Changed from '185' to '187'
+
+  - **Updated phone**: Oppo A3s
+    - serial_number: Changed from '186' to '188'
+
+  - **Updated phone**: Oppo Find X
+    - serial_number: Changed from '187' to '189'
+
+  - **Updated phone**: Oppo F7 (128GB)
+    - serial_number: Changed from '188' to '190'
+
+  - **Updated phone**: Oppo F7
+    - serial_number: Changed from '189' to '191'
+
+  - **Updated phone**: Oppo A71 (2018)
+    - serial_number: Changed from '190' to '192'
+
+  - **Updated phone**: Oppo A83 (2018)
+    - serial_number: Changed from '191' to '193'
+
+  - **Updated phone**: Oppo A83 (3GB+32GB)
+    - serial_number: Changed from '192' to '194'
+
+  - **Updated phone**: Oppo A83
+    - serial_number: Changed from '230' to '195'
+
+  - **Updated phone**: Oppo F5 Youth
+    - serial_number: Changed from '231' to '196'
+
+  - **Updated phone**: Oppo F5
+    - serial_number: Changed from '193' to '197'
+
+  - **Updated phone**: Oppo F5 (64GB)
+    - serial_number: Changed from '194' to '198'
+
+  - **Updated phone**: Oppo A71
+    - serial_number: Changed from '195' to '199'
+
+  - **Updated phone**: Oppo F3
+    - serial_number: Changed from '196' to '200'
+
+  - **Updated phone**: Oppo F3 Plus
+    - serial_number: Changed from '197' to '201'
+
+  - **Updated phone**: Oppo A37fw
+    - serial_number: Changed from '198' to '202'
+
+  - **Updated phone**: Oppo A57
+    - serial_number: Changed from '199' to '203'
+
+  - **Updated phone**: Oppo F1s
+    - serial_number: Changed from '200' to '204'
+
+  - **Updated phone**: Oppo F1s (4GB+64GB)
+    - serial_number: Changed from '201' to '205'
+
+  - **Updated phone**: Oppo C1
+    - serial_number: Changed from '202' to '206'
+
+  - **Updated phone**: Oppo F1 Plus
+    - serial_number: Changed from '203' to '207'
+
+  - **Updated phone**: Oppo F1
+    - serial_number: Changed from '204' to '208'
+
+  - **Updated phone**: Oppo A33f
+    - serial_number: Changed from '205' to '209'
+
+  - **Updated phone**: Oppo Neo 7
+    - serial_number: Changed from '206' to '210'
+
+  - **Updated phone**: Oppo R7 lite
+    - serial_number: Changed from '207' to '211'
+
+  - **Updated phone**: Oppo Joy 3
+    - serial_number: Changed from '208' to '212'
+
+  - **Updated phone**: Oppo Mirror 5
+    - serial_number: Changed from '209' to '213'
+
+  - **Updated phone**: Oppo R7 Plus
+    - serial_number: Changed from '210' to '214'
+
+  - **Updated phone**: Oppo Joy Plus
+    - serial_number: Changed from '211' to '215'
+
+  - **Updated phone**: Oppo Mirror 3
+    - serial_number: Changed from '212' to '216'
+
+  - **Updated phone**: Oppo R5
+    - serial_number: Changed from '213' to '217'
+
+  - **Updated phone**: Oppo R1k
+    - serial_number: Changed from '214' to '218'
+
+  - **Updated phone**: Oppo N1 mini
+    - serial_number: Changed from '215' to '219'
+
+  - **Updated phone**: Oppo Joy
+    - serial_number: Changed from '216' to '220'
+
+  - **Updated phone**: Oppo Neo 5
+    - serial_number: Changed from '217' to '221'
+
+  - **Updated phone**: Oppo Neo 3
+    - serial_number: Changed from '218' to '222'
+
+  - **Updated phone**: Oppo Yoyo
+    - serial_number: Changed from '219' to '223'
+
+  - **Updated phone**: Oppo Find 7
+    - serial_number: Changed from '220' to '224'
+
+  - **Updated phone**: Oppo Find 7a
+    - serial_number: Changed from '223' to '225'
+
+  - **Updated phone**: Oppo A4
+    - serial_number: Changed from '224' to '226'
+
+
+---
+
 ## 2025-09-10 12:34:25
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 38
 - **Failed brands**: 0
@@ -2317,7 +2953,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 38
 - **Failed brands**: 0
@@ -4662,7 +5298,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -4765,7 +5401,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 24
 - **Failed brands**: 0
@@ -5305,8 +5941,8 @@ This document tracks all changes to the MobiInfo phone database.
     - specifications.General.Release Date: Changed from '11 May 2022' to '16 May 2022'
     - specifications.Display.Bezel-less Display: Changed from 'Yes with waterdrop notch' to 'Yes with notch'
     - specifications.Display.Notch: Changed from 'waterdrop' to 'Yes'
-    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
-Face detection,
+    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
+Face detection,
 Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
     - specifications.Network & Connectivity.Speed: Changed from 'HSPA, LTE' to 'HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps'
     - specifications.More.Features: Changed from 'Accelerometer, gyro, proximity, compass' to 'Accelerometer, Compass, Gyroscope'
@@ -17673,7 +18309,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 51
 - **Failed brands**: 0
@@ -20992,7 +21628,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -21311,7 +21947,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -22016,7 +22652,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -22722,7 +23358,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -23427,7 +24063,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -23442,7 +24078,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -23457,7 +24093,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -23957,7 +24593,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 14
 - **Failed brands**: 0
@@ -24504,7 +25140,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5263
+- **Total Phones Available**: 5258
 - **New brands**: 0
 - **Updated brands**: 15
 - **Failed brands**: 0
