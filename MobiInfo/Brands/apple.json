@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-10 05:48:47",
+    "last_updated": "2025-09-10 06:29:43",
     "total_phones": 103,
     "first_scraped": "2025-09-09 16:06:49",
     "new_phones_this_run": 0,
@@ -60,10 +60,10 @@
             "Image Resolution": "8000 x 6000 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
             "Aperture": "f/1.6",
-            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus,Optical Image stabilization, Dual Video Recording, Slow Motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 240 fps"
           },
           "Selfie Camera": {
@@ -71,7 +71,7 @@
             "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 120 fps",
             "Aperture": "f/1.9"
           }
@@ -156,7 +156,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:22:52",
-      "last_updated": "2025-09-10 11:42:12",
+      "last_updated": "2025-09-10 06:29:43",
       "serial_number": 1
     },
     {
@@ -570,25 +570,11 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp"
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp"
       ],
       "serial_number": 4,
-      "last_updated": "2025-09-10 05:48:47",
+      "last_updated": "2025-09-10 06:29:43",
       "first_scraped": "2025-09-09 13:39:33"
     },
     {
