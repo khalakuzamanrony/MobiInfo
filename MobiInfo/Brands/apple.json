@@ -4,13 +4,304 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-09 13:39:33",
+    "last_updated": "2025-09-10 11:42:12",
     "total_phones": 103,
     "first_scraped": "2025-09-09 16:06:49",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 103
+    "updated_phones_this_run": 2
   },
   "phones": [
+    {
+      "id": "apple_iphone_17",
+      "name": "Apple iPhone 17",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-17",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 17",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 09 September 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v26",
+          "Chipset": "Apple A19",
+          "CPU": "Hexa Core (4.044 GHz, Dual core, Everest + 2.424 GHz, Quad core, Sawtooth)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (16 cm)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "458 ppi",
+          "Screen to Body Ratio": "90.1%",
+          "Screen Protection": "Ceramic Shield Glass 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3500 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Duel",
+            "Resolution": "48 MP, f/1.6, Wide-Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "149.6 mm",
+          "Width": "71.5 mm",
+          "Thickness": "7.95 mm",
+          "Weight": "177 grams",
+          "Build": "Glass front (Ceramic Shield 2), aluminum frame, glass back",
+          "Colors": "Lavender, Sage, Mist Blue, White, Black",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3692 mAh",
+          "Wireless Charging": "25W wireless (MagSafe), 15W wireless (China only)",
+          "Quick Charging": "40W wired, PD2.0, 50% in 20 min",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, DisplayPort"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v6.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-sage-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-sage-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-mist-blue-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-mist-blue-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-white-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-white-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-black-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-black-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-sage-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-mist-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-black-official-image.webp"
+      ],
+      "first_scraped": "2025-09-09 10:22:52",
+      "last_updated": "2025-09-10 11:42:12",
+      "serial_number": 1
+    },
+    {
+      "id": "apple_iphone_17_pro",
+      "name": "Apple iPhone 17 Pro",
+      "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Apple",
+          "Model": "iPhone 17 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 09 September 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "iOS",
+          "OS Version": "v26",
+          "Chipset": "Apple A19 Pro",
+          "CPU": "Hexa Core (4.044 GHz, Dual core + 2.424 GHz, Quad core)",
+          "CPU Cores": "6 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Display": {
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.3 inches (16 cm)",
+          "Resolution": "1206x2622 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "89.4%",
+          "Screen Protection": "Ceramic Shield Glass 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3000 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps",
+            "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          }
+        },
+        "Design": {
+          "Height": "150 mm",
+          "Width": "71.9 mm",
+          "Thickness": "8.75 mm",
+          "Weight": "204 grams",
+          "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+          "Colors": "Silver, Cosmic Orange, Deep Blue",
+          "Waterproof": "Water resistant (up to 6m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3988 mAh",
+          "Wireless Charging": "25W wireless (MagSafe), 50% in 30 min",
+          "Quick Charging": "40W Wired, PD2.0, 50% in 20 min",
+          "Reverse Charging": "4.5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2 Gen 2"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "NVMe",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: eSIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v6.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-cosmic-orange-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-cosmic-orange-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-cosmic-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp"
+      ],
+      "first_scraped": "2025-09-09 10:22:52",
+      "last_updated": "2025-09-10 11:42:12",
+      "serial_number": 2
+    },
     {
       "id": "apple_iphone_17_pro_max",
       "name": "Apple iPhone 17 Pro Max",
@@ -135,7 +426,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp"
       ],
-      "serial_number": 1,
+      "serial_number": 3,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -266,7 +557,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp"
       ],
-      "serial_number": 2,
+      "serial_number": 4,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -400,7 +691,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-se-4-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-se-4-image.webp"
       ],
-      "serial_number": 3,
+      "serial_number": 5,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -546,7 +837,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp"
       ],
-      "serial_number": 4,
+      "serial_number": 6,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -691,7 +982,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16e-black-official-image.webp"
       ],
-      "serial_number": 5,
+      "serial_number": 7,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -848,7 +1139,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-ima"
       ],
-      "serial_number": 6,
+      "serial_number": 8,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1009,7 +1300,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
       ],
-      "serial_number": 7,
+      "serial_number": 9,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1171,7 +1462,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
       ],
-      "serial_number": 8,
+      "serial_number": 10,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1329,7 +1620,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-white-titanium-official-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image_2.webp"
       ],
-      "serial_number": 9,
+      "serial_number": 11,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1487,7 +1778,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-white-titanium-official-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-natural-titanium-official-image_2.webp"
       ],
-      "serial_number": 10,
+      "serial_number": 12,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1650,7 +1941,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
       ],
-      "serial_number": 11,
+      "serial_number": 13,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1813,7 +2104,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
       ],
-      "serial_number": 12,
+      "serial_number": 14,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -1976,7 +2267,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_3.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp"
       ],
-      "serial_number": 13,
+      "serial_number": 15,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2131,7 +2422,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
       ],
-      "serial_number": 14,
+      "serial_number": 16,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2290,7 +2581,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-plus-teal-official-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-plus-ultramarine-official-image_1.webp"
       ],
-      "serial_number": 15,
+      "serial_number": 17,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2449,7 +2740,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
       ],
-      "serial_number": 16,
+      "serial_number": 18,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2608,7 +2899,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-teal-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp"
       ],
-      "serial_number": 17,
+      "serial_number": 19,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2770,7 +3061,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
       ],
-      "serial_number": 18,
+      "serial_number": 20,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -2932,7 +3223,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
       ],
-      "serial_number": 19,
+      "serial_number": 21,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -3094,7 +3385,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp"
       ],
-      "serial_number": 20,
+      "serial_number": 22,
       "last_updated": "2025-09-09 13:39:33",
       "first_scraped": "2025-09-09 13:39:33"
     },
@@ -3253,7 +3544,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 21
+      "serial_number": 23
     },
     {
       "id": "apple_iphone_16_pro_max_1tb_usa",
@@ -3410,7 +3701,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 22
+      "serial_number": 24
     },
     {
       "id": "apple_iphone_16_plus_256gb_usa",
@@ -3568,7 +3859,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 23
+      "serial_number": 25
     },
     {
       "id": "apple_iphone_16_plus_512gb_usa",
@@ -3726,7 +4017,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 24
+      "serial_number": 26
     },
     {
       "id": "apple_iphone_16_plus",
@@ -3885,7 +4176,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 25
+      "serial_number": 27
     },
     {
       "id": "apple_iphone_15_pro_max",
@@ -4042,7 +4333,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 26
+      "serial_number": 28
     },
     {
       "id": "apple_iphone_15_pro_max_512gb",
@@ -4200,7 +4491,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 27
+      "serial_number": 29
     },
     {
       "id": "apple_iphone_15_pro_max_1tb",
@@ -4356,7 +4647,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 28
+      "serial_number": 30
     },
     {
       "id": "apple_iphone_15_plus_256gb",
@@ -4513,7 +4804,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 29
+      "serial_number": 31
     },
     {
       "id": "apple_iphone_15_plus",
@@ -4671,7 +4962,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 30
+      "serial_number": 32
     },
     {
       "id": "apple_iphone_15_pro",
@@ -4834,7 +5125,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 31
+      "serial_number": 33
     },
     {
       "id": "apple_iphone_15",
@@ -4988,7 +5279,7 @@
       ],
       "first_scraped": "2025-09-09 16:06:49",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 32
+      "serial_number": 34
     },
     {
       "id": "apple_iphone_15_256gb",
@@ -5140,7 +5431,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 33
+      "serial_number": 35
     },
     {
       "id": "apple_iphone_15_pro_256gb",
@@ -5303,7 +5594,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 34
+      "serial_number": 36
     },
     {
       "id": "apple_iphone_15_pro_512gb",
@@ -5466,7 +5757,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 35
+      "serial_number": 37
     },
     {
       "id": "apple_iphone_15_pro_1tb",
@@ -5629,7 +5920,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 36
+      "serial_number": 38
     },
     {
       "id": "apple_iphone_14_plus",
@@ -5787,7 +6078,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 37
+      "serial_number": 39
     },
     {
       "id": "apple_iphone_14_plus_256gb",
@@ -5945,7 +6236,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 38
+      "serial_number": 40
     },
     {
       "id": "apple_iphone_14_pro",
@@ -6098,7 +6389,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 39
+      "serial_number": 41
     },
     {
       "id": "apple_iphone_14_pro_max",
@@ -6261,7 +6552,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 40
+      "serial_number": 42
     },
     {
       "id": "apple_iphone_14_256gb",
@@ -6412,7 +6703,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 41
+      "serial_number": 43
     },
     {
       "id": "apple_iphone_14",
@@ -6562,7 +6853,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 42
+      "serial_number": 44
     },
     {
       "id": "apple_iphone_14_pro_256gb",
@@ -6715,7 +7006,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 43
+      "serial_number": 45
     },
     {
       "id": "apple_iphone_14_pro_max_256gb",
@@ -6878,7 +7169,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 44
+      "serial_number": 46
     },
     {
       "id": "apple_iphone_14_pro_max_512gb",
@@ -7041,7 +7332,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 45
+      "serial_number": 47
     },
     {
       "id": "apple_iphone_14_pro_max_1tb",
@@ -7204,7 +7495,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 46
+      "serial_number": 48
     },
     {
       "id": "apple_iphone_se_2022_256gb",
@@ -7355,7 +7646,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 47
+      "serial_number": 49
     },
     {
       "id": "apple_iphone_se_2022_128gb",
@@ -7506,7 +7797,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 48
+      "serial_number": 50
     },
     {
       "id": "apple_iphone_se_2022",
@@ -7656,7 +7947,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 49
+      "serial_number": 51
     },
     {
       "id": "apple_iphone_13",
@@ -7807,7 +8098,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 50
+      "serial_number": 52
     },
     {
       "id": "apple_iphone_13_pro_max",
@@ -7958,7 +8249,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 51
+      "serial_number": 53
     },
     {
       "id": "apple_iphone_13_mini",
@@ -8092,7 +8383,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 52
+      "serial_number": 54
     },
     {
       "id": "apple_iphone_13_pro_max_256gb",
@@ -8244,7 +8535,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 53
+      "serial_number": 55
     },
     {
       "id": "apple_iphone_13_256gb",
@@ -8395,7 +8686,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 54
+      "serial_number": 56
     },
     {
       "id": "apple_iphone_13_pro",
@@ -8545,7 +8836,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 55
+      "serial_number": 57
     },
     {
       "id": "apple_iphone_13_pro_256gb",
@@ -8687,7 +8978,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 56
+      "serial_number": 58
     },
     {
       "id": "apple_iphone_12_pro_max",
@@ -8836,7 +9127,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 57
+      "serial_number": 59
     },
     {
       "id": "apple_iphone_12_mini",
@@ -8975,7 +9266,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 58
+      "serial_number": 60
     },
     {
       "id": "apple_iphone_12_pro_max_256gb",
@@ -9124,7 +9415,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 59
+      "serial_number": 61
     },
     {
       "id": "apple_iphone_12_pro",
@@ -9262,7 +9553,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 60
+      "serial_number": 62
     },
     {
       "id": "apple_iphone_12",
@@ -9412,7 +9703,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 61
+      "serial_number": 63
     },
     {
       "id": "apple_iphone_12_128gb",
@@ -9562,7 +9853,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 62
+      "serial_number": 64
     },
     {
       "id": "apple_iphone_se_2020",
@@ -9707,7 +9998,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 63
+      "serial_number": 65
     },
     {
       "id": "apple_iphone_11_128gb",
@@ -9863,7 +10154,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 64
+      "serial_number": 66
     },
     {
       "id": "apple_iphone_11_pro_max_256gb",
@@ -10020,7 +10311,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 65
+      "serial_number": 67
     },
     {
       "id": "apple_iphone_11_256gb",
@@ -10176,7 +10467,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 66
+      "serial_number": 68
     },
     {
       "id": "apple_iphone_11_pro_max",
@@ -10333,7 +10624,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 67
+      "serial_number": 69
     },
     {
       "id": "apple_iphone_11_pro_max_512gb",
@@ -10493,7 +10784,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 68
+      "serial_number": 70
     },
     {
       "id": "apple_iphone_11_pro",
@@ -10647,7 +10938,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 69
+      "serial_number": 71
     },
     {
       "id": "apple_iphone_11",
@@ -10803,7 +11094,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 70
+      "serial_number": 72
     },
     {
       "id": "apple_iphone_11_pro_256gb",
@@ -10957,7 +11248,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 71
+      "serial_number": 73
     },
     {
       "id": "apple_iphone_11_pro_512gb",
@@ -11111,7 +11402,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 72
+      "serial_number": 74
     },
     {
       "id": "apple_iphone_xr_128gb",
@@ -11269,7 +11560,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 73
+      "serial_number": 75
     },
     {
       "id": "apple_iphone_xr_256gb",
@@ -11427,7 +11718,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 74
+      "serial_number": 76
     },
     {
       "id": "apple_iphone_xr",
@@ -11585,7 +11876,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 75
+      "serial_number": 77
     },
     {
       "id": "apple_iphone_xs_max",
@@ -11736,7 +12027,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 76
+      "serial_number": 78
     },
     {
       "id": "apple_iphone_xs",
@@ -11881,7 +12172,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 77
+      "serial_number": 79
     },
     {
       "id": "apple_iphone_xs_max_256gb",
@@ -12033,7 +12324,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 78
+      "serial_number": 80
     },
     {
       "id": "apple_iphone_x_256gb",
@@ -12178,7 +12469,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 79
+      "serial_number": 81
     },
     {
       "id": "apple_iphone_x",
@@ -12323,7 +12614,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 80
+      "serial_number": 82
     },
     {
       "id": "apple_iphone_8",
@@ -12462,7 +12753,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 81
+      "serial_number": 83
     },
     {
       "id": "apple_iphone_8_plus",
@@ -12608,7 +12899,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 82
+      "serial_number": 84
     },
     {
       "id": "apple_iphone_7_plus",
@@ -12745,7 +13036,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 83
+      "serial_number": 85
     },
     {
       "id": "apple_iphone_7",
@@ -12882,7 +13173,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 84
+      "serial_number": 86
     },
     {
       "id": "apple_iphone_se_64gb",
@@ -13011,7 +13302,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 85
+      "serial_number": 87
     },
     {
       "id": "apple_iphone_6s_plus",
@@ -13167,7 +13458,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 86
+      "serial_number": 88
     },
     {
       "id": "apple_iphone_6s_plus_32gb_rom",
@@ -13323,7 +13614,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 87
+      "serial_number": 89
     },
     {
       "id": "apple_iphone_6s_plus_128gb",
@@ -13479,7 +13770,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 88
+      "serial_number": 90
     },
     {
       "id": "apple_iphone_6s_plus_64gb",
@@ -13635,7 +13926,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 89
+      "serial_number": 91
     },
     {
       "id": "apple_iphone_6s",
@@ -13775,7 +14066,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 90
+      "serial_number": 92
     },
     {
       "id": "apple_iphone_6s_64gb",
@@ -13916,7 +14207,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 91
+      "serial_number": 93
     },
     {
       "id": "apple_iphone_6_plus",
@@ -14043,7 +14334,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 92
+      "serial_number": 94
     },
     {
       "id": "apple_iphone_6",
@@ -14176,7 +14467,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 93
+      "serial_number": 95
     },
     {
       "id": "apple_iphone_5s",
@@ -14310,7 +14601,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 94
+      "serial_number": 96
     },
     {
       "id": "apple_iphone_5c",
@@ -14446,7 +14737,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 95
+      "serial_number": 97
     },
     {
       "id": "apple_iphone_5",
@@ -14580,7 +14871,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 96
+      "serial_number": 98
     },
     {
       "id": "apple_iphone_5_32gb",
@@ -14714,7 +15005,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 97
+      "serial_number": 99
     },
     {
       "id": "apple_iphone_4s",
@@ -14834,7 +15125,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 98
+      "serial_number": 100
     },
     {
       "id": "apple_iphone_3gs",
@@ -14935,7 +15226,7 @@
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 99
+      "serial_number": 101
     },
     {
       "id": "apple_iphone_se_2025",
@@ -15050,269 +15341,6 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/apple-iphone-se-2025-black-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-se-2025-black-official-image.webp"
-      ],
-      "first_scraped": "2025-09-09 10:22:52",
-      "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 100
-    },
-    {
-      "id": "apple_iphone_17",
-      "name": "Apple iPhone 17",
-      "url": "https://www.mobiledokan.com/mobile/apple-iphone-17",
-      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-teal-official-image.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 17",
-          "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v18",
-          "Chipset": "Apple A18",
-          "CPU": "Hexa-core",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "3 nm",
-          "GPU": "Apple GPU (5-core graphics)"
-        },
-        "Display": {
-          "Display Type": "Super Retina XDR OLED",
-          "Screen Size": "6.1 inches (91.3 cm2)",
-          "Resolution": "1179x2556 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "461 ppi",
-          "Screen to Body Ratio": "86.4%",
-          "Screen Protection": "Ceramic Shield glass (2024 gen)",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Duel",
-            "Resolution": "48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Autofocus": "Dual Pixel Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.6",
-            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide-Angle Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "147. 6 mm",
-          "Width": "71.6 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "170 grams",
-          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
-          "Colors": "Black, White, Pink, Teal, Ultramarine",
-          "Waterproof": "Water resistant (up to 6m for 30 min)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3240 mAh",
-          "Wireless Charging": "25W wireless (MagSafe)",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Reverse Charging": "4.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0, DisplayPort"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-17-teal-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-teal-official-image.webp"
-      ],
-      "first_scraped": "2025-09-09 10:22:52",
-      "last_updated": "2025-09-09 13:39:33",
-      "serial_number": 101
-    },
-    {
-      "id": "apple_iphone_17_pro",
-      "name": "Apple iPhone 17 Pro",
-      "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro",
-      "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_2.webp",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 17 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v18",
-          "Chipset": "Apple A18",
-          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "3 nm",
-          "GPU": "Apple GPU (6-core graphics)"
-        },
-        "Display": {
-          "Display Type": "LTPO Super Retina XDR OLED",
-          "Screen Size": "6.3 inches (97.2 cm2)",
-          "Resolution": "1206x2622 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "458 ppi",
-          "Screen to Body Ratio": "90.9%",
-          "Screen Protection": "Ceramic Shield glass (2024 gen)",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Dual Pixel Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "120 fps, 240 fps",
-            "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          }
-        },
-        "Design": {
-          "Height": "149.6 mm",
-          "Width": "71.5 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "199 grams",
-          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)",
-          "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-          "Waterproof": "Water resistant (up to 6m for 30 min)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3274 mAh",
-          "Wireless Charging": "25W wireless (MagSafe)",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Reverse Charging": "4.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2 Gen 2"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec."
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_2.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_2.webp"
       ],
       "first_scraped": "2025-09-09 10:22:52",
       "last_updated": "2025-09-09 13:39:33",

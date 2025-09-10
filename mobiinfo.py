@@ -2332,7 +2332,7 @@ if __name__ == "__main__":
     # Test
     result = scraper.scrape_multiple_brands_separate_files(
         brand_inputs=["xiaomi", "realme", "apple", "vivo", "samsung"],
-        max_brands=1,  # Limit to first 5 brands from the list
+        max_brands=3,  # Limit to first 5 brands from the list
         max_pages=1,  # Limit to 2 pages per brand
         max_products=2,  # Limit to 10 products per brand
         max_workers=10  # Use 3 concurrent workers for faster processing

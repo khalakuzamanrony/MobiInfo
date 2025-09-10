@@ -2,10 +2,115 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-10 11:42:14
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
+- **New brands**: 0
+- **Updated brands**: 3
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 6
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### apple
+
+- **Updated phones**: 2
+
+  - **Updated phone**: Apple iPhone 17
+    - image_url: Changed from 'https://www.mobiledokan.com/media/apple-iphone-17-teal-official-image.webp' to 'https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp'
+    - serial_number: Changed from '101' to '1'
+    - specifications.General.Release Date: Changed from 'Not announced yet' to 'Exp. 09 September 2025'
+    - specifications.General.Status: Changed from 'Rumored' to 'Upcoming'
+    - specifications.Hardware & Software.OS Version: Changed from 'v18' to 'v26'
+    - specifications.Hardware & Software.Chipset: Changed from 'Apple A18' to 'Apple A19'
+    - specifications.Hardware & Software.CPU: Changed from 'Hexa-core' to 'Hexa Core (4.044 GHz, Dual core, Everest + 2.424 GHz, Quad core, Sawtooth)'
+    - specifications.Display.Display Type: Changed from 'Super Retina XDR OLED' to 'LTPO Super Retina XDR OLED'
+    - specifications.Display.Screen Size: Changed from '6.1 inches (91.3 cm2)' to '6.3 inches (16 cm)'
+    - specifications.Display.Resolution: Changed from '1179x2556 px (FHD+)' to '1206x2622 px (FHD+)'
+    - specifications.Display.Pixel Density: Changed from '461 ppi' to '458 ppi'
+    - specifications.Display.Screen to Body Ratio: Changed from '86.4%' to '90.1%'
+    - specifications.Display.Screen Protection: Changed from 'Ceramic Shield glass (2024 gen)' to 'Ceramic Shield Glass 2'
+    - specifications.Display.Brightness: Changed from '2000 nits' to '3500 nits'
+    - specifications.Display.HDR 10 / HDR + support: Changed from 'HDR 10+' to 'HDR10'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '48 MP, f/1.6, Wide-Angle Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera' to '48 MP, f/1.6, Wide-Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera'
+    - specifications.Cameras.Primary Camera.Shooting Modes: Changed from 'Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode' to 'Continuous Shooting, High Dynamic Range mode (HDR)'
+    - specifications.Cameras.Selfie Camera.Resolution: Changed from '12 MP, f/2.2, Wide-Angle Primary Camera' to '18 MP, f/1.9, Wide-Angle, Primary Camera'
+    - specifications.Cameras.Selfie Camera.Aperture: Changed from 'f/2.2' to 'f/1.9'
+    - specifications.Design.Height: Changed from '147. 6 mm' to '149.6 mm'
+    - specifications.Design.Width: Changed from '71.6 mm' to '71.5 mm'
+    - specifications.Design.Thickness: Changed from '7.8 mm' to '7.95 mm'
+    - specifications.Design.Weight: Changed from '170 grams' to '177 grams'
+    - specifications.Design.Build: Changed from 'Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame' to 'Glass front (Ceramic Shield 2), aluminum frame, glass back'
+    - specifications.Design.Colors: Changed from 'Black, White, Pink, Teal, Ultramarine' to 'Lavender, Sage, Mist Blue, White, Black'
+    - specifications.Battery.Capacity: Changed from '3240 mAh' to '3692 mAh'
+    - specifications.Battery.Wireless Charging: Changed from '25W wireless (MagSafe)' to '25W wireless (MagSafe), 15W wireless (China only)'
+    - specifications.Battery.Quick Charging: Changed from 'Fast, 20W: 50 % in 30 minutes' to '40W wired, PD2.0, 50% in 20 min'
+    - specifications.Network & Connectivity.Bluetooth: Changed from 'v5.3' to 'v6.0'
+    - gallery_images: List length changed from 2 to 19
+
+  - **Updated phone**: Apple iPhone 17 Pro
+    - image_url: Changed from 'https://www.mobiledokan.com/media/apple-iphone-16-pro-natural-titanium-official-image_2.webp' to 'https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp'
+    - serial_number: Changed from '102' to '2'
+    - specifications.General.Release Date: Changed from 'Not announced yet' to 'Exp. 09 September 2025'
+    - specifications.General.Status: Changed from 'Rumored' to 'Upcoming'
+    - specifications.Hardware & Software.OS Version: Changed from 'v18' to 'v26'
+    - specifications.Hardware & Software.Chipset: Changed from 'Apple A18' to 'Apple A19 Pro'
+    - specifications.Hardware & Software.CPU: Changed from 'Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)' to 'Hexa Core (4.044 GHz, Dual core + 2.424 GHz, Quad core)'
+    - specifications.Display.Screen Size: Changed from '6.3 inches (97.2 cm2)' to '6.3 inches (16 cm)'
+    - specifications.Display.Pixel Density: Changed from '458 ppi' to '460 ppi'
+    - specifications.Display.Screen to Body Ratio: Changed from '90.9%' to '89.4%'
+    - specifications.Display.Screen Protection: Changed from 'Ceramic Shield glass (2024 gen)' to 'Ceramic Shield Glass 2'
+    - specifications.Display.Brightness: Changed from '2000 nits' to '3000 nits'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera' to '48 MP, f/1.6, Wide Angle, Primary Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera'
+    - specifications.Cameras.Primary Camera.Shooting Modes: Changed from 'Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode' to 'Continuous Shooting, High Dynamic Range mode (HDR)'
+    - specifications.Cameras.Primary Camera.Aperture: Changed from 'f/1.8' to 'f/1.6'
+    - specifications.Cameras.Selfie Camera.Resolution: Changed from '12 MP f/1.9, Wide Angle, Primary Camera' to '18 MP f/1.9, Wide Angle, Primary Camera'
+    - specifications.Design.Height: Changed from '149.6 mm' to '150 mm'
+    - specifications.Design.Width: Changed from '71.5 mm' to '71.9 mm'
+    - specifications.Design.Thickness: Changed from '8.3 mm' to '8.75 mm'
+    - specifications.Design.Weight: Changed from '199 grams' to '204 grams'
+    - specifications.Design.Build: Changed from 'Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame (grade 5)' to 'Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)'
+    - specifications.Design.Colors: Changed from 'Black Titanium, White Titanium, Natural Titanium, Desert Titanium' to 'Silver, Cosmic Orange, Deep Blue'
+    - specifications.Battery.Capacity: Changed from '3274 mAh' to '3988 mAh'
+    - specifications.Battery.Wireless Charging: Changed from '25W wireless (MagSafe)' to '25W wireless (MagSafe), 50% in 30 min'
+    - specifications.Battery.Quick Charging: Changed from 'Fast, 20W: 50 % in 30 minutes' to '40W Wired, PD2.0, 50% in 20 min'
+    - specifications.Memory.Internal Storage: Changed from '128 GB' to '256 GB'
+    - specifications.Memory.RAM: Changed from '8 GB' to '12 GB'
+    - specifications.Network & Connectivity.Bluetooth: Changed from 'v5.3' to 'v6.0'
+    - gallery_images: List length changed from 2 to 13
+
+
+#### realme
+
+- **Updated phones**: 2
+
+  - **Updated phone**: Realme 15T
+
+  - **Updated phone**: Realme Note 70
+
+
+#### xiaomi
+
+- **Updated phones**: 2
+
+  - **Updated phone**: Xiaomi Poco C85
+
+  - **Updated phone**: Xiaomi Redmi 15c
+
+
+---
+
 ## 2025-09-09 20:25:33
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 24
 - **Failed brands**: 0
@@ -545,8 +650,8 @@ This document tracks all changes to the MobiInfo phone database.
     - specifications.General.Release Date: Changed from '11 May 2022' to '16 May 2022'
     - specifications.Display.Bezel-less Display: Changed from 'Yes with waterdrop notch' to 'Yes with notch'
     - specifications.Display.Notch: Changed from 'waterdrop' to 'Yes'
-    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
-Face detection,
+    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
+Face detection,
 Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
     - specifications.Network & Connectivity.Speed: Changed from 'HSPA, LTE' to 'HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps'
     - specifications.More.Features: Changed from 'Accelerometer, gyro, proximity, compass' to 'Accelerometer, Compass, Gyroscope'
@@ -12912,6 +13017,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 51
 - **Failed brands**: 0
@@ -16229,6 +16336,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -16546,6 +16655,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -17249,6 +17360,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -17953,6 +18066,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -18656,6 +18771,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -18669,6 +18786,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -18682,6 +18801,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -19180,6 +19301,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 14
 - **Failed brands**: 0
@@ -19725,6 +19848,8 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 
 ### Summary
 
+- **Total Brands**: 75
+- **Total Phones Available**: 5263
 - **New brands**: 0
 - **Updated brands**: 15
 - **Failed brands**: 0
