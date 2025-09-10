@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-10 11:42:12",
+    "last_updated": "2025-09-10 05:48:47",
     "total_phones": 103,
     "first_scraped": "2025-09-09 16:06:49",
     "new_phones_this_run": 0,
@@ -306,21 +306,21 @@
       "id": "apple_iphone_17_pro_max",
       "name": "Apple iPhone 17 Pro Max",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max",
-      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Apple",
           "Model": "iPhone 17 Pro Max",
           "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
+          "Release Date": "Exp. 09 September 2025",
+          "Status": "Upcoming"
         },
         "Hardware & Software": {
           "Operating System": "iOS",
           "OS Version": "v26",
           "Chipset": "Apple A19 Pro",
-          "CPU": "Hexa Core",
+          "CPU": "Hexa Core (3.464 GHz, Dual core, Everest + 2.02 GHz, Quad core, Sawtooth)",
           "CPU Cores": "6 Cores",
           "Architecture": "64 bit",
           "Fabrication": "3 nm",
@@ -328,15 +328,15 @@
         },
         "Display": {
           "Display Type": "LTPO Super Retina XDR OLED",
-          "Screen Size": "6.9 inches (116.3 cm)",
+          "Screen Size": "6.9 inches (17.53 cm)",
           "Resolution": "1320x2868 px (FHD+)",
           "Aspect Ratio": "19.5:9",
-          "Pixel Density": "458 ppi",
-          "Screen to Body Ratio": "92.2%",
-          "Screen Protection": "Ceramic Shield Glass (2025 gen)",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "90.7%",
+          "Screen Protection": "Ceramic Shield Glass 2",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
+          "Brightness": "3000 nits",
           "HDR 10 / HDR + support": "HDR10",
           "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
@@ -360,7 +360,7 @@
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "24 MP, f/1.9, Wide Angle, Primary Camera",
+            "Resolution": "18 MP, f/1.9, Wide Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
             "Video Recording": "3840x2160, 1920x1080",
@@ -369,18 +369,21 @@
           }
         },
         "Design": {
-          "Thickness": "8.7 mm",
-          "Build": "Glass front, glass back, titanium frame (grade 5)",
-          "Colors": "Black; other colors",
+          "Height": "163.4 mm",
+          "Width": "78 mm",
+          "Thickness": "8.75 mm",
+          "Weight": "231 grams",
+          "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+          "Colors": "Silver, Cosmic Orange, Deep Blue",
           "Waterproof": "Water resistant (up to 6m for 30 min)",
           "IP Rating": "IP68",
           "Ruggedness": "Dust proof"
         },
         "Battery": {
           "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4700 mAh",
-          "Wireless Charging": "25W wireless (MagSafe), 15W wireless (China only)",
-          "Quick Charging": "20 Wired, PD2.0, 50% in 30 min (advertised)",
+          "Capacity": "4832 mAh",
+          "Wireless Charging": "25W wireless (MagSafe), 50% in 30 min",
+          "Quick Charging": "40W Wired, PD2.0, 50% in 20 min",
           "Reverse Charging": "4.5W reverse wired",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 3.2 Gen 2, DisplayPort"
@@ -389,7 +392,8 @@
           "Internal Storage": "256 GB",
           "Storage Type": "NVMe",
           "USB OTG": "Yes",
-          "RAM": "12 GB"
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -400,7 +404,7 @@
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
           "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.4",
+          "Bluetooth": "v6.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
           "NFC": "Yes",
@@ -423,48 +427,59 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp"
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-power-button-side.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-deep-blue-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-deep-blue-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-deep-blue-official-image.webp"
       ],
       "serial_number": 3,
-      "last_updated": "2025-09-09 13:39:33",
+      "last_updated": "2025-09-10 05:48:47",
       "first_scraped": "2025-09-09 13:39:33"
     },
     {
       "id": "apple_iphone_17_air",
       "name": "Apple iPhone 17 Air",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-air",
-      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp",
+      "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Apple",
           "Model": "iPhone 17 Air",
           "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
+          "Release Date": "Exp. 09 September 2025",
+          "Status": "Upcoming"
         },
         "Hardware & Software": {
           "Operating System": "iOS",
-          "OS Version": "v19",
-          "Chipset": "Apple A19",
-          "CPU": "Hexa-core",
+          "OS Version": "v26",
+          "Chipset": "Apple A19 Pro",
+          "CPU": "Hexa Core (3.464 GHz, Dual core, Everest + 2.02 GHz, Quad core, Sawtooth)",
           "CPU Cores": "6 Cores",
           "Architecture": "64 bit",
           "Fabrication": "3 nm",
-          "GPU": "Apple GPU"
+          "GPU": "Apple GPU (6-core graphics)"
         },
         "Display": {
-          "Display Type": "Super Retina XDR OLED",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "1320x2868 px (FHD+)",
+          "Display Type": "LTPO Super Retina XDR OLED",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "1260x2736 px (FHD+)",
           "Aspect Ratio": "19.5:9",
-          "Pixel Density": "458 ppi",
-          "Screen to Body Ratio": "92.2%",
-          "Screen Protection": "Scratch-resistant Glass",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "89.9%",
+          "Screen Protection": "Ceramic Shield Glass 2",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
+          "Brightness": "3000 nits",
           "HDR 10 / HDR + support": "HDR10",
           "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
@@ -487,7 +502,7 @@
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
             "Video Recording": "3840x2160, 1920x1080",
@@ -496,30 +511,31 @@
           }
         },
         "Design": {
-          "Height": "163 mm",
-          "Width": "77.8 mm",
-          "Thickness": "5.5 mm",
-          "Weight": "146 grams",
-          "Build": "Glass front, aluminum frame (7000 series), glass back",
-          "Colors": "Black; other colors",
+          "Height": "156.2 mm",
+          "Width": "74.7 mm",
+          "Thickness": "5.64 mm",
+          "Weight": "165 grams",
+          "Build": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+          "Colors": "Space Black, Cloud White, Light Gold, Sky Blue",
           "Waterproof": "Water resistant (up to 6m for 30 min)",
           "IP Rating": "IP68",
           "Ruggedness": "Dust proof"
         },
         "Battery": {
           "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3000 mAh",
-          "Wireless Charging": "25W wireless (MagSafe), 15W wireless (China only)",
+          "Capacity": "3149 mAh",
+          "Wireless Charging": "20W wireless (MagSafe), 50% in 30 min",
           "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
           "Reverse Charging": "4.5W reverse wired",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 2.0, DisplayPort"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "NVMe",
           "USB OTG": "Yes",
-          "RAM": "8 GB"
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -530,7 +546,7 @@
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
           "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
+          "Bluetooth": "v6.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
           "NFC": "Yes",
@@ -554,11 +570,25 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-17-air-blue-official-image.webp"
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp"
       ],
       "serial_number": 4,
-      "last_updated": "2025-09-09 13:39:33",
+      "last_updated": "2025-09-10 05:48:47",
       "first_scraped": "2025-09-09 13:39:33"
     },
     {

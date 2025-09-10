@@ -4,11 +4,11 @@
     "name": "itel",
     "url": "https://www.mobiledokan.com/mobile-brand/itel",
     "image_url": null,
-    "last_updated": "2025-09-09 13:53:12",
+    "last_updated": "2025-09-10 05:51:28",
     "total_phones": 105,
     "first_scraped": "2025-09-09 10:23:02",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 105
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -22,12 +22,13 @@
           "Brand": "Itel",
           "Model": "Super 26 Ultra",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 15 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "10 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
-          "OS Version": "v14",
+          "OS Version": "v15",
+          "User Interface": "itel OS 15",
           "Chipset": "Unisoc T7300",
           "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
           "CPU Cores": "8 Cores",
@@ -38,18 +39,25 @@
         "Display": {
           "Display Type": "AMOLED",
           "Screen Size": "6.78 inches (17.22 cm)",
-          "Resolution": "1080x2436 px (FHD+)",
-          "Screen Protection": "Corning Gorilla Glass v7i",
+          "Resolution": "1224×2720 px (FHD+)",
+          "Screen Protection": "Corning Gorilla Glass 7i",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1400 nits",
+          "Brightness": "4500 nits",
           "Refresh Rate": "144 Hz",
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.6, Primary Camera, 0.08 MP, Camera",
+            "Resolution": "50 MP, f/1.6, Primary Camera, 2 MP, Macro Camera",
             "Autofocus": "Yes",
             "Flash": "LED Flash",
             "Image Resolution": "8150 x 6150 Pixels",
@@ -60,13 +68,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -98,7 +99,7 @@
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
           "Bluetooth": "v5.2",
           "GPS": "Yes with A-GPS",
           "Wi-fi Hotspot": "Yes",
@@ -115,7 +116,8 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "1440p@30fps, 1080p@30fps"
+          "Video": "1440p@30fps, 1080p@30fps",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
@@ -133,7 +135,7 @@
         "https://www.mobiledokan.com/media/itel-super-26-ultra-grey-official-image.webp"
       ],
       "serial_number": 1,
-      "last_updated": "2025-09-09 13:53:12",
+      "last_updated": "2025-09-10 05:51:28",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
