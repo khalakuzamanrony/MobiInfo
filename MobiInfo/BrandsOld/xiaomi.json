@@ -4,18 +4,23 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-11 06:28:15",
+    "last_updated": "2025-09-11 14:36:24",
     "total_phones": 530,
     "first_scraped": "2025-09-09 16:06:41",
-    "new_phones_this_run": 0,
+    "new_phones_this_run": 1,
     "updated_phones_this_run": 0
   },
   "phones": [
     {
       "id": "xiaomi_poco_c85",
       "name": "Xiaomi Poco C85",
+      "price": "৳15000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-c85",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp",
+      "serial_number": 1,
+      "last_updated": "2025-09-11 14:36:24",
+      "first_scraped": "2025-09-11 14:36:24",
+      "updated_on": "August 28, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -51,6 +56,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 0.08 MP, f/3.0, Camera",
@@ -64,13 +76,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -134,10 +139,7 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-poco-c85-populer-official-image.webp"
-      ],
-      "serial_number": 1,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      ]
     },
     {
       "id": "xiaomi_redmi_15c",
@@ -286,8 +288,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-twilight-orange-official-image.webp"
       ],
       "serial_number": 2,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "August 26, 2025"
     },
     {
       "id": "xiaomi_redmi_15c_8gb256gb",
@@ -436,8 +440,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-twilight-orange-official-image.webp"
       ],
       "serial_number": 3,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "August 26, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15_pro",
@@ -583,8 +589,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-cedar-white-official-image.webp"
       ],
       "serial_number": 4,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 8, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15_pro_plus",
@@ -730,8 +738,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-cedar-white-official-image.webp"
       ],
       "serial_number": 5,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 8, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15",
@@ -783,6 +793,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -796,12 +812,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
           }
         },
         "Design": {
@@ -874,8 +884,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-sky-blue-official-image.webp"
       ],
       "serial_number": 6,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 3, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15_12gb_ram",
@@ -1018,8 +1030,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-sky-blue-official-image.webp"
       ],
       "serial_number": 7,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 3, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15_pro_12gb_ram",
@@ -1072,6 +1086,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.5, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
@@ -1086,12 +1106,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
           }
         },
         "Design": {
@@ -1165,8 +1179,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-cedar-white-official-image.webp"
       ],
       "serial_number": 8,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 3, 2025"
     },
     {
       "id": "xiaomi_redmi_note_15_pro_plus_512gb",
@@ -1219,12 +1235,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.2, Telephoto Camera, 8 MP, Ultra-Wide Angle Camera",
@@ -1239,6 +1249,12 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps"
           }
         },
         "Design": {
@@ -1312,8 +1328,10 @@
         "https://www.mobiledokan.com/media/xiaomi-redmi-note-15-pro-plus-cedar-white-official-image.webp"
       ],
       "serial_number": 9,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": null,
+      "updated_on": "September 8, 2025"
     },
     {
       "id": "xiaomi_poco_m7_plus",
@@ -1458,8 +1476,10 @@
         "https://www.mobiledokan.com/media/xiaomi-poco-m7-plus-carbon-black-official-image.webp"
       ],
       "serial_number": 10,
-      "last_updated": "2025-09-09 14:15:41",
-      "first_scraped": "2025-09-09 14:15:41"
+      "last_updated": "2025-09-11 14:26:22",
+      "first_scraped": "2025-09-09 14:15:41",
+      "price": "৳20000",
+      "updated_on": "August 25, 2025"
     },
     {
       "id": "xiaomi_poco_m7_4g",
