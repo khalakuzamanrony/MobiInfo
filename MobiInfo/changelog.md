@@ -2,12 +2,1922 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-11 12:31:05
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5259
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 1
+- **Updated phones**: 854
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### realme
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Realme 15T
+
+  - **Updated phone**: Realme Note 70
+
+  - **Updated phone**: Realme Note 70 (128GB)
+
+  - **Updated phone**: Realme P4
+
+  - **Updated phone**: Realme P4 Pro
+
+  - **Updated phone**: Realme P4 (256GB)
+
+  - **Updated phone**: Realme Note 70T
+
+  - **Updated phone**: Realme 15
+
+  - **Updated phone**: Realme 15 (256GB)
+
+  - **Updated phone**: Realme 15 Pro
+
+  - **Updated phone**: Realme 15 Pro (256GB)
+
+  - **Updated phone**: Realme 15 Pro (12GB+256GB)
+
+  - **Updated phone**: Realme Narzo 80 Lite
+
+  - **Updated phone**: Realme GT7 Dream Edition
+
+  - **Updated phone**: Realme C73
+
+  - **Updated phone**: Realme Neo7 Turbo (512GB)
+
+  - **Updated phone**: Realme Neo7 Turbo (16GB+512GB)
+
+  - **Updated phone**: Realme Neo7 Turbo
+
+  - **Updated phone**: Realme GT 7T
+
+  - **Updated phone**: Realme GT 7
+
+  - **Updated phone**: Realme C71
+
+  - **Updated phone**: Realme C71 (6GB RAM)
+
+  - **Updated phone**: Realme 14T
+
+  - **Updated phone**: Realme 14
+
+  - **Updated phone**: Realme C75 5G
+
+  - **Updated phone**: Realme GT7 (China) (512GB)
+
+  - **Updated phone**: Realme GT7 (China)
+
+  - **Updated phone**: Realme C75x
+
+  - **Updated phone**: Realme Narzo 80x
+
+  - **Updated phone**: Realme Narzo 80x (8GB RAM)
+
+  - **Updated phone**: Realme Narzo 80 Pro
+
+  - **Updated phone**: Realme Narzo 80 Pro (256GB)
+
+
+#### oppo
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Oppo Find X9 Plus
+
+  - **Updated phone**: Oppo F31
+
+  - **Updated phone**: Oppo F31 Pro
+
+  - **Updated phone**: Oppo F31 Pro Plus
+
+  - **Updated phone**: Oppo Find X9 Pro
+
+  - **Updated phone**: Oppo A5i Pro
+
+  - **Updated phone**: Oppo A6 Max
+
+  - **Updated phone**: Oppo A5 4G
+
+  - **Updated phone**: Oppo A5 4G (8GB RAM)
+
+  - **Updated phone**: Oppo Reno14 F
+
+  - **Updated phone**: Oppo Reno14
+
+  - **Updated phone**: Oppo K13 Turbo
+
+  - **Updated phone**: Oppo K13 Turbo Pro
+
+  - **Updated phone**: Oppo K13 Turbo (512GB)
+
+  - **Updated phone**: Oppo K13 Turbo Pro (512GB)
+
+  - **Updated phone**: Oppo K13x
+
+  - **Updated phone**: Oppo A5i
+
+  - **Updated phone**: Oppo Reno14 Pro
+
+  - **Updated phone**: Oppo Reno14 (512GB)
+
+  - **Updated phone**: Oppo Reno14 Pro (512GB)
+
+  - **Updated phone**: Oppo A5x
+
+  - **Updated phone**: Oppo A5 5G
+
+  - **Updated phone**: Oppo K13
+
+  - **Updated phone**: Oppo K13 (256GB)
+
+  - **Updated phone**: Oppo Find X8s
+
+  - **Updated phone**: Oppo Find X8s Plus
+
+  - **Updated phone**: Oppo Find X8 Ultra (16GB+512GB)
+
+  - **Updated phone**: Oppo Find X8 Ultra
+
+  - **Updated phone**: Oppo F29 Pro 5G
+
+  - **Updated phone**: Oppo F29 5G
+
+  - **Updated phone**: Oppo A5 (China)
+
+  - **Updated phone**: Oppo A5 Energy
+
+
+#### infinix
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Infinix Hot 60i 5G
+
+  - **Updated phone**: Infinix Hot 60 Pro
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus (256GB)
+
+  - **Updated phone**: Infinix Hot 60
+
+  - **Updated phone**: Infinix Hot 60i (8GB+256GB)
+
+  - **Updated phone**: Infinix Hot 60i
+
+  - **Updated phone**: Infinix Smart 10
+
+  - **Updated phone**: Infinix Smart 10 Plus
+
+  - **Updated phone**: Infinix Smart 10 HD
+
+  - **Updated phone**: Infinix GT 30 Pro (12GB RAM)
+
+  - **Updated phone**: Infinix GT 30 Pro
+
+  - **Updated phone**: Infinix Note 50s
+
+  - **Updated phone**: Infinix Note 50 Pro Plus
+
+  - **Updated phone**: Infinix Note 50
+
+  - **Updated phone**: Infinix Note 50 Pro
+
+  - **Updated phone**: Infinix Note 50x
+
+  - **Updated phone**: Infinix Smart 9 HD (4GB RAM)
+
+  - **Updated phone**: Infinix Smart 9 HD
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus 4G
+
+  - **Updated phone**: Infinix Hot 50 4G
+
+  - **Updated phone**: Infinix Hot 50
+
+  - **Updated phone**: Infinix Hot 50 Pro
+
+  - **Updated phone**: Infinix Hot 50 Pro 4G
+
+  - **Updated phone**: Infinix HOT 50 5G
+
+  - **Updated phone**: Infinix Zero Flip
+
+  - **Updated phone**: Infinix Hot 50i
+
+  - **Updated phone**: Infinix Smart 9
+
+  - **Updated phone**: Infinix Smart 9 (4GB+128GB)
+
+  - **Updated phone**: Infinix Zero 40
+
+  - **Updated phone**: Infinix Zero 40 4G
+
+
+#### vivo
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Vivo V60
+
+  - **Updated phone**: Vivo V60 (12GB RAM)
+
+  - **Updated phone**: Vivo V60 (16GB+512GB)
+
+  - **Updated phone**: Vivo T4 Pro
+
+  - **Updated phone**: Vivo Y29t
+
+  - **Updated phone**: Vivo T4R
+
+  - **Updated phone**: Vivo Y400 5G
+
+  - **Updated phone**: Vivo Y400
+
+  - **Updated phone**: Vivo Y400 (256GB)
+
+  - **Updated phone**: Vivo X200 FE
+
+  - **Updated phone**: Vivo X Fold5
+
+  - **Updated phone**: Vivo X Fold5 (512GB)
+
+  - **Updated phone**: Vivo X Fold5 (16GB+512GB)
+
+  - **Updated phone**: Vivo Y400 Pro
+
+  - **Updated phone**: Vivo T4 Ultra
+
+  - **Updated phone**: Vivo T4 Ultra (12GB RAM)
+
+  - **Updated phone**: Vivo S30 Pro Mini
+
+  - **Updated phone**: Vivo S30 Pro Mini (512GB)
+
+  - **Updated phone**: Vivo S30 Pro Mini (16GB+512GB)
+
+  - **Updated phone**: Vivo S30
+
+  - **Updated phone**: Vivo Y19s Pro
+
+  - **Updated phone**: Vivo Y19s Pro (6GB RAM)
+
+  - **Updated phone**: Vivo Y300 GT
+
+  - **Updated phone**: Vivo Y19 5G
+
+  - **Updated phone**: Vivo T4
+
+  - **Updated phone**: Vivo X200 Ultra
+
+  - **Updated phone**: Vivo Y37c
+
+  - **Updated phone**: Vivo T4 (256GB)
+
+  - **Updated phone**: Vivo X200 Ultra (16GB+512GB)
+
+  - **Updated phone**: Vivo V50 Lite 5G
+
+  - **Updated phone**: Vivo X200s
+
+  - **Updated phone**: Vivo X200s (512GB)
+
+
+#### apple
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Apple iPhone 17
+    - specifications.Memory.Internal Storage: Changed from '128 GB' to '256 GB'
+
+  - **Updated phone**: Apple iPhone 17 Pro
+
+  - **Updated phone**: Apple iPhone 17 Pro Max
+
+  - **Updated phone**: Apple iPhone 17 Air
+    - specifications.Display.Screen Size: Changed from '6.6 inches (16.76 cm)' to '6.5 inches (16.51 cm)'
+
+  - **Updated phone**: Apple iPhone SE 4
+
+  - **Updated phone**: Apple iPhone 16e
+
+  - **Updated phone**: Apple iPhone 16e (256GB)
+
+  - **Updated phone**: Apple iPhone 16 Pro Max
+
+  - **Updated phone**: Apple iPhone 16
+
+  - **Updated phone**: Apple iPhone 16 Pro
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB SG)
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB SG)
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB SG)
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB SG)
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB SG)
+
+  - **Updated phone**: Apple iPhone 16 (256GB SG)
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB SG)
+
+  - **Updated phone**: Apple iPhone 16 (256GB USA)
+
+  - **Updated phone**: Apple iPhone 16 (512GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB USA)
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB USA)
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Plus (512GB USA)
+
+  - **Updated phone**: Apple iPhone 16 Plus
+
+  - **Updated phone**: Apple iPhone 15 Pro Max
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (512GB)
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (1TB)
+
+  - **Updated phone**: Apple iPhone 15 Plus (256GB)
+
+  - **Updated phone**: Apple iPhone 15 Plus
+
+
+#### itel
+
+- **New phones**: 1
+- **Updated phones**: 31
+
+  - **Updated phone**: Itel Super 26 Ultra
+    - image_url: Changed from 'https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-image.webp' to 'https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-color-image.webp'
+
+  - **New phone**: Itel Super 26 Ultra (256GB)
+  - **Updated phone**: Itel A100
+    - serial_number: Changed from '2' to '3'
+
+  - **Updated phone**: Itel Zeno 20
+    - serial_number: Changed from '3' to '4'
+
+  - **Updated phone**: Itel s1 Pro
+    - serial_number: Changed from '4' to '5'
+
+  - **Updated phone**: Itel A90 (128GB)
+    - serial_number: Changed from '5' to '6'
+
+  - **Updated phone**: Itel A90
+    - serial_number: Changed from '6' to '7'
+
+  - **Updated phone**: Itel City 100
+    - serial_number: Changed from '7' to '8'
+
+  - **Updated phone**: Itel Power 70
+    - serial_number: Changed from '8' to '9'
+
+  - **Updated phone**: Itel S25 Ultra (256GB)
+    - serial_number: Changed from '9' to '10'
+
+  - **Updated phone**: Itel S25 Ultra
+    - serial_number: Changed from '10' to '11'
+
+  - **Updated phone**: Itel S25
+    - serial_number: Changed from '11' to '12'
+
+  - **Updated phone**: Itel Flip 1
+    - serial_number: Changed from '12' to '13'
+
+  - **Updated phone**: Itel A80
+    - serial_number: Changed from '13' to '14'
+
+  - **Updated phone**: Itel Zeno 10
+    - serial_number: Changed from '14' to '15'
+
+  - **Updated phone**: Itel P65C
+    - serial_number: Changed from '15' to '16'
+
+  - **Updated phone**: Itel Vision 2S
+    - serial_number: Changed from '16' to '17'
+
+  - **Updated phone**: Itel A50C
+    - serial_number: Changed from '17' to '18'
+
+  - **Updated phone**: Itel P65
+    - serial_number: Changed from '18' to '19'
+
+  - **Updated phone**: Itel Color Pro
+    - serial_number: Changed from '19' to '20'
+
+  - **Updated phone**: Itel A06
+    - serial_number: Changed from '20' to '21'
+
+  - **Updated phone**: Itel A50 (3GB RAM)
+    - serial_number: Changed from '21' to '22'
+
+  - **Updated phone**: Itel A50 (4GB RAM)
+    - serial_number: Changed from '22' to '23'
+
+  - **Updated phone**: Itel A50
+    - serial_number: Changed from '23' to '24'
+
+  - **Updated phone**: Itel S24
+    - serial_number: Changed from '24' to '25'
+
+  - **Updated phone**: Itel RS4
+    - serial_number: Changed from '25' to '26'
+
+  - **Updated phone**: Itel P55T
+    - serial_number: Changed from '26' to '27'
+
+  - **Updated phone**: Itel P55 Plus
+    - serial_number: Changed from '27' to '28'
+
+  - **Updated phone**: Itel P55 (8GB RAM)
+    - serial_number: Changed from '28' to '29'
+
+  - **Updated phone**: Itel P55
+    - serial_number: Changed from '29' to '30'
+
+  - **Updated phone**: Itel 5262 Dual SIM
+    - serial_number: Changed from '30' to '31'
+
+  - **Updated phone**: Itel 5031Dual SIM
+    - serial_number: Changed from '31' to '32'
+
+
+#### tecno
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Tecno Pova Slim
+
+  - **Updated phone**: Tecno Spark Go 5G
+
+  - **Updated phone**: Tecno Spark 40 Pro Plus
+
+  - **Updated phone**: Tecno Spark 40C
+
+  - **Updated phone**: Tecno POP 10
+
+  - **Updated phone**: Tecno Spark 40 Pro
+
+  - **Updated phone**: Tecno Spark 40 (8GB+256GB)
+
+  - **Updated phone**: Tecno Spark 40
+
+  - **Updated phone**: Tecno Camon 40 Pro 5G
+
+  - **Updated phone**: Tecno Pova 7
+
+  - **Updated phone**: Tecno Pova 7 Ultra
+
+  - **Updated phone**: Tecno Pova Curve
+
+  - **Updated phone**: Tecno Spark Go 2 (4GB RAM)
+
+  - **Updated phone**: Tecno Spark Go 2
+
+  - **Updated phone**: Tecno Camon 40
+
+  - **Updated phone**: Tecno Camon 40 Pro
+
+  - **Updated phone**: Tecno Camon 40 (256GB)
+
+  - **Updated phone**: Tecno Camon 40 Premier
+
+  - **Updated phone**: Tecno Spark Slim
+
+  - **Updated phone**: Tecno Phantom V Fold2
+
+  - **Updated phone**: Tecno Spark Go 1S
+
+  - **Updated phone**: Tecno Phantom V Fold2 Pro
+
+  - **Updated phone**: Tecno Spark 30
+
+  - **Updated phone**: Tecno Spark 30 Pro
+
+  - **Updated phone**: Tecno Camon 30S
+
+  - **Updated phone**: Tecno Spark 30C 5G
+
+  - **Updated phone**: Tecno Spark 30 5G
+
+  - **Updated phone**: Tecno Pop 9
+
+  - **Updated phone**: Tecno Pop 9 5G
+
+  - **Updated phone**: Tecno Phantom V Flip2
+
+  - **Updated phone**: Tecno Spark 30C (8GB+256GB)
+
+  - **Updated phone**: Tecno Spark 30C
+
+
+#### nokia
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Nokia 130 Music
+
+  - **Updated phone**: Nokia 150 Music
+
+  - **Updated phone**: Nokia 110 4G 2nd Edition
+
+  - **Updated phone**: Nokia 105 4G 2nd Edition
+
+  - **Updated phone**: Nokia 110 4G (2024)
+
+  - **Updated phone**: Nokia 108 4G (2024)
+
+  - **Updated phone**: Nokia 105 (2024)
+
+  - **Updated phone**: Nokia 220 4G (2024)
+
+  - **Updated phone**: Nokia 215 4G (2024)
+
+  - **Updated phone**: Nokia 235 4G (2024)
+
+  - **Updated phone**: Nokia 3210
+
+  - **Updated phone**: Nokia 225 4G (2024)
+
+  - **Updated phone**: Nokia 5310 (2024)
+
+  - **Updated phone**: Nokia 6310 (2024)
+
+  - **Updated phone**: Nokia 230 (2024)
+
+  - **Updated phone**: Nokia XR21 Limited Edition
+
+  - **Updated phone**: Nokia 150 (2023)
+
+  - **Updated phone**: Nokia 130 (2023)
+
+  - **Updated phone**: Nokia 105 4G (2023)
+
+  - **Updated phone**: Nokia 110 4G (2023)
+
+  - **Updated phone**: Nokia 110 (2023)
+
+  - **Updated phone**: Nokia 106 (2023)
+
+  - **Updated phone**: Nokia 105 DS (2023)
+
+  - **Updated phone**: Nokia 105 (2023)
+
+  - **Updated phone**: Nokia 106 DS (2023)
+
+  - **Updated phone**: Nokia 106 4G (2023)
+
+  - **Updated phone**: Nokia C110
+
+  - **Updated phone**: Nokia C12 Pro
+
+  - **Updated phone**: Nokia C32
+
+  - **Updated phone**: Nokia C22
+
+  - **Updated phone**: Nokia C12
+
+  - **Updated phone**: Nokia 2780 Flip
+
+
+#### honor
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Honor 400 Lite
+
+  - **Updated phone**: Honor Magic V5
+
+  - **Updated phone**: Honor Play10C
+
+  - **Updated phone**: Honor X6c
+
+  - **Updated phone**: Honor 400 Pro (China)
+
+  - **Updated phone**: Honor 400 (China)
+
+  - **Updated phone**: Honor 400
+
+  - **Updated phone**: Honor 400 Pro
+
+  - **Updated phone**: Honor 400 (512GB)
+
+  - **Updated phone**: Honor Power (512GB)
+
+  - **Updated phone**: Honor X70i
+
+  - **Updated phone**: Honor X8c
+
+  - **Updated phone**: Honor GT Pro
+
+  - **Updated phone**: Honor GT Pro (512GB)
+
+  - **Updated phone**: Honor GT Pro (16GB+512GB)
+
+  - **Updated phone**: Honor X60 GT
+
+  - **Updated phone**: Honor Power
+
+  - **Updated phone**: Honor Play 60
+
+  - **Updated phone**: Honor X9c (512GB)
+
+  - **Updated phone**: Honor X9c
+
+  - **Updated phone**: Honor Magic V3
+
+  - **Updated phone**: Honor X5b Plus
+
+  - **Updated phone**: Honor X5b
+
+  - **Updated phone**: Honor Magic7 Lite
+
+  - **Updated phone**: Honor X9c Smart
+
+  - **Updated phone**: Honor Magic7 RSR Porsche Design
+
+  - **Updated phone**: Honor GT
+
+  - **Updated phone**: Honor 300 Pro
+
+  - **Updated phone**: Honor 300 Ultra
+
+  - **Updated phone**: Honor 300
+
+  - **Updated phone**: Honor X7c
+
+  - **Updated phone**: Honor Magic7
+
+
+#### samsung
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Samsung Galaxy S26 Ultra
+
+  - **Updated phone**: Samsung Galaxy S25 FE
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 (512GB)
+
+  - **Updated phone**: Samsung Galaxy A17
+
+  - **Updated phone**: Samsung Galaxy F36
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB)
+
+  - **Updated phone**: Samsung Galaxy Z Flip7
+
+  - **Updated phone**: Samsung Galaxy M36
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (512GB)
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (1TB)
+
+  - **Updated phone**: Samsung Galaxy Z Fold7
+
+  - **Updated phone**: Samsung Galaxy M56 (256GB)
+
+  - **Updated phone**: Samsung Galaxy S25 Edge
+
+  - **Updated phone**: Samsung Galaxy S25 Edge (512GB)
+
+  - **Updated phone**: Samsung Galaxy A26 (8GB+256GB)
+
+  - **Updated phone**: Samsung Galaxy A26
+
+  - **Updated phone**: Samsung Galaxy A36
+
+  - **Updated phone**: Samsung Galaxy A36 (12GB+256GB)
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB RAM)
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB+256GB)
+
+  - **Updated phone**: Samsung Galaxy F56
+
+  - **Updated phone**: Samsung Galaxy F56 (256GB)
+
+  - **Updated phone**: Samsung Galaxy XCover7 Pro
+
+  - **Updated phone**: Samsung Galaxy M56
+
+  - **Updated phone**: Samsung Galaxy F16 (8GB RAM)
+
+  - **Updated phone**: Samsung Galaxy F16
+
+  - **Updated phone**: Samsung Galaxy A56
+
+  - **Updated phone**: Samsung Galaxy A56 (256GB)
+
+  - **Updated phone**: Samsung Galaxy A56 (12GB+256GB)
+
+  - **Updated phone**: Samsung Galaxy M06
+
+  - **Updated phone**: Samsung Galaxy M16 5G (8GB RAM)
+
+
+#### google
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Google Pixel 10
+
+  - **Updated phone**: Google Pixel 10 Pro XL
+
+  - **Updated phone**: Google Pixel 10 (256GB)
+
+  - **Updated phone**: Google Pixel 10 Pro (256GB)
+
+  - **Updated phone**: Google Pixel 10 Pro (512GB)
+
+  - **Updated phone**: Google Pixel 10 Pro XL (512GB)
+
+  - **Updated phone**: Google Pixel 10 Pro
+
+  - **Updated phone**: Google Pixel 10 Pro Fold
+
+  - **Updated phone**: Google Pixel 9a
+
+  - **Updated phone**: Google Pixel 9 Pro
+
+  - **Updated phone**: Google Pixel 9 Pro Fold
+
+  - **Updated phone**: Google Pixel 9 Pro Fold (512GB)
+
+  - **Updated phone**: Google Pixel 9
+
+  - **Updated phone**: Google Pixel 9 Pro XL (256GB)
+
+  - **Updated phone**: Google Pixel 9 Pro XL (512GB)
+
+  - **Updated phone**: Google Pixel 9 (256GB)
+
+  - **Updated phone**: Google Pixel 9 Pro XL
+
+  - **Updated phone**: Google Pixel 8a
+
+  - **Updated phone**: Google Pixel 8
+
+  - **Updated phone**: Google Pixel 8 (256GB)
+
+  - **Updated phone**: Google Pixel 8 Pro (256GB)
+
+  - **Updated phone**: Google Pixel 8 Pro (512GB)
+
+  - **Updated phone**: Google Pixel 8 Pro
+
+  - **Updated phone**: Google Pixel Fold
+
+  - **Updated phone**: Google Pixel Fold (12GB+512GB)
+
+  - **Updated phone**: Google Pixel 7a
+
+  - **Updated phone**: Google Pixel 7 Pro (512GB)
+
+  - **Updated phone**: Google Pixel 7
+
+  - **Updated phone**: Google Pixel 7 (256GB)
+
+  - **Updated phone**: Google Pixel 7 Pro
+
+  - **Updated phone**: Google Pixel 7 Pro (256GB)
+
+  - **Updated phone**: Google Pixel 6A
+
+
+#### xiaomi
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Xiaomi Poco C85
+
+  - **Updated phone**: Xiaomi Redmi 15c
+
+  - **Updated phone**: Xiaomi Redmi 15c (8GB+256GB)
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus
+
+  - **Updated phone**: Xiaomi Redmi Note 15
+
+  - **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM)
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM)
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB)
+
+  - **Updated phone**: Xiaomi Poco M7 Plus
+
+  - **Updated phone**: Xiaomi Poco M7 4G
+
+  - **Updated phone**: Xiaomi Redmi 15 5G
+
+  - **Updated phone**: Xiaomi Redmi 15
+
+  - **Updated phone**: Xiaomi Redmi K80 Ultra
+
+  - **Updated phone**: Xiaomi Poco F7 (512GB)
+
+  - **Updated phone**: Xiaomi Poco F7
+
+  - **Updated phone**: Xiaomi Civi 5 Pro
+
+  - **Updated phone**: Xiaomi 15S Pro
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (512GB)
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (16GB+512GB)
+
+  - **Updated phone**: Xiaomi 15S Pro (1TB)
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (512GB)
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB)
+
+  - **Updated phone**: Xiaomi Poco C71
+
+  - **Updated phone**: Xiaomi Redmi 13x
+
+  - **Updated phone**: Xiaomi Poco F7 Pro
+
+  - **Updated phone**: Xiaomi Poco F7 Ultra
+
+  - **Updated phone**: Xiaomi Redmi A5
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 4G
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (12GB+512GB)
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro
+
+
+#### lava
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Lava Storm Lite
+
+  - **Updated phone**: Lava Bold N1
+
+  - **Updated phone**: Lava Bold N1 Pro
+
+  - **Updated phone**: Lava Shark
+
+  - **Updated phone**: Lava Bold
+
+  - **Updated phone**: Lava Hero Glow
+
+  - **Updated phone**: Lava Yuva Smart
+
+  - **Updated phone**: Lava Yuva 2 5G
+
+  - **Updated phone**: Lava Yuva 4
+
+  - **Updated phone**: Lava Blaze Duo
+
+  - **Updated phone**: Lava O3 Pro
+
+  - **Updated phone**: Lava Agni 3 (256GB)
+
+  - **Updated phone**: Lava Agni 3
+
+  - **Updated phone**: Lava Blaze 3 5G
+
+  - **Updated phone**: Lava Blaze 2 Pro
+
+  - **Updated phone**: Lava A7 Torch
+
+  - **Updated phone**: Lava Yuva Star
+
+  - **Updated phone**: Lava Blaze 1X
+
+  - **Updated phone**: Lava Yuva 5G
+
+  - **Updated phone**: Lava Blaze Curve
+
+  - **Updated phone**: Lava Yuva 3
+
+  - **Updated phone**: Lava Agni 2
+
+  - **Updated phone**: Lava Blaze 2
+
+  - **Updated phone**: Lava Yuva 2 Pro
+
+  - **Updated phone**: Lava Blaze 5G
+
+  - **Updated phone**: Lava A9
+
+  - **Updated phone**: Lava A5
+
+  - **Updated phone**: Lava Benco V7
+
+  - **Updated phone**: Lava Benco Iris 59
+
+  - **Updated phone**: Lava Iris 61
+
+  - **Updated phone**: Lava Iris 42
+
+  - **Updated phone**: Lava Iris 43
+
+
+#### walton
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Walton XANON X1 Ultra
+
+  - **Updated phone**: Walton NEXG N75
+
+  - **Updated phone**: Walton Orbit Y13
+
+  - **Updated phone**: Walton ZENX 2
+
+  - **Updated phone**: Walton NEXG N27
+
+  - **Updated phone**: Walton ZENX 1T
+
+  - **Updated phone**: Walton XANON X91
+
+  - **Updated phone**: Walton Orbit Y71
+
+  - **Updated phone**: Walton NEXG N10 Ultra
+
+  - **Updated phone**: Walton ZENX 1
+
+  - **Updated phone**: Walton XANON X21
+
+  - **Updated phone**: Walton NEXG N74
+
+  - **Updated phone**: Walton NEXG N26
+
+  - **Updated phone**: Walton NEXG N10
+
+  - **Updated phone**: Walton Orbit Y70c
+
+  - **Updated phone**: Walton Primo H7s
+
+  - **Updated phone**: Walton XANON X90
+
+  - **Updated phone**: Walton Orbit Y12
+
+  - **Updated phone**: Walton NEXG N9
+
+  - **Updated phone**: Walton NEXG N73
+
+  - **Updated phone**: Walton NEXG N72
+
+  - **Updated phone**: Walton NEXG N25
+
+  - **Updated phone**: Walton Primo E2
+
+  - **Updated phone**: Walton NEXG N71 Plus
+
+  - **Updated phone**: Walton NEXG N8
+
+  - **Updated phone**: Walton Orbit Y70
+
+  - **Updated phone**: Walton NEXG N71
+
+  - **Updated phone**: Walton NEXG N6 LITE
+
+  - **Updated phone**: Walton XANON X20
+
+  - **Updated phone**: Walton Hello HP50
+
+  - **Updated phone**: Walton Olvio M100
+
+  - **Updated phone**: Walton Orbit Y11
+
+
+#### oneplus
+
+- **Updated phones**: 32
+
+  - **Updated phone**: OnePlus Nord 5
+
+  - **Updated phone**: OnePlus Nord CE5
+
+  - **Updated phone**: OnePlus 13s (512GB)
+
+  - **Updated phone**: OnePlus 13s
+
+  - **Updated phone**: OnePlus 13s (16GB+512GB)
+
+  - **Updated phone**: OnePlus Ace 5 Racing
+
+  - **Updated phone**: OnePlus Ace 5 Ultra
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (512GB)
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (16GB+512GB)
+
+  - **Updated phone**: OnePlus Ace 5 Racing (512GB)
+
+  - **Updated phone**: OnePlus Ace 5 Racing (16GB+512GB)
+
+  - **Updated phone**: OnePlus 13T
+
+  - **Updated phone**: OnePlus 13T (512GB)
+
+  - **Updated phone**: OnePlus 13T (16GB+512GB)
+
+  - **Updated phone**: OnePlus 13R
+
+  - **Updated phone**: OnePlus 13R (16GB+512GB)
+
+  - **Updated phone**: OnePlus Open 2
+
+  - **Updated phone**: OnePlus Ace 5 Pro (512GB)
+
+  - **Updated phone**: OnePlus Ace 5 Pro
+
+  - **Updated phone**: OnePlus Ace 5
+
+  - **Updated phone**: OnePlus 13
+
+  - **Updated phone**: OnePlus 13 (16GB+512GB)
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+256GB)
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+512GB)
+
+  - **Updated phone**: OnePlus Nord 4
+
+  - **Updated phone**: OnePlus Nord 4 (256GB)
+
+  - **Updated phone**: OnePlus Ace 3 Pro
+
+  - **Updated phone**: OnePlus Nord CE4 Lite
+
+  - **Updated phone**: OnePlus Nord CE4
+
+  - **Updated phone**: OnePlus Nord CE4 (256GB)
+
+  - **Updated phone**: OnePlus Ace 3V
+
+  - **Updated phone**: OnePlus 12R (16GB+256GB)
+
+
+#### helio
+
+- **Updated phones**: 14
+
+  - **Updated phone**: Helio 100 (12GB RAM)
+
+  - **Updated phone**: Helio 100
+
+  - **Updated phone**: Helio 90
+
+  - **Updated phone**: Symphony Helio 40
+
+  - **Updated phone**: Symphony Helio 40 (8GB RAM)
+
+  - **Updated phone**: Symphony Helio 50
+
+  - **Updated phone**: Symphony Helio 50 (8GB RAM)
+
+  - **Updated phone**: Helio S5
+
+  - **Updated phone**: Helio S60
+
+  - **Updated phone**: Helio S10
+
+  - **Updated phone**: Helio S25
+
+  - **Updated phone**: Helio S2
+
+  - **Updated phone**: Helio S20
+
+  - **Updated phone**: Helio S1
+
+
+#### ulefone
+
+- **Updated phones**: 11
+
+  - **Updated phone**: Ulefone Armor X32
+
+  - **Updated phone**: Ulefone Armor 34 Pro
+
+  - **Updated phone**: Ulefone Armor 33 Pro
+
+  - **Updated phone**: Ulefone Armor Mini 4
+
+  - **Updated phone**: Ulefone Armor X31 Pro
+
+  - **Updated phone**: Ulefone Note 18 Pro
+
+  - **Updated phone**: Ulefone Armor Mini 20T Pro
+
+  - **Updated phone**: Ulefone Note 20 Pro
+
+  - **Updated phone**: Ulefone Note 19
+
+  - **Updated phone**: Ulefone Armor 28 Ultra
+
+  - **Updated phone**: Ulefone Note 18 Ultra
+
+
+#### umidigi
+
+- **Updated phones**: 14
+
+  - **Updated phone**: Umidigi G9x
+
+  - **Updated phone**: Umidigi Note 100 5G
+
+  - **Updated phone**: Umidigi G9T
+
+  - **Updated phone**: Umidigi G9C
+
+  - **Updated phone**: Umidigi G9A
+
+  - **Updated phone**: Umidigi G9 5G
+
+  - **Updated phone**: UMIDIGI F2
+
+  - **Updated phone**: Umidigi A5 Pro
+
+  - **Updated phone**: Umidigi One Max
+
+  - **Updated phone**: Umidigi A3
+
+  - **Updated phone**: Umidigi One Pro
+
+  - **Updated phone**: Umidigi One
+
+  - **Updated phone**: Umidigi A1 Pro
+
+  - **Updated phone**: Umidigi S2 Lite
+
+
+#### nothing
+
+- **Updated phones**: 18
+
+  - **Updated phone**: Nothing Phone 3
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro (8GB RAM)
+
+  - **Updated phone**: Nothing Phone 3a Pro
+
+  - **Updated phone**: Nothing Phone 3a Pro (12GB RAM)
+
+  - **Updated phone**: Nothing Phone 3a
+
+  - **Updated phone**: Nothing Phone 3a (256GB)
+
+  - **Updated phone**: Nothing Phone 2a Plus (12GB RAM)
+
+  - **Updated phone**: Nothing Phone 2a Plus
+
+  - **Updated phone**: Nothing CMF Phone 1
+
+  - **Updated phone**: Nothing CMF Phone 1 (8GB RAM)
+
+  - **Updated phone**: Nothing Phone 2a
+
+  - **Updated phone**: Nothing Phone 2a (12GB+256GB)
+
+  - **Updated phone**: Nothing Phone 2a (256GB)
+
+  - **Updated phone**: Nothing Phone 2
+
+  - **Updated phone**: Nothing Phone 2 (512GB)
+
+  - **Updated phone**: Nothing Phone 2 (12GB RAM)
+
+  - **Updated phone**: Nothing Phone 1
+
+
+#### benco
+
+- **Updated phones**: 17
+
+  - **Updated phone**: Benco V90i
+
+  - **Updated phone**: Benco V90i SE
+
+  - **Updated phone**: Benco V91 Plus
+
+  - **Updated phone**: Benco V91 Plus (8GB+256GB)
+
+  - **Updated phone**: Benco V91c
+
+  - **Updated phone**: Benco V90 Plus
+
+  - **Updated phone**: Benco S1 Plus
+
+  - **Updated phone**: Benco S1 Pro
+
+  - **Updated phone**: Benco S1
+
+  - **Updated phone**: Benco S1 (8GB RAM)
+
+  - **Updated phone**: Benco S1 Pro (8GB/256GB)
+
+  - **Updated phone**: Benco V82
+
+  - **Updated phone**: Benco V91
+
+  - **Updated phone**: Benco V90
+
+  - **Updated phone**: Benco V90 (128GB)
+
+  - **Updated phone**: Benco E20
+
+  - **Updated phone**: Benco V80
+
+
+#### lenovo
+
+- **Updated phones**: 19
+
+  - **Updated phone**: Lenovo Legion Y70
+
+  - **Updated phone**: Lenovo A6 Note
+
+  - **Updated phone**: Lenovo K10 Plus
+
+  - **Updated phone**: Lenovo K6 Enjoy
+
+  - **Updated phone**: Lenovo Z5 Pro GT
+
+  - **Updated phone**: Lenovo Z5s
+
+  - **Updated phone**: Lenovo S5 Pro GT
+
+  - **Updated phone**: Lenovo Z5
+
+  - **Updated phone**: Lenovo A5
+
+  - **Updated phone**: Lenovo A5 (32GB)
+
+  - **Updated phone**: Lenovo K5 Play
+
+  - **Updated phone**: Lenovo Vibe K5
+
+  - **Updated phone**: Lenovo K5 Note
+
+  - **Updated phone**: Lenovo Vibe P1m
+
+  - **Updated phone**: Lenovo ZUK Z1
+
+  - **Updated phone**: Lenovo A2010
+
+  - **Updated phone**: Lenovo A1000
+
+  - **Updated phone**: Lenovo K3 Note
+
+  - **Updated phone**: Lenovo A6000
+
+
+#### symphony
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Symphony Innova 40
+
+  - **Updated phone**: Symphony Innova 40 (8GB RAM)
+
+  - **Updated phone**: Symphony L256
+
+  - **Updated phone**: Symphony Z72
+
+  - **Updated phone**: Symphony Z72 (128GB)
+
+  - **Updated phone**: Symphony Hero 30
+
+  - **Updated phone**: Symphony L137
+
+  - **Updated phone**: Symphony MAX 10 (3GB RAM)
+
+  - **Updated phone**: Symphony MAX 10
+
+  - **Updated phone**: Symphony S72
+
+  - **Updated phone**: Symphony S75
+
+  - **Updated phone**: Symphony T94
+
+  - **Updated phone**: Symphony BL125
+
+  - **Updated phone**: Symphony ATOM 5
+
+  - **Updated phone**: Symphony G27 Lite
+
+  - **Updated phone**: Symphony G27
+
+  - **Updated phone**: Symphony D54Pro
+
+  - **Updated phone**: Symphony B80
+
+  - **Updated phone**: Symphony S80
+
+  - **Updated phone**: Symphony B100
+
+  - **Updated phone**: Symphony Innova 20
+
+  - **Updated phone**: Symphony Innova 30 (6GB RAM)
+
+  - **Updated phone**: Symphony Innova 30
+
+  - **Updated phone**: Symphony Innova 30 (8GB+128GB)
+
+  - **Updated phone**: Symphony Z70
+
+  - **Updated phone**: Symphony BL102
+
+  - **Updated phone**: Symphony BL98
+
+  - **Updated phone**: Symphony FiRE 30
+
+  - **Updated phone**: Symphony L280
+
+  - **Updated phone**: Symphony L34
+
+  - **Updated phone**: Symphony Hero 20
+
+  - **Updated phone**: Symphony Helio 80
+
+
+#### motorola
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Motorola Moto G86 Power
+
+  - **Updated phone**: Motorola Moto G96
+
+  - **Updated phone**: Motorola Moto G96 (256GB)
+
+  - **Updated phone**: Motorola Moto G86
+
+  - **Updated phone**: Motorola Moto G56
+
+  - **Updated phone**: Motorola Edge 60s
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB+512GB)
+
+  - **Updated phone**: Motorola Edge 60 Pro
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB RAM)
+
+  - **Updated phone**: Motorola Edge 60
+
+  - **Updated phone**: Motorola Razr 60 Ultra
+
+  - **Updated phone**: Motorola Edge 60 Stylus
+
+  - **Updated phone**: Motorola Edge 60 Fusion
+
+  - **Updated phone**: Motorola Edge 60 Fusion (12GB RAM)
+
+  - **Updated phone**: Motorola Moto G Power (2025)
+
+  - **Updated phone**: Motorola Moto G 5G (2025)
+
+  - **Updated phone**: Motorola Moto G05
+
+  - **Updated phone**: Motorola Moto G15
+
+  - **Updated phone**: Motorola Moto E15
+
+  - **Updated phone**: Motorola Moto G15 Power
+
+  - **Updated phone**: Motorola Moto G75
+
+  - **Updated phone**: Motorola ThinkPhone 25
+
+  - **Updated phone**: Motorola Moto G35
+
+  - **Updated phone**: Motorola Moto S50
+
+  - **Updated phone**: Motorola Edge 50 Neo
+
+  - **Updated phone**: Motorola Moto G45
+
+  - **Updated phone**: Motorola Edge 50
+
+  - **Updated phone**: Motorola S50 Neo (12GB RAM)
+
+  - **Updated phone**: Motorola S50 Neo (12GB+512GB)
+
+  - **Updated phone**: Motorola S50 Neo
+
+  - **Updated phone**: Motorola Moto G85 (12GB+256GB)
+
+  - **Updated phone**: Motorola Moto G85
+
+
+#### doogee
+
+- **Updated phones**: 26
+
+  - **Updated phone**: Doogee Blade20 Turbo
+
+  - **Updated phone**: Doogee Note59 Pro Plus
+
+  - **Updated phone**: Doogee Note 59
+
+  - **Updated phone**: Doogee Note59 Pro
+
+  - **Updated phone**: Doogee Fire 6 Max
+
+  - **Updated phone**: Doogee S200 Plus
+
+  - **Updated phone**: Doogee Blade GT Ultra
+
+  - **Updated phone**: Doogee S119
+
+  - **Updated phone**: Doogee S118 Pro
+
+  - **Updated phone**: Doogee Balde GT
+
+  - **Updated phone**: Doogee Fire 6
+
+  - **Updated phone**: Doogee Fire 6 Power
+
+  - **Updated phone**: DOOGEE S200
+
+  - **Updated phone**: Doogee Blade10 Max
+
+  - **Updated phone**: Doogee V40 Pro
+
+  - **Updated phone**: Doogee V Max Pro
+
+  - **Updated phone**: Doogee Blade10
+
+  - **Updated phone**: Doogee Blade10 Pro
+
+  - **Updated phone**: Doogee Blade10 Ultra
+
+  - **Updated phone**: Doogee V Max Plus
+
+  - **Updated phone**: Doogee S Punk
+
+  - **Updated phone**: Doogee S Cyber
+
+  - **Updated phone**: Doogee N55 Plus
+
+  - **Updated phone**: Doogee DK10
+
+  - **Updated phone**: Doogee V20S
+
+  - **Updated phone**: Doogee V30T
+
+
+#### iqoo
+
+- **Updated phones**: 32
+
+  - **Updated phone**: iQOO Z10 Turbo Plus
+
+  - **Updated phone**: iQOO Z10 Turbo Plus (512GB)
+
+  - **Updated phone**: iQOO Z10R
+
+  - **Updated phone**: iQOO Z10 Lite
+
+  - **Updated phone**: iQOO Neo 10
+
+  - **Updated phone**: iQOO Neo 10 (256GB)
+
+  - **Updated phone**: iQOO Neo 10 (12GB+256GB)
+
+  - **Updated phone**: iQOO Neo 10 (16GB+512GB)
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (512GB)
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (16GB+512GB)
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China)
+
+  - **Updated phone**: iQOO Z10 Turbo
+
+  - **Updated phone**: iQOO Z10 Turbo Pro
+
+  - **Updated phone**: iQOO Z10 Turbo (512GB)
+
+  - **Updated phone**: iQOO Z10 Turbo Pro (512GB)
+
+  - **Updated phone**: iQOO Z10x
+
+  - **Updated phone**: iQOO Z10x (8GB RAM)
+
+  - **Updated phone**: iQOO Z10x (8GB+256GB)
+
+  - **Updated phone**: iQOO Z10
+
+  - **Updated phone**: iQOO Z10 (256GB)
+
+  - **Updated phone**: Vivo iQOO Neo 10R
+
+  - **Updated phone**: Vivo iQOO Neo 10R (256GB)
+
+  - **Updated phone**: Vivo iQOO Neo 10R (12GB+256GB)
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Endurance
+
+  - **Updated phone**: Vivo iQOO Neo10 Pro (China)
+
+  - **Updated phone**: Vivo iQOO Neo10 (China)
+
+  - **Updated phone**: Vivo iQOO 13
+
+  - **Updated phone**: Vivo iQOO 13 (512GB)
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM)
+
+  - **Updated phone**: Vivo iQOO Z9s Pro
+
+  - **Updated phone**: Vivo iQOO Z9s (256GB)
+
+
+#### zte
+
+- **Updated phones**: 32
+
+  - **Updated phone**: ZTE nubia A36
+
+  - **Updated phone**: ZTE nubia A56
+
+  - **Updated phone**: ZTE Blade A35e
+
+  - **Updated phone**: ZTE Blade A76
+
+  - **Updated phone**: ZTE nubia Red Magic 10S Pro Plus
+
+  - **Updated phone**: ZTE nubia RedMagic 10S Pro
+
+  - **Updated phone**: ZTE Blade V70 Design
+
+  - **Updated phone**: ZTE Blade V70 Design (256GB)
+
+  - **Updated phone**: ZTE nubia Z70S Ultra
+
+  - **Updated phone**: ZTE nubia RedMagic 10 Air
+
+  - **Updated phone**: ZTE nubia Neo 3 GT
+
+  - **Updated phone**: ZTE nubia Focus 2 Ultra
+
+  - **Updated phone**: ZTE nubia Focus 2
+
+  - **Updated phone**: ZTE Blade V70 Max
+
+  - **Updated phone**: ZTE nubia Flip2
+
+  - **Updated phone**: ZTE nubia Music 2
+
+  - **Updated phone**: ZTE Blade V70
+
+  - **Updated phone**: ZTE nubia Z70 Ultra (16GB+512GB)
+
+  - **Updated phone**: ZTE nubia Z70 Ultra
+
+  - **Updated phone**: ZTE nubia Red Magic 10 Pro
+
+  - **Updated phone**: ZTE nubia Red Magic 10 Pro Plus
+
+  - **Updated phone**: ZTE Blade V60
+
+  - **Updated phone**: ZTE Blade A75 5G
+
+  - **Updated phone**: ZTE Blade A35
+
+  - **Updated phone**: ZTE nubia Z60 Ultra Leading
+
+  - **Updated phone**: ZTE nubia Z60S Pro
+
+  - **Updated phone**: ZTE nubia Z60S Pro (16GB+512GB)
+
+  - **Updated phone**: ZTE Blade A55
+
+  - **Updated phone**: ZTE Blade A75
+
+  - **Updated phone**: ZTE nubia Red Magic 9S Pro
+
+  - **Updated phone**: ZTE nubia Red Magic 9S Pro Plus
+
+  - **Updated phone**: ZTE Voyage 3D
+
+
+#### huawei
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Huawei Pura 80
+
+  - **Updated phone**: Huawei Pura 80 Pro
+
+  - **Updated phone**: Huawei Pura 80 Ultra (1TB)
+
+  - **Updated phone**: Huawei Pura 80 Ultra
+
+  - **Updated phone**: Huawei Pura 80 Pro Plus
+
+  - **Updated phone**: Huawei Nova 14
+
+  - **Updated phone**: Huawei Nova 14 Pro
+
+  - **Updated phone**: Huawei Nova Y73
+
+  - **Updated phone**: Huawei Nova Y63
+
+  - **Updated phone**: Huawei Enjoy 80
+
+  - **Updated phone**: Huawei Nova Y72S
+
+  - **Updated phone**: Huawei Pura X
+
+  - **Updated phone**: Huawei Enjoy 70X
+
+  - **Updated phone**: Huawei Mate X6
+
+  - **Updated phone**: Huawei Mate 70 RS Ultimate
+
+  - **Updated phone**: Huawei Mate 70
+
+  - **Updated phone**: Huawei Mate 70 Pro
+
+  - **Updated phone**: Huawei Mate 70 Pro Plus
+
+  - **Updated phone**: Huawei Nova 13
+
+  - **Updated phone**: Huawei Nova 13 Pro
+
+  - **Updated phone**: Huawei Mate XT Ultimate
+
+  - **Updated phone**: Huawei Mate XT Ultimate (512GB)
+
+  - **Updated phone**: Huawei Mate XT Ultimate (1TB)
+
+  - **Updated phone**: Huawei Mate X5
+
+  - **Updated phone**: Huawei Mate 60
+
+  - **Updated phone**: Huawei nova Flip
+
+  - **Updated phone**: Huawei Pura 70
+
+  - **Updated phone**: Huawei Pura 70 (512GB)
+
+  - **Updated phone**: Huawei Pura 70 Pro Plus
+
+  - **Updated phone**: Huawei Pura 70 Ultra
+
+  - **Updated phone**: Huawei Mate 60 Pro Plus
+
+  - **Updated phone**: Huawei Mate 60 Pro
+
+
+#### sony
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Sony Xperia 1 VII (512GB)
+
+  - **Updated phone**: Sony Xperia 1 VII
+
+  - **Updated phone**: Sony Xperia 1 VI
+
+  - **Updated phone**: Sony Xperia 1 V
+
+  - **Updated phone**: Sony Xperia 5 IV
+
+  - **Updated phone**: Sony Xperia 1 IV
+
+  - **Updated phone**: Sony Xperia 5 III
+
+  - **Updated phone**: Sony Xperia 1 III
+
+  - **Updated phone**: Sony Xperia 10 III
+
+  - **Updated phone**: Sony Xperia 5
+
+  - **Updated phone**: Sony Xperia 1
+
+  - **Updated phone**: Sony Xperia 10 Plus
+
+  - **Updated phone**: Sony Xperia 10
+
+  - **Updated phone**: Sony Xperia L3
+
+  - **Updated phone**: Sony Xperia XZ3
+
+  - **Updated phone**: Sony Xperia XA2 Plus
+
+  - **Updated phone**: Sony Xperia XZ2 Premium
+
+  - **Updated phone**: Sony Xperia XZ2
+
+  - **Updated phone**: Sony Xperia XZ2 Compact
+
+  - **Updated phone**: Sony Xperia XA2
+
+  - **Updated phone**: Sony Xperia L2
+
+  - **Updated phone**: Sony Xperia R1 (Plus)
+
+  - **Updated phone**: Sony Xperia XA1 Plus Dual (4GB+32GB)
+
+  - **Updated phone**: Sony Xperia XZ1 Compact
+
+  - **Updated phone**: Sony Xperia XZ1 Dual
+
+  - **Updated phone**: Sony Xperia XZ1
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB)
+
+  - **Updated phone**: Sony Xperia L1 Dual SIM
+
+  - **Updated phone**: Sony Xperia XZ Premium Dual
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual
+
+  - **Updated phone**: Sony Xperia XZ
+
+  - **Updated phone**: Sony Xperia XZs Dual
+
+
+#### meizu
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Meizu Note 22
+
+  - **Updated phone**: Meizu Note 22 Pro
+
+  - **Updated phone**: Meizu Note 16
+
+  - **Updated phone**: Meizu Note 16 Pro
+
+  - **Updated phone**: Meizu mBlu 21
+
+  - **Updated phone**: Meizu Note 21
+
+  - **Updated phone**: Meizu Note 21 Pro
+
+  - **Updated phone**: Meizu Lucky 08 (12GB RAM)
+
+  - **Updated phone**: Meizu Lucky 08
+
+  - **Updated phone**: Meizu 21 Pro
+
+  - **Updated phone**: Meizu 21
+
+  - **Updated phone**: Meizu 20 Pro
+
+  - **Updated phone**: Meizu 20
+
+  - **Updated phone**: Meizu 16T
+
+  - **Updated phone**: Meizu 16T Pro
+
+  - **Updated phone**: Meizu Note 9
+
+  - **Updated phone**: Meizu C9
+
+  - **Updated phone**: Meizu C9 Pro
+
+  - **Updated phone**: Meizu X8
+
+  - **Updated phone**: Meizu Note 8
+
+  - **Updated phone**: Meizu 16X
+
+  - **Updated phone**: Meizu V8 Pro
+
+  - **Updated phone**: Meizu V8
+
+  - **Updated phone**: Meizu 16
+
+  - **Updated phone**: Meizu 16 Plus
+
+  - **Updated phone**: Meizu M6T
+
+  - **Updated phone**: Meizu M8c
+
+  - **Updated phone**: Meizu E3
+
+  - **Updated phone**: Meizu 15 Lite
+
+  - **Updated phone**: Meizu 15 Plus
+
+  - **Updated phone**: Meizu M6s
+
+  - **Updated phone**: Meizu M6
+
+
+#### asus
+
+- **Updated phones**: 32
+
+  - **Updated phone**: Asus Zenfone 12 Ultra
+
+  - **Updated phone**: Asus ROG Phone 9 FE
+
+  - **Updated phone**: Asus ROG Phone 9 Pro
+
+  - **Updated phone**: Asus ROG Phone 9
+
+  - **Updated phone**: Asus Zenfone 11 Ultra
+
+  - **Updated phone**: Asus ROG Phone 8 Pro (24GB+1TB)
+
+  - **Updated phone**: Asus ROG Phone 8 Pro
+
+  - **Updated phone**: Asus ROG Phone 8
+
+  - **Updated phone**: Asus ROG Phone 8 (16GB RAM)
+
+  - **Updated phone**: Asus ROG Phone 5s (18GB/512GB)
+
+  - **Updated phone**: Asus Zenfone 10
+
+  - **Updated phone**: Asus Zenfone 10 (256GB ROM)
+
+  - **Updated phone**: Asus Rog Phone 7 (16GB+512GB)
+
+  - **Updated phone**: Asus Rog Phone 7
+
+  - **Updated phone**: Asus ROG Phone 7 Ultimate
+
+  - **Updated phone**: Asus ROG Phone 6D
+
+  - **Updated phone**: Asus ROG Phone 6D Ultimate
+
+  - **Updated phone**: Asus Zenfone 9
+
+  - **Updated phone**: Asus ROG Phone 6
+
+  - **Updated phone**: Asus ROG Phone 6 (256GB)
+
+  - **Updated phone**: Asus ROG Phone 5s
+
+  - **Updated phone**: Asus ROG Phone 5s (16GB RAM)
+
+  - **Updated phone**: Asus ROG Phone 5
+
+  - **Updated phone**: Asus ROG Phone 5 (256GB)
+
+  - **Updated phone**: Asus ROG Phone 5 (16GB/256GB)
+
+  - **Updated phone**: Asus ROG Phone 3 Strix
+
+  - **Updated phone**: Asus ROG Phone 3 ZS661KS
+
+  - **Updated phone**: Asus ROG Phone II ZS660KL
+
+  - **Updated phone**: Asus ROG Phone 2
+
+  - **Updated phone**: Asus ROG Phone 2 (12GB/512GB)
+
+  - **Updated phone**: Asus Zenfone 6 ZS630KL
+
+  - **Updated phone**: Asus Zenfone 6z
+
+
+---
+
 ## 2025-09-10 13:12:37
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1896,7 +3806,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -2532,7 +4442,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 38
 - **Failed brands**: 0
@@ -4842,7 +6752,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 38
 - **Failed brands**: 0
@@ -7187,7 +9097,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -7290,7 +9200,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 24
 - **Failed brands**: 0
@@ -20198,7 +22108,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 51
 - **Failed brands**: 0
@@ -23517,7 +25427,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -23836,7 +25746,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -24541,7 +26451,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -25247,7 +27157,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -25952,7 +27862,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -25967,7 +27877,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -25982,7 +27892,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -26482,7 +28392,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 14
 - **Failed brands**: 0
@@ -27029,7 +28939,7 @@ Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5258
+- **Total Phones Available**: 5259
 - **New brands**: 0
 - **Updated brands**: 15
 - **Failed brands**: 0

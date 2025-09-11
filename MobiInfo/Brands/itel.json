@@ -4,11 +4,11 @@
     "name": "itel",
     "url": "https://www.mobiledokan.com/mobile-brand/itel",
     "image_url": null,
-    "last_updated": "2025-09-10 07:08:59",
-    "total_phones": 105,
+    "last_updated": "2025-09-11 06:28:06",
+    "total_phones": 106,
     "first_scraped": "2025-09-09 10:23:02",
-    "new_phones_this_run": 0,
-    "updated_phones_this_run": 1
+    "new_phones_this_run": 1,
+    "updated_phones_this_run": 30
   },
   "phones": [
     {
@@ -150,6 +150,144 @@
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
+      "id": "itel_super_26_ultra_256gb",
+      "name": "Itel Super 26 Ultra (256GB)",
+      "url": "https://www.mobiledokan.com/mobile/itel-super-26-ultra-256gb",
+      "image_url": "https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-color-image.webp",
+      "serial_number": 2,
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.21,990",
+          "url": "https://www.mobiledokan.com/mobile/itel-super-26-ultra-256gb"
+        },
+        {
+          "name": "8GB+128GB",
+          "price": "৳.19,990",
+          "url": "https://www.mobiledokan.com/mobile/itel-super-26-ultra"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Itel",
+          "Model": "Super 26 Ultra (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "10 September 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "itel OS 15",
+          "Chipset": "Unisoc T7300",
+          "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "ARM Mali-G57 MP2 ( - 950 MHz)"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1224×2720 px (FHD+)",
+          "Screen Protection": "Corning Gorilla Glass 7i",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "4500 nits",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.6, Primary Camera, 2 MP, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Thickness": "6.8 mm",
+          "Colors": "Silver, Blue, Gold, Grey",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IP65",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 2.2",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1440p@30fps, 1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-silver-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-silver-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-silver-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-blue-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-gold-official-color-image.webp",
+        "https://www.mobiledokan.com/media/itel-super-26-ultra-grey-official-color-image.webp"
+      ],
+      "first_scraped": "2025-09-11 06:28:06",
+      "last_updated": "2025-09-11 06:28:06"
+    },
+    {
       "id": "itel_a100",
       "name": "Itel A100",
       "url": "https://www.mobiledokan.com/mobile/itel-a100",
@@ -264,8 +402,8 @@
         "https://www.mobiledokan.com/media/itel-a100-star-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/itel-a100-shadow-titanium-official-image.webp"
       ],
-      "serial_number": 2,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 3,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -389,8 +527,8 @@
         "https://www.mobiledokan.com/media/itel-zeno-20-space-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/itel-zeno-20-aurora-blue-official-image.webp"
       ],
-      "serial_number": 3,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 4,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -428,6 +566,12 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0, Primary Camera",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "8 MP, Primary Camera, 0.3 MP, 0.3 MP",
@@ -437,12 +581,6 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.0, Primary Camera",
-            "Video Recording": "Yes",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -498,8 +636,8 @@
         "https://www.mobiledokan.com/media/itel-s1-pro-photo.webp",
         "https://www.mobiledokan.com/media/itel-s1-pro-photo.webp"
       ],
-      "serial_number": 4,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 5,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -632,8 +770,8 @@
         "https://www.mobiledokan.com/media/itel-a90-aurora-blue-official-image.webp",
         "https://www.mobiledokan.com/media/itel-a90-cosmic-green-official-image.webp"
       ],
-      "serial_number": 5,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 6,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -686,6 +824,10 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 0.08 MP, Auxiliary lens Camera",
@@ -698,10 +840,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -766,8 +904,8 @@
         "https://www.mobiledokan.com/media/itel-a90-aurora-blue-official-image.webp",
         "https://www.mobiledokan.com/media/itel-a90-cosmic-green-official-image.webp"
       ],
-      "serial_number": 6,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 7,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -897,8 +1035,8 @@
         "https://www.mobiledokan.com/media/itel-city-100-pure-titanium-official-color-image.webp",
         "https://www.mobiledokan.com/media/itel-city-100-fairy-purple-official-color-image.webp"
       ],
-      "serial_number": 7,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 8,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1022,8 +1160,8 @@
         "https://www.mobiledokan.com/media/itel-power-70-bronze-official-image.webp",
         "https://www.mobiledokan.com/media/itel-power-70-silver-official-image.webp"
       ],
-      "serial_number": 8,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 9,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1169,8 +1307,8 @@
         "https://www.mobiledokan.com/media/itel-s25-ultra-bromo-black-official-image_1.webp",
         "https://www.mobiledokan.com/media/itel-s25-ultra-meteor-titanium-official-image_1.webp"
       ],
-      "serial_number": 9,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 10,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1315,8 +1453,8 @@
         "https://www.mobiledokan.com/media/itel-s25-ultra-meteor-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/itel-s25-ultra-komodo-ocean-official-image.webp"
       ],
-      "serial_number": 10,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 11,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1450,8 +1588,8 @@
         "https://www.mobiledokan.com/media/itel-s25-mambo-mint-official-image.webp",
         "https://www.mobiledokan.com/media/itel-s25-sahara-gleam-official-image.webp"
       ],
-      "serial_number": 11,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 12,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1536,8 +1674,8 @@
         "https://www.mobiledokan.com/media/itel-flip-1-blue-official-image.webp",
         "https://www.mobiledokan.com/media/itel-flip-1-orange-official-image.webp"
       ],
-      "serial_number": 12,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 13,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1578,6 +1716,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, Primary Camera",
@@ -1590,13 +1735,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1080x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1660,8 +1798,8 @@
         "https://www.mobiledokan.com/media/itel-a80-glacier-white-official-image.webp",
         "https://www.mobiledokan.com/media/itel-a80-wave-blue-official-image.webp"
       ],
-      "serial_number": 13,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 14,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1782,8 +1920,8 @@
         "https://www.mobiledokan.com/media/itel-zeno-10-opal-purple-official-image.webp",
         "https://www.mobiledokan.com/media/itel-zeno-10-phantom-crystal-official-image.webp"
       ],
-      "serial_number": 14,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 15,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -1914,8 +2052,8 @@
         "https://www.mobiledokan.com/media/itel-p65c-brilliant-gold-official.webp",
         "https://www.mobiledokan.com/media/itel-p65c-moonlight-black-official.webp"
       ],
-      "serial_number": 15,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 16,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2039,8 +2177,8 @@
         "https://www.mobiledokan.com/media/itel-vision-2s-gradation-blue-official-image.webp",
         "https://www.mobiledokan.com/media/itel-vision-2s-gradation-purple-official-image.webp"
       ],
-      "serial_number": 16,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 17,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2081,6 +2219,12 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Wide Camera",
@@ -2091,12 +2235,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2164,8 +2302,8 @@
         "https://www.mobiledokan.com/media/itel-a50c-champagne-gold-official-image.webp",
         "https://www.mobiledokan.com/media/itel-a50c-magic-black-official-image.webp"
       ],
-      "serial_number": 17,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 18,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2287,8 +2425,8 @@
         "https://www.mobiledokan.com/media/itel-p65-cyber-black-official-image.webp",
         "https://www.mobiledokan.com/media/itel-p65-cyber-titanium-official-image.webp"
       ],
-      "serial_number": 18,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 19,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2408,8 +2546,8 @@
         "https://www.mobiledokan.com/media/itel-color-pro-river-blue-official-image.webp",
         "https://www.mobiledokan.com/media/itel-color-pro-lavender-fantasy-official-image.webp"
       ],
-      "serial_number": 19,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 20,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2530,8 +2668,8 @@
         "https://www.mobiledokan.com/media/itel-a06-dawn-blue-official.webp",
         "https://www.mobiledokan.com/media/itel-a06-magic-black-official.webp"
       ],
-      "serial_number": 20,
-      "last_updated": "2025-09-09 13:53:12",
+      "serial_number": 21,
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:53:12"
     },
     {
@@ -2666,8 +2804,8 @@
         "https://www.mobiledokan.com/media/itel-a50-misty-black-official-image_1.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 21
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 22
     },
     {
       "id": "itel_a50_4gb_ram",
@@ -2801,8 +2939,8 @@
         "https://www.mobiledokan.com/media/itel-a50-misty-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 22
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 23
     },
     {
       "id": "itel_a50",
@@ -2936,8 +3074,8 @@
         "https://www.mobiledokan.com/media/itel-a50-misty-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 23
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 24
     },
     {
       "id": "itel_s24",
@@ -2985,10 +3123,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "108 MP f/1.6, Wide Angle, Primary Camera, 0.08 MP Camera",
@@ -3002,6 +3136,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Bokeh portrait video",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3075,8 +3213,8 @@
         "https://www.mobiledokan.com/media/itel-s24-starry-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 24
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 25
     },
     {
       "id": "itel_rs4",
@@ -3199,8 +3337,8 @@
         "https://www.mobiledokan.com/media/itel-rs4-lurex-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 25
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 26
     },
     {
       "id": "itel_p55t",
@@ -3328,8 +3466,8 @@
         "https://www.mobiledokan.com/media/itel-p55t-green-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 26
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 27
     },
     {
       "id": "itel_p55_plus",
@@ -3368,13 +3506,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 0.08 MP Camera",
@@ -3388,6 +3519,13 @@
             "Camera Features": "Geotagging, Panorama, HDR, Touch focus, Face detection, White balance settings, LED flash, 4x zoom, AR Emoji, low-light",
             "Video Recording": "720p",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3456,8 +3594,8 @@
         "https://www.mobiledokan.com/media/1713180241CN0js.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 27
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 28
     },
     {
       "id": "itel_p55_8gb_ram",
@@ -3509,14 +3647,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Flash": "LED Flash",
-            "Camera Features": "Wide Angle Selfie",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.6, Primary Camera, 0.08 MP",
@@ -3528,6 +3658,14 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.6",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
+            "Flash": "LED Flash",
+            "Camera Features": "Wide Angle Selfie",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -3598,8 +3736,8 @@
         "https://www.mobiledokan.com/media/itel-p55-brilliant-gold-official-image_1.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 28
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 29
     },
     {
       "id": "itel_p55",
@@ -3738,8 +3876,8 @@
         "https://www.mobiledokan.com/media/itel-p55-brilliant-gold-official-image_1.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 29
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 30
     },
     {
       "id": "itel_5262_dual_sim",
@@ -3819,8 +3957,8 @@
         "https://www.mobiledokan.com/media/itel-5262-dual-sim-green.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 30
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 31
     },
     {
       "id": "itel_5031dual_sim",
@@ -3903,8 +4041,8 @@
         "https://www.mobiledokan.com/media/itel-5031dual-sim-green.webp"
       ],
       "first_scraped": "2025-09-09 10:23:02",
-      "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 31
+      "last_updated": "2025-09-11 06:28:06",
+      "serial_number": 32
     },
     {
       "id": "itel_5361_dual_sim",
@@ -3985,7 +4123,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 32
+      "serial_number": 33
     },
     {
       "id": "itel_a70",
@@ -4124,7 +4262,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 33
+      "serial_number": 34
     },
     {
       "id": "itel_a70_128gb",
@@ -4263,7 +4401,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 34
+      "serial_number": 35
     },
     {
       "id": "itel_2166_dual_sim",
@@ -4350,7 +4488,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 35
+      "serial_number": 36
     },
     {
       "id": "itel_s23_plus",
@@ -4487,7 +4625,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 36
+      "serial_number": 37
     },
     {
       "id": "itel_2176_dual_sim",
@@ -4569,7 +4707,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 37
+      "serial_number": 38
     },
     {
       "id": "itel_a05s_4gb64gb",
@@ -4704,7 +4842,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 38
+      "serial_number": 39
     },
     {
       "id": "itel_a05s",
@@ -4840,7 +4978,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 39
+      "serial_number": 40
     },
     {
       "id": "itel_2165_dual_sim",
@@ -4909,7 +5047,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 40
+      "serial_number": 41
     },
     {
       "id": "itel_a60s",
@@ -5042,7 +5180,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 41
+      "serial_number": 42
     },
     {
       "id": "itel_a60s_128gb",
@@ -5171,7 +5309,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 42
+      "serial_number": 43
     },
     {
       "id": "itel_p40",
@@ -5297,7 +5435,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 43
+      "serial_number": 44
     },
     {
       "id": "itel_p40_4gb64gb",
@@ -5424,7 +5562,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 44
+      "serial_number": 45
     },
     {
       "id": "itel_a60",
@@ -5544,7 +5682,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 45
+      "serial_number": 46
     },
     {
       "id": "itel_s23",
@@ -5690,7 +5828,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 46
+      "serial_number": 47
     },
     {
       "id": "itel_s23_8gb128gb",
@@ -5836,7 +5974,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 47
+      "serial_number": 48
     },
     {
       "id": "itel_s23_8gb256gb",
@@ -5982,7 +6120,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 48
+      "serial_number": 49
     },
     {
       "id": "itel_vision_5_plus",
@@ -6101,7 +6239,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 49
+      "serial_number": 50
     },
     {
       "id": "itel_vision_5",
@@ -6226,7 +6364,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 50
+      "serial_number": 51
     },
     {
       "id": "itel_a24_pro",
@@ -6344,7 +6482,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 51
+      "serial_number": 52
     },
     {
       "id": "itel_magic_4_dual_sim",
@@ -6420,7 +6558,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 52
+      "serial_number": 53
     },
     {
       "id": "itel_a49_play",
@@ -6540,7 +6678,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 53
+      "serial_number": 54
     },
     {
       "id": "itel_a49",
@@ -6664,7 +6802,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 54
+      "serial_number": 55
     },
     {
       "id": "itel_vision_3",
@@ -6789,7 +6927,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 55
+      "serial_number": 56
     },
     {
       "id": "itel_magic_3",
@@ -6858,7 +6996,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 56
+      "serial_number": 57
     },
     {
       "id": "itel_it5621_dual_sim",
@@ -6940,7 +7078,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 57
+      "serial_number": 58
     },
     {
       "id": "itel_5027_dual_sim",
@@ -7018,7 +7156,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 58
+      "serial_number": 59
     },
     {
       "id": "itel_a26",
@@ -7139,7 +7277,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 59
+      "serial_number": 60
     },
     {
       "id": "itel_a23_pro",
@@ -7240,7 +7378,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 60
+      "serial_number": 61
     },
     {
       "id": "itel_vision_2_3gb64gb",
@@ -7376,7 +7514,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 61
+      "serial_number": 62
     },
     {
       "id": "itel_vision_2",
@@ -7516,7 +7654,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 62
+      "serial_number": 63
     },
     {
       "id": "itel_vision_1_pro",
@@ -7647,7 +7785,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 63
+      "serial_number": 64
     },
     {
       "id": "itel_vision_1_pro_3gb_ram",
@@ -7778,7 +7916,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 64
+      "serial_number": 65
     },
     {
       "id": "itel_a48",
@@ -7896,7 +8034,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 65
+      "serial_number": 66
     },
     {
       "id": "itel_s13_2020",
@@ -8018,7 +8156,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 66
+      "serial_number": 67
     },
     {
       "id": "itel_a36",
@@ -8138,7 +8276,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 67
+      "serial_number": 68
     },
     {
       "id": "itel_a56_pro",
@@ -8264,7 +8402,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 68
+      "serial_number": 69
     },
     {
       "id": "itel_a56",
@@ -8398,7 +8536,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 69
+      "serial_number": 70
     },
     {
       "id": "itel_a25_pro",
@@ -8525,7 +8663,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 70
+      "serial_number": 71
     },
     {
       "id": "itel_p36",
@@ -8656,7 +8794,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 71
+      "serial_number": 72
     },
     {
       "id": "itel_it5618n_dual_sim",
@@ -8734,7 +8872,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 72
+      "serial_number": 73
     },
     {
       "id": "itel_it2590",
@@ -8815,7 +8953,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 73
+      "serial_number": 74
     },
     {
       "id": "itel_vision_1_plus",
@@ -8940,7 +9078,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 74
+      "serial_number": 75
     },
     {
       "id": "itel_vision_1_plus_3gb_ram",
@@ -9064,7 +9202,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 75
+      "serial_number": 76
     },
     {
       "id": "itel_vision_1",
@@ -9187,7 +9325,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 76
+      "serial_number": 77
     },
     {
       "id": "itel_power_100",
@@ -9271,7 +9409,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 77
+      "serial_number": 78
     },
     {
       "id": "itel_a25",
@@ -9395,7 +9533,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 78
+      "serial_number": 79
     },
     {
       "id": "itel_s15_pro",
@@ -9519,7 +9657,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 79
+      "serial_number": 80
     },
     {
       "id": "itel_it6320",
@@ -9605,7 +9743,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 80
+      "serial_number": 81
     },
     {
       "id": "itel_s15",
@@ -9728,7 +9866,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 81
+      "serial_number": 82
     },
     {
       "id": "itel_a55",
@@ -9855,7 +9993,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 82
+      "serial_number": 83
     },
     {
       "id": "itel_it6310",
@@ -9938,7 +10076,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 83
+      "serial_number": 84
     },
     {
       "id": "itel_a46",
@@ -10075,7 +10213,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 84
+      "serial_number": 85
     },
     {
       "id": "itel_p33",
@@ -10202,7 +10340,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 85
+      "serial_number": 86
     },
     {
       "id": "itel_l5503",
@@ -10325,7 +10463,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 86
+      "serial_number": 87
     },
     {
       "id": "itel_2171_dual_sim",
@@ -10406,7 +10544,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 87
+      "serial_number": 88
     },
     {
       "id": "itel_it5617_dual_sim",
@@ -10484,7 +10622,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 88
+      "serial_number": 89
     },
     {
       "id": "itel_it2171_dual_sim",
@@ -10562,7 +10700,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 89
+      "serial_number": 90
     },
     {
       "id": "itel_power_400",
@@ -10647,7 +10785,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 90
+      "serial_number": 91
     },
     {
       "id": "itel_alpha",
@@ -10775,7 +10913,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 91
+      "serial_number": 92
     },
     {
       "id": "itel_a33",
@@ -10904,7 +11042,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 92
+      "serial_number": 93
     },
     {
       "id": "itel_it2080",
@@ -10982,7 +11120,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 93
+      "serial_number": 94
     },
     {
       "id": "itel_s13_pro",
@@ -11102,7 +11240,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 94
+      "serial_number": 95
     },
     {
       "id": "itel_s31",
@@ -11217,7 +11355,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 95
+      "serial_number": 96
     },
     {
       "id": "itel_s41",
@@ -11353,7 +11491,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 96
+      "serial_number": 97
     },
     {
       "id": "itel_s33",
@@ -11480,7 +11618,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 97
+      "serial_number": 98
     },
     {
       "id": "itel_p13_plus",
@@ -11593,7 +11731,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 98
+      "serial_number": 99
     },
     {
       "id": "itel_p32",
@@ -11728,7 +11866,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 99
+      "serial_number": 100
     },
     {
       "id": "itel_a44_pro",
@@ -11849,7 +11987,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 100
+      "serial_number": 101
     },
     {
       "id": "itel_it1409",
@@ -11948,7 +12086,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 101
+      "serial_number": 102
     },
     {
       "id": "itel_it5231",
@@ -12031,7 +12169,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 102
+      "serial_number": 103
     },
     {
       "id": "itel_it2180",
@@ -12113,7 +12251,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 103
+      "serial_number": 104
     },
     {
       "id": "itel_it5600",
@@ -12190,7 +12328,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 104
+      "serial_number": 105
     },
     {
       "id": "itel_vision_2_plus",
@@ -12311,7 +12449,7 @@
       ],
       "first_scraped": "2025-09-09 10:23:02",
       "last_updated": "2025-09-09 13:53:12",
-      "serial_number": 105
+      "serial_number": 106
     }
   ]
 }

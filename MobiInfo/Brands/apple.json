@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-10 07:09:13",
+    "last_updated": "2025-09-11 06:28:06",
     "total_phones": 103,
     "first_scraped": "2025-09-09 16:06:49",
     "new_phones_this_run": 0,
@@ -51,6 +51,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Duel",
             "Resolution": "48 MP, f/1.6, Wide-Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -65,15 +74,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus,Optical Image stabilization, Dual Video Recording, Slow Motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -97,7 +97,7 @@
           "USB Type-C": "USB Type-C 2.0, DisplayPort"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "NVMe",
           "USB OTG": "Yes",
           "RAM": "8 GB",
@@ -156,7 +156,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-black-official-image.webp"
       ],
       "first_scraped": "2025-09-09 10:22:52",
-      "last_updated": "2025-09-10 06:29:43",
+      "last_updated": "2025-09-11 06:28:06",
       "serial_number": 1
     },
     {
@@ -471,7 +471,7 @@
         },
         "Display": {
           "Display Type": "LTPO Super Retina XDR OLED",
-          "Screen Size": "6.6 inches (16.76 cm)",
+          "Screen Size": "6.5 inches (16.51 cm)",
           "Resolution": "1260x2736 px (FHD+)",
           "Aspect Ratio": "19.5:9",
           "Pixel Density": "460 ppi",
@@ -588,7 +588,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp"
       ],
       "serial_number": 4,
-      "last_updated": "2025-09-10 07:09:13",
+      "last_updated": "2025-09-11 06:28:06",
       "first_scraped": "2025-09-09 13:39:33"
     },
     {
