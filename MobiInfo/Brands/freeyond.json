@@ -1,0 +1,136 @@
+{
+  "brand_info": {
+    "id": "freeyond",
+    "name": "freeyond",
+    "url": "https://www.mobiledokan.com/mobile-brand/freeyond",
+    "image_url": null,
+    "last_updated": "2025-09-11 09:20:35",
+    "total_phones": 1,
+    "first_scraped": "2025-09-11 09:20:35",
+    "new_phones_this_run": 1,
+    "updated_phones_this_run": 0
+  },
+  "phones": [
+    {
+      "id": "freeyond_f9",
+      "name": "FreeYond F9",
+      "price": null,
+      "url": "https://www.mobiledokan.com/mobile/freeyond-f9",
+      "image_url": "https://www.mobiledokan.com/media/freeyond-f9-blue-official-image.webp",
+      "serial_number": 1,
+      "last_updated": "2025-09-11 09:20:35",
+      "first_scraped": "2025-09-11 09:20:35",
+      "updated_on": "September 14, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "FreeYond",
+          "Model": "F9",
+          "Device Type": "Smartphone",
+          "Release Date": "13 March 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "User Interface": "Go",
+          "Chipset": "Unisoc SC9863A1",
+          "CPU": "Octa-core (1.6 GHz)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "PowerVR GE8322"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.52 inches (16.56 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, Primary Camera, 2 MP, Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "75.2 mm",
+          "Thickness": "8.7 mm",
+          "Weight": "185 grams",
+          "Colors": "Black, Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Expandable Memory": "Up to 1 TB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/freeyond-f9-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-black-official-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-black-official-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-black-official-image.webp",
+        "https://www.mobiledokan.com/media/freeyond-f9-blue-official-image.webp"
+      ]
+    }
+  ]
+}

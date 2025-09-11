@@ -1,0 +1,114 @@
+{
+  "brand_info": {
+    "id": "maxis",
+    "name": "maxis",
+    "url": "https://www.mobiledokan.com/mobile-brand/maxis",
+    "image_url": null,
+    "last_updated": "2025-09-11 09:22:17",
+    "total_phones": 1,
+    "first_scraped": "2025-09-11 09:22:17",
+    "new_phones_this_run": 1,
+    "updated_phones_this_run": 0
+  },
+  "phones": [
+    {
+      "id": "maxis_t10",
+      "name": "Maxis T10",
+      "price": null,
+      "url": "https://www.mobiledokan.com/mobile/maxis-t10",
+      "image_url": "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
+      "serial_number": 1,
+      "last_updated": "2025-09-11 09:22:17",
+      "first_scraped": "2025-09-11 09:22:17",
+      "updated_on": "February 3, 2025",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Maxis",
+          "Model": "T10",
+          "Device Type": "Smartphone",
+          "Release Date": "03 July 2013",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v4.0.4 (Ice Cream Sandwich)",
+          "Chipset": "MediaTek",
+          "CPU": "1 GHz Processor",
+          "GPU": "Imagination PowerVR SGX531"
+        },
+        "Display": {
+          "Display Type": "LCD",
+          "Screen Size": "4.5 inches (11.43 cm)",
+          "Resolution": "800x400 px",
+          "Pixel Density": "207 ppi",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP Primary Camera",
+            "Flash": "LED flash",
+            "Image Resolution": "1600 x 1200 pixels",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting",
+            "Camera Features": "Flashlight",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "131.4 mm",
+          "Width": "69.9 mm",
+          "Thickness": "12.2 mm",
+          "Weight": "168 grams",
+          "Colors": "black, white"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "512 MB",
+          "Expandable Memory": "Up to 16 GB",
+          "RAM": "512 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Mini-SIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "USB": "microUSB 2.0"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "Malaysia",
+          "Features": "Accelerometer, Proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
+        "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
+        "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
+        "https://www.mobiledokan.com/media/maxis-t10-official-image.webp",
+        "https://www.mobiledokan.com/media/maxis-t10-official-image.webp"
+      ]
+    }
+  ]
+}
