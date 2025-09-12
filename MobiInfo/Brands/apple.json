@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-11 08:59:22",
+    "last_updated": "2025-09-12 06:43:47",
     "total_phones": 103,
     "first_scraped": "2025-09-11 08:59:22",
-    "new_phones_this_run": 103,
-    "updated_phones_this_run": 0
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
@@ -18,9 +18,9 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
-      "updated_on": "September 10, 2025",
+      "last_updated": "2025-09-12 06:43:47",
+      "first_scraped": null,
+      "updated_on": "September 12, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -152,6 +152,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-white-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-black-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-black-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-all-color-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
@@ -168,9 +169,9 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
-      "updated_on": "September 10, 2025",
+      "last_updated": "2025-09-12 06:43:47",
+      "first_scraped": null,
+      "updated_on": "September 12, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -299,6 +300,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-cosmic-orange-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-cosmic-orange-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-all-color-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-silver-official-image.webp",
@@ -313,9 +315,9 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
-      "updated_on": "September 11, 2025",
+      "last_updated": "2025-09-12 06:43:47",
+      "first_scraped": null,
+      "updated_on": "September 12, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -351,15 +353,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "18 MP, f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -375,6 +368,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -444,6 +446,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-deep-blue-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-deep-blue-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-all-color-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-silver-official-image.webp",
@@ -458,9 +461,9 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-air",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
-      "updated_on": "September 10, 2025",
+      "last_updated": "2025-09-12 06:43:47",
+      "first_scraped": null,
+      "updated_on": "September 12, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -496,15 +499,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -519,6 +513,15 @@
             "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -591,6 +594,7 @@
         "https://www.mobiledokan.com/media/apple-iphone-17-air-cloud-white-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-light-gold-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-17-air-all-color-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-17-air-space-black-official-image.webp",

@@ -2,6 +2,21601 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-12 13:36:02
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5259
+- **New brands**: 0
+- **Updated brands**: 75
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 5259
+- **Failed phones**: 0
+
+### Detailed Changes
+
+#### google
+
+- **Updated phones**: 53
+
+  - **Updated phone**: Google Pixel 10
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro XL (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 10 Pro Fold
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9a
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro Fold
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro Fold (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro XL (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro XL (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 9 Pro XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8a
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8 (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 8 Pro
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel Fold
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel Fold (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7a
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7 (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7 Pro
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 7 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 6A
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 6
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 6 (256GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 6 Pro
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 5a 5G
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4a 5G
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4a 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 5
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4a
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4 XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4 XL (128GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4 (128GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 4
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 3a XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 3a
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 3 XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 3 XL (128GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 3
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 2
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 2 (128GB)
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel 2 XL
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+  - **Updated phone**: Google Pixel
+    - last_updated: Changed from '2025-09-11 08:52:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:52:18' to 'None'
+
+
+#### honor
+
+- **Updated phones**: 99
+
+  - **Updated phone**: Honor 400 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic V5
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play10C
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X6c
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 400 Pro (China)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 400 (China)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 400
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 400 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 400 (512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Power (512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X70i
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X8c
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor GT Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor GT Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor GT Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X60 GT
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Power
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play 60
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9c (512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9c
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic V3
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X5b Plus
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X5b
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic7 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9c Smart
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic7 RSR Porsche Design
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor GT
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 300 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 300 Ultra
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 300
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X7c
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic7
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic7 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X60
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X60 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play9C
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 Smart
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play9T
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X60i
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic V Flip
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X6b
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 (16GB RAM)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 200 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic6 RSR Porsche Design
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic6 Ultimate
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic5 Ultimate
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic6 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic6
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic V2 RSR Porsche Design
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X7a
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X8b
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 90 GT
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 90 GT (16GB RAM)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X7b
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 100 5G
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 100 5G (16GB RAM)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 100 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 100 Pro (16GB RAM)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9b
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X5 Plus
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X6a
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic V2
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 90 Lite 5G
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 90 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 90
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic5 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic5 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic5
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X8a
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9a
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X6
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 70
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X9
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X7
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic4 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X8
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor X10 5G
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 30 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play4 Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 30 Pro Plus
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play 9A
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 9X
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 8a Pro
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 20 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 20i
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 8S
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Play 8A
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor View 20
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor View 20 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Magic 2
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 10 Lite
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 7s
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 6 Plus
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor Holly
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+  - **Updated phone**: Honor 4X
+    - last_updated: Changed from '2025-09-11 08:58:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:58:42' to 'None'
+
+
+#### apple
+
+- **Updated phones**: 103
+
+  - **Updated phone**: Apple iPhone 17
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+    - updated_on: Changed from 'September 10, 2025' to 'September 12, 2025'
+    - gallery_images: List length changed from 19 to 20
+
+  - **Updated phone**: Apple iPhone 17 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+    - updated_on: Changed from 'September 10, 2025' to 'September 12, 2025'
+    - gallery_images: List length changed from 13 to 14
+
+  - **Updated phone**: Apple iPhone 17 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+    - updated_on: Changed from 'September 11, 2025' to 'September 12, 2025'
+    - gallery_images: List length changed from 13 to 14
+
+  - **Updated phone**: Apple iPhone 17 Air
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+    - updated_on: Changed from 'September 10, 2025' to 'September 12, 2025'
+    - gallery_images: List length changed from 16 to 17
+
+  - **Updated phone**: Apple iPhone SE 4
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16e
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16e (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 (256GB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB SG)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 (256GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 (512GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (256GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (512GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro (1TB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (512GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Pro Max (1TB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Plus (256GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Plus (512GB USA)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 16 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (512GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro Max (1TB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Plus (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 15 Pro (1TB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Plus (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (512GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 14 Pro Max (1TB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE 2022 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE 2022 (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE 2022
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 mini
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 Pro Max (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 13 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12 Mini
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12 Pro Max (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 12 (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE 2020
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro Max (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro Max (512GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 11 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XR (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XR (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XR
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XS Max
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XS
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone XS Max (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone X (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone X
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 8
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 8 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 7 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 7
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE (64GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6S Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6S Plus (32GB ROM)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6S Plus (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6S Plus (64GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6s
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6s (64GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 6
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 5S
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 5c
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 5
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 5 (32GB)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 4s
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 3GS
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone SE (2025)
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+  - **Updated phone**: Apple iPhone 17 Plus
+    - last_updated: Changed from '2025-09-11 08:59:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:22' to 'None'
+
+
+#### lava
+
+- **Updated phones**: 99
+
+  - **Updated phone**: Lava Storm Lite
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Bold N1
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Bold N1 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Shark
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Bold
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Hero Glow
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva Smart
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 2 5G
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 4
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze Duo
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava O3 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Agni 3 (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Agni 3
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze 3 5G
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze 2 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava A7 Torch
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva Star
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze 1X
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 5G
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze Curve
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 3
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Agni 2
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze 2
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 2 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze 5G
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava A9
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava A5
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Benco V7
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Benco Iris 59
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 61
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 42
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 43
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 45
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 702
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X9
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava R5V
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava iris 52
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava R3 Note
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 50c
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Z81
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 88
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 88 (2GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 65
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava iris 50 (2GB+16GB)
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Z60
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava iris 50
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 80
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava R1
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava A3 Mini
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava A3
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 605
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Grand 2c
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 821
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava iris 810
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava irish505
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava irish 870
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Flair S1
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Grand 2
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: LAVA Iris 705
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Spark Curvy
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: LAVA Iris 750
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X8 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Pixel V2 Plus
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Pixel V2 Plus (3GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris Atom 2
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X1 Atom
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 510
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Flair P1
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 800
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 414
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava iris X1 Plus
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X8
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X1 mini
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X8Q
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris Selfie 50
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava KKT35 Plus
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 456
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 250
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X5
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 400S
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava ARC 12
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: LAVA iris 512
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris X1
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 415
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 354
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Spark 283
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 405 Plus
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 503
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Discover Neo
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava KKT 27S
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava ARC 11 Plus
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 505
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 401e
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Iris 405
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Discover 135
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava KKT35+
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava ARC 3
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Yuva 4 Pro
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+  - **Updated phone**: Lava Blaze X
+    - last_updated: Changed from '2025-09-11 08:59:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:23' to 'None'
+
+
+#### itel
+
+- **Updated phones**: 106
+
+  - **Updated phone**: Itel Super 26 Ultra
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Super 26 Ultra (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+    - updated_on: Changed from 'September 10, 2025' to 'September 11, 2025'
+    - gallery_images: List length changed from 8 to 20
+
+  - **Updated phone**: Itel A100
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Zeno 20
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel s1 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A90 (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A90
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+    - updated_on: Changed from 'June 25, 2025' to 'September 11, 2025'
+    - gallery_images: List length changed from 8 to 16
+
+  - **Updated phone**: Itel City 100
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Power 70
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S25 Ultra (256GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S25 Ultra
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S25
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Flip 1
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A80
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Zeno 10
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P65C
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 2S
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A50C
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P65
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Color Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A06
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A50 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A50 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A50
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S24
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel RS4
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P55T
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P55 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P55 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P55
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 5262 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 5031Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 5361 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A70
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A70 (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 2166 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S23 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 2176 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A05s (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A05s
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 2165 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A60S
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A60S (128GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P40
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P40 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A60
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S23
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S23 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S23 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 5 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 5
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A24 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Magic 4 Dual Sim
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A49 Play
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A49
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 3
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Magic 3
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it5621 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 5027 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A26
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A23 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 2 (3GB+64GB)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 2
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 1 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 1 Pro (3GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: itel A48
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S13 (2020)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A36
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A56 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A56
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A25 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P36
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it5618N Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel IT2590
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 1 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 1 Plus (3GB RAM)
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 1
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Power 100
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A25
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S15 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel IT6320
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S15
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A55
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel IT6310
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A46
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P33
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel L5503
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel 2171 Dual Sim
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it5617 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it2171 Dual SIM
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Power 400
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Alpha
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A33
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it2080
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S13 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S31
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S41
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel S33
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P13 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel P32
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel A44 Pro
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it1409
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it5231
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it2180
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel it5600
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+  - **Updated phone**: Itel Vision 2 Plus
+    - last_updated: Changed from '2025-09-11 08:59:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 08:59:33' to 'None'
+
+
+#### infinix
+
+- **Updated phones**: 114
+
+  - **Updated phone**: Infinix Hot 60i 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60 Pro Plus (256GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60i (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 60i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 10
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 10 Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 10 HD
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix GT 30 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix GT 30 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 50s
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 50 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 50
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 50 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 50x
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 9 HD (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 9 HD
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 Pro 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix HOT 50 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero Flip
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 9
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 9 (4GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 40
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 40 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40X 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40S
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix GT 20 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40 Pro 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40 Pro 4G (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 40 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 6 Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 8 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 40
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 40 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 8
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 8 (128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 30 4G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 30 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 30 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix GT 10 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 30 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 30
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 30 (256GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 30i (128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 30i (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 30
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 30i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 30 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 7
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 7 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Zero 5G 2023
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 20S
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 20
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12 2023
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12 2023 (256GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 20i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12 (G96)
+    - name: Changed from 'Infinix Note 12 G96' to 'Infinix Note 12 (G96)'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/infinix-note-12-g96' to 'https://www.mobiledokan.com/mobile/infinix-note-12-g96-'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - serial_number: Changed from '69' to '68'
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+    - updated_on: Changed from 'August 23, 2024' to 'October 25, 2024'
+    - variants: List length changed from 1 to 0
+    - specifications.General.Model: Changed from 'Note 12 G96' to 'Note 12 (G96)'
+    - specifications.General.Release Date: Changed from '11 May 2022' to '16 May 2022'
+    - specifications.Display.Bezel-less Display: Changed from 'Yes with waterdrop notch' to 'Yes with notch'
+    - specifications.Display.Notch: Changed from 'waterdrop' to 'Yes'
+    - specifications.Cameras.Primary Camera.Camera Features: Changed from 'Auto Flash,
+Face detection,
+Touch to focus' to 'Auto Flash, Face detection, Touch to focus'
+    - specifications.Network & Connectivity.Speed: Changed from 'HSPA, LTE' to 'HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps'
+    - specifications.More.Features: Changed from 'Accelerometer, gyro, proximity, compass' to 'Accelerometer, Compass, Gyroscope'
+    - gallery_images[0]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[1]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[2]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-front-image_1.webp'
+    - gallery_images[3]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image_1.webp'
+    - gallery_images[4]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[5]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[6]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp'
+    - gallery_images[7]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-image_1.webp'
+    - gallery_images[8]: Changed from 'https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp' to 'https://www.mobiledokan.com/media/infinix-note-12-g96-black-image.webp'
+
+  - **Updated phone**: Infinix Note 12 G96
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+    - gallery_images: List length changed from 9 to 0
+
+  - **Updated phone**: Infinix Hot 12
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 6 HD
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 12 (G88)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 12i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 12 Play
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 12 Play (128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 11 Play
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 5 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 11 Play (128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 11S
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 11 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 6
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 6 (3GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 11s (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 11s
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 10
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 10s
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 10s (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 40i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 10 Play (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 10 Play
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart HD 2021
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 8i
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 10
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 5
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 5 (3GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 7 (2020)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 7 Lite
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 9 Play
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 9 Play (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 7
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 4
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix S5
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 8
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 8 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix S4
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 3 Plus
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix S3X
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Note 5
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Smart 2 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot S3
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 6 Pro
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 12 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+  - **Updated phone**: Infinix Hot 50 Pro Plus 5G
+    - last_updated: Changed from '2025-09-11 09:00:41' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:00:41' to 'None'
+
+
+#### nothing
+
+- **Updated phones**: 18
+
+  - **Updated phone**: Nothing Phone 3
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing CMF Phone 2 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 3a Pro
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 3a Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 3a
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 3a (256GB)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2a Plus (12GB RAM)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2a Plus
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing CMF Phone 1
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing CMF Phone 1 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2a
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2a (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2a (256GB)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2 (512GB)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 2 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+  - **Updated phone**: Nothing Phone 1
+    - last_updated: Changed from '2025-09-11 14:41:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 14:41:08' to 'None'
+
+
+#### oneplus
+
+- **Updated phones**: 116
+
+  - **Updated phone**: OnePlus Nord 5
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE5
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13s (512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13s
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13s (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Racing
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Ultra
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Racing (512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Racing (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13T (512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13T (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13R
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13R (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Open 2
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5 Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 5
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 4 (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 4
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 4 (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 3 Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE4 Lite
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE4
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE4 (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 3V
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12R (16GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12R (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12R
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12R (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N30 SE
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 3
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12 (24GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12 (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 12 (16GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Open
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 3
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 3 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 10R (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 3 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 2V
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 2V (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 11R
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 11R (16GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace 2
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 11 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace Pro (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N20 SE (128GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N20 SE
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 10T 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 2T 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord 2T 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 10R
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 2 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 2 Lite 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Ace (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 2 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 10 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 10 Pro 5G (12GB RAM)
+    - price: Changed from 'None' to '৳66000'
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+    - variants: List length changed from 2 to 0
+
+  - **Updated phone**: OnePlus 9RT 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 9RT 5G (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 9RT 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus Nord 2 5G (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus Nord 2 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N200 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord CE 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 9R
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 9R (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 9R (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 9 Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 9 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 9 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 9
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 9 (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N10 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord N100
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 8T (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 8T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus Nord (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 8
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 8 Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 8 5G
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 8 5G (T-Mobile)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7T Pro 5G McLaren
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7T Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7 Pro
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7 Pro (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 7 Pro (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 6T (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 6T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 6 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 6
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 5T (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 5T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 5 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 5
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 3T (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: Oneplus 3T
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus X
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 2
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus One
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus One (64GB ROM)
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+  - **Updated phone**: OnePlus 13 3C
+    - last_updated: Changed from '2025-09-11 09:01:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:35' to 'None'
+
+
+#### helio
+
+- **Updated phones**: 14
+
+  - **Updated phone**: Helio 100 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio 100
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio 90
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Symphony Helio 40
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Symphony Helio 40 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Symphony Helio 50
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Symphony Helio 50 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S5
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S60
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S10
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S25
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S2
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S20
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+  - **Updated phone**: Helio S1
+    - last_updated: Changed from '2025-09-11 09:01:40' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:01:40' to 'None'
+
+
+#### benco
+
+- **Updated phones**: 17
+
+  - **Updated phone**: Benco V90i
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V90i SE
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V91 Plus
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V91 Plus (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V91c
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V90 Plus
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco S1 Plus
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco S1 Pro
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco S1
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco S1 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco S1 Pro (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V82
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V91
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V90
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V90 (128GB)
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco E20
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+  - **Updated phone**: Benco V80
+    - last_updated: Changed from '2025-09-11 09:03:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:03:15' to 'None'
+
+
+#### tecno
+
+- **Updated phones**: 141
+
+  - **Updated phone**: Tecno Pova Slim
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 40 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 40C
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno POP 10
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 40 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 40 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 40
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 40 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 7
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 7 Ultra
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova Curve
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 40
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 40 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 40 (256GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 40 Premier
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Slim
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom V Fold2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 1S
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom V Fold2 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30S
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30C 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 9
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 9 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom V Flip2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30C (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 30C
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 6 Neo 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 18
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 1
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 1 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 1 (128GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30S Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 5 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20P
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 6
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30 Premier
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20C
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20C (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2024 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2024
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom V Flip 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 5 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 20 Pro 5G Mr Doodle Edition
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 5
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 20
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 20 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom V Fold
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 7
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 10C (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 10C
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 10 Pro (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 10 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 20 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom X2 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom X2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 4 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova Neo 2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 4
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 6 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 19
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 19 Neo
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 9T
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 8C
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2022 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2022
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 5 LTE
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 5 LTE (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 8 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 8 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom X
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 17P
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 17
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 7 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 7 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 7
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 7 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2022 (64GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 6 Go (64GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 16 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 16 Premier
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 16 S
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 16
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 6 Go
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 6
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 6 Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 6 Air (3GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pouvoir 4
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 5 Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 5
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 15 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: TECNO Camon 15 Pro (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: TECNO Camon 15
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: TECNO Spark 4 Lite
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 12 Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon iSky2 (32GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 4
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 12 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go (2GB+16GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go (2GB RAM)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pouvoir 3 Plus
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pouvoir 3 Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark 4 Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 2F
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Phantom 9
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon iSky2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: TECNO Camon i4 (64GB)
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon iSky 3
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon i4
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon iACE2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon iACE2X
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 2 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 2 Power
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon i2x
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon i2
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno POP 1S Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pop 1s
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon X Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno W3 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Okapia Air
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Okapia Joy Next
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Spark Go 2023
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Pova 5G
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 18 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 50
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 50s
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 50 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+  - **Updated phone**: Tecno Camon 30 Pro
+    - last_updated: Changed from '2025-09-11 09:05:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:05:28' to 'None'
+
+
+#### asus
+
+- **Updated phones**: 50
+
+  - **Updated phone**: Asus Zenfone 12 Ultra
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 9 FE
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 9 Pro
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 9
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 11 Ultra
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 8 Pro (24GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 8 Pro
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 8
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 8 (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5s (18GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 10
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 10 (256GB ROM)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Rog Phone 7 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Rog Phone 7
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 7 Ultimate
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 6D
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 6D Ultimate
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 9
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 6
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 6 (256GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5s
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5s (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5 (256GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 5 (16GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 3 Strix
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 3 ZS661KS
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone II ZS660KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 2
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus ROG Phone 2 (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 6 ZS630KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 6z
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Max Shot (ZB634KL)
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Max Plus (M2) ZB634KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Go ZB552KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Live ZB501KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 3s Max ZC521TL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 3 Max ZC553KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone GO ZB500KG
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Go ZB500KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 3 Max ZC520TL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Max ZC550KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE601KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE500KG
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE550KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 Deluxe ZE551ML
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 Laser ZE500KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone Selfie ZD551KL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 ZE551ML
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+  - **Updated phone**: Asus Zenfone 2 ZE500CL
+    - last_updated: Changed from '2025-09-11 09:07:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:07:08' to 'None'
+
+
+#### meizu
+
+- **Updated phones**: 40
+
+  - **Updated phone**: Meizu Note 22
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 22 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 16
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 16 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu mBlu 21
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 21
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 21 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Lucky 08 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Lucky 08
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 21 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 21
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 20 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 20
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 16T
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 16T Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 9
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu C9
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu C9 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu X8
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Note 8
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 16X
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu V8 Pro
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu V8
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 16
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 16 Plus
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M6T
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M8c
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu E3
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 15 Lite
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu 15 Plus
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M6s
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M6
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M6 Note
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Pro 7
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Pro 7 Plus
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M5c
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu E2
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M5s
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu Pro 6
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+  - **Updated phone**: Meizu M2 Note
+    - last_updated: Changed from '2025-09-11 09:09:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:09:19' to 'None'
+
+
+#### iqoo
+
+- **Updated phones**: 86
+
+  - **Updated phone**: iQOO Z10 Turbo Plus
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Turbo Plus (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10R
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Lite
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo 10
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo 10 (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo 10 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo 10 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China) (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Neo10 Pro Plus (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Turbo
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Turbo Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Turbo (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 Turbo Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10x
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10x (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10x (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: iQOO Z10 (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 10R
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 10R (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 10R (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Endurance
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo10 Pro (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo10 (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 13
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 13 (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9s Pro (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Lite (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Lite
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro Plus
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9s Pro (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9x (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 Turbo
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9x
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z9 (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9 Pro (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9 (512GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo9 (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 12 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 12
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z7 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z7 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z8 (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 7 Pro (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 7 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 11s
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo8 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo8
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z7s
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z7
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z7 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 7
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo 7 (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 11 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo7 SE
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 11 (16GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z6 Lite
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z6 Lite (128GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 9T
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Neo6
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z6 Pro
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z6 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO Z6 44W
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 9 SE
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 9 SE (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 9 (China)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 11
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: vivo iQOO 7 (256GB)
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: vivo iQOO 7
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+  - **Updated phone**: Vivo iQOO 14
+    - last_updated: Changed from '2025-09-11 09:13:57' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:13:57' to 'None'
+
+
+#### sony
+
+- **Updated phones**: 85
+
+  - **Updated phone**: Sony Xperia 1 VII (512GB)
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1 VII
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1 VI
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1 V
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 5 IV
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1 IV
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 5 III
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1 III
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 10 III
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 5
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 1
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 10 Plus
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia 10
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia L3
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ3
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA2 Plus
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ2 Premium
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ2
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ2 Compact
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA2
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia L2
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia R1 (Plus)
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA1 Plus Dual (4GB+32GB)
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ1 Compact
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ1 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ1
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia L1 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ Premium Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA1 Ultra Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZs Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA1 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XZ Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA Ultra Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia X
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia X Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z5 Premium Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z5 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia XA1 Plus
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M5 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia C5 Ultra Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia C4
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M4 Aqua Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M4 Aqua
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia C4 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia E4 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z3
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z3 Compact
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia E3 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia C3 Dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia T3
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M2
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M2 dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z2
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia E1 dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia T2 Ultra dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z1
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M DUAL
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia M
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z Ultra
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia C
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia ZR
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia L
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia ZL
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia SP
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia Z
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia E dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia V
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia tipo dual
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia T
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia SL
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia miro
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia TX
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia acro S
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia J
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia tipo
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia go
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia neo L
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia P
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia U
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Xperia S
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Live with Walkman
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+  - **Updated phone**: Sony Ericsson Xperia Arc S
+    - last_updated: Changed from '2025-09-11 09:14:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:14:37' to 'None'
+
+
+#### oppo
+
+- **Updated phones**: 226
+
+  - **Updated phone**: Oppo Find X9 Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F31
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F31 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F31 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X9 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5i Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A6 Max
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 4G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno14 F
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno14
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13 Turbo
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13 Turbo Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13 Turbo (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13 Turbo Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13x
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5i
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno14 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno14 (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno14 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5x
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K13 (256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8s Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8 Ultra
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F29 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F29 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 (China)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 Energy
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 F
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 F 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 Pro (China)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 (China)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 Pro (China)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 (China) (256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 (China) (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno13 Pro (China) (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X8 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K12 Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3x 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3x
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno11
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F27
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3x (128GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A80
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K12x
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3x 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno12 F 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno 12
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno12 F
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: OPPO Reno12 F (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno12 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F27 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno12 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno12 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K12
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3 Pro (China)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A60
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A60 (256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F25 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno 11 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno11 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X7 Ultra
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X7 Ultra (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X7
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X7 (16GB/1TB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oukitel WP32
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A18 (128GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A18
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A38
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A38 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N3 Flip (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N3 Flip
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno10 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno10 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno10 5G (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno10 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X6 (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X6 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X6 Pro (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X6
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno8 T 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno8 T
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A78
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N2 Flip
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find N2
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno9 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: OPPO Reno9 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno9
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno9 (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oukitel WP21
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A17K
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A77s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A17
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F21s Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A77
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno8
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno8 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A57 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F21 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F21 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K10
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A16e
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X5 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X5 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A76
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno7 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno7 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A95
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno6
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A16
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A16 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno6 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno6 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: OPPO A95 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A54
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F19
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X3 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F19 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno5 5G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A15s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A15
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A33
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F17
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F17 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A53
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno4
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A58 4G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A58 4G
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A92
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A72
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Ace2
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A12
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A52
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A12 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A92s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X2 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno3 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X2
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A31
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F15
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A91
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno2 F
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A11
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno Ace
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno Ace (256GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno Ace (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 (2020)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5 (2020) (4GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A9 (2020)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno 2
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno2 Z
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno 10x Zoom
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F11 Pro Marvels Avengers
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F11
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A1K
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Reno
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F11 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A7
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo RX17 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo R17 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo K1
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A7x
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F9
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F9 (6GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F9 Pro
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F9 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3s (32GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A3s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find X
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F7 (128GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F7
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A71 (2018)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A83 (2018)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A83 (3GB+32GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A83
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F5 Youth
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F5 (64GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A71
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F3 Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A37fw
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A57
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F1s
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F1s (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo C1
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F1 Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo F1
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A33f
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Neo 7
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo R7 lite
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Joy 3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Mirror 5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo R7 Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Joy Plus
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Mirror 3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo R5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo R1k
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo N1 mini
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Joy
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Neo 5
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Neo 3
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Yoyo
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find 7
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo Find 7a
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+  - **Updated phone**: Oppo A4
+    - last_updated: Changed from '2025-09-11 09:17:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:05' to 'None'
+
+
+#### coolpad
+
+- **Updated phones**: 13
+
+  - **Updated phone**: Coolpad CP12 Neo
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad X100
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad C16s
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Cool 40i
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad C16
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Legacy SR
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Cool 5
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Cool 3 Plus
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Legacy
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Cool Play 8
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Mega 5A
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Cool 2
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+  - **Updated phone**: Coolpad Note 6
+    - last_updated: Changed from '2025-09-11 09:16:27' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:16:27' to 'None'
+
+
+#### cat
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Cat B35
+    - last_updated: Changed from '2025-09-11 09:17:21' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:17:21' to 'None'
+
+
+#### lg
+
+- **Updated phones**: 73
+
+  - **Updated phone**: LG X4 Plus
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Velvet 5G UW
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Velvet 4G
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Velvet
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Folder 2
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG W30 Pro
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K50
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG W10
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG V50 ThinQ 5G
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Q60
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG V40 ThinQ
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Q8
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K11 Plus
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Q Stylo 4
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Q6
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K8 (2017)
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K4 (2017)
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G6
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Stylus 3
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K10 (2017)
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Stylus 2 Plus
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G5
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG X Screen
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K7
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG K10
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Class
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Magna
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G4
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Leon
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G Flex2
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG L Bello
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G3S
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G3 S
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG L70 Dual D325
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G3
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G Pro 2
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G2 mini
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Nexus 5
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G Flex
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G Pro Lite Dual
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G2
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG G2 (32GB)
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Nexus 4 E960
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GW620
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GD510 Cookie pop
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG BL20 New Chocolate
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG BL40 New Chocolate
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GB230 Julia
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GW300
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GB110
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GM200
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KS660
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GB210
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KM900
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KM335
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG GB106
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP260
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Cookie KP500
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP175
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KC910 Renoir
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP199
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP220
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KT520
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KM710
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KM380
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG Secret KF750
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP105
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP135
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP110
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KP115
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG VIEWTY KU990
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG KG195
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: LG SHINE KE970
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+
+#### umidigi
+
+- **Updated phones**: 14
+
+  - **Updated phone**: Umidigi G9x
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi Note 100 5G
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi G9T
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi G9C
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi G9A
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi G9 5G
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: UMIDIGI F2
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi A5 Pro
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi One Max
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi A3
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi One Pro
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi One
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi A1 Pro
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+  - **Updated phone**: Umidigi S2 Lite
+    - last_updated: Changed from '2025-09-11 09:18:18' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:18' to 'None'
+
+
+#### leitz
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Leitz Phone 1
+    - last_updated: Changed from '2025-09-11 09:18:20' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:20' to 'None'
+
+
+#### blackview
+
+- **Updated phones**: 5
+
+  - **Updated phone**: Blackview BV8200
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: Blackview Shark 9
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: Blackview Wave 8
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: Blackview BL9000 Pro
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+  - **Updated phone**: Blackview N6000
+    - last_updated: Changed from '2025-09-11 09:18:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:08' to 'None'
+
+
+#### nio
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Nio Phone 2
+    - last_updated: Changed from '2025-09-11 09:18:21' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:18:21' to 'None'
+
+
+#### microsoft
+
+- **Updated phones**: 8
+
+  - **Updated phone**: Microsoft Lumia 950 XL
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 950
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 430 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 540 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 640 XL Dual SIM
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 435
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 532 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 535 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:19:28' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:28' to 'None'
+
+
+#### gionee
+
+- **Updated phones**: 7
+
+  - **Updated phone**: Geo R23
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee L800
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee L910
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee P4S
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee Elife S7
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee Pioneer P6
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+  - **Updated phone**: Gionee Marathon M3
+    - last_updated: Changed from '2025-09-11 09:19:24' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:24' to 'None'
+
+
+#### zte
+
+- **Updated phones**: 71
+
+  - **Updated phone**: ZTE nubia A36
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia A56
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A35e
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A76
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 10S Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia RedMagic 10S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V70 Design
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V70 Design (256GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z70S Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia RedMagic 10 Air
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Neo 3 GT
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Focus 2 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Focus 2
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V70 Max
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Flip2
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Music 2
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V70
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z70 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z70 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 10 Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 10 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V60
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A75 5G
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A35
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60 Ultra Leading
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60S Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A55
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A75
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 9S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 9S Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Voyage 3D
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V60 Design
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Axon 60
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Music
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Flip
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Flip (256GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A34
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 9 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 9 Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A54
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V50 Design 4G
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A73
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Neo
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Z50S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8S Pro (512GB RAM)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8S Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A72s
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Z50 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V40
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade V40 Design
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8 Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 8 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Z50
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Red Magic 7S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Axon 40 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic 6S Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic 6 Pro
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic 5G
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic 3
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade L8
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Blade A3 (2019)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Red Magic
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia Z18 mini
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE Nubia V18
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+  - **Updated phone**: ZTE nubia Z60 Ultra (2024)
+    - last_updated: Changed from '2025-09-11 09:19:19' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:19' to 'None'
+
+
+#### huawei
+
+- **Updated phones**: 141
+
+  - **Updated phone**: Huawei Pura 80
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 80 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 80 Ultra (1TB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 80 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 80 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 14
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 14 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova Y73
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova Y63
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Enjoy 80
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova Y72S
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura X
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Enjoy 70X
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate X6
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 70 RS Ultimate
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 70
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 70 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 70 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 13
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 13 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate XT Ultimate
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate XT Ultimate (512GB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate XT Ultimate (1TB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate X5
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 60
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei nova Flip
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 70
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 70 (512GB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 70 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Pura 70 Ultra
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 60 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 60 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 60 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 11 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P60 Art
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate X3
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P60
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P60 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P60 Pro (12/512GB)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 50
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 50 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P50 Pocket
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P50 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 40 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y8p
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P40 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5p
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6p
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6s
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P40 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate Xs
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y7p
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 7i
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y9s
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate X
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 30 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 5T
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 30 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y9 Prime 2019
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5 (2019)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor 8a Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P30 Lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Enjoy 9e
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P30
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P30 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 Pro (2019)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y7 Pro (2019)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y Max
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 4
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 20
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 20 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y9 (2019)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Honor 8X
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 3
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 3i
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5 Prime (2018)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y3 2018
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 Prime (2018)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y7 Pro (2018)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y9 (2018)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 3e
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P20
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P20 Lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P20 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P Smart
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 10 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 10
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Nova 2i
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P9 Lite Mini
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 (2017)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y7
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 II Prime
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y3 (2017)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5 (2017)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y7 Prime
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P10 Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P10
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P10 Lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P8 Lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei GR3 (2017)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei GR5 (2017) Premium
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 II
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei GR5 Mini
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5II
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y3 II
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P9 lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P9
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei GR5
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate 8
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6 Pro
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei G7 Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y3C
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y6
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P8lite
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei GR3
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y5c (Honor Bee)
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Y625
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei P8
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei G Play Mini
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor 6 Plus
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Y520
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor Holly
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend G7
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Mate7
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor 4X
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor 6
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend P7
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend G630
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend G700
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Honor 3C
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Y511
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend G610
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend P6
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend W1
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend G510
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Mate
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Y210D
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Y300
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Ascend Y200
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+  - **Updated phone**: Huawei Mate XT
+    - last_updated: Changed from '2025-09-11 09:19:22' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:19:22' to 'None'
+
+
+#### cubot
+
+- **Updated phones**: 7
+
+  - **Updated phone**: Cubot KingKong X Pro
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot KingKong Power 3
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot KingKong Star 2
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot A20
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot KingKong ES
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot KingKong Mini 3
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+  - **Updated phone**: Cubot Pocket 3
+    - last_updated: Changed from '2025-09-11 09:20:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:23' to 'None'
+
+
+#### freeyond
+
+- **Updated phones**: 1
+
+  - **Updated phone**: FreeYond F9
+    - last_updated: Changed from '2025-09-11 09:20:35' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:35' to 'None'
+
+
+#### vivo
+
+- **Updated phones**: 258
+
+  - **Updated phone**: Vivo V60
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V60 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V60 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29t
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4R
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y400 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y400
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y400 (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 FE
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Fold5
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Fold5 (512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Fold5 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y400 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4 Ultra
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4 Ultra (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S30 Pro Mini
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S30 Pro Mini (512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S30 Pro Mini (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S30
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19s Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19s Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300 GT
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Ultra
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y37c
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4 (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200s (512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200s (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 Lite 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 Lite 4G (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 Lite 4G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50e (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300t
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y39
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y04 (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y04
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y04 (128GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4x (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4x (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T4x
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 (256GB ROM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29 4G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y200 Plus
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y29 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300 (China)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S20 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S20
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y18t
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Lite
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Lite (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Pro Mini
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19s (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Pro (16GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X200 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300 Plus
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40e (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y37 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Lite (IDN)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Lite 4G (IDN)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3 Ultra
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3 Ultra (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3 Ultra (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y37
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V40 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y03t
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y03t (128GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3 Lite
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28 4G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28 4G (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28 4G (128GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y58
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y18 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y18
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S19 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S19
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100 Ultra
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y200 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100s Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30 Lite 4G (128GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30 Lite 4G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo G2
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3x
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3x (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Fold3 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Realme Narzo 70 Turbo (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T3
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y03
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V30
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y100t
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y200e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y28 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S18
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100 (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X100 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y27s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V29e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V29
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V29 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y17s (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y17s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T2 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T2 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V29e (India) 256GB
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V29e (India)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y02T
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y27
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S17 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y36
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y36 (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Fold2
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Flip
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T2x
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo T2 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y02a
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V27 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V27e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V27 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V27 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V27 Pro (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y56
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S18 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S16
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90 Pro Plus (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X90 (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y02
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V25 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V25e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y22
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y16
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+    - updated_on: Changed from 'March 10, 2025' to 'September 11, 2025'
+    - variants[0]: Changed from '{'name': '4GB+64GB', 'price': '৳.14,999', 'url': 'https://www.mobiledokan.com/mobile/vivo-y16'}' to '{'name': '4GB+64GB', 'price': '৳.13,999', 'url': 'https://www.mobiledokan.com/mobile/vivo-y16'}'
+
+  - **Updated phone**: Vivo V25 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y22s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y35
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y02s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X80
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X Note
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y01
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V23 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V23 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y21T
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V23e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y15s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X70 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y33s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y21
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y53s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y12A
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V21e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V21
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X60 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y20G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: vivo iQOO 7 (12GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y20 2021
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y51
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y12s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V20
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V20 SE
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y20
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y20i
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X50
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y1s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X50 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y30
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo X50 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V19
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: vivo iQOO Neo3 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y50
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S6 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo iQOO 3 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo iQOO 3 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo iQOO 3 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y91C 2020
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: vivo X30 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y5s
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y19
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S1 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S5
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo U20
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo U20 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo U3
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y11 (2019)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y17 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V17 Pro (256GB ROM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V17 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V17 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Z1x
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo NEX 3
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo NEX 3 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo NEX 3 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo U10
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Z1 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y90
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S1
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo S1 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y12
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y15
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y17
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y91c
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V15
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V15 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y91 (2018)
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y93
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y91
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y95
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y91i
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y81i
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V11
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V11 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y85
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y81
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Z1
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V9 Youth
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y71
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V9
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y53
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y37 5G
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y18i
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y36c
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo V50 Pro
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y300i
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+  - **Updated phone**: Vivo Y18e
+    - last_updated: Changed from '2025-09-11 09:20:44' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:44' to 'None'
+
+
+#### blackberry
+
+- **Updated phones**: 1
+
+  - **Updated phone**: BlackBerry Keyone
+    - last_updated: Changed from '2025-09-11 09:20:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:20:56' to 'None'
+
+
+#### allview
+
+- **Updated phones**: 3
+
+  - **Updated phone**: Allview Soul X6 Xtreme
+    - last_updated: Changed from '2025-09-11 09:21:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:26' to 'None'
+
+  - **Updated phone**: Allview P10 Pro
+    - last_updated: Changed from '2025-09-11 09:21:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:26' to 'None'
+
+  - **Updated phone**: Allview A10 Plus
+    - last_updated: Changed from '2025-09-11 09:21:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:26' to 'None'
+
+
+#### lenovo
+
+- **Updated phones**: 19
+
+  - **Updated phone**: Lenovo Legion Y70
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A6 Note
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo K10 Plus
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo K6 Enjoy
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo Z5 Pro GT
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo Z5s
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo S5 Pro GT
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo Z5
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A5
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A5 (32GB)
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo K5 Play
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo Vibe K5
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo K5 Note
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo Vibe P1m
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo ZUK Z1
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A2010
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A1000
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo K3 Note
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+  - **Updated phone**: Lenovo A6000
+    - last_updated: Changed from '2025-09-11 09:21:36' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:21:36' to 'None'
+
+
+#### hmd
+
+- **Updated phones**: 11
+
+  - **Updated phone**: HMD Aura 2
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Arc
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD 110 4G
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD 105 4G
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Fusion
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Crest
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Crest Max
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Skyline
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD 105
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Hyper
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+  - **Updated phone**: HMD Ridge Pro
+    - last_updated: Changed from '2025-09-11 09:22:07' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:07' to 'None'
+
+
+#### maxis
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Maxis T10
+    - last_updated: Changed from '2025-09-11 09:22:17' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:17' to 'None'
+
+
+#### panasonic
+
+- **Updated phones**: 6
+
+  - **Updated phone**: Panasonic Eluga I7 (2019)
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+  - **Updated phone**: Panasonic Eluga Ray 800
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+  - **Updated phone**: Panasonic P85 NXT
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+  - **Updated phone**: Panasonic Eluga Ray 530
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+  - **Updated phone**: Panasonic Eluga Ray 600
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+  - **Updated phone**: Panasonic Eluga Z1 Pro
+    - last_updated: Changed from '2025-09-11 09:22:26' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:26' to 'None'
+
+
+#### xtra
+
+- **Updated phones**: 1
+
+  - **Updated phone**: XTRA X10
+    - last_updated: Changed from '2025-09-11 09:22:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:37' to 'None'
+
+
+#### motorola
+
+- **Updated phones**: 151
+
+  - **Updated phone**: Motorola Moto G86 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G96
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G96 (256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G86
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G56
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60s
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Pro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 60 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Stylus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Fusion
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 60 Fusion (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G Power (2025)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G 5G (2025)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G05
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G15
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E15
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G15 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G75
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ThinkPhone 25
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G35
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto S50
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Neo
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G45
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola S50 Neo (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola S50 Neo (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola S50 Neo
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G85 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G85
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 50 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 50
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola One Hyper
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge (2024)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G Stylus 5G (2024)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto X50 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Ultra (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Fusion (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Fusion
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G04s
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G04s (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G64
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G64 (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 50 Pro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G24 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G24 Power (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G24 Power (256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G04
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G24
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G34
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G34 (256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 40 Neo
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 40 Neo (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G84
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G54
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G54 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G14
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 40
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 40 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 40 Ultra (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G Stylus 5G (2023)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 40
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E13
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G73
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G13
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto X40
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E22s
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G72
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30 Fusion
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30 Ultra
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 2022
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G32
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto S30 Pro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G62
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G42
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G82
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G82 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E32
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30 Pro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 30 Ultra (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge S30
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G31
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G31 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E40
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 20 Fusion
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 20 Fusion (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge 20 Pro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G40 Fusion
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G40 Fusion (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G60
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G30
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G10 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E7 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge S
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E7 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G9 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G9 Play
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Edge Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E6s (2020)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G8 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 2019
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G8 Power Lite
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola One Action
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola G8 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola One Macro
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E6 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto Z4
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola One Vision
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G7 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G7
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G7 Play
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G7 Power
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola One
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto Z3
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E5 Play Go
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E5 Cruise
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto Z3 Play
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E5
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E5 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto E4 Plus
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Nexus 6
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G (2014)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G (16GB)
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto X
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ZN200
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ROKR EM325
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ZN5
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola EM30
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W388
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W181
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W230
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W270
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W160
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ROKR E8
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola RAZR2 V8
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola ROKR E6
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola KRZR K1
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola W220
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola RAZR V3i
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola C118
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola V3x
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Moto G55
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+  - **Updated phone**: Motorola Razr 50s
+    - last_updated: Changed from '2025-09-11 09:23:16' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:16' to 'None'
+
+
+#### htc
+
+- **Updated phones**: 63
+
+  - **Updated phone**: HTC Wildfire E5 Plus
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC U24 Pro
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC U23
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC U23 Pro
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Wildfire E Lite
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Wildfire E2
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: TCL 10 5G
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 20 Pro
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Wildfire X
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC U19e
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Exodus 1
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 12s
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 12
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC U11 Eyes
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 10 Pro
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 630
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 830
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One M9 Plus
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 530
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One X9
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 728 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One A9
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One ME
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 326G dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One E9 Plus
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 626G Plus
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 826 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 626
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 820s dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 526G Plus dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 620G dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire Eye
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 820 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One (M8 Eye)
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 616 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One (E8)
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One mini 2
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 610
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 310 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 816
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One (M8)
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One Max
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One mini
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 200
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Butterfly S
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire 600 dual sim
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire X
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire VC
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire C
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One X
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC One V
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Sensation XL
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Radar
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Explorer
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Sensation XE
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Salsa
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC ChaCha
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Sensation
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire S
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire HD
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Desire Z
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+  - **Updated phone**: HTC Wildfire
+    - last_updated: Changed from '2025-09-11 09:23:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:13' to 'None'
+
+
+#### celkon
+
+- **Updated phones**: 3
+
+  - **Updated phone**: Celkon C6 Star
+    - last_updated: Changed from '2025-09-11 09:22:50' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:50' to 'None'
+
+  - **Updated phone**: Celkon C9 Jumbo
+    - last_updated: Changed from '2025-09-11 09:22:50' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:50' to 'None'
+
+  - **Updated phone**: Celkon C366
+    - last_updated: Changed from '2025-09-11 09:22:50' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:22:50' to 'None'
+
+
+#### leica
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Leica Leitz Phone 2
+    - last_updated: Changed from '2025-09-11 09:23:25' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:25' to 'None'
+
+
+#### hallo
+
+- **Updated phones**: 3
+
+  - **Updated phone**: Hallo H100 Music
+    - last_updated: Changed from '2025-09-11 09:23:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:08' to 'None'
+
+  - **Updated phone**: Hallo Power
+    - last_updated: Changed from '2025-09-11 09:23:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:08' to 'None'
+
+  - **Updated phone**: Hallo Classic
+    - last_updated: Changed from '2025-09-11 09:23:08' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:08' to 'None'
+
+
+#### acer
+
+- **Updated phones**: 2
+
+  - **Updated phone**: Acer Super ZX
+    - last_updated: Changed from '2025-09-11 09:23:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:37' to 'None'
+
+  - **Updated phone**: Acer Super ZX Pro
+    - last_updated: Changed from '2025-09-11 09:23:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:23:37' to 'None'
+
+
+#### 5star
+
+- **Updated phones**: 17
+
+  - **Updated phone**: 5star BD17 Pro
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD27 Plus
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD40
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD6310
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD20
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD24
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD5106
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD29 Plus
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD31
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD30
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD39
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD5105
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD60
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD150
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD80(4SIM)
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star BD70(4SIM)
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+  - **Updated phone**: 5star DX10
+    - last_updated: Changed from '2025-09-11 09:24:13' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:13' to 'None'
+
+
+#### gdl
+
+- **Updated phones**: 10
+
+  - **Updated phone**: GDL GigaX Y10
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL G88
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL GigaX Y30
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL G801
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL Victor
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL G405
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL G702
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL Go 4G
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL Hot
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+  - **Updated phone**: GDL GigaX Y21
+    - last_updated: Changed from '2025-09-11 09:24:51' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:51' to 'None'
+
+
+#### ulefone
+
+- **Updated phones**: 11
+
+  - **Updated phone**: Ulefone Armor X32
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor 34 Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor 33 Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor Mini 4
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor X31 Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Note 18 Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor Mini 20T Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Note 20 Pro
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Note 19
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Armor 28 Ultra
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+  - **Updated phone**: Ulefone Note 18 Ultra
+    - last_updated: Changed from '2025-09-11 09:24:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:43' to 'None'
+
+
+#### nokia
+
+- **Updated phones**: 283
+
+  - **Updated phone**: Nokia 130 Music
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 150 Music
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 4G 2nd Edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 4G 2nd Edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 108 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 220 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 215 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 235 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3210
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 225 4G (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5310 (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6310 (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 230 (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia XR21 Limited Edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 150 (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 130 (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 4G (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 4G (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 106 (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 DS (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 106 DS (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 106 4G (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C110
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C12 Pro
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C32
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C22
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C12
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2780 Flip
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2022)
+    - url: Changed from 'https://www.mobiledokan.com/mobile/nokia-105-2022-' to 'https://www.mobiledokan.com/mobile/nokia-105-2022'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - serial_number: Changed from '40' to '33'
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+    - updated_on: Changed from 'October 27, 2024' to 'October 25, 2024'
+    - specifications.General.Release Date: Changed from '04 April 2023' to '15 August 2022'
+    - Added new field: specifications.Hardware & Software.Chipset
+    - specifications.Display.Screen Size: Changed from '1.77 inches (4.5 cm)' to '1.77 inches (9.7 cm2)'
+    - specifications.Display.Resolution: Changed from '128x160 px' to '120x160 px'
+    - Added new field: specifications.Display.Aspect Ratio
+    - specifications.Display.Pixel Density: Changed from '116 ppi' to '113 ppi'
+    - specifications.Display.Screen to Body Ratio: Changed from '17.15 %' to '16.9 %'
+    - specifications.Design.Colors: Changed from 'Blue, Charcoal' to 'Charcoal, Blue'
+    - Removed field: specifications.Design.Weight
+    - Removed field: specifications.Battery.Standby
+    - Removed field: specifications.Battery.Talk Time
+    - specifications.Network & Connectivity.SIM Size: Changed from 'SIM1: Mini' to 'Mini-SIM, dual stand-by'
+    - specifications.Network & Connectivity.USB: Changed from 'MicroUSB 2.0' to 'microUSB 1.1'
+    - Removed field: specifications.Multimedia.Audio Jack
+    - gallery_images[0]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[1]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[2]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[3]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[4]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp'
+    - gallery_images[5]: Changed from 'https://www.mobiledokan.com/media/nokia-105-2022-charcoal-image.webp' to 'https://www.mobiledokan.com/media/nokia-105-2022-chaecoal-image_1.webp'
+
+  - **Updated phone**: Nokia 110 (2022)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8210 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5710 XpressAudio
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2660 Flip
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C2 2nd edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 Plus (2022)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2022)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2760 Flip
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia G21
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 Africa Edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C100
+    - name: Changed from 'Nokia C1-00' to 'Nokia C100'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/nokia-c1-00' to 'https://www.mobiledokan.com/mobile/nokia-c100'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/nokia-c1-00-front-image.webp' to 'https://www.mobiledokan.com/media/nokia-c100-blue-image.webp'
+    - serial_number: Changed from '174' to '44'
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+    - updated_on: Changed from 'February 27, 2025' to 'October 27, 2024'
+    - specifications.General.Model: Changed from 'C1-00' to 'C100'
+    - specifications.General.Device Type: Changed from 'FeaturePhone' to 'SmartPhone'
+    - specifications.General.Release Date: Changed from '01 September 2010' to '20 January 2022'
+    - specifications.Hardware & Software.Operating System: Changed from 'FeaturePhone' to 'Android'
+    - Added new field: specifications.Hardware & Software.OS Version
+    - Added new field: specifications.Hardware & Software.Chipset
+    - Added new field: specifications.Hardware & Software.CPU
+    - Added new field: specifications.Hardware & Software.CPU Cores
+    - Added new field: specifications.Hardware & Software.Architecture
+    - Added new field: specifications.Hardware & Software.Fabrication
+    - Added new field: specifications.Hardware & Software.GPU
+    - specifications.Display.Display Type: Changed from 'TFT' to 'IPS LCD'
+    - specifications.Display.Screen Size: Changed from '1.8 inches (10.2 cm2)' to '5.45 inches (13.84 cm)'
+    - specifications.Display.Resolution: Changed from '128x160 px' to '720x1440 px (HD+)'
+    - Added new field: specifications.Display.Aspect Ratio
+    - specifications.Display.Pixel Density: Changed from '114 ppi' to '295 ppi'
+    - Added new field: specifications.Display.Screen Protection
+    - Added new field: specifications.Display.Bezel-less Display
+    - Added new field: specifications.Display.Touch Screen
+    - Removed field: specifications.Display.Screen to Body Ratio
+    - Added new field: specifications.Cameras
+    - specifications.Design.Colors: Changed from 'Medium Blue, Red, Light Gray, Sea Green' to 'Blue'
+    - Added new field: specifications.Design.Waterproof
+    - Added new field: specifications.Design.IP Rating
+    - Removed field: specifications.Design.Height
+    - Removed field: specifications.Design.Width
+    - Removed field: specifications.Design.Thickness
+    - Removed field: specifications.Design.Weight
+    - specifications.Battery.Battery type: Changed from 'Li-Ion (Lithium-Ion)' to 'Li-Poly (Lithium Polymer)'
+    - specifications.Battery.Capacity: Changed from '1020 mAh' to '4000 mAh'
+    - Removed field: specifications.Battery.Standby
+    - Removed field: specifications.Battery.Talk Time
+    - Added new field: specifications.Memory
+    - specifications.Network & Connectivity.Network: Changed from '2G' to '2G, 3G, 4G'
+    - specifications.Network & Connectivity.SIM Size: Changed from 'Mini' to 'SIM1: Nano, SIM2: Nano'
+    - Added new field: specifications.Network & Connectivity.EDGE
+    - Added new field: specifications.Network & Connectivity.GPRS
+    - Added new field: specifications.Network & Connectivity.VoLTE
+    - Added new field: specifications.Network & Connectivity.Speed
+    - Added new field: specifications.Network & Connectivity.WLAN
+    - Added new field: specifications.Network & Connectivity.Bluetooth
+    - Added new field: specifications.Network & Connectivity.GPS
+    - Added new field: specifications.Network & Connectivity.Wi-fi Hotspot
+    - Added new field: specifications.Network & Connectivity.USB
+    - Added new field: specifications.Sensors & security
+    - Added new field: specifications.Multimedia.Document Reader
+    - Added new field: specifications.More.Features
+    - gallery_images: List length changed from 7 to 9
+
+  - **Updated phone**: Nokia 6310 (2021)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C1 2nd Edition
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 DS (2023)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia G20
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia G10
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia G10 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C10
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1.4
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6300 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8000 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C1 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8 V 5G UW
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3.4
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3.4 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 225 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 225
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2.4
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 150 (2020)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 125
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5.3
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5310 (2020)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2.3
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6.2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 800 Tough
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7.2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110 (2019)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2720 Flip
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2019)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 220 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3.2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2.2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2.2 (3GB/32GB)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 4.2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X71
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 210
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 9 PureView
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 106 (2018)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7.1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3.1 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5.1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2.1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6.1 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8110 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5.1 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7 Plus
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6.1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3310
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3310 4G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 130 Dual (2017)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5 (3GB)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 (2017)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3310 (2017)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 150
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 216
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 230 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Microsoft Lumia 550
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 222 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 222
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 105 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 215 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 130 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 730 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 530 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X2 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 225 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia XL Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 630 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 630
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 220 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 230
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 1320
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 108 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 107 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 1520
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 500 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 515 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 1020
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 210
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 520
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 301
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 620
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 205
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 206
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 112
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 103
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 920
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 309
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 820
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 311
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 110
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 202
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 305
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 302
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X2-05
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C2-05
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 200
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Asha 300
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 800
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C2-06
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 101
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C5-02
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N9
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 701
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 700
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 100
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C2-00
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X1-01
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C2-01
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E7
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X2-01
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C5-03
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C1-01
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5250
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N8-00
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C7
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C3-01 Touch and Type
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X3-02
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C1-00
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E5
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C6
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X6 8GB (2010)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X2-00
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C3
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1800
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6700 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia C5
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X6-00( 8GB)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X6-00
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1280
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6303i Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2220 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5233
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X3
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3710 Fold
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N97 Mini
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7230
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1616
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1661
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E72
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2730 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia X6 (2009)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5530 XpressMusic (4GB)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N900
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5530 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E55
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2323 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E52
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6730 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2700 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6720 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N86
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N97
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5030 XpressRadio
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5630 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5730 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2330 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6700 Gold
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6303 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E75
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6260 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6212 classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5130 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7100 Supernova
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E63
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1202
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5800 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1203
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3610 Fold
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N85
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N79
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N96
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2680 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 8800 Carbon
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7210 Supernova
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3600 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7610 Supernova
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7070 Prism
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1209
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6600 Fold
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6600 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E71
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5220
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6220 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5320 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6210 Navigator
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E66
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1680 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5000
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 7310 Supernova
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N78
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3120 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2600 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1650
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N82
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E51
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N81
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5310 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5610 XpressMusic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3500 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N81 8GB
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N95 8GB
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6500 Slide
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E90
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2630
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1200
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1208
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2760
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6120 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N95
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6110 Navigator
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E61i
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia E65
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 3110 Classic
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6300
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N93i
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 2626
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5200
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5300
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N73
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 5500 Sport
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N72
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6125
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 6070
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia 1600
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia N70
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Lumia 200 5G
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+  - **Updated phone**: Nokia Dragon Pro (2024)
+    - last_updated: Changed from '2025-09-11 09:25:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:14' to 'None'
+
+
+#### thuraya
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Thuraya One
+    - last_updated: Changed from '2025-09-11 09:24:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:54' to 'None'
+
+
+#### we
+
+- **Updated phones**: 35
+
+  - **Updated phone**: We L9
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE V5
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: We V4
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE R4
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE B2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE X2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE A50
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE F10
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE A10
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE F20
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: We F1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L8
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE T1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L7
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE E2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE B3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE S1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE R3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE A3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L6
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE V3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE X3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L5
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE E1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE A2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE R2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L3
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L4
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE V2
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE V1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE X1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE B1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE R1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+  - **Updated phone**: WE L1
+    - last_updated: Changed from '2025-09-11 09:25:01' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:01' to 'None'
+
+
+#### realme
+
+- **Updated phones**: 285
+
+  - **Updated phone**: Realme 15T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 70
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 70 (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P4
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P4 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P4 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 70T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 15
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 15 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 15 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 15 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 15 Pro (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 80 Lite
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT7 Dream Edition
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C73
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 Turbo (512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 Turbo (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 Turbo
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 7T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 7
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C71
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C71 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C75 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT7 (China) (512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT7 (China)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C75x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 80x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 80x (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 80 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 80 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 Ultra (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 Ultra
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro Lite (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro Lite
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 SE
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P3 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 SE (512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT7 Pro Racing
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 60x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro Plus (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14x (India)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C75
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C75 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Neo7
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme V60 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 7 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 7 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1 Speed
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 4G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P2 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P2 Pro (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Plus (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C61
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 60
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 60 (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C63 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro Plus (512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro Plus (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 4G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 13 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N61
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 6 (China)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme V60
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 6
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme N63
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N63
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C63
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C63 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6S
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N65
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 6T (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 6T (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 6T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 6
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C65 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo6 SE (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo6 SE
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P1 (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C65
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C65 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12x
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70 Turbo (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70 Turbo
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 70 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C51s
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 Plus (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 12 Pro Plus 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 50
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Note 50 (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 14 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C67
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT5 Pro (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT5 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60x 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60x 5G (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT5
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT5 240W
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11X 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11X 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C51
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60 Pro (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 60 (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C53 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C53
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C53 (64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N53
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N53 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11 Pro Plus (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11 Pro Plus (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 11 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo5 SE
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C55 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C55
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro Coca-Cola Edition
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 5
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 5 240W
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro plus (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro plus (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 Pro (8GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 (8GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 10 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C30s
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C33
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C33 (4GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C33 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9i 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50i Prime
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50i Prime (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 3T
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT NEO 3T (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT NEO 3T (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C30
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 5G (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C31
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo 3 150W
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50A Prime
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 5G Speed
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 5G (India)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 5G Speed (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9 Pro Plus Free Fire Limited Edition
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C35
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C35 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 9i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT2 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 50A
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C25Y
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo2
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Master Edition
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Master Edition (256GB ROM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C21Y
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C21Y (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C11 (2021)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C11 (2021) (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C25s (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C25s
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X7 Max
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 30
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C20A
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 8 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C25
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C25 (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 8
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 8 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 30A
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C21 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C21
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 7i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C15 Qualcomm Edition
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C15 Qualcomm Edition (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 20
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 20 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 20 Pro (8GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C17
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X7 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 7 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 7
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 7 (8GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme V3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X7
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X7 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C12
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme V5 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C15
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50 5G (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C3i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X3 SuperZoom
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 10A
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo 10
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50t 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50m 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50m 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6 Pro (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 6
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X50 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C3 (3 cameras)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C2 2020
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C2 2020 (3GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5s (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5s
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2 Pro (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2 Pro (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2 (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X2 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Q
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme XT
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 5
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 3i
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X (128GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme X Lite
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C2
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 3 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 3 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C1 (2019)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme U1
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 2 Pro
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 2 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme 2
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C1
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme Narzo N55
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme C3
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme P2
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+  - **Updated phone**: Realme GT Neo7
+    - last_updated: Changed from '2025-09-11 09:25:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:53' to 'None'
+
+
+#### sonim
+
+- **Updated phones**: 4
+
+  - **Updated phone**: Sonim XP400
+    - last_updated: Changed from '2025-09-11 09:24:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:54' to 'None'
+
+  - **Updated phone**: Sonim XP100
+    - last_updated: Changed from '2025-09-11 09:24:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:54' to 'None'
+
+  - **Updated phone**: Sonim XP5plus
+    - last_updated: Changed from '2025-09-11 09:24:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:54' to 'None'
+
+  - **Updated phone**: Sonim XP3plus
+    - last_updated: Changed from '2025-09-11 09:24:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:24:54' to 'None'
+
+
+#### sharp
+
+- **Updated phones**: 5
+
+  - **Updated phone**: Sharp Aquos R10
+    - last_updated: Changed from '2025-09-11 09:25:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:42' to 'None'
+
+  - **Updated phone**: Sharp Aquos R9 pro
+    - last_updated: Changed from '2025-09-11 09:25:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:42' to 'None'
+
+  - **Updated phone**: Sharp Aquos sense9
+    - last_updated: Changed from '2025-09-11 09:25:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:42' to 'None'
+
+  - **Updated phone**: Sharp Aquos R9
+    - last_updated: Changed from '2025-09-11 09:25:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:42' to 'None'
+
+  - **Updated phone**: Sharp Aquos wish4
+    - last_updated: Changed from '2025-09-11 09:25:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:42' to 'None'
+
+
+#### bengal
+
+- **Updated phones**: 6
+
+  - **Updated phone**: Bengal BG 201 BD
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+  - **Updated phone**: Bengal BG103
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+  - **Updated phone**: Bengal BG01
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+  - **Updated phone**: Bengal BG03
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+  - **Updated phone**: Bengal BG105
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+  - **Updated phone**: Bengal BG 101
+    - last_updated: Changed from '2025-09-11 09:26:37' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:37' to 'None'
+
+
+#### geo
+
+- **Updated phones**: 8
+
+  - **Updated phone**: Geo R27
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R26
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R17
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R25
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R44
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R2
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R40
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+  - **Updated phone**: Geo R11
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+
+#### proton
+
+- **Updated phones**: 17
+
+  - **Updated phone**: Proton X20 Pro
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton Sky
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton P25 Ultra
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton EVO33
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton ECO25
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton HULK
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton Bolt 4G
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton X10 Pro
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton C15
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: PROTON C17
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton B4
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton C4B
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton ECO
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton C16
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton E20
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton D1
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+  - **Updated phone**: Proton C12
+    - last_updated: Changed from '2025-09-11 09:25:54' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:25:54' to 'None'
+
+
+#### wiko
+
+- **Updated phones**: 1
+
+  - **Updated phone**: Wiko Hi Enjoy 70
+    - last_updated: Changed from '2025-09-11 09:26:06' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:06' to 'None'
+
+
+#### oscal
+
+- **Updated phones**: 7
+
+  - **Updated phone**: Oscal Pilot 3
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Marine 1
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Pilot 1
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Flat 2
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Flat 2C
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Tiger 13
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+  - **Updated phone**: Oscal Tiger 10
+    - last_updated: Changed from '2025-09-11 09:26:23' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:23' to 'None'
+
+
+#### oukitel
+
+- **Updated phones**: 11
+
+  - **Updated phone**: Oukitel C58
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel C58 Pro
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel P1
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel C57 Pro
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel WP35 S
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel G2
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel G1
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel WP33 Pro
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel C36
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel C33
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+  - **Updated phone**: Oukitel C32
+    - last_updated: Changed from '2025-09-11 09:26:39' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:39' to 'None'
+
+
+#### philips
+
+- **Updated phones**: 4
+
+  - **Updated phone**: Philips S6210 Essence 10
+    - last_updated: Changed from '2025-09-11 09:26:59' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:59' to 'None'
+
+  - **Updated phone**: Philips S6310 Essence 20
+    - last_updated: Changed from '2025-09-11 09:26:59' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:59' to 'None'
+
+  - **Updated phone**: Philips S7710 Omni 10
+    - last_updated: Changed from '2025-09-11 09:26:59' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:59' to 'None'
+
+  - **Updated phone**: Philips S6206
+    - last_updated: Changed from '2025-09-11 09:26:59' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:59' to 'None'
+
+
+#### doogee
+
+- **Updated phones**: 26
+
+  - **Updated phone**: Doogee Blade20 Turbo
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Note59 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Note 59
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Note59 Pro
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Fire 6 Max
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee S200 Plus
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Blade GT Ultra
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee S119
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee S118 Pro
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Balde GT
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Fire 6
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Fire 6 Power
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: DOOGEE S200
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Blade10 Max
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee V40 Pro
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee V Max Pro
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Blade10
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Blade10 Pro
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee Blade10 Ultra
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee V Max Plus
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee S Punk
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee S Cyber
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee N55 Plus
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee DK10
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee V20S
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+  - **Updated phone**: Doogee V30T
+    - last_updated: Changed from '2025-09-11 09:26:33' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:26:33' to 'None'
+
+
+#### alcatel
+
+- **Updated phones**: 54
+
+  - **Updated phone**: Alcatel 3 (2025)
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Go Flip 3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 7
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 1054D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 2002D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel A3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel A5 LED
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel X1
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol 4
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pixi 4 (5)
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop 3 (5.5)
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pixi 4 (6)
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Flash 2
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop Up
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Onetouch 2007D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch 815 D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel POP Star
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Flash
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Fire C 2G
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop S3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop D5
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop D1
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 1060D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch 3020D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop D1
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop S9
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop D3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol 2
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Idol Alpha
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol Alpha
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop C9
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop C9
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol 2 Mini S
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol 2 S
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop C3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop C3
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop C1
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop C1
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 2005
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop 7
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop S9
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol X Plus
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Hero
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pop C5
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Pop C5
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol Mini
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 2040D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Pixi
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel OneTouch Tribe 3040D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel Idol X
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Scribe Easy
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch X'Pop
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel One Touch Star 6010D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+  - **Updated phone**: Alcatel 1011D
+    - last_updated: Changed from '2025-09-11 09:27:43' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:43' to 'None'
+
+
+#### tcl
+
+- **Updated phones**: 19
+
+  - **Updated phone**: TCL 60 SE NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 60 NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 60
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 60 XE NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL Classic
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL Flip 2
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL Flip 3
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 503
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL Flip
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 50 NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 50 Pro NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 50 XE NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 50 XL Nxtpaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 50 XL
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 505
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 40 NxtPaper
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 40 SE
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 408
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+  - **Updated phone**: TCL 10 Pro
+    - last_updated: Changed from '2025-09-11 09:27:34' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:27:34' to 'None'
+
+
+#### energizer
+
+- **Updated phones**: 15
+
+  - **Updated phone**: Energizer Ultimate U6G
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Hard Case P28K
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E288s
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E246SC
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E244s
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E242s Plus
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E20 Plus
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E29
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E282SC
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer E280s
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Hardcase H280S
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Energy E12
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Hardcase H10
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Power Max P20
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+  - **Updated phone**: Energizer Hardcase H240S
+    - last_updated: Changed from '2025-09-11 09:28:05' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:28:05' to 'None'
+
+
+#### maximus
+
+- **Updated phones**: 167
+
+  - **Updated phone**: Maximus M84
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus R1 Pro
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus P11
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus G10 Max
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus P6
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus D6
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus P7 Plus
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Noir X
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus P2
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus P7
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus D7
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus D1
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M32
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Aura 88
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Aura 77
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Aura 99
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M501M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Vjoy Supreme
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M123B
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M26
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Vjoy Rainbow Plus
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Vjoy Rainbow
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Vjoy Plus
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX902
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M505m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus iX UFO
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus iX Hexa
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus iCube
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M235m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M270s
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M316B
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M83
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus iX Kane
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M26i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M8i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus iX
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX990
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M100c
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M225m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M227m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M702T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max908i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M721t
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M333m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M232m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max405
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max12
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max14
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max406
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX991
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M35
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M117b
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max403
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max401
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max910
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M224m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M201i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M312b
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M706i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus Max404
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M22
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M111c
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M713t
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M315m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M109C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M266m
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus max11
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M220M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M266
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M321M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M309M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX908
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX903I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX950
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX980
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M120C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M108C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M107C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX907
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX905
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M36i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M209M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M310M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M215M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M14
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M214S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M17I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M304M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M311M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX906
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M710T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M216M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M106C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M211S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M30
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX909
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M112C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M208M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M308S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX903
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M307M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M504M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M706T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M104C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M205M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M704T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M206M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus MAX901
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M707T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M203M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M204M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M503M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M-23I
+    - name: Changed from 'Maximus M23I' to 'Maximus M-23I'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/maximus-m23i' to 'https://www.mobiledokan.com/mobile/maximus-m-23i'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/maximus-m23i-official-image.webp' to 'https://www.mobiledokan.com/media/maximus-m-23i-black-image.webp'
+    - serial_number: Changed from '145' to '113'
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+    - updated_on: Changed from 'November 14, 2024' to 'December 26, 2024'
+    - specifications.General.Model: Changed from 'M23I' to 'M-23I'
+    - specifications.General.Device Type: Changed from 'Feature phone' to 'FeaturePhone'
+    - specifications.General.Release Date: Changed from '11 July 2011' to '15 August 2012'
+    - Added new field: specifications.Hardware & Software
+    - specifications.Display.Display Type: Changed from 'TFT' to 'LCD'
+    - specifications.Display.Screen Size: Changed from '1.8 inches' to '1.8 inches (4.57 cm)'
+    - specifications.Display.Resolution: Changed from '220x176 px' to '128x128 px'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '0.3 MP Primary Camera' to '0.3 MP, Primary Camera'
+    - Added new field: specifications.Cameras.Primary Camera.Shooting Modes
+    - Added new field: specifications.Cameras.Primary Camera.Camera Features
+    - Removed field: specifications.Cameras.Primary Camera.Flash
+    - Removed field: specifications.Cameras.Primary Camera.Image Resolution
+    - specifications.Battery.Battery type: Changed from 'Li-Ion (Lithium Ion)' to 'Li-Ion (Lithium-Ion)'
+    - specifications.Network & Connectivity.SIM Size: Changed from 'Mini-SIM' to 'Mini-SIM, dual stand-by'
+    - Removed field: specifications.Network & Connectivity.USB
+    - Added new field: specifications.Multimedia.Document Reader
+    - Removed field: specifications.Multimedia.Video
+    - gallery_images: List length changed from 3 to 6
+
+  - **Updated phone**: Maximus M-15I
+    - name: Changed from 'Maximus M15I' to 'Maximus M-15I'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/maximus-m15i' to 'https://www.mobiledokan.com/mobile/maximus-m-15i'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/maximus-m15i-image.webp' to 'https://www.mobiledokan.com/media/maximus-m-15i-black-image.webp'
+    - serial_number: Changed from '152' to '114'
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+    - updated_on: Changed from 'November 9, 2024' to 'December 26, 2024'
+    - specifications.General.Device Type: Changed from 'Feature phone' to 'FeaturePhone'
+    - specifications.General.Release Date: Changed from '10 July 2011' to '15 August 2012'
+    - Added new field: specifications.Hardware & Software
+    - specifications.Display.Screen Size: Changed from '2.0 inches' to '2 inches (5.08 cm)'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '0.3 MP Primary Camera' to '0.3 MP, Primary Camera'
+    - Removed field: specifications.Cameras.Primary Camera.Flash
+    - specifications.Design.Colors: Changed from 'Grey' to 'Black'
+    - specifications.Battery.Battery type: Changed from 'Li-Ion (Lithium Ion)' to 'Li-Ion (Lithium-Ion)'
+    - specifications.Network & Connectivity.SIM Size: Changed from 'Mini-SIM' to 'Mini-SIM, dual stand-by'
+    - specifications.Network & Connectivity.Bluetooth: Changed from 'v2.0' to 'v2.1'
+    - Removed field: specifications.Network & Connectivity.GPRS
+    - Removed field: specifications.Network & Connectivity.USB
+    - Added new field: specifications.Multimedia.Document Reader
+    - Removed field: specifications.Multimedia.Video
+    - gallery_images: List length changed from 3 to 6
+
+  - **Updated phone**: Maximus M303M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M12
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M10
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M302M
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M25S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M705T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M105C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M703T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M701T
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M15
+    - name: Changed from 'Maximus M-15' to 'Maximus M15'
+    - url: Changed from 'https://www.mobiledokan.com/mobile/maximus-m-15' to 'https://www.mobiledokan.com/mobile/maximus-m15'
+    - image_url: Changed from 'https://www.mobiledokan.com/media/maximus-m-15-official-image.webp' to 'https://www.mobiledokan.com/media/maximus-m15-image.webp'
+    - serial_number: Changed from '146' to '124'
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+    - specifications.General.Model: Changed from 'M-15' to 'M15'
+    - specifications.General.Release Date: Changed from '11 July 2011' to '10 May 2012'
+    - specifications.Cameras.Primary Camera.Resolution: Changed from '0.3 MP, Primary Camera' to 'VGA Camera'
+    - Added new field: specifications.Cameras.Primary Camera.Flash
+    - Removed field: specifications.Cameras.Primary Camera.Zoom
+    - Removed field: specifications.Cameras.Primary Camera.Video Recording
+    - specifications.Design.Colors: Changed from 'Grey' to 'Gray'
+    - specifications.Memory.Expandable Memory: Changed from 'Up to 8 GB' to 'Up to 32 GB'
+    - specifications.Network & Connectivity.SIM Size: Changed from 'Mini-SIM, dual stand-by' to 'Mini-SIM'
+    - Removed field: specifications.Network & Connectivity.Speed
+    - Removed field: specifications.Network & Connectivity.USB
+    - specifications.Multimedia.Video: Changed from 'MP4, 3GP, AVI' to 'MP3, MP4'
+    - specifications.More.Made By: Changed from 'China' to 'India'
+    - Removed field: specifications.More.Features
+    - gallery_images[0]: Changed from 'https://www.mobiledokan.com/media/maximus-m-15-official-image.webp' to 'https://www.mobiledokan.com/media/maximus-m15-image.webp'
+    - gallery_images[1]: Changed from 'https://www.mobiledokan.com/media/maximus-m-15-official-image.webp' to 'https://www.mobiledokan.com/media/maximus-m15-image.webp'
+    - gallery_images[2]: Changed from 'https://www.mobiledokan.com/media/maximus-m-15-official-image.webp' to 'https://www.mobiledokan.com/media/maximus-m15-image.webp'
+
+  - **Updated phone**: Maximus M21
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M48
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M102C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M62
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M46
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M47
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M64
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M75
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M45S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M37S
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M25I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M27C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M37
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M25C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M17
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M20I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M73I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M17C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M20
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M29I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M23I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M-15
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M31I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M50C
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus NXP220
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M40
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M25
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M15I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M31
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M18
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M45I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M34I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M19I
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M57E
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M34
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M38i
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M50
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M55
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus EX85
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M33
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M44
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus M24
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+  - **Updated phone**: Maximus c45
+    - last_updated: Changed from '2025-09-11 09:29:49' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:29:49' to 'None'
+
+
+#### micromax
+
+- **Updated phones**: 83
+
+  - **Updated phone**: Micromax iOne
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Infinity N11
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Infinity N12
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bharat 5 Infinity
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bharat Go
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 1
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q398
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q3001
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax B5 Pro
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Infinity
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Dual 4 E4816
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q3301
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q354
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Mega Q397
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 5 Lite Q462
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Q326 Plus
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q301 Plus
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Q383
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Q381
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Magnus 2 Plus Q350R
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Fire 5 Q386
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Unite 4 Pro
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 6
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Selfie 4 Q349
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Spark 2 Pro Q351
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 6 Pro E484
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Juice 4G Q461
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X704
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 5
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Xpress 4G Q413
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Mega E353
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Nitro 3 E352
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Q338
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt Q335
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Xpress 2 E313
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas Sliver 5
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt D320
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax BOLT Q324
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A255 Canvas Selfie
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X649
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas A1
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Bolt A69
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A104 Canvas Fire
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X088
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X081
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A093 Canvas Fire
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A106 Unite 2
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A120 Canvas 2 Colors
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X089
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X254
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A114R Canvas Beat
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A200 Canvas Turbo Mini
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X457
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A76 Canvas Fun
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X085
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X098
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 4
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Canvas 4 A210
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A88 Canvas Music
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A92 Canvas Lite
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X446
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X292
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A72 Canvas Viva
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A116 Canvas HD
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X272
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A27 Ninja
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X281
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X455
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X1I XTRA
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A25
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X456
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax A110 Canvas 2
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X324
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X293
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X103
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X101
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X320
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X100
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q7
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X111
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax W900
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax Q55
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+  - **Updated phone**: Micromax X250
+    - last_updated: Changed from '2025-09-11 09:30:14' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:14' to 'None'
+
+
+#### kingstar
+
+- **Updated phones**: 35
+
+  - **Updated phone**: Kingstar A20
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A17
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar F1
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar TITANS 5 (i18)
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A22 Plus
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A15
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar TITANS 1 (i19)
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A17 Plus
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A1 Plus
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar TITANS 3 (i16)
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar F9
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar X700
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar F35
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A11
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar E400
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C4
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C11i
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C1 Fashion
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar E700
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar X100
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar X11
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A25
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar P2i
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar B25
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar A22
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar B21
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar P1
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C15
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C1 Mega
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C3i
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar P2
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C10i
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar E900
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar F6
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+  - **Updated phone**: Kingstar C1 Metal
+    - last_updated: Changed from '2025-09-11 09:30:30' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:30:30' to 'None'
+
+
+#### mycell
+
+- **Updated phones**: 49
+
+  - **Updated phone**: Mycell Alien SX1
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A7
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A6
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A5
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Alien SX6
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Alien SX3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Alien SX4
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Iron3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Iron Blue
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi11
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi4
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 8
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 6
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 14
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi9
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 12
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi8
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 16
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 9
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi10
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell M102
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi13
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 10
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 4
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell F3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 11
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi14
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell F2
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 2
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell M103
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell M101
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell M100
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell P6
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi5
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A2
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell M105
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell iRON1
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A1
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell SPIDER A4
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell G1
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi12
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Alien SX5
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell P5
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Alien SX2
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Bee 3
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+  - **Updated phone**: Mycell Mi6
+    - last_updated: Changed from '2025-09-11 09:31:56' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:31:56' to 'None'
+
+
+#### walton
+
+- **Updated phones**: 336
+
+  - **Updated phone**: Walton XANON X1 Ultra
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N75
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ZENX 2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N27
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ZENX 1T
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton XANON X91
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y71
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N10 Ultra
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ZENX 1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton XANON X21
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N74
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N26
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y70c
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H7s
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton XANON X90
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N73
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N72
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N25
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N71 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y70
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N71
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N6 LITE
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton XANON X20
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Hello HP50
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio M100
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y11
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N70
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton XPLAY101
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton NEXG N6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y20
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio i201
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio M200
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio S35
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y50
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio E100
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO Q41
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH10i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO I100
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H10 (6GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH11
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio RL1910
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S8 Mini (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S8 Mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L28s
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Orbit Y21
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MH21
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L30
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MH23
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM30
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM26
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML24
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML24i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO MH22
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo ZX4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P18
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX8 Mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L28
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L28i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L29
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM23
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM22
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM24
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM22i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P17
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P15
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio S34
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML20
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L53
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P16
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio Q40
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F10 (2GB RAM)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM25
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L52
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML21
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM5 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH9 (3GB/32GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H9 Pro
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E11
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N4 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L27
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML19
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S7 Pro
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E10 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MH20
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX7 Mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P14
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R6 Max
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R6 Max (64GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H8 Turbo
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S7 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF4 Turbo
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L26
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E8i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML18
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML15
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio S33
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EM
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G8i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MM15j
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MH17
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML14
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM18
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML17
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM19j
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo X5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF8 4G
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Nokia 8.1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F8s
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S6 dual
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio L25
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Nokia 3.1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio MM17
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S6 infinity
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM3 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH3i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RH3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E8s
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P11
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio P12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton S32
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Olvio ML10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ML2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L22
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Q35
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo D8i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo ZX3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM2 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H6 Lite
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton P10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ML9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MM12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Q34
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ML8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MM13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L21
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G7 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MH14
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H6 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF5(Hard TP)
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Walpad 10B
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GF6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L19
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ML6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GF5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E8 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo X4 pro
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MM11
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo D8S
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF5 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E8
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH2 Lite
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX4 mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E7 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF4 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MH13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton MH12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Q33
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton ML5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM3 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NH
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo X4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH6 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo ZX2 lite
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R4 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH5 Mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo V2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM2 Mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo VX Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo ZX2 mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO Q32
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo D7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R4s
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L17
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo ZX2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E7
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GM
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L12
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo VX
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GF4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO Q31
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO MM9
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo C4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F6
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO MH10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L14
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L16
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO MM10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO S31
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO S30
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton OLVIO L15
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E4 Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RM
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GF3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo D5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo Z
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo RH
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo GF2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo S3 mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo EF2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo x3 mini
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G5
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo GH3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo HM
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo X3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo V1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo EF
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo GH Plus
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NF
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo ZX
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo H3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo E1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo RX
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F3i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo H4
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX Black
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo NX
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo N1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton primo X2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo F2
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo G3
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton T71
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo D1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo C1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo R1
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B09i
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L20
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L13
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L23
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton T50
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B03
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B32
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Q30
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton Primo
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton T70
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton C32
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B30
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B09
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B00
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B34
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B08
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B10
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B31
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton C31
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton S35
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B01
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B05
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B07
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton T72
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B33
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton T73
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton L18
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+  - **Updated phone**: Walton B04
+    - last_updated: Changed from '2025-09-11 09:33:04' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:04' to 'None'
+
+
+#### okapia
+
+- **Updated phones**: 60
+
+  - **Updated phone**: Okapia Z 4
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Titan
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia X1
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Kotha
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Energy L
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Energy
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia King
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Asha L
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Signature L
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia ICON
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Mirage
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia One X
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Signature Pro
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia JOY
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Alo
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Freedom
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Hello
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Signatur
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Signature
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Shopno
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Bondhu
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Tiger
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Evolution
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Infinity X
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Inspire
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Magic Pro
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Infinity
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Magic Plus
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Ultima
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Matrix
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Silk
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Bijoy
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Classic Plus
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Power Plus
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia MAA
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Magic
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Style
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Infinity Pro
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Spark
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Champion
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Innova
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Music Man
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Speed
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Classic
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Life
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Easy
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Sensation
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Fusion
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Storm
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Dream
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Butterfly
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Hero
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Elite
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia XCITE
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Style X
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Striker
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Magic X
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Epic
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Desh X
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+  - **Updated phone**: Okapia Desh
+    - last_updated: Changed from '2025-09-11 09:33:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:33:53' to 'None'
+
+
+#### samsung
+
+- **Updated phones**: 449
+
+  - **Updated phone**: Samsung Galaxy S26 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 FE
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A17
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F36
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M36
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold7 (1TB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M56 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Edge
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Edge (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A26 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A26
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A36
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A36 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A36 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F56
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F56 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy XCover7 Pro
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M56
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F16 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F16
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A56
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A56 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A56 (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M06
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M16 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M16 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F06 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A16 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A16 5G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A16
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A16 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra (1TB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Ultra (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold6 (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold6 (1TB ROM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold6
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A16 4G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold Special
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 FE
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M55s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F05
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M05
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F14 4G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A06
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A06 (128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A06 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip6 (512GB ROM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip6
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F55 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F55 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F55 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M35 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M35 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M35
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M15
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M15 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M15 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M55
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M55 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A55
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A55 (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A55 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A35
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A35 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A55 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F15
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M14 4G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M14 4G (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 Ultra (1TB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S24 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 5G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A25 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A25 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A15 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A25
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A05s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F04
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A05s (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A05
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A05 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 FE
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F34
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip5 (8GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold5 (1TB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold5 (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M34 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M34 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A24
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F14 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F14
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A14 4G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A52
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A54 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A34 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A53 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A13
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M54
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M14 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 Plus (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S23 Ultra (1TB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A14 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M04
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A04e
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A04
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A04 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A04s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M13 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M13 5G (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M13
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F13
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F13 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M53 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A73 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A33 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M33
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A23
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A13 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F23
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S22
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S22 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S22 Plus (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S22 Ultra 5G (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S22 Ultra 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A03
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A03 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 FE 5G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A03 Core
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A52s 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold3 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip3 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip3 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A03s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy W22 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F22
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A22
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M32
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A22 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A72
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A52 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M12
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M62
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A32
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A32 (8GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F62
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F62 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M02
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M02 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 Plus 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S21 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A02
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M02s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A12
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A12 (4GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A42
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F41
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy F41 (128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 FE 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 FE 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 FE
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Fold2 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M51
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note20
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note20 Ultra 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note20 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note20 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M31s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M01 Core
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M01 Core (2GB/32GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M01s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M01
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A21s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A41
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M11
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A11
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A31
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A21
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M21 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M21
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Z Flip
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 Ultra 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 Plus 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S20 Ultra
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M31
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M31 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A01
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10 Lite
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note10 Lite
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy XCover Pro
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A71
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A51
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A20s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A20s (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Fold 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A90 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M10s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A70s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A10s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Fold
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M30s (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A30s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A50s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M30s
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A30s (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 10
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 10 (256B)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note10 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note10 Plus 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M40
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A60
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A80
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A70
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A10e
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A20
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A2 Core
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10 5G (512GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10 5G
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A30
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10e
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A50
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A40
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S10
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A10
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M20
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy M10
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J4 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A9 (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A7 (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J6 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note9
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 Core
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J8
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A6 Plus (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J6 (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Duo
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Prime 2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S9 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S9
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A8 Plus (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 Pro (2018)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note8
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Pro
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy On7 Pro
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J3 (2017)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Nxt
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Max
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S8
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S8 Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A7 (2017)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A5 (2017)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J1 Nxt prime
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 Prime
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy C9 Pro
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Prime
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 Prime (32GB)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Metro 350
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2 Pro (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J5 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S7 edge
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J1 Nxt
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A9 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J1 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J3 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A5 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A7 (2016)
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J1 Ace
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Metro 360
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note5 Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Ace NXT 2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung metro 313
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A8
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S6 edge
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S6
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy J1
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy E5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Z1
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy E7
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A3
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Core Prime
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Grand Prime
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Alpha
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S Duos 3
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Ace NXT
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Core 2 Dual SIM
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Guru Music 2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy K zoom
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Metro 312
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S3 Neo
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S5
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Grand Neo
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 3 Neo
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Grand 2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S Duos 2
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Star Pro S7260
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Rex 60
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note 3
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S4 zoom
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Core I8262
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Pocket Neo S5310
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Trend
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S4 mini
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Star S5282
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung I9500 Galaxy S4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S4
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Rex 70
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung REX 80
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Grand DUOS
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Music Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1200 Pusha
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Guru E1205
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Guru Music E1282
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Champ Neo Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note II
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2252
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S III
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy pocket
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Y DUOS
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Star 3 DUOS S5222
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Champ Deluxe Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Note
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Hero E2230
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Hero E2232
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Y
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Y Color Plus
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Nokia 500
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Ch@t 222
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2530
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Star II DUOS
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Corby II
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung I9100 Galaxy S II
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C3322
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Pro B7510
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2652 Champ Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Mini S5570
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy Ace S5830
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Ch@t 322
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Guru Dual 35 E2152
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Keystone 3
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C3200 Monte bar
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2550 Monte Slider
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Champ
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S5620 Monte
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1150
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B310
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B7330 OmniaPRO
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2130 Guru
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C5510
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1085T
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2120
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B3310
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1160
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1080T
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1390
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Corby S3650
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S5233 Star
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S3100
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S3310
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1125
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B7320 OmniaPRO
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1210
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B220
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1070
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung I8000 Omnia II
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1107 Crest Solar
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M2513
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S8003 JET
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1310
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C3053
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S5200
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C5212
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1100
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B2100 Xplorer
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B2100 Explorer
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S5603
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C3010
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M200
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S3600
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E1110
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M150
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung S8300 UltraTouch
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B130
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M8800
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B200
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M3510
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung L700
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung i900
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung M620
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung B100
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung D780
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung E2510
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung F480
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung D880 Duos
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C450
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C170
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C260
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung C140
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung X210
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung X160
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy A07
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+  - **Updated phone**: Samsung Galaxy S25 Slim
+    - last_updated: Changed from '2025-09-11 09:43:15' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:43:15' to 'None'
+
+
+#### xiaomi
+
+- **Updated phones**: 530
+
+  - **Updated phone**: Xiaomi Poco C85
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 15c
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 15c (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7 Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 15 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 15
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K80 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F7 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F7
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 5 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15S Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 5 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15S Pro (1TB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C71
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13x
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F7 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F7 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A5 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G (Global)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G (Global) (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G (Global)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro 5G (Global) (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global) (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus 5G (Global) (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 4G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14C 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X7 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X7 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X7 (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X7
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X7 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 4 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C75 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M7 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K80
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K80 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C75
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15 Pro (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15 Pro (16GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 15 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A3 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14C
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14C (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14C (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14R
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (China)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 (China) (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14T Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Plus (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 Plus (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Flip
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Fold 4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Civi (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Civi
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A3x
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F6 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F6
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F6 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F6 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Turbo 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C61
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C61 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 4 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 4 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi poco x6 Neo (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 Neo
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A3 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Ultra (16GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 4G (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 4G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X6 Pro (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 5G (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13C 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70E
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70 Pro (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70 (16GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K70 (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M3 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M3 (6GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M3 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13C (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13C (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 13C
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C65 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C65 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C65
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 14 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13T Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (12GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro 5G (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13 Pro Plus 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi MIX Fold 3 (16GB/1TB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Fold 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Fold 3 (16GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M6 Pro 5G (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12R
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F5 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F5 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 Ultra (16GB+1TB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 Ultra (512GB CN)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C51
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Turbo
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Turbo (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A2 Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A2 Plus (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C55
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X5 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X5 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X5 Pro 5G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X5 5G (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12C
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12C (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 12C (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K60E
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 13 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11T 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro Plus (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 12 Pro Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 2 (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A1 Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 11 Prime 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A1 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi A1
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Fold 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mix Fold 2 (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K50 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K50i
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K50i (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K50i (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M2 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12S Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12S Ultra (512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12S Ultra (16GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X4 GT
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F4 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 SE
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 2022
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 2022 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F4 GT
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F4 GT (12GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi 1S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 5 RS
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 5 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10A (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X4 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X4 Pro 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10C
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10C (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M4 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K50 Gaming
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11S (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11i HyperCharge 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11i HyperCharge 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11i
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11i (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12 Pro (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 12X
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11T 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M4 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M4 Pro 5G (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro Plus 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 (China)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11T (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11T Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11T Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C31
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C31 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi 11 Lite 5G NE (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Civi
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Activ
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Activ (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 Prime (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 GT
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 GT (256GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10T 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10T 5G (6/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F3 GT
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F3 GT (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8 2021
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M3 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11X Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11X Pro (8GB/256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K40 Gaming Edition
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 5G (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11X
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11X (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M2 Reloaded
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10S (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10S (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Lite 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Lite (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Lite (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra (12GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 Ultra (12GB/512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F3 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (108MP Edition)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 Pro (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 Pro (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro Max
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro Max (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 10
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K40 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K40 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K40
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9T (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9T (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10i 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10i 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 11 (12GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Power
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Power (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco C3 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10T 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10T Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10T Pro 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9i
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M2 (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco M2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 NFC (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X3 NFC
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Dual Camera
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Dual Camera (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 (India)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 Ultra
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9C
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9C (3GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 9
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30i 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi X10
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 10X 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10 Lite 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco F2 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 5G Racing
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro Max (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note 10 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9S (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 9 Pro (India)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 3 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A Dual (3GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10 5G (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 10 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Poco X2 (8GB+256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K30 (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix Alpha
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note 10 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note 10 Pro (256GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note 10
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8 (4GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 8A (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K20 Pro Premium
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 8 Pro (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9 lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9 Pro 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9 Pro 5G (12GB+512GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9T Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9T Pro (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Black Shark 2 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A3 (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 7A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9 (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9e
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9e (128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi CC9e (6GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K20
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K20 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9T
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi K20 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7S
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7S (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Y3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Y3 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 7
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 7 (32GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 7 (3GB/32GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 Pro (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9 (128 GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 9 SE
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (4GB/64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (4GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 7 (6GB/128GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Go
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Go (16GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 6 Pro (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 6 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 8 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Pocophone F1
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A2 Lite
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A2 Lite (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 8 Explorer
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 6
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 6A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 8 SE
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi S2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi S2 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 5 AI Dual Camera
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix 2s
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 5 AI Dual Camera 3GB/32GB
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix 2s (128GB ROM)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 5 Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 5 Plus (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 5A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Y1 (Note 5A)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 5A Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi A1
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 5A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 3s Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Max 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 4X
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 6
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Mix
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 4X
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 4A
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 4A (32GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 4 Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 5s Plus
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 3s
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Max
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 3 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 5
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 3 Pro (3GB+32GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 3 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 4s (3GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 4s
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 3 (MediaTek)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 3 (MediaTek) (3GB+32GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 2 Prime
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 2
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 2 (2GB+16GB)
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi Note Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 4G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi4
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Mi 3
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 15s
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 14 Pro Max
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 14 5G
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Redmi K90 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi Note 13R
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+  - **Updated phone**: Xiaomi Redmi 15 Pro
+    - last_updated: Changed from '2025-09-11 09:52:42' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:52:42' to 'None'
+
+
+#### symphony
+
+- **Updated phones**: 498
+
+  - **Updated phone**: Symphony Innova 40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 40 (8GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L256
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z72 (128GB)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Hero 30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L137
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony MAX 10 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony MAX 10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S75
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T94
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL125
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ATOM 5
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G27 Lite
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G27
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D54Pro
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 30 (6GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 30 (8GB+128GB)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL102
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL98
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FiRE 30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L280
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L34
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Hero 20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Helio 80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ATOM 4
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X121
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G26
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z60 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony SL100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D43
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Innova 10 (128GB)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z60 (4GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony SL75
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony SL70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i96
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T93
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D89
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Theater 20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i73
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L47
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z47
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ATOM 3
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L145
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L136
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V139
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B62
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z42 Pro
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Helio 30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Helio30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z55
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z55 (128GB)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V138 Lite
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony EVO 10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i71
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z42
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V138
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony PD1 4G
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z22
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B12 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L43
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L44
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D76
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L33
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL99
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i69
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z33
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G10 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D48
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B69
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D78
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ATOM II
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ATOM
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z35 (4GB+64GB)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z35
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L46
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D47
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z18
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L270
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L140
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T140
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B67
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T180
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z30 Pro
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L260
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D74
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D82
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T92
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L135
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i98
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V99 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i99
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i12
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z28
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B68
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i66
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z16
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S99
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL120
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i67
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B24
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V102
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B26
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D92
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i74
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z12
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL96
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V105
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L250i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B66
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony E95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D40i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i68
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT06
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V99
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L130
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L42
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony SL20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i97
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D41
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL97
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D37
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i18
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V141
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D54i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L250
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D52 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D54 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S250
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L55i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L52
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V128
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V142
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D101
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V97
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D38i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B17i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V94
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V155
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V145
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V98
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L62
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i120
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony G100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V135
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i75
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Roar V150
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V140
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony P11
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i110
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B12i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L65j
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T130
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony INOVA
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V75m
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Roar V95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V90
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i10 Plus
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony P8 Pro
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony E30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T110
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D68
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony P9
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T105
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i21
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V47
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D91
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D105
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer i25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V110
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony E62
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZVI
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V42
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZVIII
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V34
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L300
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R100 (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Roar E80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony R2
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony P7
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L17
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H300
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L56i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony H60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L23
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D22
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZVII
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZVII (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P6 PRO (3GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer i10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V46
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony i20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H400
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer i20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer i20 (2GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V46 (C)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E58
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony  E12
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L16
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D52
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Roar E79
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A88V
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V75
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B17
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B13i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D19
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D55i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony H175
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D120
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P6 PRO
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D140
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V49
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony H58
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D18
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M150
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E7
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E78
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H120
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony H120
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony H250
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L24
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V28
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL46
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D57
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZV Pro
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V52
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M70i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D115
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L18
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D52i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony E60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony E10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P6
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P6 (2GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT37i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony m1
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X101
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D23
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M90
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E5
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T150
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V60 (1GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D53i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony C101
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D150
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D34
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D65i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony V70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B13
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H200
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer E50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer V55
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZV
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Roar A50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B14
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W75
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X111
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer GoFox F15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A86v
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B12
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X115
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W67
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W19
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W94
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer P5
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B5
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D64
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T55i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony BL40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L22
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S101
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZIV
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer H100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony L25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Play W17
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W18
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B3i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W68Q
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W31
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S200
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W15i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W70Q (1GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W70Q
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A86
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B5i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W160
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M44
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D31i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W91
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W86
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W69Q
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W69Q (1GB RAM)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D125
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D35
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony F100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D26
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony ZIII
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W65i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W21
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D58
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W128
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W69
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZIII
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B9
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W66
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W22 (3G)
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M42
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B8i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D33
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony P8
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W140
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D61
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony KT10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B19
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony C42
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T35
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W82
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W82
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W92
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D46
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M40
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony F70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B6
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S111
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D25
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D56
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W68
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZI
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W85
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer ZII
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B7
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W35
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D130
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S101i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W71
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W71i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W150
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT33
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X94
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B2i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B10i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony C102
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D67
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT31
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D21
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D63
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W125
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D66
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony M70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B2
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT02i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W90
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W20
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D46i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S103
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony W60
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT36
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B3
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D54
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony KT15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony XT10
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B4i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D110
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T44
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT29
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT02
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B45
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B46
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT03
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D80
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B20c
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B35
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Xplorer W50
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony EX70
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D36
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony EX65
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony S90
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony EX82
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony B15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony Z100
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony A95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT04
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT38
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X99
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony EX72
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D62
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony D32
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT15
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X95
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony FT30
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony X110
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+  - **Updated phone**: Symphony T20i
+    - last_updated: Changed from '2025-09-11 09:56:53' to 'None'
+    - first_scraped: Changed from '2025-09-11 09:56:53' to 'None'
+
+
+---
+
 ## 2025-09-11 15:56:53
 
 ### Summary

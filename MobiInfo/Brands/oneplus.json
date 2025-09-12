@@ -4,11 +4,11 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2025-09-11 09:01:35",
+    "last_updated": "2025-09-12 06:46:30",
     "total_phones": 116,
     "first_scraped": "2025-09-11 09:01:35",
-    "new_phones_this_run": 116,
-    "updated_phones_this_run": 0
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -10185,25 +10185,14 @@
     {
       "id": "oneplus_10_pro_5g_12gb_ram",
       "name": "OnePlus 10 Pro 5G (12GB RAM)",
-      "price": null,
+      "price": "৳66000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1711534355Fd7RU.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-12 06:46:30",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.76,990",
-          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.84,000",
-          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "OnePlus",

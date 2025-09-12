@@ -5,3 +5,5 @@
 [2025-09-11 14:39:58] Error calculating total phones: [WinError 267] The directory name is invalid: 'MobiInfo\\Brands'
 [2025-09-11 09:18:10] Error loading existing data: Extra data: line 30337 column 5 (char 1269203)
 [2025-09-11 09:18:10] Error loading existing data: Extra data: line 30337 column 5 (char 1269203)
+[2025-09-12 06:38:11] Failed to fetch https://www.mobiledokan.com/mobile/infinix-note-12-g96/gallery after 3 attempts: HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Max retries exceeded with url: /mobile/infinix-note-12-g96/gallery (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Read timed out. (read timeout=15)"))
+[2025-09-12 06:38:18] Failed to fetch https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram after 3 attempts: HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Max retries exceeded with url: /mobile/oneplus-10-pro-5g-12gb-ram (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Read timed out. (read timeout=15)"))
