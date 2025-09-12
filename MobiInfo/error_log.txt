@@ -7,3 +7,6 @@
 [2025-09-11 09:18:10] Error loading existing data: Extra data: line 30337 column 5 (char 1269203)
 [2025-09-12 06:38:11] Failed to fetch https://www.mobiledokan.com/mobile/infinix-note-12-g96/gallery after 3 attempts: HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Max retries exceeded with url: /mobile/infinix-note-12-g96/gallery (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Read timed out. (read timeout=15)"))
 [2025-09-12 06:38:18] Failed to fetch https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram after 3 attempts: HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Max retries exceeded with url: /mobile/oneplus-10-pro-5g-12gb-ram (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Read timed out. (read timeout=15)"))
+[2025-09-12 09:41:43] Error loading existing data: Expecting ',' delimiter: line 46192 column 34 (char 1904660)
+[2025-09-12 09:41:44] Error loading existing data: Expecting property name enclosed in double quotes: line 10764 column 15 (char 482089)
+[2025-09-12 09:41:55] Error loading existing data: Expecting value: line 17548 column 31 (char 768074)
