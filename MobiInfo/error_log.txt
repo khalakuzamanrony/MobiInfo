@@ -45,3 +45,5 @@
 [2025-09-14 14:23:28] Failed to fetch https://www.mobiledokan.com/mobile/umidigi-a3 after 3 attempts: HTTPSConnectionPool(host='www.mobiledokan.com', port=443): Max retries exceeded with url: /mobile/umidigi-a3 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019B1B9E6960>: Failed to resolve 'www.mobiledokan.com' ([Errno 11001] getaddrinfo failed)"))
 [2025-09-14 13:46:46] Error loading existing data: Expecting ',' delimiter: line 3522 column 14 (char 155297)
 [2025-09-14 16:22:09] Error loading existing data: Expecting ',' delimiter: line 53154 column 24 (char 2174707)
+[2025-09-14 17:05:49] Error loading existing data: Expecting ',' delimiter: line 4975 column 97 (char 220705)
+[2025-09-14 17:05:49] Error loading existing data: Expecting ',' delimiter: line 53604 column 43 (char 2191068)
