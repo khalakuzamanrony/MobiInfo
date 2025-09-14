@@ -2,6 +2,35 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-14 21:36:10
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5267
+- **New brands**: 0
+- **Updated brands**: 3
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 21
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### vivo
+- 10 phones visited from first 1 page
+
+#### xtra
+- 1 phones visited from first 1 page
+
+#### zte
+- 10 phones visited from first 1 page
+
+---
+
 ## 2025-09-14 21:32:10
 
 ### Summary
@@ -942,8 +971,8 @@ This document tracks all changes to the MobiInfo phone database.
 - **Updated phone**: Infinix Note 12 2023 (256GB) (price: None → 20999)
 - **Updated phone**: Infinix Hot 20i (price: None → 11499)
 - **Updated phone**: Infinix Note 12 Pro (price: None → 22999)
-- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), price: None → 19999, url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
-Face detection,
+- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), price: None → 19999, url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
 Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Network & Connectivity.Speed: HSPA, LTE → HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, specifications.More.Features: Accelerometer, gyro, proximity, compass → Accelerometer, Compass, Gyroscope, gallery_images: List length changed from 0 to 9)
 - **Updated phone**: Infinix Note 12 G96 (price: None → 19999, gallery_images: List length changed from 0 to 9)
 - **Updated phone**: Infinix Hot 12 (price: None → 16299)
@@ -6422,8 +6451,8 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 - **Updated phone**: Apple iPhone 17 Air (updated_on: September 10, 2025 → September 12, 2025, gallery_images: List length changed from 16 to 17)
 
 #### infinix
-- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
-Face detection,
+- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
 Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Network & Connectivity.Speed: HSPA, LTE → HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, specifications.More.Features: Accelerometer, gyro, proximity, compass → Accelerometer, Compass, Gyroscope, gallery_images[0]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[1]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[2]: https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-front-image_1.webp, gallery_images[3]: https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image_1.webp, gallery_images[4]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[5]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[6]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[7]: https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-image_1.webp, gallery_images[8]: https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-black-image.webp)
 - **Updated phone**: Infinix Note 12 G96 (gallery_images: List length changed from 9 to 0)
 
