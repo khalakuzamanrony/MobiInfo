@@ -4,22 +4,22 @@
     "name": "zte",
     "url": "https://www.mobiledokan.com/mobile-brand/zte",
     "image_url": null,
-    "last_updated": "2025-09-14 17:51:51",
+    "last_updated": "2025-09-14 18:49:42",
     "total_phones": 71,
     "first_scraped": "2025-09-11 09:19:19",
-    "new_phones_this_run": 0,
+    "new_phones_this_run": 1,
     "updated_phones_this_run": 0
   },
   "phones": [
     {
       "id": "zte_nubia_a36",
       "name": "ZTE nubia A36",
-      "price": null,
+      "price": "8499",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-a36",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-a36-aqua-green-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-14 14:23:27",
-      "first_scraped": "2025-09-14 14:23:27",
+      "last_updated": "2025-09-14 18:49:42",
+      "first_scraped": "2025-09-14 18:49:42",
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -54,10 +54,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 0.08 MP, Auxiliary lens Camera",
@@ -70,6 +66,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -140,11 +140,12 @@
     {
       "id": "zte_nubia_a56",
       "name": "ZTE nubia A56",
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-a56",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-a56-celestial-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 18:46:59",
+      "first_scraped": null,
       "updated_on": "August 7, 2025",
       "variants": [],
       "specifications": {
@@ -269,11 +270,11 @@
     {
       "id": "zte_blade_a35e",
       "name": "ZTE Blade A35e",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a35e",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a35e-mint-green-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-14 14:23:27",
+      "last_updated": "2025-09-14 18:46:59",
       "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [],
@@ -390,12 +391,12 @@
     {
       "id": "zte_blade_a76",
       "name": "ZTE Blade A76",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a76",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a76-blue-official-color-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 18:17:55",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [],
       "specifications": {
@@ -506,12 +507,12 @@
     {
       "id": "zte_nubia_red_magic_10s_pro_plus",
       "name": "ZTE nubia Red Magic 10S Pro Plus",
-      "price": "৳137000",
+      "price": "137000",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-10s-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-10s-pro-plus-transparent-silver-deuterium-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 18:17:55",
+      "first_scraped": null,
       "updated_on": "June 15, 2025",
       "variants": [],
       "specifications": {
@@ -546,13 +547,6 @@
           "Refresh Rate": "144 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 2 MP, Camera",
@@ -567,6 +561,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -643,12 +644,12 @@
     {
       "id": "zte_nubia_redmagic_10s_pro",
       "name": "ZTE nubia RedMagic 10S Pro",
-      "price": "৳85000",
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-redmagic-10s-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-10s-pro-moonlight-silver-transparent-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 18:17:55",
+      "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [],
       "specifications": {
@@ -683,13 +684,6 @@
           "Refresh Rate": "144 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 2 MP, Camera",
@@ -704,6 +698,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -780,12 +781,12 @@
     {
       "id": "zte_blade_v70_design",
       "name": "ZTE Blade V70 Design",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v70-design",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-v70-design-jade-green-official-color-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 18:46:59",
+      "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [
         {
@@ -923,11 +924,11 @@
     {
       "id": "zte_blade_v70_design_256gb",
       "name": "ZTE Blade V70 Design (256GB)",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v70-design-256gb",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-v70-design-jade-green-official-color-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-14 14:30:24",
+      "last_updated": "2025-09-14 18:46:59",
       "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [
@@ -1066,11 +1067,11 @@
     {
       "id": "zte_nubia_z70s_ultra",
       "name": "ZTE nubia Z70S Ultra",
-      "price": "৳110000",
+      "price": "110000",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z70s-ultra",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z70s-ultra-orange-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-14 14:30:24",
+      "last_updated": "2025-09-14 18:17:55",
       "first_scraped": null,
       "updated_on": "May 31, 2025",
       "variants": [],
@@ -1108,13 +1109,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Standard Camera, 64 MP, f/2.5, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -1129,6 +1123,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1204,11 +1205,11 @@
     {
       "id": "zte_nubia_redmagic_10_air",
       "name": "ZTE nubia RedMagic 10 Air",
-      "price": "৳88000",
+      "price": "88000",
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-redmagic-10-air",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-redmagic-10-air-flare-orange-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-14 14:30:24",
+      "last_updated": "2025-09-14 18:17:55",
       "first_scraped": null,
       "updated_on": "June 14, 2025",
       "variants": [],

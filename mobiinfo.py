@@ -737,29 +737,43 @@ class MobiInfoScraper:
             soup = BeautifulSoup(html_content, self.parser)
             result = {"price": None, "updated_on": None}
             
-            # Extract price only if there are no variants
-            if not has_variants:
-                try:
-                    # Look for the price container
-                    price_container = soup.select_one('div.price-and-variant')
-                    if price_container:
-                        # Find the price span with tkicon
-                        price_span = price_container.select_one('span.fw-bold.d-block.h3.text-blue')
-                        if price_span:
-                            # Extract the price text and clean it
-                            price_text = price_span.get_text(strip=True)
-                            # Remove the currency symbol and extract just the number
+            # Extract price for all phones (regardless of variants)
+            try:
+                # Try multiple price selectors in order of priority
+                price_selectors = [
+                    # Main price selectors (most specific first)
+                    'div.price-and-variant span.fw-bold.d-block.h3.text-blue',
+                    'div.price-and-variant .price-text',
+                    'div.price-and-variant span.price',
+                    '.price-container .current-price',
+                    '.product-price .current-price',
+                    # Alternative selectors
+                    'span.fw-bold.text-blue',
+                    'span.price',
+                    '.price-text',
+                    '.product-price',
+                    'span[class*="price"]'
+                ]
+                
+                for selector in price_selectors:
+                    price_element = soup.select_one(selector)
+                    if price_element:
+                        price_text = price_element.get_text(strip=True)
+                        # Only process if it contains currency symbol or looks like a price
+                        if '৳' in price_text or (price_text.replace(',', '').replace('.', '').isdigit() and len(price_text) >= 3):
+                            # Clean the price
                             price_clean = re.sub(r'৳\.?', '', price_text).strip()
-                            # Remove any additional text like "(Expected)"
+                            # Remove any additional text like "(Expected)" or "(Approx)"
                             price_clean = re.sub(r'\([^)]*\)', '', price_clean).strip()
-                            # Remove commas and extract just the number
-                            price_clean = re.sub(r'[,\s]', '', price_clean)
+                            # Remove commas, spaces, and dots
+                            price_clean = re.sub(r'[,\s\.]', '', price_clean)
                             if price_clean and price_clean.isdigit():
-                                result["price"] = f"৳{price_clean}"
-                except Exception as e:
-                    error_msg = f"Error extracting price: {str(e)}"
-                    print(error_msg)
-                    self.log_error(error_msg)
+                                result["price"] = price_clean
+                                break
+            except Exception as e:
+                error_msg = f"Error extracting price: {str(e)}"
+                print(error_msg)
+                self.log_error(error_msg)
             
             # Extract updated_on information
             try:
@@ -843,6 +857,17 @@ class MobiInfoScraper:
                     print(f"↓ Fetching price and updated info for {phone['name']}...")
                     has_variants = len(variants) > 0
                     price_and_updated = self.get_phone_price_and_updated(phone['url'], has_variants)
+                    
+                    # If phone has variants but no main price, use the first variant's price
+                    if has_variants and not price_and_updated.get('price') and variants:
+                        first_variant_price = variants[0].get('price', '')
+                        if first_variant_price:
+                            # Clean the variant price (remove ৳ and dots)
+                            variant_price_clean = re.sub(r'৳\.?', '', first_variant_price).strip()
+                            variant_price_clean = re.sub(r'[,\s]', '', variant_price_clean)
+                            if variant_price_clean and variant_price_clean.isdigit():
+                                price_and_updated['price'] = variant_price_clean
+                    
                     if price_and_updated.get('price') or price_and_updated.get('updated_on'):
                         print(f"✓ Successfully fetched price and updated info for {phone['name']}")
                     else:
@@ -2043,7 +2068,9 @@ class MobiInfoScraper:
             # Check each field
             for key in new_phone:
                 if key not in old_phone:
-                    differences.append(f"Added new field: {key}")
+                    # Only report as "new field" if the value is not None/null
+                    if new_phone[key] is not None:
+                        differences.append(f"Added new field: {key}")
                 elif old_phone[key] != new_phone[key]:
                     if isinstance(new_phone[key], dict) and isinstance(old_phone[key], dict):
                         # Recursively compare dictionaries
@@ -2222,6 +2249,27 @@ class MobiInfoScraper:
                             updated_phone['first_scraped'] = existing_phone.get('first_scraped', current_time)
                         updated_phones.append(updated_phone)
                     else:
+                        # Even if no significant changes, ensure all fields from new_phone are present
+                        # This handles cases where new fields (even with null values) need to be added
+                        # Rebuild the phone data with proper field order
+                        if any(field in new_phone and field not in updated_phone for field in ['price', 'updated_on']):
+                            # Create a new ordered dictionary with proper field sequence
+                            ordered_phone = {
+                                "id": updated_phone.get('id'),
+                                "name": updated_phone.get('name'),
+                                "price": new_phone.get('price') if 'price' in new_phone else updated_phone.get('price'),
+                                "url": updated_phone.get('url'),
+                                "image_url": updated_phone.get('image_url'),
+                                "serial_number": updated_phone.get('serial_number'),
+                                "last_updated": updated_phone.get('last_updated'),
+                                "first_scraped": updated_phone.get('first_scraped'),
+                                "updated_on": new_phone.get('updated_on') if 'updated_on' in new_phone else updated_phone.get('updated_on'),
+                                "variants": updated_phone.get('variants'),
+                                "specifications": updated_phone.get('specifications'),
+                                "gallery_images": updated_phone.get('gallery_images')
+                            }
+                            updated_phone = ordered_phone
+                        
                         # No changes except possibly serial number
                         if 'first_scraped' not in updated_phone:
                             updated_phone['first_scraped'] = existing_phone.get('first_scraped', current_time)
@@ -2530,45 +2578,45 @@ if __name__ == "__main__":
     
     # Mode 2B: Scrape multiple brands and save each as separate JSON files (NEW!)
 
-#     brand_list = [
-#     "xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
-#     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
-#     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
-#     "meizu", "maximus", "lg", "zte", "htc", "coolpad", "umidigi", "kyocera", 
-#     "cat", "blu", "blackview", "leitz", "nio", "microsoft", "micromax", "gionee", 
-#     "lenovo", "cubot", "alcatel", "fairphone", "we", "freeyond", "hmd", "blackberry", 
-#     "allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", 
-#     "ulefone", "leica", "acer", "gdl", "proton", "sonim", "thuraya", "sharp", 
-#     "geo", "tcl", "oukitel", "oscal", "bengal", "mycell", "wiko", "kingstar", 
-#     "energizer", "philips", "okapia"
-# ]
-    brand_list = ["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
+    brand_list = [
+    "xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
-    "meizu", "zte", "umidigi", "lenovo","doogee", "ulefone"
+    "meizu", "maximus", "lg", "zte", "htc", "coolpad", "umidigi", "kyocera", 
+    "cat", "blu", "blackview", "leitz", "nio", "microsoft", "micromax", "gionee", 
+    "lenovo", "cubot", "alcatel", "fairphone", "we", "freeyond", "hmd", "blackberry", 
+    "allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", 
+    "ulefone", "leica", "acer", "gdl", "proton", "sonim", "thuraya", "sharp", 
+    "geo", "tcl", "oukitel", "oscal", "bengal", "mycell", "wiko", "kingstar", 
+    "energizer", "philips", "okapia"
 ]
+#     brand_list = ["xiaomi", "realme", "apple", "vivo", "samsung", "infinix", "nokia", "oppo", 
+#     "tecno", "oneplus", "google", "walton", "honor", "lava", "itel", "symphony", 
+#     "huawei", "nothing", "asus", "helio", "benco", "motorola", "iqoo", "sony", 
+#     "meizu", "zte", "umidigi", "lenovo","doogee", "ulefone"
+# ]
     # brand_list = ["mycell", "oscal", "tcl", "geo", "thuraya", "sonim", "proton", "sharp"]  # List of brand names
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
-    # result = scraper.scrape_multiple_brands_separate_files(
-    #     brand_inputs=brand_list,
-    #     # max_brands=5,  # Limit to first 5 brands from the list
-    #     max_pages=1,  # Limit to 2 pages per brand
-    #     # max_products=20,  # Limit to 10 products per brand
-    #     max_workers=15  # Use 3 concurrent workers for faster processing
-    # )
+    result = scraper.scrape_multiple_brands_separate_files(
+        brand_inputs=brand_list,
+        # max_brands=5,  # Limit to first 5 brands from the list
+        # max_pages=1,  # Limit to 2 pages per brand
+        # max_products=20,  # Limit to 10 products per brand
+        max_workers=15  # Use 3 concurrent workers for faster processing
+    )
 
 
 
     # Test
-    result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=["zte"],
-        # max_brands=3,  # Limit to first 5 brands from the list
-        max_pages=1,  # Limit to 2 pages per brand
-        max_products=10,  # Limit to 10 products per brand
-        max_workers=15  # Use 3 concurrent workers for faster processing
-    )
+    # result = scraper.scrape_multiple_brands_separate_files(
+    #     brand_inputs=["zte"],
+    #     # max_brands=3,  # Limit to first 5 brands from the list
+    #     max_pages=1,  # Limit to 2 pages per brand
+    #     max_products=10,  # Limit to 10 products per brand
+    #     max_workers=15  # Use 3 concurrent workers for faster processing
+    # )
 
 
 

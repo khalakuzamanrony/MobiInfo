@@ -1,5 +1,872 @@
 [
   {
+    "timestamp": "2025-09-14 18:49:43",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 1,
+      "updated_phones": 9,
+      "significant_updates": 0,
+      "visited_phones": 9,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 1,
+        "updated_phones": 9,
+        "phone_changes": [
+          {
+            "type": "new",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36"
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:46:59' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:46:59' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:46:59' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:46:59' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:46:59",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 5,
+      "visited_phones": 5,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "price: Changed from '10999' to '8499'",
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "price: Changed from '10999' to '9499'",
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "price: Changed from '8400' to '6999'",
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "price: Changed from '10999' to '11999'",
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "price: Changed from '10999' to '13999'",
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:22:45",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 0,
+      "visited_phones": 10,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 18:17:55' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:17:56",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 10,
+      "visited_phones": 0,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "price: Changed from 'None' to '10999'",
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'",
+              "first_scraped: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "price: Changed from 'None' to '10999'",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "price: Changed from 'None' to '8400'",
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "price: Changed from '৳15000' to '15000'",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "price: Changed from '৳137000' to '137000'",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "price: Changed from '৳85000' to '85000'",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "price: Changed from 'None' to '10999'",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "price: Changed from 'None' to '10999'",
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "price: Changed from '৳110000' to '110000'",
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "price: Changed from '৳88000' to '88000'",
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:11:23",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 0,
+      "visited_phones": 10,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'",
+              "first_scraped: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:08:17",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 0,
+      "visited_phones": 10,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'",
+              "first_scraped: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 18:03:28",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 0,
+      "visited_phones": 10,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'",
+              "first_scraped: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-14 17:57:22",
+    "summary": {
+      "new_brands": 0,
+      "updated_brands": 1,
+      "failed_brands": 0,
+      "new_phones": 0,
+      "updated_phones": 10,
+      "significant_updates": 1,
+      "visited_phones": 9,
+      "failed_phones": 0
+    },
+    "details": [
+      {
+        "brand_id": "zte",
+        "brand_name": "zte",
+        "new_phones": 0,
+        "updated_phones": 10,
+        "phone_changes": [
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A36",
+            "phone_id": "zte_nubia_a36",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'",
+              "first_scraped: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia A56",
+            "phone_id": "zte_nubia_a56",
+            "differences": [
+              "Added new field: price",
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A35e",
+            "phone_id": "zte_blade_a35e",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:23:27' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade A76",
+            "phone_id": "zte_blade_a76",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Red Magic 10S Pro Plus",
+            "phone_id": "zte_nubia_red_magic_10s_pro_plus",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10S Pro",
+            "phone_id": "zte_nubia_redmagic_10s_pro",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design",
+            "phone_id": "zte_blade_v70_design",
+            "differences": [
+              "last_updated: Changed from '2025-09-11 09:19:19' to 'None'",
+              "first_scraped: Changed from '2025-09-11 09:19:19' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE Blade V70 Design (256GB)",
+            "phone_id": "zte_blade_v70_design_256gb",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia Z70S Ultra",
+            "phone_id": "zte_nubia_z70s_ultra",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          },
+          {
+            "type": "updated",
+            "phone_name": "ZTE nubia RedMagic 10 Air",
+            "phone_id": "zte_nubia_redmagic_10_air",
+            "differences": [
+              "last_updated: Changed from '2025-09-14 14:30:24' to 'None'"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2025-09-14 17:51:51",
     "summary": {
       "new_brands": 0,

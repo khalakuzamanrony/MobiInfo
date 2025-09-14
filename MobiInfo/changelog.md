@@ -2,6 +2,218 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-14 18:49:43
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 1
+- **Updated phones**: 0
+- **Visited phones**: 9
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### zte
+- ZTE nubia A36
+
+## Visited
+
+#### zte
+- 9 phones visited from first 1 page
+
+---
+
+## 2025-09-14 18:46:59
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 5
+- **Visited phones**: 5
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### zte
+- **Updated phone**: ZTE nubia A36 (price: 10999 → 8499)
+- **Updated phone**: ZTE nubia A56 (price: 10999 → 9499)
+- **Updated phone**: ZTE Blade A35e (price: 8400 → 6999)
+- **Updated phone**: ZTE Blade V70 Design (price: 10999 → 11999)
+- **Updated phone**: ZTE Blade V70 Design (256GB) (price: 10999 → 13999)
+
+## Visited
+
+#### zte
+- 5 phones visited from first 1 page
+
+---
+
+## 2025-09-14 18:22:45
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 10
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### zte
+- 10 phones visited from first 1 page
+
+---
+
+## 2025-09-14 18:17:56
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 10
+- **Visited phones**: 0
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### zte
+- **Updated phone**: ZTE nubia A36 (price: None → 10999)
+- **Updated phone**: ZTE nubia A56 (price: None → 10999)
+- **Updated phone**: ZTE Blade A35e (price: None → 8400)
+- **Updated phone**: ZTE Blade A76 (price: ৳15000 → 15000)
+- **Updated phone**: ZTE nubia Red Magic 10S Pro Plus (price: ৳137000 → 137000)
+- **Updated phone**: ZTE nubia RedMagic 10S Pro (price: ৳85000 → 85000)
+- **Updated phone**: ZTE Blade V70 Design (price: None → 10999)
+- **Updated phone**: ZTE Blade V70 Design (256GB) (price: None → 10999)
+- **Updated phone**: ZTE nubia Z70S Ultra (price: ৳110000 → 110000)
+- **Updated phone**: ZTE nubia RedMagic 10 Air (price: ৳88000 → 88000)
+
+---
+
+## 2025-09-14 18:11:23
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 10
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### zte
+- 10 phones visited from first 1 page
+
+---
+
+## 2025-09-14 18:08:17
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 10
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### zte
+- 10 phones visited from first 1 page
+
+---
+
+## 2025-09-14 18:03:28
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 10
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### zte
+- 10 phones visited from first 1 page
+
+---
+
+## 2025-09-14 17:57:22
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5260
+- **New brands**: 0
+- **Updated brands**: 1
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Visited phones**: 9
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### zte
+- **Updated phone**: ZTE nubia A56 (Added new field: price)
+
+## Visited
+
+#### zte
+- 9 phones visited from first 1 page
+
+---
+
 ## 2025-09-14 17:51:51
 
 ### Summary
