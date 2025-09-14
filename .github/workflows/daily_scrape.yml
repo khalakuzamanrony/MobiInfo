@@ -74,40 +74,69 @@ jobs:
               # Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
                 details_clean=$(echo "$detailed_section" | \
-                  sed 's/#### \([^#]*\)/# \1/g' | \
+                  sed 's/#### \([^#]*\)/\1/g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
                   sed 's/\*\([^*]*\)\*/\1/g' | \
                   sed '/^### Detailed Changes/d' | \
                   sed 's/^  - /- /g' | \
                   sed 's/^    - /  - /g' | \
-                  sed '/^[[:space:]]*$/d' | \
-                  sed 's/Updated phone: \([^(]*\) (/- \1 (/g' | \
-                  sed 's/Added new phone: /- /g')
+                  sed '/^[[:space:]]*$/d')
                
                 
-                # Group by brand with proper formatting
+                # Format the output with proper structure
                 details_clean=$(echo "$details_clean" | \
                   awk '
-                  /^# / { 
-                    brand = $0
+                  BEGIN { 
+                    new_phones_section = ""
+                    updates_section = ""
+                    visited_section = ""
+                    current_section = ""
+                  }
+                  /^New phones added:/ {
+                    current_section = "new"
                     next
                   }
-                  /^- / {
-                    if (brand != "") {
-                      print brand
-                      brand = ""
+                  /^Updated phones:/ {
+                    current_section = "updates"
+                    next
+                  }
+                  /^Visited phones:/ {
+                    current_section = "visited"
+                    next
+                  }
+                  /^Added new phone:/ {
+                    phone_name = substr($0, 18)
+                    new_phones_section = new_phones_section "- " phone_name "\n"
+                    next
+                  }
+                  /^Updated phone:/ {
+                    phone_info = substr($0, 16)
+                    updates_section = updates_section "- " phone_info "\n"
+                    next
+                  }
+                  /^Visited brand:/ {
+                    brand_info = substr($0, 16)
+                    visited_section = visited_section "# " brand_info "\n"
+                    next
+                  }
+                  END {
+                    if (new_phones_section != "") {
+                      print "## New phones added"
+                      printf "%s", new_phones_section
+                      print ""
                     }
-                    print $0
-                    next
-                  }
-                  /^## / {
-                    print ""
-                    print $0
-                    next
-                  }
-                  { print }')
+                    if (updates_section != "") {
+                      print "## Updates"
+                      printf "%s", updates_section
+                      print ""
+                    }
+                    if (visited_section != "") {
+                      print "## Visited"
+                      printf "%s", visited_section
+                    }
+                  }')
                 
-                formatted_message="${formatted_message}${details_clean}\n-----------------------"
+                formatted_message="${formatted_message}${details_clean}-----------------------"
               fi
             fi
             
