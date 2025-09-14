@@ -4,22 +4,22 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:57",
+    "last_updated": "2025-09-14 13:17:30",
     "total_phones": 116,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 116
   },
   "phones": [
     {
       "id": "oneplus_nord_5",
       "name": "OnePlus Nord 5",
-      "price": null,
+      "price": "53999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-5",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-5-marble-sands-official-image_1.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 14, 2025",
       "variants": [],
       "specifications": {
@@ -166,12 +166,12 @@
     {
       "id": "oneplus_nord_ce5",
       "name": "OnePlus Nord CE5",
-      "price": null,
+      "price": "35999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce5",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce5-marble-mist-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 14, 2025",
       "variants": [],
       "specifications": {
@@ -209,6 +209,16 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Sony IMX480",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "60 fps, 30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -224,16 +234,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Sony IMX480",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "60 fps, 30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -314,12 +314,12 @@
     {
       "id": "oneplus_13s_512gb",
       "name": "OnePlus 13s (512GB)",
-      "price": null,
+      "price": "84000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13s-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13s-green-silk-official-image_2.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 6, 2025",
       "variants": [
         {
@@ -466,12 +466,12 @@
     {
       "id": "oneplus_13s",
       "name": "OnePlus 13s",
-      "price": null,
+      "price": "78000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13s",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13s-green-silk-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 6, 2025",
       "variants": [
         {
@@ -618,12 +618,12 @@
     {
       "id": "oneplus_13s_16gb512gb",
       "name": "OnePlus 13s (16GB+512GB)",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13s-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13s-green-silk-official-image_1.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 18, 2025",
       "variants": [],
       "specifications": {
@@ -759,12 +759,12 @@
     {
       "id": "oneplus_ace_5_racing",
       "name": "OnePlus Ace 5 Racing",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-racing",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-racing-green-official-color-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 13, 2025",
       "variants": [
         {
@@ -914,12 +914,12 @@
     {
       "id": "oneplus_ace_5_ultra",
       "name": "OnePlus Ace 5 Ultra",
-      "price": null,
+      "price": "62000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-ultra",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-ultra-blue-official-color-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [
         {
@@ -1070,12 +1070,12 @@
     {
       "id": "oneplus_ace_5_ultra_512gb",
       "name": "OnePlus Ace 5 Ultra (512GB)",
-      "price": null,
+      "price": "58000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-ultra-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-ultra-blue-official-color-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [
         {
@@ -1226,12 +1226,12 @@
     {
       "id": "oneplus_ace_5_ultra_16gb512gb",
       "name": "OnePlus Ace 5 Ultra (16GB+512GB)",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-ultra-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-ultra-blue-official-color-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [
         {
@@ -1382,12 +1382,12 @@
     {
       "id": "oneplus_ace_5_racing_512gb",
       "name": "OnePlus Ace 5 Racing (512GB)",
-      "price": null,
+      "price": "54000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-racing-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-racing-green-official-color-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 13, 2025",
       "variants": [
         {
@@ -1537,12 +1537,12 @@
     {
       "id": "oneplus_ace_5_racing_16gb512gb",
       "name": "OnePlus Ace 5 Racing (16GB+512GB)",
-      "price": null,
+      "price": "61000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-racing-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-racing-green-official-color-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 13, 2025",
       "variants": [
         {
@@ -1692,12 +1692,12 @@
     {
       "id": "oneplus_13t",
       "name": "OnePlus 13T",
-      "price": null,
+      "price": "64000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13t-morning-mist-gray-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 30, 2025",
       "variants": [
         {
@@ -1751,13 +1751,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Telephoto Camera",
@@ -1772,6 +1765,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1850,12 +1850,12 @@
     {
       "id": "oneplus_13t_512gb",
       "name": "OnePlus 13T (512GB)",
-      "price": null,
+      "price": "77000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13t-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13t-gray-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
         {
@@ -2008,12 +2008,12 @@
     {
       "id": "oneplus_13t_16gb512gb",
       "name": "OnePlus 13T (16GB+512GB)",
-      "price": null,
+      "price": "89000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13t-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13t-gray-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -2166,12 +2166,12 @@
     {
       "id": "oneplus_13r",
       "name": "OnePlus 13R",
-      "price": null,
+      "price": "58000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13r-astral-trail-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 31, 2025",
       "variants": [
         {
@@ -2318,12 +2318,12 @@
     {
       "id": "oneplus_13r_16gb512gb",
       "name": "OnePlus 13R (16GB+512GB)",
-      "price": null,
+      "price": "65500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13r-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13r-astral-trail-official-color-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [
         {
@@ -2470,12 +2470,12 @@
     {
       "id": "oneplus_open_2",
       "name": "OnePlus Open 2",
-      "price": "৳209000",
+      "price": "209000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-open-2",
       "image_url": "https://www.mobiledokan.com/media/oneplus-open-2-black-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -2510,6 +2510,14 @@
           "Features": "Cover display:\r\nLTPO3 Super Fluid OLED, 1B colors, Dolby Vision, 120Hz\r\n6.4 inches, 1116 x 2484 pixels*, Ceramic Guard\r\n* the final display resolutions are not specified"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20MP, f/2.2, Ultra-Wide Angle Camera",
+            "Camera Features": "Cover camera:\r\n32MP, f/2.4, 22mm (ultrawide), 1/3.14\", 0.7µm",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 50 MP, Telephoto Camera, 50 MP, Ultra-Wide Angle Camera",
@@ -2522,14 +2530,6 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20MP, f/2.2, Ultra-Wide Angle Camera",
-            "Camera Features": "Cover camera:\r\n32MP, f/2.4, 22mm (ultrawide), 1/3.14\", 0.7µm",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2594,12 +2594,12 @@
     {
       "id": "oneplus_ace_5_pro_512gb",
       "name": "OnePlus Ace 5 Pro (512GB)",
-      "price": null,
+      "price": "72000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-pro-aston-purple-official-image_1.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
         {
@@ -2747,12 +2747,12 @@
     {
       "id": "oneplus_ace_5_pro",
       "name": "OnePlus Ace 5 Pro",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-pro-aston-purple-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 8, 2025",
       "variants": [
         {
@@ -2900,12 +2900,12 @@
     {
       "id": "oneplus_ace_5",
       "name": "OnePlus Ace 5",
-      "price": "৳42000",
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-5",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-5-black-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -3042,12 +3042,12 @@
     {
       "id": "oneplus_13",
       "name": "OnePlus 13",
-      "price": null,
+      "price": "118000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13-blue-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "December 7, 2024",
       "variants": [
         {
@@ -3197,12 +3197,12 @@
     {
       "id": "oneplus_13_16gb512gb",
       "name": "OnePlus 13 (16GB+512GB)",
-      "price": null,
+      "price": "129500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-13-blue-official-image_1.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -3352,12 +3352,12 @@
     {
       "id": "oneplus_nord_4_12gb256gb",
       "name": "OnePlus Nord 4 (12GB+256GB)",
-      "price": null,
+      "price": "44000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-4-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-4-mercurial-silver-official-image_3.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -3516,12 +3516,12 @@
     {
       "id": "oneplus_nord_4_12gb512gb",
       "name": "OnePlus Nord 4 (12GB+512GB)",
-      "price": null,
+      "price": "51000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-4-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-4-mercurial-silver-official-image_3.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -3676,12 +3676,12 @@
     {
       "id": "oneplus_nord_4",
       "name": "OnePlus Nord 4",
-      "price": null,
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-4",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-4-mercurial-silver-official-image_2.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -3740,14 +3740,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle, Camera",
@@ -3762,6 +3754,14 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Ultra Steady Video, Bokeh portrait video",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3840,12 +3840,12 @@
     {
       "id": "oneplus_nord_4_256gb",
       "name": "OnePlus Nord 4 (256GB)",
-      "price": null,
+      "price": "37500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-4-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-4-mercurial-silver-official-image_3.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -3904,14 +3904,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle, Camera",
@@ -3926,6 +3918,14 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Ultra Steady Video, Bokeh portrait video",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4004,12 +4004,12 @@
     {
       "id": "oneplus_ace_3_pro",
       "name": "OnePlus Ace 3 Pro",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-3-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-3-pro-green-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 10, 2024",
       "variants": [],
       "specifications": {
@@ -4140,12 +4140,12 @@
     {
       "id": "oneplus_nord_ce4_lite",
       "name": "OnePlus Nord CE4 Lite",
-      "price": null,
+      "price": "23999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4-lite",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce4-lite-mega-blue-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 15, 2025",
       "variants": [],
       "specifications": {
@@ -4281,12 +4281,12 @@
     {
       "id": "oneplus_nord_ce4",
       "name": "OnePlus Nord CE4",
-      "price": null,
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce4.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
         {
@@ -4334,15 +4334,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -4358,6 +4349,15 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4426,12 +4426,12 @@
     {
       "id": "oneplus_nord_ce4_256gb",
       "name": "OnePlus Nord CE4 (256GB)",
-      "price": null,
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce4.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
         {
@@ -4479,6 +4479,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -4494,15 +4503,6 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4571,12 +4571,12 @@
     {
       "id": "oneplus_ace_3v",
       "name": "OnePlus Ace 3V",
-      "price": null,
+      "price": "42500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-3v",
       "image_url": "https://www.mobiledokan.com/media/1713099295XSEGF.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "April 16, 2024",
       "variants": [
         {
@@ -4618,15 +4618,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Wide Angle",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle (79° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -4642,6 +4633,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Wide Angle",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4722,12 +4722,12 @@
     {
       "id": "oneplus_12r_16gb256gb",
       "name": "OnePlus 12R (16GB+256GB)",
-      "price": null,
+      "price": "60999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12r-16gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image_1.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -4890,12 +4890,12 @@
     {
       "id": "oneplus_12r_256gb",
       "name": "OnePlus 12R (256GB)",
-      "price": null,
+      "price": "57000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12r-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image_3.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {
@@ -5056,12 +5056,12 @@
     {
       "id": "oneplus_12r",
       "name": "OnePlus 12R",
-      "price": null,
+      "price": "53000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
         {
@@ -5225,12 +5225,12 @@
     {
       "id": "oneplus_12r_12gb256gb",
       "name": "OnePlus 12R (12GB+256GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12r-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image_2.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -5393,12 +5393,12 @@
     {
       "id": "oneplus_nord_n30_se",
       "name": "OnePlus Nord N30 SE",
-      "price": null,
+      "price": "16999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n30-se",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n30-se-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [
         {
@@ -5441,6 +5441,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle (77° field-of-view), Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -5454,13 +5461,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5531,12 +5531,12 @@
     {
       "id": "oneplus_ace_3",
       "name": "OnePlus Ace 3",
-      "price": "৳45990",
+      "price": "45990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-3",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-3-rose-gold-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -5670,12 +5670,12 @@
     {
       "id": "oneplus_12_24gb1tb",
       "name": "OnePlus 12 (24GB+1TB)",
-      "price": null,
+      "price": "117000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12-24gb-1tb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -5839,12 +5839,12 @@
     {
       "id": "oneplus_12",
       "name": "OnePlus 12",
-      "price": null,
+      "price": "79500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -6009,12 +6009,12 @@
     {
       "id": "oneplus_12_16gb_ram",
       "name": "OnePlus 12 (16GB RAM)",
-      "price": null,
+      "price": "88500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -6179,12 +6179,12 @@
     {
       "id": "oneplus_12_16gb1tb",
       "name": "OnePlus 12 (16GB+1TB)",
-      "price": null,
+      "price": "97000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-1tb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -6243,6 +6243,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.6, Wide Angle (85° field-of-view), Primary Camera, 48 MP f/2.2, Ultra-Wide Angle Camera, 64 MP f/2.6, Periscope Camera",
@@ -6257,15 +6266,6 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Ultra Steady Video, Video HDR, Bokeh portrait video, Video Pro Mode",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "24 fps, 30 fps, 60 fps, 240 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -6347,12 +6347,12 @@
     {
       "id": "oneplus_open",
       "name": "OnePlus Open",
-      "price": "৳127000",
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-open",
       "image_url": "https://www.mobiledokan.com/media/oneplus-open-voyager-black-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 5, 2025",
       "variants": [],
       "specifications": {
@@ -6489,12 +6489,12 @@
     {
       "id": "oneplus_nord_ce_3",
       "name": "OnePlus Nord CE 3",
-      "price": null,
+      "price": "37000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-3",
       "image_url": "https://www.mobiledokan.com/media/1713760459a07XC.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -6537,15 +6537,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -6561,6 +6552,15 @@
             "Camera Features": "Auto Flash, Face detection, Filters,Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -6629,12 +6629,12 @@
     {
       "id": "oneplus_nord_3_5g",
       "name": "OnePlus Nord 3 5G",
-      "price": null,
+      "price": "43499",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-3-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
         {
@@ -6775,12 +6775,12 @@
     {
       "id": "oneplus_10r_12gb256gb",
       "name": "OnePlus 10R (12GB+256GB)",
-      "price": null,
+      "price": "49000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10r-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-10r-green.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -6927,12 +6927,12 @@
     {
       "id": "oneplus_nord_ce_3_lite_5g",
       "name": "OnePlus Nord CE 3 Lite 5G",
-      "price": null,
+      "price": "29999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-3-lite-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -7070,12 +7070,12 @@
     {
       "id": "oneplus_ace_2v",
       "name": "OnePlus Ace 2V",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v",
       "image_url": "https://www.mobiledokan.com/media/17136870095bPDv.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -7123,13 +7123,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Primary Camera",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP f/1.7, Wide Angle (81° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -7143,6 +7136,13 @@
             "Camera Features": "20 x Digital Zoom,\r\nAuto Flash,\r\nFace detection",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080,1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7212,12 +7212,12 @@
     {
       "id": "oneplus_ace_2v_16gb_ram",
       "name": "OnePlus Ace 2V (16GB RAM)",
-      "price": null,
+      "price": "61000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/17136870095bPDv.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -7265,6 +7265,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080,1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP f/1.7, Wide Angle (81° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -7278,13 +7285,6 @@
             "Camera Features": "20 x Digital Zoom, Auto Flash, Face detection",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Primary Camera",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7354,12 +7354,12 @@
     {
       "id": "oneplus_11r",
       "name": "OnePlus 11R",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-11r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
         {
@@ -7407,6 +7407,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera 8 MP f/2.2, Ultra-Wide Angle Camera 2 MP f/2.4, Macro Camera",
@@ -7422,14 +7430,6 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Focus Tracking, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7506,12 +7506,12 @@
     {
       "id": "oneplus_11r_16gb256gb",
       "name": "OnePlus 11R (16GB+256GB)",
-      "price": null,
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-11r-16gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
         {
@@ -7658,12 +7658,12 @@
     {
       "id": "oneplus_ace_2",
       "name": "OnePlus Ace 2",
-      "price": null,
+      "price": "52000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2",
       "image_url": "https://www.mobiledokan.com/media/1714220706Wp79b.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -7706,6 +7706,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle (84° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -7721,13 +7728,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7794,12 +7794,12 @@
     {
       "id": "oneplus_11_5g",
       "name": "OnePlus 11 5G",
-      "price": null,
+      "price": "99990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-11-5g",
       "image_url": "https://www.mobiledokan.com/media/1710409629bUChV.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 14, 2025",
       "variants": [
         {
@@ -7945,12 +7945,12 @@
     {
       "id": "oneplus_ace_pro_16gb_ram",
       "name": "OnePlus Ace Pro (16GB RAM)",
-      "price": null,
+      "price": "59000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-pro-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-pro-black-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
         {
@@ -8095,12 +8095,12 @@
     {
       "id": "oneplus_ace_pro",
       "name": "OnePlus Ace Pro",
-      "price": null,
+      "price": "52990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-pro",
       "image_url": "https://www.mobiledokan.com/media/1710426213v6ur2.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
         {
@@ -8245,12 +8245,12 @@
     {
       "id": "oneplus_nord_n20_se_128gb",
       "name": "OnePlus Nord N20 SE (128GB)",
-      "price": null,
+      "price": "14490",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n20-se-128gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "December 23, 2024",
       "variants": [
         {
@@ -8388,12 +8388,12 @@
     {
       "id": "oneplus_nord_n20_se",
       "name": "OnePlus Nord N20 SE",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n20-se",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "December 23, 2024",
       "variants": [
         {
@@ -8531,12 +8531,12 @@
     {
       "id": "oneplus_10t_5g",
       "name": "OnePlus 10T 5G",
-      "price": null,
+      "price": "84990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10t-5g",
       "image_url": "https://www.mobiledokan.com/media/1710428050t5ba1.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [],
       "specifications": {
@@ -8574,14 +8574,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -8597,6 +8589,14 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -8669,12 +8669,12 @@
     {
       "id": "oneplus_nord_2t_5g_12gb256gb",
       "name": "OnePlus Nord 2T 5G (12GB+256GB)",
-      "price": null,
+      "price": "54990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2t-5g-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-gray-shadow-image_1.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -8822,12 +8822,12 @@
     {
       "id": "oneplus_nord_2t_5g",
       "name": "OnePlus Nord 2T 5G",
-      "price": null,
+      "price": "49990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2t-5g",
       "image_url": "https://www.mobiledokan.com/media/1710397258AQ4Wd.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -8970,12 +8970,12 @@
     {
       "id": "oneplus_10r",
       "name": "OnePlus 10R",
-      "price": null,
+      "price": "41000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-10r-green.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [
         {
@@ -9024,14 +9024,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -9047,6 +9039,14 @@
             "Camera Features": "Auto Flash,\r\nCustom Watermark,\r\nFace detection,\r\nFilters,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -9122,12 +9122,12 @@
     {
       "id": "oneplus_nord_ce_2_lite_5g",
       "name": "OnePlus Nord CE 2 Lite 5G",
-      "price": null,
+      "price": "23800",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-2-lite-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce-2-lite-black-dusk-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -9273,12 +9273,12 @@
     {
       "id": "oneplus_nord_ce_2_lite_5g_8gb_ram",
       "name": "OnePlus Nord CE 2 Lite 5G (8GB RAM)",
-      "price": null,
+      "price": "27300",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-2-lite-5g-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce-2-lite-black-dusk-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -9424,12 +9424,12 @@
     {
       "id": "oneplus_ace",
       "name": "OnePlus Ace",
-      "price": null,
+      "price": "39000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace",
       "image_url": "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [
         {
@@ -9575,12 +9575,12 @@
     {
       "id": "oneplus_ace_12gb256gb",
       "name": "OnePlus Ace (12GB+256GB)",
-      "price": null,
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-black.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -9727,12 +9727,12 @@
     {
       "id": "oneplus_ace_256gb",
       "name": "OnePlus Ace (256GB)",
-      "price": null,
+      "price": "42500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-ace-black.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [
         {
@@ -9880,12 +9880,12 @@
     {
       "id": "oneplus_nord_ce_2_5g",
       "name": "OnePlus Nord CE 2 5G",
-      "price": null,
+      "price": "32500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-2-5g",
       "image_url": "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -10028,12 +10028,12 @@
     {
       "id": "oneplus_10_pro_5g",
       "name": "OnePlus 10 Pro 5G",
-      "price": null,
+      "price": "61500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-10-pro-5g-volcanic-black-official-image.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -10082,6 +10082,17 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Yes",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.8, Wide Angle, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera, 8 MP f/2.4, Telephoto Camera",
@@ -10097,17 +10108,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Autofocus": "Yes",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -10185,14 +10185,25 @@
     {
       "id": "oneplus_10_pro_5g_12gb_ram",
       "name": "OnePlus 10 Pro 5G (12GB RAM)",
-      "price": "৳66000",
+      "price": "66000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1711534355Fd7RU.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-12 06:46:30",
+      "last_updated": "2025-09-14 13:17:30",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.76,990",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram"
+        },
+        {
+          "name": "8GB+256GB",
+          "price": "৳.84,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "OnePlus",
@@ -10330,12 +10341,12 @@
     {
       "id": "oneplus_9rt_5g_256gb",
       "name": "OnePlus 9RT 5G (256GB)",
-      "price": null,
+      "price": "46000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9rt-5g-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9rt-5g-black-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [
         {
@@ -10491,12 +10502,12 @@
     {
       "id": "oneplus_9rt_5g_12gb_ram",
       "name": "OnePlus 9RT 5G (12GB RAM)",
-      "price": null,
+      "price": "47000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9rt-5g-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9rt-5g-black-image_1.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [
         {
@@ -10652,12 +10663,12 @@
     {
       "id": "oneplus_9rt_5g",
       "name": "OnePlus 9RT 5G",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9rt-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9rt-5g-black-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [
         {
@@ -10813,12 +10824,12 @@
     {
       "id": "oneplus_nord_2_5g_12gb256gb",
       "name": "Oneplus Nord 2 5G (12GB/256GB)",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2-5g-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-2-5g.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
         {
@@ -10955,12 +10966,12 @@
     {
       "id": "oneplus_nord_2_5g",
       "name": "Oneplus Nord 2 5G",
-      "price": null,
+      "price": "42800",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-2-5g.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
         {
@@ -11006,6 +11017,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.45, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Camera Features": "Auto HDR",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.88, Wide Angle, Primary Camera, 8 MP f/2.25, Ultra-Wide Angle Camera, 2 MP f/2.4, Mono Camera",
@@ -11021,15 +11041,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.45, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Camera Features": "Auto HDR",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -11097,12 +11108,12 @@
     {
       "id": "oneplus_nord_n200_5g",
       "name": "OnePlus Nord N200 5G",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n200-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n200-5g-blue-quantum-official-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -11237,12 +11248,12 @@
     {
       "id": "oneplus_nord_ce_5g",
       "name": "OnePlus Nord CE 5G",
-      "price": null,
+      "price": "26000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-5g",
       "image_url": "https://www.mobiledokan.com/media/1714366387o5E3g.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 25, 2024",
       "variants": [
         {
@@ -11374,12 +11385,12 @@
     {
       "id": "oneplus_9r",
       "name": "OnePlus 9R",
-      "price": null,
+      "price": "37000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9r.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
         {
@@ -11524,12 +11535,12 @@
     {
       "id": "oneplus_9r_256gb",
       "name": "OnePlus 9R (256GB)",
-      "price": null,
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9r-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9r.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
         {
@@ -11582,16 +11593,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP f/1.7, Wide Angle, Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.4, Macro Camera, 2 MP f/2.4, Mono Camera",
@@ -11607,6 +11608,16 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -11675,12 +11686,12 @@
     {
       "id": "oneplus_9r_12gb_ram",
       "name": "OnePlus 9R (12GB RAM)",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9r-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9r.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
         {
@@ -11825,12 +11836,12 @@
     {
       "id": "oneplus_9_pro",
       "name": "Oneplus 9 Pro",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9-pro.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
         {
@@ -11979,12 +11990,12 @@
     {
       "id": "oneplus_9_pro_256gb",
       "name": "Oneplus 9 Pro (256GB)",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9-pro.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 4, 2024",
       "variants": [
         {
@@ -12135,12 +12146,12 @@
     {
       "id": "oneplus_9_pro_12gb_ram",
       "name": "Oneplus 9 Pro (12GB RAM)",
-      "price": null,
+      "price": "68000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9-pro.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
         {
@@ -12289,12 +12300,12 @@
     {
       "id": "oneplus_9",
       "name": "Oneplus 9",
-      "price": null,
+      "price": "42500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -12433,12 +12444,12 @@
     {
       "id": "oneplus_9_12gb256gb",
       "name": "Oneplus 9 (12GB/256GB)",
-      "price": null,
+      "price": "47000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-9-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -12578,12 +12589,12 @@
     {
       "id": "oneplus_nord_n10_5g",
       "name": "OnePlus Nord N10 5G",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n10-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n10-5g-midnight-ice-official-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 16, 2024",
       "variants": [
         {
@@ -12713,12 +12724,12 @@
     {
       "id": "oneplus_nord_n100",
       "name": "OnePlus Nord N100",
-      "price": "৳15500",
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n100",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n100-midnight-frost-image.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -12846,12 +12857,12 @@
     {
       "id": "oneplus_8t_12gb256gb",
       "name": "Oneplus 8T (12GB+256GB)",
-      "price": null,
+      "price": "41000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8t-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8t-aquamarine-green-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -13001,12 +13012,12 @@
     {
       "id": "oneplus_8t",
       "name": "Oneplus 8T",
-      "price": null,
+      "price": "69990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8t-aquamarine-green-official-image.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -13156,12 +13167,12 @@
     {
       "id": "oneplus_nord",
       "name": "OnePlus Nord",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-blue-marble-official-image.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 6, 2024",
       "variants": [
         {
@@ -13209,6 +13220,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera, 8 MP f/2.5, Ultra-Wide Angle (105° field-of-view) Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.25, Ultra-Wide Angle Camera, 5 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -13223,15 +13243,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera, 8 MP f/2.5, Ultra-Wide Angle (105° field-of-view) Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -13306,12 +13317,12 @@
     {
       "id": "oneplus_nord_12gb256gb",
       "name": "OnePlus Nord (12GB/256GB)",
-      "price": null,
+      "price": "41000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-blue-marble-official-image.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 26, 2024",
       "variants": [
         {
@@ -13359,6 +13370,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera, 8 MP f/2.5, Ultra-Wide Angle (105° field-of-view) Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.25, Ultra-Wide Angle Camera, 5 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -13373,15 +13393,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera, 8 MP f/2.5, Ultra-Wide Angle (105° field-of-view) Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -13456,12 +13467,12 @@
     {
       "id": "oneplus_8",
       "name": "OnePlus 8",
-      "price": null,
+      "price": "34700",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8-onyx-black-official-image.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 8, 2024",
       "variants": [
         {
@@ -13504,15 +13515,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.8, Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -13527,6 +13529,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -13602,12 +13613,12 @@
     {
       "id": "oneplus_8_pro",
       "name": "OnePlus 8 Pro",
-      "price": null,
+      "price": "47300",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8-pro-ultramarine-blue-official-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 17, 2024",
       "variants": [
         {
@@ -13753,12 +13764,12 @@
     {
       "id": "oneplus_8_5g",
       "name": "OnePlus 8 5G",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8-5g-interstellar-glow-official-image.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -13897,12 +13908,12 @@
     {
       "id": "oneplus_8_5g_tmobile",
       "name": "OnePlus 8 5G (T-Mobile)",
-      "price": "৳43000",
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-8-5g-t-mobile-",
       "image_url": "https://www.mobiledokan.com/media/oneplus-8-5g-t-mobile-interstellar-glow-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -13938,11 +13949,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0 Primary Camera",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8 Primary Camera, 16 MP, f/2.2, 14mm, 116˚ (ultrawide), 2 MP, f/2.4, (macro)",
@@ -13954,6 +13960,11 @@
             "Aperture": "f/1.8",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0 Primary Camera",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -14023,12 +14034,12 @@
     {
       "id": "oneplus_7t_pro_5g_mclaren",
       "name": "OnePlus 7T Pro 5G McLaren",
-      "price": null,
+      "price": "46000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7t-pro-5g-mclaren",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7t-pro-5g-mclaren-papaya-orange-official-image.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -14168,12 +14179,12 @@
     {
       "id": "oneplus_7t",
       "name": "OnePlus 7T",
-      "price": null,
+      "price": "54990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7t-frosted-silver-official-image.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -14314,12 +14325,12 @@
     {
       "id": "oneplus_7t_pro",
       "name": "OnePlus 7T Pro",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7t-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7t-pro-haze-blue-official-image.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -14362,16 +14373,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.6, Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera, 8 MP f/2.4, Telephoto Camera",
@@ -14387,6 +14388,16 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -14461,12 +14472,12 @@
     {
       "id": "oneplus_7",
       "name": "OnePlus 7",
-      "price": null,
+      "price": "34000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7-official-image.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 11, 2024",
       "variants": [
         {
@@ -14606,12 +14617,12 @@
     {
       "id": "oneplus_7_12gb_ram",
       "name": "OnePlus 7 (12GB RAM)",
-      "price": null,
+      "price": "44000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7-official-image.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 16, 2024",
       "variants": [
         {
@@ -14751,12 +14762,12 @@
     {
       "id": "oneplus_7_pro",
       "name": "OnePlus 7 Pro",
-      "price": null,
+      "price": "47000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7-pro-mirror-grey-official-image.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 11, 2024",
       "variants": [
         {
@@ -14910,12 +14921,12 @@
     {
       "id": "oneplus_7_pro_8gb256gb",
       "name": "OnePlus 7 Pro (8GB/256GB)",
-      "price": null,
+      "price": "51000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7-pro-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7-pro-mirror-grey-official-image.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
         {
@@ -15069,12 +15080,12 @@
     {
       "id": "oneplus_7_pro_12gb256gb",
       "name": "OnePlus 7 Pro (12GB/256GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-7-pro-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-7-pro-nebula-blue-official-image.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 11, 2024",
       "variants": [
         {
@@ -15126,16 +15137,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.6, Wide Angle, Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera, 8 MP f/2.4, Telephoto Camera",
@@ -15151,6 +15152,16 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -15228,12 +15239,12 @@
     {
       "id": "oneplus_6t_8gb_ram",
       "name": "OnePlus 6T (8GB RAM)",
-      "price": null,
+      "price": "68990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-6t-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-6t-mirror-black-image.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -15380,12 +15391,12 @@
     {
       "id": "oneplus_6t",
       "name": "OnePlus 6T",
-      "price": null,
+      "price": "62990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-6t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-6t-black.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -15431,16 +15442,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP f/1.7, Wide Angle, Primary Camera, 20 MP f/1.7, Wide Angle Camera",
@@ -15456,6 +15457,16 @@
             "Camera Features": "Auto Flash, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -15532,12 +15543,12 @@
     {
       "id": "oneplus_6_8gb128gb",
       "name": "OnePlus 6 (8GB+128GB)",
-      "price": null,
+      "price": "44990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-6-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-6-midnight-black-image.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -15685,12 +15696,12 @@
     {
       "id": "oneplus_6",
       "name": "OnePlus 6",
-      "price": null,
+      "price": "55990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-6",
       "image_url": "https://www.mobiledokan.com/media/oneplus-6-midnight-black-official-image.webp",
       "serial_number": 105,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 6, 2025",
       "variants": [
         {
@@ -15736,6 +15747,16 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps, 30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP f/1.7, Primary Camera, 20 MP f/1.7",
@@ -15751,16 +15772,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 240 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps, 30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -15838,12 +15849,12 @@
     {
       "id": "oneplus_5t_8gb128gb",
       "name": "OnePlus 5T (8GB+128GB)",
-      "price": null,
+      "price": "59990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-5t-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-5t-lava-red-image.webp",
       "serial_number": 106,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -15890,6 +15901,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP f/1.7, Primary Camera, 20 MP f/1.7, Camera",
@@ -15903,13 +15921,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080,1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -15982,12 +15993,12 @@
     {
       "id": "oneplus_5t",
       "name": "OnePlus 5T",
-      "price": null,
+      "price": "54990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-5t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-5t-red-official-image.webp",
       "serial_number": 107,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -16126,12 +16137,12 @@
     {
       "id": "oneplus_5_8gb128gb",
       "name": "OnePlus 5 (8GB+128GB)",
-      "price": null,
+      "price": "46500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-5-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-5-slate-gray-official-image_1.webp",
       "serial_number": 108,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -16273,12 +16284,12 @@
     {
       "id": "oneplus_5",
       "name": "OnePlus 5",
-      "price": null,
+      "price": "46500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-5",
       "image_url": "https://www.mobiledokan.com/media/oneplus-5-slate-gray-official-image.webp",
       "serial_number": 109,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -16418,12 +16429,12 @@
     {
       "id": "oneplus_3t_128gb_rom",
       "name": "Oneplus 3T (128GB ROM)",
-      "price": null,
+      "price": "38500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-3t-128gb-rom",
       "image_url": "https://www.mobiledokan.com/media/oneplus-3t-midnight-black-image.webp",
       "serial_number": 110,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -16470,13 +16481,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP f/2.0, Primary Camera",
@@ -16491,6 +16495,13 @@
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -16563,12 +16574,12 @@
     {
       "id": "oneplus_3t",
       "name": "Oneplus 3T",
-      "price": null,
+      "price": "35500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-3t",
       "image_url": "https://www.mobiledokan.com/media/oneplus-3t-midnight-black-official-image.webp",
       "serial_number": 111,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -16708,12 +16719,12 @@
     {
       "id": "oneplus_x",
       "name": "OnePlus X",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/oneplus-x",
       "image_url": "https://www.mobiledokan.com/media/oneplus-x-black-official-image.webp",
       "serial_number": 112,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 22, 2024",
       "variants": [
         {
@@ -16843,12 +16854,12 @@
     {
       "id": "oneplus_2",
       "name": "OnePlus 2",
-      "price": null,
+      "price": "29990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-2",
       "image_url": "https://www.mobiledokan.com/media/oneplus-2-official-image.webp",
       "serial_number": 113,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [],
       "specifications": {
@@ -16968,12 +16979,12 @@
     {
       "id": "oneplus_one",
       "name": "OnePlus One",
-      "price": null,
+      "price": "27800",
       "url": "https://www.mobiledokan.com/mobile/oneplus-one",
       "image_url": "https://www.mobiledokan.com/media/oneplus-one-white-color-image.webp",
       "serial_number": 114,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 2, 2025",
       "variants": [
         {
@@ -17102,12 +17113,12 @@
     {
       "id": "oneplus_one_64gb_rom",
       "name": "OnePlus One (64GB ROM)",
-      "price": null,
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-one-64gb-rom",
       "image_url": "https://www.mobiledokan.com/media/oneplus-one-white-color-image.webp",
       "serial_number": 115,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "March 2, 2025",
       "variants": [
         {
@@ -17150,6 +17161,15 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0 Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0 Primary Camera",
@@ -17163,15 +17183,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.0 Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -17237,12 +17248,12 @@
     {
       "id": "oneplus_13_3c",
       "name": "OnePlus 13 3C",
-      "price": "৳75000",
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-13-3c",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8-green.webp",
       "serial_number": 116,
-      "last_updated": "2025-09-11 09:01:35",
-      "first_scraped": "2025-09-11 09:01:35",
+      "last_updated": "2025-09-14 13:17:30",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {

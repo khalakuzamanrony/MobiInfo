@@ -4,22 +4,22 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2025-09-14 06:29:23",
+    "last_updated": "2025-09-14 13:18:37",
     "total_phones": 14,
     "first_scraped": "2025-09-11 09:01:40",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 14
   },
   "phones": [
     {
       "id": "helio_100_12gb_ram",
       "name": "Helio 100 (12GB RAM)",
-      "price": null,
+      "price": "21999",
       "url": "https://www.mobiledokan.com/mobile/helio-100-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/helio-100-cosmic-gold-official_1.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "April 1, 2025",
       "variants": [
         {
@@ -66,13 +66,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.45, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.9, Wide Angle, Primary Camera, 2 MP, Macro Camera, 0.3 MP, Camera",
@@ -86,6 +79,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.45, Primary Camera",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -166,12 +166,12 @@
     {
       "id": "helio_100",
       "name": "Helio 100",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/helio-100",
       "image_url": "https://www.mobiledokan.com/media/helio-100-cosmic-gold-official.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -218,6 +218,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.45, Primary Camera",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.9, Wide Angle, Primary Camera, 2 MP, Macro Camera, 0.3 MP, Camera",
@@ -231,13 +238,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.45, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -318,12 +318,12 @@
     {
       "id": "helio_90",
       "name": "Helio 90",
-      "price": null,
+      "price": "16999",
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-90",
       "image_url": "https://www.mobiledokan.com/media/helio-90-cream-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
       "specifications": {
@@ -357,12 +357,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP, Wide Angle, Primary Camera, 2 MP Camera",
@@ -373,6 +367,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -446,12 +446,12 @@
     {
       "id": "symphony_helio_40",
       "name": "Symphony Helio 40",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-40",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "September 9, 2024",
       "variants": [
         {
@@ -596,12 +596,12 @@
     {
       "id": "symphony_helio_40_8gb_ram",
       "name": "Symphony Helio 40 (8GB RAM)",
-      "price": null,
+      "price": "13199",
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-40-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "September 9, 2024",
       "variants": [
         {
@@ -746,12 +746,12 @@
     {
       "id": "symphony_helio_50",
       "name": "Symphony Helio 50",
-      "price": null,
+      "price": "13499",
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-50",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [
         {
@@ -891,12 +891,12 @@
     {
       "id": "symphony_helio_50_8gb_ram",
       "name": "Symphony Helio 50 (8GB RAM)",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-50-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [
         {
@@ -1036,12 +1036,12 @@
     {
       "id": "helio_s5",
       "name": "Helio S5",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/helio-s5",
       "image_url": "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "March 28, 2024",
       "variants": [],
       "specifications": {
@@ -1070,6 +1070,15 @@
           "Features": "Multitouch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 Megapixel",
+            "Flash": "Dual LED",
+            "Camera Features": "Dual-LED Flash, auto HDR, f/2.0",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 Megapixel",
@@ -1082,15 +1091,6 @@
             "Camera Features": "LED flash, autofocus, HDR, f/2.0, portrait, time-lapse & more",
             "Video Recording": "Full HD (1080p)",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 Megapixel",
-            "Flash": "Dual LED",
-            "Camera Features": "Dual-LED Flash, auto HDR, f/2.0",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1156,12 +1156,12 @@
     {
       "id": "helio_s60",
       "name": "Helio S60",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/helio-s60",
       "image_url": "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -1274,12 +1274,12 @@
     {
       "id": "helio_s10",
       "name": "Helio S10",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/helio-s10",
       "image_url": "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -1396,12 +1396,12 @@
     {
       "id": "helio_s25",
       "name": "Helio S25",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/helio-s25",
       "image_url": "https://www.mobiledokan.com/media/helio-s25-black-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -1510,12 +1510,12 @@
     {
       "id": "helio_s2",
       "name": "Helio S2",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/helio-s2",
       "image_url": "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -1634,12 +1634,12 @@
     {
       "id": "helio_s20",
       "name": "Helio S20",
-      "price": null,
+      "price": "20990",
       "url": "https://www.mobiledokan.com/mobile/helio-s20",
       "image_url": "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -1672,6 +1672,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2 Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP, f/1.8 Primary Camera",
@@ -1685,14 +1693,6 @@
             "Camera Features": "HDR, Face beauty, Night, Panorama, Professional, Time Lapse, Slow Motion, Text Recognition, Macro, GIF",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2 Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1760,12 +1760,12 @@
     {
       "id": "helio_s1",
       "name": "Helio S1",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/helio-s1",
       "image_url": "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:01:40",
-      "first_scraped": "2025-09-11 09:01:40",
+      "last_updated": "2025-09-14 13:18:37",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -1794,10 +1794,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP Primary Camera",
@@ -1809,6 +1805,10 @@
             "Camera Features": "Flashlight, Face Beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera"
           }
         },
         "Design": {

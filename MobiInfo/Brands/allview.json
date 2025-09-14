@@ -4,22 +4,22 @@
     "name": "allview",
     "url": "https://www.mobiledokan.com/mobile-brand/allview",
     "image_url": null,
-    "last_updated": "2025-09-12 07:05:48",
+    "last_updated": "2025-09-14 13:47:11",
     "total_phones": 3,
     "first_scraped": "2025-09-11 09:21:26",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
       "id": "allview_soul_x6_xtreme",
       "name": "Allview Soul X6 Xtreme",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/allview-soul-x6-xtreme",
       "image_url": "https://www.mobiledokan.com/media/allview-soul-x6-xtreme-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:21:26",
-      "first_scraped": "2025-09-11 09:21:26",
+      "last_updated": "2025-09-14 13:47:11",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -54,13 +54,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP, f/1.8, Primary Camera, 5 MP, f/2.4, Depth Camera",
@@ -74,6 +67,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -145,12 +145,12 @@
     {
       "id": "allview_p10_pro",
       "name": "Allview P10 Pro",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/allview-p10-pro",
       "image_url": "https://www.mobiledokan.com/media/allview-p10-pro-official-dark-green-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:21:26",
-      "first_scraped": "2025-09-11 09:21:26",
+      "last_updated": "2025-09-14 13:47:11",
+      "first_scraped": null,
       "updated_on": "August 18, 2024",
       "variants": [
         {
@@ -276,12 +276,12 @@
     {
       "id": "allview_a10_plus",
       "name": "Allview A10 Plus",
-      "price": null,
+      "price": "9600",
       "url": "https://www.mobiledokan.com/mobile/allview-a10-plus",
       "image_url": "https://www.mobiledokan.com/media/allview-a10-plus-official-gray-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:21:26",
-      "first_scraped": "2025-09-11 09:21:26",
+      "last_updated": "2025-09-14 13:47:11",
+      "first_scraped": null,
       "updated_on": "August 18, 2024",
       "variants": [
         {

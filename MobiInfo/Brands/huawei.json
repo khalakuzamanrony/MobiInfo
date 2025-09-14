@@ -4,22 +4,22 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:26",
+    "last_updated": "2025-09-14 13:45:02",
     "total_phones": 141,
     "first_scraped": "2025-09-11 09:19:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 141
   },
   "phones": [
     {
       "id": "huawei_pura_80",
       "name": "Huawei Pura 80",
-      "price": "৳100000",
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-80",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-80-gold-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 4, 2025",
       "variants": [],
       "specifications": {
@@ -49,6 +49,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 240 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-4.0, Wide Angle, Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -63,13 +70,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 240 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -137,12 +137,12 @@
     {
       "id": "huawei_pura_80_pro",
       "name": "Huawei Pura 80 Pro",
-      "price": "৳135000",
+      "price": "135000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-80-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-80-pro-white-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 30, 2025",
       "variants": [],
       "specifications": {
@@ -270,12 +270,12 @@
     {
       "id": "huawei_pura_80_ultra_1tb",
       "name": "Huawei Pura 80 Ultra (1TB)",
-      "price": null,
+      "price": "219500",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-80-ultra-1tb",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-80-ultra-gold-official-image_1.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 29, 2025",
       "variants": [
         {
@@ -419,12 +419,12 @@
     {
       "id": "huawei_pura_80_ultra",
       "name": "Huawei Pura 80 Ultra",
-      "price": null,
+      "price": "132000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-80-ultra",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-80-ultra-gold-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 16, 2025",
       "variants": [
         {
@@ -568,12 +568,12 @@
     {
       "id": "huawei_pura_80_pro_plus",
       "name": "Huawei Pura 80 Pro Plus",
-      "price": "৳155000",
+      "price": "155000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-80-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-80-pro-plus-red-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 30, 2025",
       "variants": [],
       "specifications": {
@@ -610,6 +610,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 240 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6-4.0, Wide Angle, Primary Camera, 48 MP, f/2.1, Telephoto Camera, 40 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -624,13 +631,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 240 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -708,12 +708,12 @@
     {
       "id": "huawei_nova_14",
       "name": "Huawei Nova 14",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-14",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-14-white-official-color-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
       "specifications": {
@@ -833,12 +833,12 @@
     {
       "id": "huawei_nova_14_pro",
       "name": "Huawei Nova 14 Pro",
-      "price": "৳60000",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-14-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-14-pro-blue-official-color-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
       "specifications": {
@@ -963,12 +963,12 @@
     {
       "id": "huawei_nova_y73",
       "name": "Huawei Nova Y73",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-y73",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-y73-light-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "April 30, 2025",
       "variants": [],
       "specifications": {
@@ -1005,6 +1005,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera",
@@ -1018,13 +1025,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1090,12 +1090,12 @@
     {
       "id": "huawei_nova_y63",
       "name": "Huawei Nova Y63",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-y63",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-y63-black-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [],
       "specifications": {
@@ -1219,12 +1219,12 @@
     {
       "id": "huawei_enjoy_80",
       "name": "Huawei Enjoy 80",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/huawei-enjoy-80",
       "image_url": "https://www.mobiledokan.com/media/huawei-enjoy-80-green-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "April 22, 2025",
       "variants": [],
       "specifications": {
@@ -1348,12 +1348,12 @@
     {
       "id": "huawei_nova_y72s",
       "name": "Huawei Nova Y72S",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-y72s",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-y72s-blue-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [],
       "specifications": {
@@ -1389,13 +1389,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
@@ -1409,6 +1402,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1473,12 +1473,12 @@
     {
       "id": "huawei_pura_x",
       "name": "Huawei Pura X",
-      "price": "৳125000",
+      "price": "125000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-x",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-x-red-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 20, 2025",
       "variants": [],
       "specifications": {
@@ -1615,12 +1615,12 @@
     {
       "id": "huawei_enjoy_70x",
       "name": "Huawei Enjoy 70X",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/huawei-enjoy-70x",
       "image_url": "https://www.mobiledokan.com/media/huawei-enjoy-70x-blue-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 4, 2025",
       "variants": [],
       "specifications": {
@@ -1654,13 +1654,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -1674,6 +1667,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1748,12 +1748,12 @@
     {
       "id": "huawei_mate_x6",
       "name": "Huawei Mate X6",
-      "price": "৳220000",
+      "price": "220000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x6",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x6-red-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -1789,6 +1789,14 @@
           "Features": "Cover display:\r\nLTPO OLED, 120Hz, HDR, 2500 nits (peak), 6.45 inches, 1080 x 2440 pixels"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Cover camera:\r\n8 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-f/4.0, Wide Angle, Primary Camera, 48 MP, f/3.0, Periscope Telephoto Camera, 40 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1803,14 +1811,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus, Dual Video Recording, Video HDR, Macro Video, Audio Zoom",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Cover camera:\r\n8 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1892,12 +1892,12 @@
     {
       "id": "huawei_mate_70_rs_ultimate",
       "name": "Huawei Mate 70 RS Ultimate",
-      "price": "৳200000",
+      "price": "200000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-70-rs-ultimate",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-70-rs-ultimate-red-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -2026,12 +2026,12 @@
     {
       "id": "huawei_mate_70",
       "name": "Huawei Mate 70",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-70",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-70-black-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "November 27, 2024",
       "variants": [],
       "specifications": {
@@ -2160,12 +2160,12 @@
     {
       "id": "huawei_mate_70_pro",
       "name": "Huawei Mate 70 Pro",
-      "price": "৳195000",
+      "price": "195000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-70-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-70-pro-green-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 28, 2025",
       "variants": [],
       "specifications": {
@@ -2301,12 +2301,12 @@
     {
       "id": "huawei_mate_70_pro_plus",
       "name": "Huawei Mate 70 Pro Plus",
-      "price": "৳220000",
+      "price": "220000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-70-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-70-pro-plus-green-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 28, 2025",
       "variants": [],
       "specifications": {
@@ -2342,13 +2342,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-f/4.0, Wide Angle, Primary Camera, 48 MP, f/2.1, Periscope Telephoto Camera, 40 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2363,6 +2356,13 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Focus Tracking, Touch to focus, Dual Video Recording, Slo-motion, Video HDR, Macro Video",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -2442,12 +2442,12 @@
     {
       "id": "huawei_nova_13",
       "name": "Huawei Nova 13",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-13",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-13-green-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -2575,12 +2575,12 @@
     {
       "id": "huawei_nova_13_pro",
       "name": "Huawei Nova 13 Pro",
-      "price": "৳65000",
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-13-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-13-pro-purple-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -2710,12 +2710,12 @@
     {
       "id": "huawei_mate_xt_ultimate",
       "name": "Huawei Mate XT Ultimate",
-      "price": null,
+      "price": "430000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [
         {
@@ -2859,12 +2859,12 @@
     {
       "id": "huawei_mate_xt_ultimate_512gb",
       "name": "Huawei Mate XT Ultimate (512GB)",
-      "price": null,
+      "price": "470000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-512gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 8, 2025",
       "variants": [
         {
@@ -3007,12 +3007,12 @@
     {
       "id": "huawei_mate_xt_ultimate_1tb",
       "name": "Huawei Mate XT Ultimate (1TB)",
-      "price": null,
+      "price": "490000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 8, 2025",
       "variants": [
         {
@@ -3155,12 +3155,12 @@
     {
       "id": "huawei_mate_x5",
       "name": "Huawei Mate X5",
-      "price": "৳195000",
+      "price": "195000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x5",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x5-purple-official-image_2.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -3296,12 +3296,12 @@
     {
       "id": "huawei_mate_60",
       "name": "Huawei Mate 60",
-      "price": "৳130000",
+      "price": "130000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-green-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "November 27, 2024",
       "variants": [],
       "specifications": {
@@ -3436,12 +3436,12 @@
     {
       "id": "huawei_nova_flip",
       "name": "Huawei nova Flip",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-flip",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-flip-new-green-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -3563,12 +3563,12 @@
     {
       "id": "huawei_pura_70",
       "name": "Huawei Pura 70",
-      "price": null,
+      "price": "118000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-blue-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [
         {
@@ -3615,6 +3615,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-4.0, Wide Angle, Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -3629,13 +3636,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Smile detection, Dual Video Recording\r\nSlo-motion, Video HDR, Macro Video",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3715,12 +3715,12 @@
     {
       "id": "huawei_pura_70_512gb",
       "name": "Huawei Pura 70 (512GB)",
-      "price": null,
+      "price": "125000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70-512gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-blue-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [
         {
@@ -3767,13 +3767,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-4.0, Wide Angle, Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -3788,6 +3781,13 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Smile detection, Dual Video Recording\r\nSlo-motion, Video HDR, Macro Video",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3867,12 +3867,12 @@
     {
       "id": "huawei_pura_70_pro_plus",
       "name": "Huawei Pura 70 Pro Plus",
-      "price": "৳139900",
+      "price": "139900",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-silver-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -4006,12 +4006,12 @@
     {
       "id": "huawei_pura_70_ultra",
       "name": "Huawei Pura 70 Ultra",
-      "price": null,
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70-ultra",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-ultra-green-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [
         {
@@ -4151,12 +4151,12 @@
     {
       "id": "huawei_mate_60_pro_plus",
       "name": "Huawei Mate 60 Pro Plus",
-      "price": null,
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-pro-plus-light-gold-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 23, 2025",
       "variants": [
         {
@@ -4296,12 +4296,12 @@
     {
       "id": "huawei_mate_60_pro",
       "name": "Huawei Mate 60 Pro",
-      "price": null,
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -4439,12 +4439,12 @@
     {
       "id": "huawei_mate_60_pro_256gb",
       "name": "Huawei Mate 60 Pro (256GB)",
-      "price": null,
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -4582,12 +4582,12 @@
     {
       "id": "huawei_nova_11_pro",
       "name": "Huawei Nova 11 Pro",
-      "price": "৳73000",
+      "price": "73000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-11-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -4721,12 +4721,12 @@
     {
       "id": "huawei_p60_art",
       "name": "Huawei P60 Art",
-      "price": null,
+      "price": "145000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-art",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-art-official-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
         {
@@ -4856,12 +4856,12 @@
     {
       "id": "huawei_mate_x3",
       "name": "Huawei Mate X3",
-      "price": null,
+      "price": "197000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x3",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 26, 2025",
       "variants": [
         {
@@ -4901,13 +4901,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Wide Angle Primary Camera",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultrawide Camera",
@@ -4922,6 +4915,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160,1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Wide Angle Primary Camera",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4998,12 +4998,12 @@
     {
       "id": "huawei_p60",
       "name": "Huawei P60",
-      "price": "৳72000",
+      "price": "72000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p60",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -5137,12 +5137,12 @@
     {
       "id": "huawei_p60_pro",
       "name": "Huawei P60 Pro",
-      "price": null,
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-pro-black-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [
         {
@@ -5287,12 +5287,12 @@
     {
       "id": "huawei_p60_pro_12512gb",
       "name": "Huawei P60 Pro (12/512GB)",
-      "price": null,
+      "price": "138000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-pro-black-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [
         {
@@ -5436,12 +5436,12 @@
     {
       "id": "huawei_mate_50",
       "name": "Huawei Mate 50",
-      "price": null,
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-50",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-50-silver-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -5581,12 +5581,12 @@
     {
       "id": "huawei_mate_50_pro",
       "name": "Huawei Mate 50 Pro",
-      "price": null,
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-50-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-50-pro-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
         {
@@ -5718,12 +5718,12 @@
     {
       "id": "huawei_p50_pocket",
       "name": "Huawei P50 Pocket",
-      "price": null,
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p50-pocket",
       "image_url": "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 1, 2024",
       "variants": [
         {
@@ -5849,12 +5849,12 @@
     {
       "id": "huawei_p50_pro",
       "name": "Huawei P50 Pro",
-      "price": "৳80500",
+      "price": "80500",
       "url": "https://www.mobiledokan.com/mobile/huawei-p50-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p50-pro-cocoa-gold-official-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [],
       "specifications": {
@@ -5990,12 +5990,12 @@
     {
       "id": "huawei_mate_40_pro",
       "name": "Huawei Mate 40 Pro",
-      "price": null,
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-40-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
         {
@@ -6130,12 +6130,12 @@
     {
       "id": "huawei_y8p",
       "name": "Huawei Y8p",
-      "price": null,
+      "price": "25499",
       "url": "https://www.mobiledokan.com/mobile/huawei-y8p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 15, 2024",
       "variants": [
         {
@@ -6177,13 +6177,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0 Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.4, Ultra-Wide Angle Camera, 2 MP, f/2.4, Depth Camera",
@@ -6197,6 +6190,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0 Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -6270,12 +6270,12 @@
     {
       "id": "huawei_p40_pro_plus",
       "name": "Huawei P40 Pro Plus",
-      "price": null,
+      "price": "112000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p40-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -6414,12 +6414,12 @@
     {
       "id": "huawei_y5p",
       "name": "Huawei Y5p",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 17, 2024",
       "variants": [
         {
@@ -6546,12 +6546,12 @@
     {
       "id": "huawei_y6p",
       "name": "Huawei Y6p",
-      "price": null,
+      "price": "16999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -6687,12 +6687,12 @@
     {
       "id": "huawei_y6s",
       "name": "Huawei Y6s",
-      "price": null,
+      "price": "14500",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6s",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6s-blue.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -6816,12 +6816,12 @@
     {
       "id": "huawei_p40_pro",
       "name": "Huawei P40 Pro",
-      "price": null,
+      "price": "68000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p40-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p40-pro-black-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -6964,12 +6964,12 @@
     {
       "id": "huawei_mate_xs",
       "name": "Huawei Mate Xs",
-      "price": null,
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xs",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xs.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "May 9, 2024",
       "variants": [
         {
@@ -7095,12 +7095,12 @@
     {
       "id": "huawei_y7p",
       "name": "Huawei Y7p",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7p-aurora-blue-official-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 8, 2024",
       "variants": [
         {
@@ -7141,6 +7141,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.8, Primary Camera, 8 MP f/2.4, Ultra-Wide Angle Camera, 2 MP f/2.4",
@@ -7154,13 +7161,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -7232,12 +7232,12 @@
     {
       "id": "huawei_nova_7i",
       "name": "Huawei Nova 7i",
-      "price": null,
+      "price": "29999",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-7i",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
         {
@@ -7370,12 +7370,12 @@
     {
       "id": "huawei_y9s",
       "name": "Huawei Y9s",
-      "price": null,
+      "price": "23000",
       "url": "https://www.mobiledokan.com/mobile/huawei-y9s",
       "image_url": "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 8, 2024",
       "variants": [
         {
@@ -7417,13 +7417,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.8, Primary Camera, 8 MP f/2.4, Ultra-Wide Angle Camera, 2 MP f/2.4, Depth Camera",
@@ -7437,6 +7430,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -7510,12 +7510,12 @@
     {
       "id": "huawei_mate_x",
       "name": "Huawei Mate X",
-      "price": null,
+      "price": "270000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -7557,10 +7557,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Autofocus": "Autofocus",
-            "Flash": "Flash"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "40 MP f/1.8, Wide Angle, Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera, 8 MP f/2.4, Telephoto Camera",
@@ -7574,6 +7570,10 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Autofocus": "Autofocus",
+            "Flash": "Flash"
           }
         },
         "Design": {
@@ -7645,12 +7645,12 @@
     {
       "id": "huawei_mate_30_pro_5g",
       "name": "Huawei Mate 30 Pro 5G",
-      "price": null,
+      "price": "64000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-30-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-30-pro-5g-orange-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -7794,12 +7794,12 @@
     {
       "id": "huawei_nova_5t",
       "name": "Huawei Nova 5T",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-5t",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-5t-crush-blue-official-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -7933,12 +7933,12 @@
     {
       "id": "huawei_mate_30_pro",
       "name": "Huawei Mate 30 Pro",
-      "price": null,
+      "price": "74500",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-30-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -8080,12 +8080,12 @@
     {
       "id": "huawei_y9_prime_2019",
       "name": "Huawei Y9 Prime 2019",
-      "price": null,
+      "price": "23999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y9-prime-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y9-prime-2019-official-sapphire-blue-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -8221,12 +8221,12 @@
     {
       "id": "huawei_y5_2019",
       "name": "Huawei Y5 (2019)",
-      "price": null,
+      "price": "10999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 15, 2024",
       "variants": [
         {
@@ -8268,6 +8268,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2 Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/1.8, Camera",
@@ -8281,13 +8288,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2 Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -8356,12 +8356,12 @@
     {
       "id": "huawei_honor_8a_pro",
       "name": "Huawei Honor 8a Pro",
-      "price": null,
+      "price": "21120",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-8a-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-8a-pro-gold-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 11, 2025",
       "variants": [],
       "specifications": {
@@ -8488,12 +8488,12 @@
     {
       "id": "huawei_p30_lite",
       "name": "Huawei P30 Lite",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/huawei-p30-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p30-lite-midnight-black-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -8626,12 +8626,12 @@
     {
       "id": "huawei_enjoy_9e",
       "name": "Huawei Enjoy 9e",
-      "price": "৳8000",
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/huawei-enjoy-9e",
       "image_url": "https://www.mobiledokan.com/media/huawei-enjoy-9e-black-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -8750,12 +8750,12 @@
     {
       "id": "huawei_p30",
       "name": "Huawei P30",
-      "price": null,
+      "price": "64999",
       "url": "https://www.mobiledokan.com/mobile/huawei-p30",
       "image_url": "https://www.mobiledokan.com/media/huawei-p30-official-breathings-crystal-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -8896,12 +8896,12 @@
     {
       "id": "huawei_p30_pro",
       "name": "Huawei P30 Pro",
-      "price": null,
+      "price": "57000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p30-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p30-pro-aurora-official-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "July 3, 2024",
       "variants": [
         {
@@ -9047,12 +9047,12 @@
     {
       "id": "huawei_y6_pro_2019",
       "name": "Huawei Y6 Pro (2019)",
-      "price": null,
+      "price": "11690",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-pro-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 16, 2024",
       "variants": [],
       "specifications": {
@@ -9088,6 +9088,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0 Primary Camera",
@@ -9100,10 +9104,6 @@
             "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -9170,12 +9170,12 @@
     {
       "id": "huawei_y7_pro_2019",
       "name": "Huawei Y7 Pro (2019)",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7-pro-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7-pro-2019-aurora-blue-official-image.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "June 8, 2024",
       "variants": [
         {
@@ -9304,12 +9304,12 @@
     {
       "id": "huawei_y_max",
       "name": "Huawei Y Max",
-      "price": null,
+      "price": "21999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y-max",
       "image_url": "https://www.mobiledokan.com/media/huawei-y-max-amber-brown-official-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -9345,6 +9345,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0 Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP, f/2.0 Primary Camera, 2 MP, f/2.4 Depth Camera",
@@ -9358,13 +9365,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0 Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9432,12 +9432,12 @@
     {
       "id": "huawei_nova_4",
       "name": "Huawei Nova 4",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-4",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-4-blue-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -9565,12 +9565,12 @@
     {
       "id": "huawei_mate_20",
       "name": "Huawei Mate 20",
-      "price": null,
+      "price": "76990",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-20",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-20-midnight-blue-official-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -9606,13 +9606,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "24 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP, f/1.8, Wide Angle, Primary Camera, 16 MP, f/2.2, Ultra-Wide Angle Camera, 8 MP, f/2.4, Telephoto Camera",
@@ -9626,6 +9619,13 @@
             "Camera Features": "Auto Flash, Face detection, Smile detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9707,12 +9707,12 @@
     {
       "id": "huawei_mate_20_pro",
       "name": "Huawei Mate 20 Pro",
-      "price": "৳55000",
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-20-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-20-pro-blue.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -9848,12 +9848,12 @@
     {
       "id": "huawei_y9_2019",
       "name": "Huawei Y9 (2019)",
-      "price": null,
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/huawei-y9-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y9-2019-black-official-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -9895,13 +9895,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16 MP f/2.0, Primary Camera, 2 MP f/2.4, Depth Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP f/1.8, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -9915,6 +9908,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP f/2.0, Primary Camera, 2 MP f/2.4, Depth Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9986,12 +9986,12 @@
     {
       "id": "honor_8x",
       "name": "Honor 8X",
-      "price": null,
+      "price": "21900",
       "url": "https://www.mobiledokan.com/mobile/honor-8x",
       "image_url": "https://www.mobiledokan.com/media/honor-8x-black-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 25, 2025",
       "variants": [],
       "specifications": {
@@ -10122,12 +10122,12 @@
     {
       "id": "huawei_nova_3",
       "name": "Huawei Nova 3",
-      "price": null,
+      "price": "39500",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-3",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-3-blue-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -10255,12 +10255,12 @@
     {
       "id": "huawei_nova_3i",
       "name": "Huawei Nova 3i",
-      "price": null,
+      "price": "18500",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-3i",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [
         {
@@ -10394,12 +10394,12 @@
     {
       "id": "huawei_y5_prime_2018",
       "name": "Huawei Y5 Prime (2018)",
-      "price": null,
+      "price": "8599",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5-prime-2018-",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5-prime-2018.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
       "specifications": {
@@ -10518,12 +10518,12 @@
     {
       "id": "huawei_y3_2018",
       "name": "Huawei Y3 2018",
-      "price": null,
+      "price": "8890",
       "url": "https://www.mobiledokan.com/mobile/huawei-y3-2018",
       "image_url": "https://www.mobiledokan.com/media/huawei-y3-2018-gold.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -10638,12 +10638,12 @@
     {
       "id": "huawei_y6_prime_2018",
       "name": "Huawei Y6 Prime (2018)",
-      "price": null,
+      "price": "12490",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-prime-2018",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-prime-2018-blue-image.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 1, 2025",
       "variants": [],
       "specifications": {
@@ -10764,12 +10764,12 @@
     {
       "id": "huawei_y7_pro_2018",
       "name": "Huawei Y7 Pro (2018)",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7-pro-2018",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7-pro-2018-blue-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 16, 2024",
       "variants": [],
       "specifications": {
@@ -10891,12 +10891,12 @@
     {
       "id": "huawei_y9_2018",
       "name": "Huawei Y9 (2018)",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y9-2018",
       "image_url": "https://www.mobiledokan.com/media/huawei-y9-2018-gold.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
       "specifications": {
@@ -11020,12 +11020,12 @@
     {
       "id": "huawei_nova_3e",
       "name": "Huawei Nova 3e",
-      "price": null,
+      "price": "27990",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-3e",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-3e-blue-official-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -11150,12 +11150,12 @@
     {
       "id": "huawei_p20",
       "name": "Huawei P20",
-      "price": null,
+      "price": "44500",
       "url": "https://www.mobiledokan.com/mobile/huawei-p20",
       "image_url": "https://www.mobiledokan.com/media/huawei-p20-black-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 29, 2025",
       "variants": [],
       "specifications": {
@@ -11284,12 +11284,12 @@
     {
       "id": "huawei_p20_lite",
       "name": "Huawei P20 Lite",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p20-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p20-lite-pink-color-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -11418,12 +11418,12 @@
     {
       "id": "huawei_p20_pro",
       "name": "Huawei P20 Pro",
-      "price": null,
+      "price": "82990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p20-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p20-pro-gold-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 29, 2025",
       "variants": [],
       "specifications": {
@@ -11556,12 +11556,12 @@
     {
       "id": "huawei_p_smart",
       "name": "Huawei P Smart",
-      "price": null,
+      "price": "26990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p-smart",
       "image_url": "https://www.mobiledokan.com/media/huawei-p-smart-black-official-image.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -11685,12 +11685,12 @@
     {
       "id": "huawei_mate_10_pro",
       "name": "Huawei Mate 10 Pro",
-      "price": null,
+      "price": "80900",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-10-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-10-pro-official-titanium-gray-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -11730,6 +11730,13 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.6, Primary Camera\r\n20 MP",
@@ -11744,13 +11751,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -11830,12 +11830,12 @@
     {
       "id": "huawei_mate_10",
       "name": "Huawei Mate 10",
-      "price": null,
+      "price": "68000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-10",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-10-mocha-brown-official-image.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -11965,12 +11965,12 @@
     {
       "id": "huawei_nova_2i",
       "name": "Huawei Nova 2i",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-2i",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-2i-official-prestige-gold-image.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [
         {
@@ -12012,6 +12012,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0 Primary Camera 2 MP",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP f/1.8, Primary Camera, 2 MP",
@@ -12025,13 +12032,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.0 Primary Camera 2 MP",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -12104,12 +12104,12 @@
     {
       "id": "huawei_y6lite",
       "name": "Huawei Y6lite",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6lite.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -12204,12 +12204,12 @@
     {
       "id": "huawei_p9_lite_mini",
       "name": "Huawei P9 Lite Mini",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p9-lite-mini",
       "image_url": "https://www.mobiledokan.com/media/huawei-p9-lite-mini-black-official-image.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 12, 2024",
       "variants": [
         {
@@ -12338,12 +12338,12 @@
     {
       "id": "huawei_y6_2017",
       "name": "Huawei Y6 (2017)",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-2017-",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-2017-grey-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 28, 2024",
       "variants": [],
       "specifications": {
@@ -12462,12 +12462,12 @@
     {
       "id": "huawei_y7",
       "name": "Huawei Y7",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7-all.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [],
       "specifications": {
@@ -12587,12 +12587,12 @@
     {
       "id": "huawei_y6_ii_prime",
       "name": "Huawei Y6 II Prime",
-      "price": null,
+      "price": "14900",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-ii-prime",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-ii-prime-black-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -12705,12 +12705,12 @@
     {
       "id": "huawei_y3_2017",
       "name": "Huawei Y3 (2017)",
-      "price": null,
+      "price": "7390",
       "url": "https://www.mobiledokan.com/mobile/huawei-y3-2017",
       "image_url": "https://www.mobiledokan.com/media/huawei-y3-2017-gold-official-image.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -12744,12 +12744,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "640x480",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -12762,6 +12756,12 @@
             "Aperture": "f/2.0",
             "Camera Features": "Face detection,\r\nTouch to focus",
             "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Video Recording": "640x480",
             "Video FPS": "30 fps"
           }
         },
@@ -12827,12 +12827,12 @@
     {
       "id": "huawei_y5_2017",
       "name": "Huawei Y5 (2017)",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5-2017",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5-2017-gold-official-image.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -12963,12 +12963,12 @@
     {
       "id": "huawei_y7_prime",
       "name": "Huawei Y7 Prime",
-      "price": null,
+      "price": "19900",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7-prime",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7-prime-gold-official-image.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
         {
@@ -13095,12 +13095,12 @@
     {
       "id": "huawei_p10_plus",
       "name": "Huawei P10 Plus",
-      "price": null,
+      "price": "66900",
       "url": "https://www.mobiledokan.com/mobile/huawei-p10-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-p10-plus-black-image.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 26, 2025",
       "variants": [],
       "specifications": {
@@ -13229,12 +13229,12 @@
     {
       "id": "huawei_p10",
       "name": "Huawei P10",
-      "price": null,
+      "price": "56900",
       "url": "https://www.mobiledokan.com/mobile/huawei-p10",
       "image_url": "https://www.mobiledokan.com/media/huawei-p10-black-image.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -13364,12 +13364,12 @@
     {
       "id": "huawei_p10_lite",
       "name": "Huawei P10 Lite",
-      "price": null,
+      "price": "29990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p10-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p10-lite-gold-official-image.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -13497,12 +13497,12 @@
     {
       "id": "huawei_p8_lite",
       "name": "Huawei P8 Lite",
-      "price": null,
+      "price": "20200",
       "url": "https://www.mobiledokan.com/mobile/huawei-p8-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p8-lite-blue-colour.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 3, 2024",
       "variants": [
         {
@@ -13542,13 +13542,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP f/2.0, Primary Camera",
@@ -13563,6 +13556,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -13634,12 +13634,12 @@
     {
       "id": "huawei_gr3_2017",
       "name": "Huawei GR3 (2017)",
-      "price": null,
+      "price": "17900",
       "url": "https://www.mobiledokan.com/mobile/huawei-gr3-2017",
       "image_url": "https://www.mobiledokan.com/media/huawei-gr3-2017-black-image.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [],
       "specifications": {
@@ -13670,6 +13670,11 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1080p"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP, Primary Camera",
@@ -13679,11 +13684,6 @@
             "Camera Features": "Auto face & smile, recognition, HDR, panorama mode",
             "Video Recording": "1080p (Full HD)",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1080p"
           }
         },
         "Design": {
@@ -13753,12 +13753,12 @@
     {
       "id": "huawei_gr5_2017_premium",
       "name": "Huawei GR5 (2017) Premium",
-      "price": null,
+      "price": "24400",
       "url": "https://www.mobiledokan.com/mobile/huawei-gr5-2017-premium",
       "image_url": "https://www.mobiledokan.com/media/huawei-gr5-2017-premium-official-gray-image-1.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -13800,12 +13800,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP, f/1.2.9, Primary Camera, 2 MP, Depth Camera",
@@ -13817,6 +13811,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.2.9",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -13889,12 +13889,12 @@
     {
       "id": "huawei_y6_ii",
       "name": "Huawei Y6 II",
-      "price": null,
+      "price": "13900",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-ii",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-ii-black-image.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [],
       "specifications": {
@@ -14009,12 +14009,12 @@
     {
       "id": "huawei_gr5_mini",
       "name": "Huawei GR5 Mini",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/huawei-gr5-mini",
       "image_url": "https://www.mobiledokan.com/media/huawei-gr5-mini-gold-official-image.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -14132,12 +14132,12 @@
     {
       "id": "huawei_y5ii",
       "name": "Huawei Y5II",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5ii",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5ii-b.webp",
       "serial_number": 105,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -14171,11 +14171,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Flash": "LED Flash"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -14189,6 +14184,11 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "720p",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Flash": "LED Flash"
           }
         },
         "Design": {
@@ -14254,12 +14254,12 @@
     {
       "id": "huawei_y3_ii",
       "name": "Huawei Y3 II",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y3-ii",
       "image_url": "https://www.mobiledokan.com/media/huawei-y3-ii.webp",
       "serial_number": 106,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [],
       "specifications": {
@@ -14371,12 +14371,12 @@
     {
       "id": "huawei_p9_lite",
       "name": "Huawei P9 lite",
-      "price": null,
+      "price": "17520",
       "url": "https://www.mobiledokan.com/mobile/huawei-p9-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p9-lite-official-gold-image-2.webp",
       "serial_number": 107,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
         {
@@ -14508,12 +14508,12 @@
     {
       "id": "huawei_p9",
       "name": "Huawei P9",
-      "price": null,
+      "price": "47990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p9",
       "image_url": "https://www.mobiledokan.com/media/huawei-p9-official-prestige-gold-front-image-2.webp",
       "serial_number": 108,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -14646,12 +14646,12 @@
     {
       "id": "huawei_gr5",
       "name": "Huawei GR5",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/huawei-gr5",
       "image_url": "https://www.mobiledokan.com/media/huawei-gr5-gold-official-image.webp",
       "serial_number": 109,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -14686,10 +14686,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -14702,6 +14698,10 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -14768,12 +14768,12 @@
     {
       "id": "huawei_mate_8",
       "name": "Huawei Mate 8",
-      "price": null,
+      "price": "49990",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-8",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-8-brown-official-image.webp",
       "serial_number": 110,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 12, 2024",
       "variants": [
         {
@@ -14814,13 +14814,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP f/2.0, Primary Camera",
@@ -14835,6 +14828,13 @@
             "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -14910,12 +14910,12 @@
     {
       "id": "huawei_y6_pro",
       "name": "Huawei Y6 Pro",
-      "price": null,
+      "price": "11690",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-pro-gold-image.webp",
       "serial_number": 111,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 16, 2024",
       "variants": [],
       "specifications": {
@@ -15034,12 +15034,12 @@
     {
       "id": "huawei_g7_plus",
       "name": "Huawei G7 Plus",
-      "price": null,
+      "price": "27990",
       "url": "https://www.mobiledokan.com/mobile/huawei-g7-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-g7-plus.webp",
       "serial_number": 112,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [],
       "specifications": {
@@ -15150,12 +15150,12 @@
     {
       "id": "huawei_y3c",
       "name": "Huawei Y3C",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y3c",
       "image_url": "https://www.mobiledokan.com/media/huawei-y3c-black-image.webp",
       "serial_number": 113,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 26, 2025",
       "variants": [],
       "specifications": {
@@ -15263,12 +15263,12 @@
     {
       "id": "huawei_y6",
       "name": "Huawei Y6",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-black.webp",
       "serial_number": 114,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -15378,12 +15378,12 @@
     {
       "id": "huawei_p8lite",
       "name": "Huawei P8lite",
-      "price": null,
+      "price": "15490",
       "url": "https://www.mobiledokan.com/mobile/huawei-p8lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p8lite-gold-image.webp",
       "serial_number": 115,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 16, 2024",
       "variants": [],
       "specifications": {
@@ -15419,6 +15419,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0 Primary Camera",
@@ -15432,10 +15436,6 @@
             "Camera Features": "Face detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -15504,12 +15504,12 @@
     {
       "id": "huawei_gr3",
       "name": "Huawei GR3",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/huawei-gr3",
       "image_url": "https://www.mobiledokan.com/media/huawei-gr3-silver-image.webp",
       "serial_number": 116,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 23, 2025",
       "variants": [],
       "specifications": {
@@ -15623,12 +15623,12 @@
     {
       "id": "huawei_y5c_honor_bee",
       "name": "Huawei Y5c (Honor Bee)",
-      "price": null,
+      "price": "6490",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5c-honor-bee",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5c-honor-bee-black-image.webp",
       "serial_number": 117,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 23, 2025",
       "variants": [],
       "specifications": {
@@ -15734,12 +15734,12 @@
     {
       "id": "huawei_y625",
       "name": "Huawei Y625",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/huawei-y625",
       "image_url": "https://www.mobiledokan.com/media/huawei-y625-black-official-image.webp",
       "serial_number": 118,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -15853,12 +15853,12 @@
     {
       "id": "huawei_p8",
       "name": "Huawei P8",
-      "price": null,
+      "price": "49990",
       "url": "https://www.mobiledokan.com/mobile/huawei-p8",
       "image_url": "https://www.mobiledokan.com/media/huawei-p8-grey-official-image.webp",
       "serial_number": 119,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 9, 2024",
       "variants": [
         {
@@ -15900,13 +15900,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0, Primary Camera",
@@ -15920,6 +15913,13 @@
             "Camera Features": "Face detection,\r\nSmile detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -15983,12 +15983,12 @@
     {
       "id": "huawei_g_play_mini",
       "name": "Huawei G Play Mini",
-      "price": null,
+      "price": "12490",
       "url": "https://www.mobiledokan.com/mobile/huawei-g-play-mini",
       "image_url": "https://www.mobiledokan.com/media/huawei-g-play-mini-white-image.webp",
       "serial_number": 120,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [],
       "specifications": {
@@ -16097,12 +16097,12 @@
     {
       "id": "huawei_honor_6_plus",
       "name": "Huawei Honor 6 Plus",
-      "price": null,
+      "price": "44990",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-6-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-6-plus-black-image.webp",
       "serial_number": 121,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 10, 2025",
       "variants": [],
       "specifications": {
@@ -16224,12 +16224,12 @@
     {
       "id": "huawei_ascend_y520",
       "name": "Huawei Ascend Y520",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-y520",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-y520-pink-image.webp",
       "serial_number": 122,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [],
       "specifications": {
@@ -16331,12 +16331,12 @@
     {
       "id": "huawei_honor_holly",
       "name": "Huawei Honor Holly",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-holly",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-holly-white-color-image.webp",
       "serial_number": 123,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 11, 2025",
       "variants": [],
       "specifications": {
@@ -16369,6 +16369,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -16381,10 +16385,6 @@
             "Camera Features": "Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera"
           }
         },
         "Design": {
@@ -16447,12 +16447,12 @@
     {
       "id": "huawei_ascend_g7",
       "name": "Huawei Ascend G7",
-      "price": null,
+      "price": "25990",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-g7",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-g7-black-official-image.webp",
       "serial_number": 124,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -16579,12 +16579,12 @@
     {
       "id": "huawei_ascend_mate7",
       "name": "Huawei Ascend Mate7",
-      "price": null,
+      "price": "52750",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-mate7",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-mate7.webp",
       "serial_number": 125,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -16699,12 +16699,12 @@
     {
       "id": "huawei_honor_4x",
       "name": "Huawei Honor 4X",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-4x",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-4x-black-color-image.webp",
       "serial_number": 126,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "March 11, 2025",
       "variants": [],
       "specifications": {
@@ -16739,6 +16739,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.0, Primary Camera",
@@ -16751,12 +16757,6 @@
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "720p",
             "Video FPS": "30 fps"
           }
         },
@@ -16826,12 +16826,12 @@
     {
       "id": "huawei_honor_6",
       "name": "Huawei Honor 6",
-      "price": null,
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-6",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-6-black.webp",
       "serial_number": 127,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
       "specifications": {
@@ -16948,12 +16948,12 @@
     {
       "id": "huawei_ascend_p7",
       "name": "Huawei Ascend P7",
-      "price": null,
+      "price": "35500",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-p7",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-p7-black-official-image.webp",
       "serial_number": 128,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -17080,12 +17080,12 @@
     {
       "id": "huawei_ascend_g630",
       "name": "Huawei Ascend G630",
-      "price": null,
+      "price": "15490",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-g630",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-g630-white-image.webp",
       "serial_number": 129,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [],
       "specifications": {
@@ -17119,10 +17119,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -17136,6 +17132,10 @@
             "Camera Features": "Auto Flash, Touch to focus",
             "Video Recording": "1080x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1 MP, Primary Camera"
           }
         },
         "Design": {
@@ -17200,12 +17200,12 @@
     {
       "id": "huawei_ascend_g700",
       "name": "Huawei Ascend G700",
-      "price": null,
+      "price": "17500",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-g700",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-g700-white-official-image.webp",
       "serial_number": 130,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [],
       "specifications": {
@@ -17316,12 +17316,12 @@
     {
       "id": "huawei_honor_3c",
       "name": "Huawei Honor 3C",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/huawei-honor-3c",
       "image_url": "https://www.mobiledokan.com/media/huawei-honor-3c-official-image.webp",
       "serial_number": 131,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -17359,6 +17359,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.4, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Primary Camera",
@@ -17372,13 +17379,6 @@
             "Camera Features": "Digital Zoom,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.4, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -17438,12 +17438,12 @@
     {
       "id": "huawei_ascend_y511",
       "name": "Huawei Ascend Y511",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-y511",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-y511-official-image.webp",
       "serial_number": 132,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -17560,12 +17560,12 @@
     {
       "id": "huawei_ascend_g610",
       "name": "Huawei Ascend G610",
-      "price": null,
+      "price": "12980",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-g610",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-g610-official-image.webp",
       "serial_number": 133,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -17682,12 +17682,12 @@
     {
       "id": "huawei_ascend_p6",
       "name": "Huawei Ascend P6",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-p6",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-p6-image.webp",
       "serial_number": 134,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 9, 2024",
       "variants": [
         {
@@ -17728,6 +17728,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -17739,12 +17745,6 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Digital Zoom,\r\nFace detection,\r\nSmile detection",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -17805,12 +17805,12 @@
     {
       "id": "huawei_ascend_w1",
       "name": "Huawei Ascend W1",
-      "price": null,
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-w1",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-w1-red-color-image.webp",
       "serial_number": 135,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -17924,12 +17924,12 @@
     {
       "id": "huawei_ascend_g510",
       "name": "Huawei Ascend G510",
-      "price": null,
+      "price": "7500",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-g510",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-g510-official-white-image.webp",
       "serial_number": 136,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -18051,12 +18051,12 @@
     {
       "id": "huawei_ascend_mate",
       "name": "Huawei Ascend Mate",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-mate",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-mate-pure-white-image.webp",
       "serial_number": 137,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [],
       "specifications": {
@@ -18163,12 +18163,12 @@
     {
       "id": "huawei_ascend_y210d",
       "name": "Huawei Ascend Y210D",
-      "price": null,
+      "price": "5999",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-y210d",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-y210d.webp",
       "serial_number": 138,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -18270,12 +18270,12 @@
     {
       "id": "huawei_ascend_y300",
       "name": "Huawei Ascend Y300",
-      "price": null,
+      "price": "5000",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-y300",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-y300.webp",
       "serial_number": 139,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -18307,6 +18307,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -18319,10 +18323,6 @@
             "Camera Features": "Smile detection",
             "Video Recording": "800x480",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -18386,12 +18386,12 @@
     {
       "id": "huawei_ascend_y200",
       "name": "Huawei Ascend Y200",
-      "price": null,
+      "price": "3000",
       "url": "https://www.mobiledokan.com/mobile/huawei-ascend-y200",
       "image_url": "https://www.mobiledokan.com/media/huawei-ascend-y200-2.webp",
       "serial_number": 140,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
       "specifications": {
@@ -18497,12 +18497,12 @@
     {
       "id": "huawei_mate_xt",
       "name": "Huawei Mate XT",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xt-purple-official-image.webp",
       "serial_number": 141,
-      "last_updated": "2025-09-11 09:19:22",
-      "first_scraped": "2025-09-11 09:19:22",
+      "last_updated": "2025-09-14 13:45:02",
+      "first_scraped": null,
       "updated_on": "September 9, 2024",
       "variants": [],
       "specifications": {

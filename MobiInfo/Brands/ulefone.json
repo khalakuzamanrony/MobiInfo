@@ -4,22 +4,22 @@
     "name": "ulefone",
     "url": "https://www.mobiledokan.com/mobile-brand/ulefone",
     "image_url": null,
-    "last_updated": "2025-09-14 06:29:27",
+    "last_updated": "2025-09-14 13:49:44",
     "total_phones": 11,
     "first_scraped": "2025-09-11 09:24:43",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 11
   },
   "phones": [
     {
       "id": "ulefone_armor_x32",
       "name": "Ulefone Armor X32",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-x32",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-x32-blackorange-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "April 8, 2025",
       "variants": [],
       "specifications": {
@@ -54,6 +54,13 @@
           "Refresh Rate": "90 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 25 MP, f/1.8, Night Vision Camera, 2 MP, Macro Camera",
@@ -67,13 +74,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -145,12 +145,12 @@
     {
       "id": "ulefone_armor_34_pro",
       "name": "Ulefone Armor 34 Pro",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-34-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "March 9, 2025",
       "variants": [],
       "specifications": {
@@ -275,12 +275,12 @@
     {
       "id": "ulefone_armor_33_pro",
       "name": "Ulefone Armor 33 Pro",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-33-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "March 9, 2025",
       "variants": [],
       "specifications": {
@@ -405,12 +405,12 @@
     {
       "id": "ulefone_armor_mini_4",
       "name": "Ulefone Armor Mini 4",
-      "price": "৳8000",
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-mini-4",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -496,12 +496,12 @@
     {
       "id": "ulefone_armor_x31_pro",
       "name": "Ulefone Armor X31 Pro",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-x31-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-green-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -634,12 +634,12 @@
     {
       "id": "ulefone_note_18_pro",
       "name": "Ulefone Note 18 Pro",
-      "price": "৳24000",
+      "price": "24000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-18-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-18-pro-moonlit-white-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [],
       "specifications": {
@@ -673,13 +673,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera, 64 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -693,6 +686,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -760,12 +760,12 @@
     {
       "id": "ulefone_armor_mini_20t_pro",
       "name": "Ulefone Armor Mini 20T Pro",
-      "price": "৳45000",
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-mini-20t-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-mini-20t-pro-black-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -886,12 +886,12 @@
     {
       "id": "ulefone_note_20_pro",
       "name": "Ulefone Note 20 Pro",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-20-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-20-pro-ribbons-white-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -1011,12 +1011,12 @@
     {
       "id": "ulefone_note_19",
       "name": "Ulefone Note 19",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-19",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-19-green-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -1134,12 +1134,12 @@
     {
       "id": "ulefone_armor_28_ultra",
       "name": "Ulefone Armor 28 Ultra",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-28-ultra",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-28-ultra-black-official.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -1259,12 +1259,12 @@
     {
       "id": "ulefone_note_18_ultra",
       "name": "Ulefone Note 18 Ultra",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-18-ultra",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-18-ultra-moonlit-white-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:24:43",
-      "first_scraped": "2025-09-11 09:24:43",
+      "last_updated": "2025-09-14 13:49:44",
+      "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [],
       "specifications": {

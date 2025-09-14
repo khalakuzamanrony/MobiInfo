@@ -4,22 +4,22 @@
     "name": "microsoft",
     "url": "https://www.mobiledokan.com/mobile-brand/microsoft",
     "image_url": null,
-    "last_updated": "2025-09-12 07:03:38",
+    "last_updated": "2025-09-14 13:44:59",
     "total_phones": 8,
     "first_scraped": "2025-09-11 09:19:28",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 8
   },
   "phones": [
     {
       "id": "microsoft_lumia_950_xl",
       "name": "Microsoft Lumia 950 XL",
-      "price": null,
+      "price": "64000",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-950-xl",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-950-xl-black-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "September 8, 2024",
       "variants": [],
       "specifications": {
@@ -145,12 +145,12 @@
     {
       "id": "microsoft_lumia_950",
       "name": "Microsoft Lumia 950",
-      "price": null,
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-950",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-950-front-side-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "September 7, 2024",
       "variants": [],
       "specifications": {
@@ -185,6 +185,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.4 Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "20 MP, f/1.9, Primary Camera",
@@ -196,13 +203,6 @@
             "Camera Features": "Flashlight, Touch to Focus, Face beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.4 Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -271,12 +271,12 @@
     {
       "id": "microsoft_lumia_430_dual_sim",
       "name": "Microsoft Lumia 430 Dual SIM",
-      "price": null,
+      "price": "6300",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-430-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-430-dual-sim-orange-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -387,12 +387,12 @@
     {
       "id": "microsoft_lumia_540_dual_sim",
       "name": "Microsoft Lumia 540 Dual SIM",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-540-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-540-dual-sim.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "September 22, 2024",
       "variants": [],
       "specifications": {
@@ -506,12 +506,12 @@
     {
       "id": "microsoft_lumia_640_xl_dual_sim",
       "name": "Microsoft Lumia 640 XL Dual SIM",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-640-xl-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-640-xl-dual-sim-matte-cyan-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "November 27, 2024",
       "variants": [],
       "specifications": {
@@ -632,12 +632,12 @@
     {
       "id": "microsoft_lumia_435",
       "name": "Microsoft Lumia 435",
-      "price": null,
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-435",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-435-orange-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "February 6, 2025",
       "variants": [],
       "specifications": {
@@ -753,12 +753,12 @@
     {
       "id": "microsoft_lumia_532_dual_sim",
       "name": "Microsoft Lumia 532 Dual SIM",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-532-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-532-dual-sim-black-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "January 24, 2025",
       "variants": [],
       "specifications": {
@@ -790,6 +790,11 @@
           "Touch Screen": "Capacitive Touchscreen, Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Video Recording": "640x480"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP f/2.4, Primary Camera",
@@ -797,11 +802,6 @@
             "Zoom": "Digital Zoom",
             "Video Recording": "848x480",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Video Recording": "640x480"
           }
         },
         "Design": {
@@ -866,12 +866,12 @@
     {
       "id": "microsoft_lumia_535_dual_sim",
       "name": "Microsoft Lumia 535 Dual SIM",
-      "price": null,
+      "price": "11500",
       "url": "https://www.mobiledokan.com/mobile/microsoft-lumia-535-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/microsoft-lumia-535-dual-sim-green-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:19:28",
-      "first_scraped": "2025-09-11 09:19:28",
+      "last_updated": "2025-09-14 13:44:59",
+      "first_scraped": null,
       "updated_on": "November 27, 2024",
       "variants": [],
       "specifications": {

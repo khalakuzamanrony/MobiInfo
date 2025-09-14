@@ -4,22 +4,22 @@
     "name": "htc",
     "url": "https://www.mobiledokan.com/mobile-brand/htc",
     "image_url": null,
-    "last_updated": "2025-09-12 07:06:59",
+    "last_updated": "2025-09-14 13:48:43",
     "total_phones": 63,
     "first_scraped": "2025-09-11 09:23:13",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 63
   },
   "phones": [
     {
       "id": "htc_wildfire_e5_plus",
       "name": "HTC Wildfire E5 Plus",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/htc-wildfire-e5-plus",
       "image_url": "https://www.mobiledokan.com/media/htc-wildfire-e5-plus-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "March 12, 2025",
       "variants": [],
       "specifications": {
@@ -139,12 +139,12 @@
     {
       "id": "htc_u24_pro",
       "name": "HTC U24 Pro",
-      "price": "৳75000",
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/htc-u24-pro",
       "image_url": "https://www.mobiledokan.com/media/htc-u24-pro-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 16, 2024",
       "variants": [],
       "specifications": {
@@ -274,12 +274,12 @@
     {
       "id": "htc_u23",
       "name": "HTC U23",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/htc-u23",
       "image_url": "https://www.mobiledokan.com/media/htc-u23-roland-violet-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -405,12 +405,12 @@
     {
       "id": "htc_u23_pro",
       "name": "HTC U23 Pro",
-      "price": null,
+      "price": "99500",
       "url": "https://www.mobiledokan.com/mobile/htc-u23-pro",
       "image_url": "https://www.mobiledokan.com/media/1713607922qL6e0.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "July 2, 2024",
       "variants": [
         {
@@ -540,12 +540,12 @@
     {
       "id": "htc_wildfire_e_lite",
       "name": "HTC Wildfire E Lite",
-      "price": null,
+      "price": "10558",
       "url": "https://www.mobiledokan.com/mobile/htc-wildfire-e-lite",
       "image_url": "https://www.mobiledokan.com/media/htc-wildfire-e-lite-official-black-front-image-2.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -677,12 +677,12 @@
     {
       "id": "htc_wildfire_e2",
       "name": "HTC Wildfire E2",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/htc-wildfire-e2",
       "image_url": "https://www.mobiledokan.com/media/htc-wildfire-e2-official-blue-front-image-2.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 18, 2024",
       "variants": [
         {
@@ -724,6 +724,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP, f/2.2, Primary Camera, 2 MP, f/2.2, Depth Camera",
@@ -737,13 +744,6 @@
             "Camera Features": "Auto Flash, Face detection ,Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -815,12 +815,12 @@
     {
       "id": "tcl_10_5g",
       "name": "TCL 10 5G",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/tcl-10-5g",
       "image_url": "https://www.mobiledokan.com/media/tcl-10-5g-chrome-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "May 16, 2024",
       "variants": [
         {
@@ -863,14 +863,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP f/1.89, Wide Angle (79° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.2, Macro Camera, 2 MP f/2.4, Depth Camera",
@@ -884,6 +876,14 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -956,12 +956,12 @@
     {
       "id": "htc_desire_20_pro",
       "name": "HTC Desire 20 Pro",
-      "price": null,
+      "price": "26000",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-20-pro",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-20-pro-official-smokey-black-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -1097,12 +1097,12 @@
     {
       "id": "htc_wildfire_x",
       "name": "HTC Wildfire X",
-      "price": null,
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/htc-wildfire-x",
       "image_url": "https://www.mobiledokan.com/media/htc-wildfire-x-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "July 13, 2024",
       "variants": [
         {
@@ -1236,12 +1236,12 @@
     {
       "id": "htc_u19e",
       "name": "HTC U19e",
-      "price": null,
+      "price": "39990",
       "url": "https://www.mobiledokan.com/mobile/htc-u19e",
       "image_url": "https://www.mobiledokan.com/media/htc-u19e-extraordinary-purple-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -1283,13 +1283,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "24 MP f/2.0, Primary Camera, 2 MP Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Primary Camera, 20 MP f/2.6, Telephoto Camera",
@@ -1303,6 +1296,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "24 MP f/2.0, Primary Camera, 2 MP Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1373,12 +1373,12 @@
     {
       "id": "htc_exodus_1",
       "name": "HTC Exodus 1",
-      "price": null,
+      "price": "86400",
       "url": "https://www.mobiledokan.com/mobile/htc-exodus-1",
       "image_url": "https://www.mobiledokan.com/media/htc-exodus-1-black-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -1413,13 +1413,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP, f/2.0, Primary Camera, 8 MP, f/2.0, Depth Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP, f/1.8, Primary Camera, 16 MP Wide Angle Camera",
@@ -1433,6 +1426,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP, f/2.0, Primary Camera, 8 MP, f/2.0, Depth Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1505,12 +1505,12 @@
     {
       "id": "htc_desire_12s",
       "name": "HTC Desire 12s",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-12s",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-12s-red-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -1637,12 +1637,12 @@
     {
       "id": "htc_desire_12",
       "name": "HTC Desire 12",
-      "price": null,
+      "price": "20500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-12",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-12-official-warm-silver-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -1766,12 +1766,12 @@
     {
       "id": "htc_u11_eyes",
       "name": "HTC U11 Eyes",
-      "price": null,
+      "price": "41900",
       "url": "https://www.mobiledokan.com/mobile/htc-u11-eyes",
       "image_url": "https://www.mobiledokan.com/media/htc-u11-eyes-red-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -1903,12 +1903,12 @@
     {
       "id": "htc_desire_10_pro",
       "name": "HTC Desire 10 Pro",
-      "price": null,
+      "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-10-pro",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-10-pro-official-stone-black-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -2043,12 +2043,12 @@
     {
       "id": "htc_desire_630",
       "name": "HTC Desire 630",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-630",
       "image_url": "https://www.mobiledokan.com/media/desire-630-black-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2083,12 +2083,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.8, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.4, Primary Camera",
@@ -2100,6 +2094,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Beautify",
             "Aperture": "f/2.4",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.8, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2165,12 +2165,12 @@
     {
       "id": "htc_desire_830",
       "name": "HTC Desire 830",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-830",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-830-white-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -2293,12 +2293,12 @@
     {
       "id": "htc_one_m9_plus",
       "name": "HTC One M9 Plus",
-      "price": null,
+      "price": "33900",
       "url": "https://www.mobiledokan.com/mobile/htc-one-m9-plus",
       "image_url": "https://www.mobiledokan.com/media/htc-one-m9-plus-silver-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2424,12 +2424,12 @@
     {
       "id": "htc_desire_530",
       "name": "HTC Desire 530",
-      "price": null,
+      "price": "11500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-530",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-530-black-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2545,12 +2545,12 @@
     {
       "id": "htc_one_x9",
       "name": "HTC One X9",
-      "price": null,
+      "price": "25990",
       "url": "https://www.mobiledokan.com/mobile/htc-one-x9",
       "image_url": "https://www.mobiledokan.com/media/htc-one-x9-gold-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2675,12 +2675,12 @@
     {
       "id": "htc_desire_728_dual_sim",
       "name": "HTC Desire 728 dual sim",
-      "price": null,
+      "price": "20800",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-728-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-728-dual-sim-white-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2801,12 +2801,12 @@
     {
       "id": "htc_one_a9",
       "name": "HTC One A9",
-      "price": null,
+      "price": "22000",
       "url": "https://www.mobiledokan.com/mobile/htc-one-a9",
       "image_url": "https://www.mobiledokan.com/media/htc-one-a9-gray-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -2841,6 +2841,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "4 MP, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.0, Primary Camera",
@@ -2853,13 +2860,6 @@
             "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR) Macro Mode",
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "4 MP, Primary Camera",
-            "Camera Features": "Fixed Focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2937,12 +2937,12 @@
     {
       "id": "htc_one_me",
       "name": "HTC One ME",
-      "price": null,
+      "price": "24500",
       "url": "https://www.mobiledokan.com/mobile/htc-one-me",
       "image_url": "https://www.mobiledokan.com/media/htc-one-me-meteor-grey-image_1.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -3064,12 +3064,12 @@
     {
       "id": "htc_desire_326g_dual_sim",
       "name": "HTC Desire 326G dual sim",
-      "price": null,
+      "price": "10500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-326g-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-326g-dual-sim-black-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -3181,12 +3181,12 @@
     {
       "id": "htc_one_e9_plus",
       "name": "HTC One E9 Plus",
-      "price": null,
+      "price": "22900",
       "url": "https://www.mobiledokan.com/mobile/htc-one-e9-plus",
       "image_url": "https://www.mobiledokan.com/media/htc-one-e9-plus-meteor-gray-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3311,12 +3311,12 @@
     {
       "id": "htc_desire_626g_plus",
       "name": "HTC Desire 626G Plus",
-      "price": null,
+      "price": "14750",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-626g-plus",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-626g-plus-white-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3435,12 +3435,12 @@
     {
       "id": "htc_desire_826_dual_sim",
       "name": "HTC Desire 826 dual sim",
-      "price": null,
+      "price": "22300",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-826-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/desire-826-dual-sim-white-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3559,12 +3559,12 @@
     {
       "id": "htc_desire_626",
       "name": "HTC Desire 626",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-626",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-626-black-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3598,6 +3598,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -3609,12 +3615,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Beautify",
             "Aperture": "f/2.2",
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -3682,12 +3682,12 @@
     {
       "id": "htc_desire_820s_dual_sim",
       "name": "HTC Desire 820s dual sim",
-      "price": null,
+      "price": "23050",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-820s-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-820s-dual-sim-gray-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3805,12 +3805,12 @@
     {
       "id": "htc_desire_526g_plus_dual_sim",
       "name": "HTC Desire 526G Plus dual sim",
-      "price": null,
+      "price": "11775",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-526g-plus-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-526g-plus-dual-sim-black-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -3843,6 +3843,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.2, Primary Camera",
@@ -3854,12 +3860,6 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Face detection, Touch to focus",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -3926,12 +3926,12 @@
     {
       "id": "htc_desire_620g_dual_sim",
       "name": "HTC Desire 620G dual sim",
-      "price": null,
+      "price": "16640",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-620g-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-620g-dual-sim-gray-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -4050,12 +4050,12 @@
     {
       "id": "htc_desire_eye",
       "name": "HTC Desire Eye",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-eye",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-eye-blue-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -4183,12 +4183,12 @@
     {
       "id": "htc_desire_820_dual_sim",
       "name": "HTC Desire 820 dual sim",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-820-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-820-dual-sim-gray-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -4308,12 +4308,12 @@
     {
       "id": "htc_one_m8_eye",
       "name": "HTC One (M8 Eye)",
-      "price": null,
+      "price": "38990",
       "url": "https://www.mobiledokan.com/mobile/htc-one-m8-eye",
       "image_url": "https://www.mobiledokan.com/media/htc-one-m8-eye-gold-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -4434,12 +4434,12 @@
     {
       "id": "htc_desire_616_dual_sim",
       "name": "HTC Desire 616 dual sim",
-      "price": null,
+      "price": "22900",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-616-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-616-dual-sim-white-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -4558,12 +4558,12 @@
     {
       "id": "htc_one_e8",
       "name": "HTC One (E8)",
-      "price": null,
+      "price": "34000",
       "url": "https://www.mobiledokan.com/mobile/htc-one-e8-",
       "image_url": "https://www.mobiledokan.com/media/htc-one-e8-black-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -4598,10 +4598,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -4615,6 +4611,10 @@
             "Camera Features": "Face detection,\r\nSmile detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -4686,12 +4686,12 @@
     {
       "id": "htc_one_mini_2",
       "name": "HTC One mini 2",
-      "price": null,
+      "price": "33900",
       "url": "https://www.mobiledokan.com/mobile/htc-one-mini-2",
       "image_url": "https://www.mobiledokan.com/media/htc-one-mini-2-gold-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -4727,6 +4727,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -4740,10 +4744,6 @@
             "Camera Features": "Face detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -4811,12 +4811,12 @@
     {
       "id": "htc_desire_610",
       "name": "HTC Desire 610",
-      "price": null,
+      "price": "23900",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-610",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-610-orange-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -4935,12 +4935,12 @@
     {
       "id": "htc_desire_310_dual_sim",
       "name": "HTC Desire 310 dual sim",
-      "price": null,
+      "price": "14900",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-310-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-310-dual-sim-red-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -5055,12 +5055,12 @@
     {
       "id": "htc_desire_816",
       "name": "HTC Desire 816",
-      "price": null,
+      "price": "27500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-816",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-816-gray-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -5181,12 +5181,12 @@
     {
       "id": "htc_one_m8",
       "name": "HTC One (M8)",
-      "price": null,
+      "price": "47500",
       "url": "https://www.mobiledokan.com/mobile/htc-one-m8",
       "image_url": "https://www.mobiledokan.com/media/htc-one-m8-gray-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -5309,12 +5309,12 @@
     {
       "id": "htc_one_max",
       "name": "HTC One Max",
-      "price": null,
+      "price": "45900",
       "url": "https://www.mobiledokan.com/mobile/htc-one-max",
       "image_url": "https://www.mobiledokan.com/media/htc-one-max-silver-gold-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -5437,12 +5437,12 @@
     {
       "id": "htc_one_mini",
       "name": "HTC One mini",
-      "price": null,
+      "price": "28900",
       "url": "https://www.mobiledokan.com/mobile/htc-one-mini",
       "image_url": "https://www.mobiledokan.com/media/htc-one-mini-silver-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -5557,12 +5557,12 @@
     {
       "id": "htc_desire_200",
       "name": "HTC Desire 200",
-      "price": null,
+      "price": "14500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-200",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-200-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -5666,12 +5666,12 @@
     {
       "id": "htc_butterfly_s",
       "name": "HTC Butterfly S",
-      "price": null,
+      "price": "49900",
       "url": "https://www.mobiledokan.com/mobile/htc-butterfly-s",
       "image_url": "https://www.mobiledokan.com/media/htc-butterfly-s-white-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -5705,10 +5705,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2.1 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "4 MP, f/2.0, Primary Camera",
@@ -5722,6 +5718,10 @@
             "Camera Features": "Auto Flash, Simultaneous HD video and image recording, Smile detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2.1 MP, Primary Camera"
           }
         },
         "Design": {
@@ -5788,12 +5788,12 @@
     {
       "id": "htc_desire_600_dual_sim",
       "name": "HTC Desire 600 dual sim",
-      "price": null,
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-600-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-600-dual-sim-black-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -5912,12 +5912,12 @@
     {
       "id": "htc_one",
       "name": "HTC One",
-      "price": null,
+      "price": "37900",
       "url": "https://www.mobiledokan.com/mobile/htc-one",
       "image_url": "https://www.mobiledokan.com/media/htc-one-white-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -6043,12 +6043,12 @@
     {
       "id": "htc_desire_x",
       "name": "HTC Desire X",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-x",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-x-black-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -6157,12 +6157,12 @@
     {
       "id": "htc_desire_vc",
       "name": "HTC Desire VC",
-      "price": null,
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-vc",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-vc-black-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -6264,12 +6264,12 @@
     {
       "id": "htc_desire_c",
       "name": "HTC Desire C",
-      "price": null,
+      "price": "21390",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-c",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-c-black-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -6373,12 +6373,12 @@
     {
       "id": "htc_one_x",
       "name": "HTC One X",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/htc-one-x",
       "image_url": "https://www.mobiledokan.com/media/htc-one-x-black-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -6490,12 +6490,12 @@
     {
       "id": "htc_one_v",
       "name": "HTC One V",
-      "price": null,
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/htc-one-v",
       "image_url": "https://www.mobiledokan.com/media/htc-one-v-official-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -6600,12 +6600,12 @@
     {
       "id": "htc_sensation_xl",
       "name": "HTC Sensation XL",
-      "price": null,
+      "price": "43700",
       "url": "https://www.mobiledokan.com/mobile/htc-sensation-xl",
       "image_url": "https://www.mobiledokan.com/media/htc-sensation-xl-white-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 12, 2024",
       "variants": [],
       "specifications": {
@@ -6709,12 +6709,12 @@
     {
       "id": "htc_radar",
       "name": "HTC Radar",
-      "price": null,
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/htc-radar",
       "image_url": "https://www.mobiledokan.com/media/htc-radar-active-white.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -6745,6 +6745,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -6754,10 +6758,6 @@
             "Zoom": "Digital Zoom",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -6819,12 +6819,12 @@
     {
       "id": "htc_explorer",
       "name": "HTC Explorer",
-      "price": null,
+      "price": "14900",
       "url": "https://www.mobiledokan.com/mobile/htc-explorer",
       "image_url": "https://www.mobiledokan.com/media/htc-explorer-black-color-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -6935,12 +6935,12 @@
     {
       "id": "htc_sensation_xe",
       "name": "HTC Sensation XE",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/htc-sensation-xe",
       "image_url": "https://www.mobiledokan.com/media/htc-sensation-xe-black-color-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -7052,12 +7052,12 @@
     {
       "id": "htc_salsa",
       "name": "HTC Salsa",
-      "price": null,
+      "price": "23500",
       "url": "https://www.mobiledokan.com/mobile/htc-salsa",
       "image_url": "https://www.mobiledokan.com/media/htc-salsa-silver-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -7088,6 +7088,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -7100,10 +7104,6 @@
             "Camera Features": "Smile detection",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -7166,12 +7166,12 @@
     {
       "id": "htc_chacha",
       "name": "HTC ChaCha",
-      "price": null,
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/htc-chacha",
       "image_url": "https://www.mobiledokan.com/media/htc-chacha-white-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 12, 2024",
       "variants": [],
       "specifications": {
@@ -7277,12 +7277,12 @@
     {
       "id": "htc_sensation",
       "name": "HTC Sensation",
-      "price": null,
+      "price": "39500",
       "url": "https://www.mobiledokan.com/mobile/htc-sensation",
       "image_url": "https://www.mobiledokan.com/media/htc-sensation-official-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -7392,12 +7392,12 @@
     {
       "id": "htc_desire_s",
       "name": "HTC Desire S",
-      "price": null,
+      "price": "26990",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-s",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-s-black-color-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "November 21, 2024",
       "variants": [],
       "specifications": {
@@ -7428,12 +7428,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3MP",
-            "Autofocus": "Autofocus",
-            "Flash": "Flash"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -7446,6 +7440,12 @@
             "Camera Features": "Digital image stabilization,\r\nTouch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3MP",
+            "Autofocus": "Autofocus",
+            "Flash": "Flash"
           }
         },
         "Design": {
@@ -7512,12 +7512,12 @@
     {
       "id": "htc_desire_hd",
       "name": "HTC Desire HD",
-      "price": null,
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-hd",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-hd.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 14, 2024",
       "variants": [],
       "specifications": {
@@ -7624,12 +7624,12 @@
     {
       "id": "htc_desire_z",
       "name": "HTC Desire Z",
-      "price": null,
+      "price": "26500",
       "url": "https://www.mobiledokan.com/mobile/htc-desire-z",
       "image_url": "https://www.mobiledokan.com/media/htc-desire-z-silver-color-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -7735,12 +7735,12 @@
     {
       "id": "htc_wildfire",
       "name": "HTC Wildfire",
-      "price": null,
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/htc-wildfire",
       "image_url": "https://www.mobiledokan.com/media/htc-wildfire-black-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:23:13",
-      "first_scraped": "2025-09-11 09:23:13",
+      "last_updated": "2025-09-14 13:48:43",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {

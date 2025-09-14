@@ -4,22 +4,22 @@
     "name": "lava",
     "url": "https://www.mobiledokan.com/mobile-brand/lava",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:40",
+    "last_updated": "2025-09-14 13:16:44",
     "total_phones": 99,
     "first_scraped": "2025-09-11 08:59:23",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 99
   },
   "phones": [
     {
       "id": "lava_storm_lite",
       "name": "Lava Storm Lite",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-storm-lite",
       "image_url": "https://www.mobiledokan.com/media/lava-storm-lite-astral-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "June 19, 2025",
       "variants": [],
       "specifications": {
@@ -54,10 +54,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, Wide Angle, Primary Camera",
@@ -70,6 +66,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -137,12 +137,12 @@
     {
       "id": "lava_bold_n1",
       "name": "Lava Bold N1",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-bold-n1",
       "image_url": "https://www.mobiledokan.com/media/lava-bold-n1-sparkling-ivory-official-color-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 16, 2025",
       "variants": [],
       "specifications": {
@@ -257,12 +257,12 @@
     {
       "id": "lava_bold_n1_pro",
       "name": "Lava Bold N1 Pro",
-      "price": "৳12000",
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/lava-bold-n1-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-bold-n1-pro-titanium-gold-official-color-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [],
       "specifications": {
@@ -296,10 +296,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, Wide Angle, Primary Camera",
@@ -312,6 +308,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
           }
         },
         "Design": {
@@ -381,12 +381,12 @@
     {
       "id": "lava_shark",
       "name": "Lava Shark",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-shark",
       "image_url": "https://www.mobiledokan.com/media/lava-shark-stellar-gold-official-color-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [],
       "specifications": {
@@ -500,12 +500,12 @@
     {
       "id": "lava_bold",
       "name": "Lava Bold",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-bold",
       "image_url": "https://www.mobiledokan.com/media/lava-bold-sapphire-blue-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "April 6, 2025",
       "variants": [],
       "specifications": {
@@ -623,12 +623,12 @@
     {
       "id": "lava_hero_glow",
       "name": "Lava Hero Glow",
-      "price": null,
+      "price": "1130",
       "url": "https://www.mobiledokan.com/mobile/lava-hero-glow",
       "image_url": "https://www.mobiledokan.com/media/lava-hero-glow-sapphire-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [],
       "specifications": {
@@ -698,12 +698,12 @@
     {
       "id": "lava_yuva_smart",
       "name": "Lava Yuva Smart",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-smart",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-smart-glossy-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "January 29, 2025",
       "variants": [],
       "specifications": {
@@ -815,12 +815,12 @@
     {
       "id": "lava_yuva_2_5g",
       "name": "Lava Yuva 2 5G",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-2-5g",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-2-5g-marble-white-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 27, 2024",
       "variants": [],
       "specifications": {
@@ -941,12 +941,12 @@
     {
       "id": "lava_yuva_4",
       "name": "Lava Yuva 4",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-4",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-4-eclipse-black-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -1065,12 +1065,12 @@
     {
       "id": "lava_blaze_duo",
       "name": "Lava Blaze Duo",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-duo",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-duo-celestial-blue-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [],
       "specifications": {
@@ -1192,12 +1192,12 @@
     {
       "id": "lava_o3_pro",
       "name": "Lava O3 Pro",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-o3-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-o3-pro-glossy-purple-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -1232,6 +1232,10 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 0.03 MP, Camera, 0.08 MP, Camera",
@@ -1244,10 +1248,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera"
           }
         },
         "Design": {
@@ -1313,12 +1313,12 @@
     {
       "id": "lava_agni_3_256gb",
       "name": "Lava Agni 3 (256GB)",
-      "price": null,
+      "price": "26490",
       "url": "https://www.mobiledokan.com/mobile/lava-agni-3-256gb",
       "image_url": "https://www.mobiledokan.com/media/lava-agni-3-heather-glass-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [
         {
@@ -1461,12 +1461,12 @@
     {
       "id": "lava_agni_3",
       "name": "Lava Agni 3",
-      "price": null,
+      "price": "23990",
       "url": "https://www.mobiledokan.com/mobile/lava-agni-3",
       "image_url": "https://www.mobiledokan.com/media/lava-agni-3-heather-glass-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 21, 2024",
       "variants": [
         {
@@ -1514,14 +1514,6 @@
           "Features": "Secondary display on the back:\r\nAMOLED, 1.74 inches, 336 x 480 pixels"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 8 MP, Telephoto Camera",
@@ -1536,6 +1528,14 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1609,12 +1609,12 @@
     {
       "id": "lava_blaze_3_5g",
       "name": "Lava Blaze 3 5G",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-3-5g",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-3-5g-glass-gold-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -1735,12 +1735,12 @@
     {
       "id": "lava_blaze_2_pro",
       "name": "Lava Blaze 2 Pro",
-      "price": "৳14000",
+      "price": "14000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-2-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-2-pro-cool-green-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "October 13, 2024",
       "variants": [],
       "specifications": {
@@ -1775,6 +1775,11 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "Screen flash"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Primary Camera, 2 MP, Camera, 2 MP, Camera",
@@ -1787,11 +1792,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "Screen flash"
           }
         },
         "Design": {
@@ -1859,12 +1859,12 @@
     {
       "id": "lava_a7_torch",
       "name": "Lava A7 Torch",
-      "price": null,
+      "price": "1650",
       "url": "https://www.mobiledokan.com/mobile/lava-a7-torch",
       "image_url": "https://www.mobiledokan.com/media/lava-a7-torch-black-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 27, 2024",
       "variants": [],
       "specifications": {
@@ -1943,12 +1943,12 @@
     {
       "id": "lava_yuva_star",
       "name": "Lava Yuva Star",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-star",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-star-white-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -2055,12 +2055,12 @@
     {
       "id": "lava_blaze_1x",
       "name": "Lava Blaze 1X",
-      "price": "৳16000",
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-1x",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 30, 2024",
       "variants": [],
       "specifications": {
@@ -2095,6 +2095,11 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "Screen flash"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Primary Camera, 2 MP, Macro Camera, 0.3 MP",
@@ -2108,11 +2113,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "Screen flash"
           }
         },
         "Design": {
@@ -2180,12 +2180,12 @@
     {
       "id": "lava_yuva_5g",
       "name": "Lava Yuva 5G",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-5g",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
       "specifications": {
@@ -2220,6 +2220,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, Wide Angle Primary Camera, 2 MP Macro Camera",
@@ -2230,12 +2236,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Filters",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2305,12 +2305,12 @@
     {
       "id": "lava_blaze_curve",
       "name": "Lava Blaze Curve",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-curve",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-curve-viridian-glass-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [
         {
@@ -2446,12 +2446,12 @@
     {
       "id": "lava_yuva_3",
       "name": "Lava Yuva 3",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-3",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-3-cosmic-lavender-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -2571,12 +2571,12 @@
     {
       "id": "lava_agni_2",
       "name": "Lava Agni 2",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/lava-agni-2",
       "image_url": "https://www.mobiledokan.com/media/1713631318TkFPS.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "April 23, 2024",
       "variants": [
         {
@@ -2704,12 +2704,12 @@
     {
       "id": "lava_blaze_2",
       "name": "Lava Blaze 2",
-      "price": null,
+      "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-2",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-2-glass-orange-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 25, 2024",
       "variants": [],
       "specifications": {
@@ -2829,12 +2829,12 @@
     {
       "id": "lava_yuva_2_pro",
       "name": "Lava Yuva 2 Pro",
-      "price": null,
+      "price": "10999",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-2-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-2-pro-glass-lavender-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -2868,10 +2868,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP, Wide Angle, Primary Camera, VGA Camera, VGA Camera",
@@ -2884,6 +2880,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Camera"
           }
         },
         "Design": {
@@ -2953,12 +2953,12 @@
     {
       "id": "lava_blaze_5g",
       "name": "Lava Blaze 5G",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-5g",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-5g-blue-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -3078,12 +3078,12 @@
     {
       "id": "lava_a9",
       "name": "Lava A9",
-      "price": null,
+      "price": "2200",
       "url": "https://www.mobiledokan.com/mobile/lava-a9",
       "image_url": "https://www.mobiledokan.com/media/lava-a9-rose-gold-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -3152,12 +3152,12 @@
     {
       "id": "lava_a5",
       "name": "Lava A5",
-      "price": null,
+      "price": "1700",
       "url": "https://www.mobiledokan.com/mobile/lava-a5",
       "image_url": "https://www.mobiledokan.com/media/lava-a5-blue-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -3231,12 +3231,12 @@
     {
       "id": "lava_benco_v7",
       "name": "Lava Benco V7",
-      "price": null,
+      "price": "6890",
       "url": "https://www.mobiledokan.com/mobile/lava-benco-v7",
       "image_url": "https://www.mobiledokan.com/media/lava-benco-v7-olive-green-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -3356,12 +3356,12 @@
     {
       "id": "lava_benco_iris_59",
       "name": "Lava Benco Iris 59",
-      "price": null,
+      "price": "5999",
       "url": "https://www.mobiledokan.com/mobile/lava-benco-iris-59",
       "image_url": "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -3489,12 +3489,12 @@
     {
       "id": "lava_iris_61",
       "name": "Lava Iris 61",
-      "price": null,
+      "price": "4690",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-61",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-61-blue-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -3535,6 +3535,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, f/2.0 Primary Camera",
@@ -3548,10 +3552,6 @@
             "Camera Features": "Autofocus, touch focus, face detection",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Camera"
           }
         },
         "Design": {
@@ -3613,12 +3613,12 @@
     {
       "id": "lava_iris_42",
       "name": "Lava Iris 42",
-      "price": null,
+      "price": "4790",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-42",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "May 5, 2025",
       "variants": [
         {
@@ -3738,12 +3738,12 @@
     {
       "id": "lava_iris_43",
       "name": "Lava Iris 43",
-      "price": null,
+      "price": "3890",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-43",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-43-blue-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -3857,12 +3857,12 @@
     {
       "id": "lava_iris_45",
       "name": "Lava Iris 45",
-      "price": null,
+      "price": "5290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-45",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 6, 2024",
       "variants": [
         {
@@ -3985,12 +3985,12 @@
     {
       "id": "lava_iris_702",
       "name": "Lava Iris 702",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-702",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-702-white-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
         {
@@ -4026,6 +4026,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP Primary Camera",
@@ -4036,10 +4040,6 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Primary Camera"
           }
         },
         "Design": {
@@ -4097,12 +4097,12 @@
     {
       "id": "lava_iris_x9",
       "name": "Lava Iris X9",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x9",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -4217,12 +4217,12 @@
     {
       "id": "lava_r5v",
       "name": "Lava R5V",
-      "price": null,
+      "price": "10590",
       "url": "https://www.mobiledokan.com/mobile/lava-r5v",
       "image_url": "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "May 25, 2024",
       "variants": [
         {
@@ -4348,12 +4348,12 @@
     {
       "id": "lava_iris_52",
       "name": "Lava iris 52",
-      "price": null,
+      "price": "6290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-52",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-52-gold-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -4467,12 +4467,12 @@
     {
       "id": "lava_r3_note",
       "name": "Lava R3 Note",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/lava-r3-note",
       "image_url": "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -4600,12 +4600,12 @@
     {
       "id": "lava_iris_50c",
       "name": "Lava Iris 50c",
-      "price": null,
+      "price": "5250",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-50c",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-50c-blue-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -4713,12 +4713,12 @@
     {
       "id": "lava_z81",
       "name": "Lava Z81",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/lava-z81",
       "image_url": "https://www.mobiledokan.com/media/lava-z81-gold-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "October 28, 2024",
       "variants": [],
       "specifications": {
@@ -4841,12 +4841,12 @@
     {
       "id": "lava_iris_88",
       "name": "Lava Iris 88",
-      "price": null,
+      "price": "7490",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-88",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-88-black-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [
         {
@@ -4965,12 +4965,12 @@
     {
       "id": "lava_iris_88_2gb_ram",
       "name": "Lava Iris 88 (2GB RAM)",
-      "price": null,
+      "price": "8490",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-88-2gb-ram",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-88-black-image_1.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [
         {
@@ -5091,12 +5091,12 @@
     {
       "id": "lava_iris_65",
       "name": "Lava Iris 65",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-65",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-65-gold-official-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -5203,12 +5203,12 @@
     {
       "id": "lava_iris_50_2gb16gb",
       "name": "Lava iris 50 (2GB+16GB)",
-      "price": null,
+      "price": "6500",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-50-2gb-16gb",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-50-gold-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -5325,12 +5325,12 @@
     {
       "id": "lava_z60",
       "name": "Lava Z60",
-      "price": null,
+      "price": "7690",
       "url": "https://www.mobiledokan.com/mobile/lava-z60",
       "image_url": "https://www.mobiledokan.com/media/lava-z60-black-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -5446,12 +5446,12 @@
     {
       "id": "lava_iris_50",
       "name": "Lava iris 50",
-      "price": null,
+      "price": "5690",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-50",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-50-gold-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 13, 2024",
       "variants": [
         {
@@ -5568,12 +5568,12 @@
     {
       "id": "lava_iris_80",
       "name": "Lava Iris 80",
-      "price": null,
+      "price": "8590",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-80",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-80-black-official-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -5678,12 +5678,12 @@
     {
       "id": "lava_r1",
       "name": "Lava R1",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/lava-r1",
       "image_url": "https://www.mobiledokan.com/media/lava-r1-white-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [
         {
@@ -5798,12 +5798,12 @@
     {
       "id": "lava_a3_mini",
       "name": "Lava A3 Mini",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/lava-a3-mini",
       "image_url": "https://www.mobiledokan.com/media/lava-a3-mini-gold-official-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -5913,12 +5913,12 @@
     {
       "id": "lava_a3",
       "name": "Lava A3",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/lava-a3",
       "image_url": "https://www.mobiledokan.com/media/lava-a3-gold-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -6024,12 +6024,12 @@
     {
       "id": "lava_iris_605",
       "name": "Lava Iris 605",
-      "price": null,
+      "price": "4299",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-605",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-605-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -6136,12 +6136,12 @@
     {
       "id": "lava_grand_2c",
       "name": "Lava Grand 2c",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lava-grand-2c",
       "image_url": "https://www.mobiledokan.com/media/lava-grand-2c-gold-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 10, 2024",
       "variants": [],
       "specifications": {
@@ -6244,12 +6244,12 @@
     {
       "id": "lava_iris_821",
       "name": "Lava Iris 821",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-821",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -6358,12 +6358,12 @@
     {
       "id": "lava_iris_810",
       "name": "Lava iris 810",
-      "price": null,
+      "price": "6290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-810",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-810-official-black-side-image-2.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -6482,12 +6482,12 @@
     {
       "id": "lava_irish505",
       "name": "Lava irish505",
-      "price": null,
+      "price": "2945",
       "url": "https://www.mobiledokan.com/mobile/lava-irish505",
       "image_url": "https://www.mobiledokan.com/media/lava-irish505-black-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -6591,12 +6591,12 @@
     {
       "id": "lava_irish_870",
       "name": "Lava irish 870",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lava-irish-870",
       "image_url": "https://www.mobiledokan.com/media/lava-irish-870.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -6697,12 +6697,12 @@
     {
       "id": "lava_flair_s1",
       "name": "Lava Flair S1",
-      "price": null,
+      "price": "4690",
       "url": "https://www.mobiledokan.com/mobile/lava-flair-s1",
       "image_url": "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
         {
@@ -6815,12 +6815,12 @@
     {
       "id": "lava_grand_2",
       "name": "Lava Grand 2",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/lava-grand-2",
       "image_url": "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [],
       "specifications": {
@@ -6922,12 +6922,12 @@
     {
       "id": "lava_iris_705",
       "name": "LAVA Iris 705",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-705",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-705.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -6953,6 +6953,10 @@
           "Touch Screen": "Capacitive Touchscreen"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8MP, Primary Camera",
@@ -6961,10 +6965,6 @@
             "Zoom": "Digital Zoom",
             "Video Recording": "1080p",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5MP, Primary Camera"
           }
         },
         "Design": {
@@ -7026,12 +7026,12 @@
     {
       "id": "lava_spark_curvy",
       "name": "Lava Spark Curvy",
-      "price": null,
+      "price": "1650",
       "url": "https://www.mobiledokan.com/mobile/lava-spark-curvy",
       "image_url": "https://www.mobiledokan.com/media/lava-spark-curvy-whaite.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -7110,12 +7110,12 @@
     {
       "id": "lava_iris_750",
       "name": "LAVA Iris 750",
-      "price": null,
+      "price": "7890",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-750",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -7226,12 +7226,12 @@
     {
       "id": "lava_iris_x8_pro",
       "name": "Lava Iris X8 Pro",
-      "price": null,
+      "price": "10190",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x8-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x8-pro.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -7330,12 +7330,12 @@
     {
       "id": "lava_pixel_v2_plus",
       "name": "Lava Pixel V2 Plus",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/lava-pixel-v2-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-pixel-v2-plus-official-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
         {
@@ -7451,12 +7451,12 @@
     {
       "id": "lava_pixel_v2_plus_3gb_ram",
       "name": "Lava Pixel V2 Plus (3GB RAM)",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/lava-pixel-v2-plus-3gb-ram",
       "image_url": "https://www.mobiledokan.com/media/lava-pixel-v2-plus-official-image_1.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -7497,6 +7497,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -7509,10 +7513,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -7572,12 +7572,12 @@
     {
       "id": "lava_iris_atom_2",
       "name": "Lava Iris Atom 2",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-atom-2",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -7697,12 +7697,12 @@
     {
       "id": "lava_iris_x1_atom",
       "name": "Lava Iris X1 Atom",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1-atom",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -7816,12 +7816,12 @@
     {
       "id": "lava_iris_510",
       "name": "Lava Iris 510",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-510",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-510.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -7918,12 +7918,12 @@
     {
       "id": "lava_flair_p1",
       "name": "Lava Flair P1",
-      "price": null,
+      "price": "3390",
       "url": "https://www.mobiledokan.com/mobile/lava-flair-p1",
       "image_url": "https://www.mobiledokan.com/media/lava-flair-p1-black-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -8039,12 +8039,12 @@
     {
       "id": "lava_iris_800",
       "name": "Lava Iris 800",
-      "price": null,
+      "price": "6290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-800",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-800.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8139,12 +8139,12 @@
     {
       "id": "lava_iris_414",
       "name": "Lava Iris 414",
-      "price": null,
+      "price": "4190",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-414",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-414-official-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -8255,12 +8255,12 @@
     {
       "id": "lava_iris_x1_plus",
       "name": "Lava iris X1 Plus",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -8368,12 +8368,12 @@
     {
       "id": "lava_iris_x8",
       "name": "Lava Iris X8",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x8",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x8-white-official-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -8412,10 +8412,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "3 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -8428,6 +8424,10 @@
             "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nSmile detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -8493,12 +8493,12 @@
     {
       "id": "lava_iris_x1_mini",
       "name": "Lava Iris X1 mini",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1-mini",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-mini-whaite-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -8607,12 +8607,12 @@
     {
       "id": "lava_iris_x8q",
       "name": "Lava Iris X8Q",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x8q",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x8q.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8715,12 +8715,12 @@
     {
       "id": "lava_iris_selfie_50",
       "name": "Lava Iris Selfie 50",
-      "price": null,
+      "price": "9900",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-selfie-50",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-selfie-50-black-color-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [],
       "specifications": {
@@ -8838,12 +8838,12 @@
     {
       "id": "lava_kkt35_plus",
       "name": "Lava KKT35 Plus",
-      "price": null,
+      "price": "1500",
       "url": "https://www.mobiledokan.com/mobile/lava-kkt35-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-kkt35-plus.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -8921,12 +8921,12 @@
     {
       "id": "lava_iris_456",
       "name": "Lava Iris 456",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-456",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-456-black-image.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 10, 2024",
       "variants": [],
       "specifications": {
@@ -9028,12 +9028,12 @@
     {
       "id": "lava_iris_250",
       "name": "Lava Iris 250",
-      "price": null,
+      "price": "5290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-250",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -9148,12 +9148,12 @@
     {
       "id": "lava_iris_x5",
       "name": "Lava Iris X5",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x5",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -9275,12 +9275,12 @@
     {
       "id": "lava_iris_400s",
       "name": "Lava Iris 400S",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-400s",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-400s-silver-official-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -9395,12 +9395,12 @@
     {
       "id": "lava_arc_12",
       "name": "Lava ARC 12",
-      "price": null,
+      "price": "1390",
       "url": "https://www.mobiledokan.com/mobile/lava-arc-12",
       "image_url": "https://www.mobiledokan.com/media/lava-arc-12-gray-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -9469,12 +9469,12 @@
     {
       "id": "lava_iris_512",
       "name": "LAVA iris 512",
-      "price": null,
+      "price": "3290",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-512",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-512-official-black-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -9589,12 +9589,12 @@
     {
       "id": "lava_iris_x1",
       "name": "Lava Iris X1",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
         {
@@ -9713,12 +9713,12 @@
     {
       "id": "lava_iris_415",
       "name": "Lava Iris 415",
-      "price": null,
+      "price": "5790",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-415",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-415-black-official-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
         {
@@ -9831,12 +9831,12 @@
     {
       "id": "lava_iris_354",
       "name": "Lava Iris 354",
-      "price": null,
+      "price": "3500",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-354",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-354_1.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -9936,12 +9936,12 @@
     {
       "id": "lava_spark_283",
       "name": "Lava Spark 283",
-      "price": null,
+      "price": "1690",
       "url": "https://www.mobiledokan.com/mobile/lava-spark-283",
       "image_url": "https://www.mobiledokan.com/media/lava-spark-283-black-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 10, 2024",
       "variants": [],
       "specifications": {
@@ -10010,12 +10010,12 @@
     {
       "id": "lava_iris_405_plus",
       "name": "Lava Iris 405 Plus",
-      "price": null,
+      "price": "5690",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-405-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-405-plus-white-image.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 10, 2024",
       "variants": [],
       "specifications": {
@@ -10123,12 +10123,12 @@
     {
       "id": "lava_iris_503",
       "name": "Lava Iris 503",
-      "price": null,
+      "price": "8300",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-503",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-503_1.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -10231,12 +10231,12 @@
     {
       "id": "lava_discover_neo",
       "name": "Lava Discover Neo",
-      "price": null,
+      "price": "2200",
       "url": "https://www.mobiledokan.com/mobile/lava-discover-neo",
       "image_url": "https://www.mobiledokan.com/media/lava-discover-neo.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -10316,12 +10316,12 @@
     {
       "id": "lava_kkt_27s",
       "name": "Lava KKT 27S",
-      "price": null,
+      "price": "1590",
       "url": "https://www.mobiledokan.com/mobile/lava-kkt-27s",
       "image_url": "https://www.mobiledokan.com/media/lava-kkt-27s-black-image.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -10397,12 +10397,12 @@
     {
       "id": "lava_arc_11_plus",
       "name": "Lava ARC 11 Plus",
-      "price": null,
+      "price": "1190",
       "url": "https://www.mobiledokan.com/mobile/lava-arc-11-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-arc-11-plus-black-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -10472,12 +10472,12 @@
     {
       "id": "lava_iris_505",
       "name": "Lava Iris 505",
-      "price": null,
+      "price": "2945",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-505",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-505.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -10584,12 +10584,12 @@
     {
       "id": "lava_iris_401e",
       "name": "Lava Iris 401e",
-      "price": null,
+      "price": "5800",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-401e",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-401e-grey-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -10689,12 +10689,12 @@
     {
       "id": "lava_iris_405",
       "name": "Lava Iris 405",
-      "price": null,
+      "price": "8490",
       "url": "https://www.mobiledokan.com/mobile/lava-iris-405",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-405.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -10799,12 +10799,12 @@
     {
       "id": "lava_discover_135",
       "name": "Lava Discover 135",
-      "price": null,
+      "price": "3250",
       "url": "https://www.mobiledokan.com/mobile/lava-discover-135",
       "image_url": "https://www.mobiledokan.com/media/lava-discover-135-official-black-image-1.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -10912,12 +10912,12 @@
     {
       "id": "lava_kkt35",
       "name": "Lava KKT35+",
-      "price": null,
+      "price": "1500",
       "url": "https://www.mobiledokan.com/mobile/lava-kkt35-",
       "image_url": "https://www.mobiledokan.com/media/lava-kkt35-plus-black-image.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -10998,12 +10998,12 @@
     {
       "id": "lava_arc_3",
       "name": "Lava ARC 3",
-      "price": null,
+      "price": "1490",
       "url": "https://www.mobiledokan.com/mobile/lava-arc-3",
       "image_url": "https://www.mobiledokan.com/media/lava-arc-3.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -11079,12 +11079,12 @@
     {
       "id": "lava_yuva_4_pro",
       "name": "Lava Yuva 4 Pro",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-4-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-4-pro-official-image.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [],
       "specifications": {
@@ -11118,12 +11118,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, Primary Camera",
@@ -11134,6 +11128,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto flash, Touch to Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -11199,12 +11199,12 @@
     {
       "id": "lava_blaze_x",
       "name": "Lava Blaze X",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-x",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 08:59:23",
-      "first_scraped": "2025-09-11 08:59:23",
+      "last_updated": "2025-09-14 13:16:44",
+      "first_scraped": null,
       "updated_on": "July 5, 2024",
       "variants": [],
       "specifications": {

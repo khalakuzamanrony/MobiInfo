@@ -4,22 +4,22 @@
     "name": "meizu",
     "url": "https://www.mobiledokan.com/mobile-brand/meizu",
     "image_url": null,
-    "last_updated": "2025-09-14 06:32:05",
+    "last_updated": "2025-09-14 13:26:43",
     "total_phones": 40,
     "first_scraped": "2025-09-11 09:09:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 40
   },
   "phones": [
     {
       "id": "meizu_note_22",
       "name": "Meizu Note 22",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-22",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
       "specifications": {
@@ -54,13 +54,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -74,6 +67,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -144,12 +144,12 @@
     {
       "id": "meizu_note_22_pro",
       "name": "Meizu Note 22 Pro",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-22-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-22-pro-star-ash-official-color-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
       "specifications": {
@@ -277,12 +277,12 @@
     {
       "id": "meizu_note_16",
       "name": "Meizu Note 16",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-16",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-16-red-official-image_1.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [],
       "specifications": {
@@ -405,12 +405,12 @@
     {
       "id": "meizu_note_16_pro",
       "name": "Meizu Note 16 Pro",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-16-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-16-pro-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [],
       "specifications": {
@@ -539,12 +539,12 @@
     {
       "id": "meizu_mblu_21",
       "name": "Meizu mBlu 21",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/meizu-mblu-21",
       "image_url": "https://www.mobiledokan.com/media/meizu-mblu-21-ocean-blue-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [],
       "specifications": {
@@ -578,12 +578,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 0.08 MP Camera",
@@ -594,6 +588,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -655,12 +655,12 @@
     {
       "id": "meizu_note_21",
       "name": "Meizu Note 21",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-21",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-21-gulf-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -776,12 +776,12 @@
     {
       "id": "meizu_note_21_pro",
       "name": "Meizu Note 21 Pro",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-21-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-21-pro-bay-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -896,12 +896,12 @@
     {
       "id": "meizu_lucky_08_12gb_ram",
       "name": "Meizu Lucky 08 (12GB RAM)",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image_1.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [
         {
@@ -1035,12 +1035,12 @@
     {
       "id": "meizu_lucky_08",
       "name": "Meizu Lucky 08",
-      "price": null,
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08",
       "image_url": "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [
         {
@@ -1174,12 +1174,12 @@
     {
       "id": "meizu_21_pro",
       "name": "Meizu 21 Pro",
-      "price": "৳95000",
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/meizu-21-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [],
       "specifications": {
@@ -1218,6 +1218,13 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "HDR",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 10 MP f/2.0, Periscope Camera",
@@ -1232,13 +1239,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "HDR",
-            "Video Recording": "Yes",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1317,12 +1317,12 @@
     {
       "id": "meizu_21",
       "name": "Meizu 21",
-      "price": null,
+      "price": "62000",
       "url": "https://www.mobiledokan.com/mobile/meizu-21",
       "image_url": "https://www.mobiledokan.com/media/meizu-21-white-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -1461,12 +1461,12 @@
     {
       "id": "meizu_20_pro",
       "name": "Meizu 20 Pro",
-      "price": "৳85000",
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/meizu-20-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-20-pro-gold-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "December 8, 2024",
       "variants": [],
       "specifications": {
@@ -1597,12 +1597,12 @@
     {
       "id": "meizu_20",
       "name": "Meizu 20",
-      "price": null,
+      "price": "47000",
       "url": "https://www.mobiledokan.com/mobile/meizu-20",
       "image_url": "https://www.mobiledokan.com/media/17137841586Mrha.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -1737,12 +1737,12 @@
     {
       "id": "meizu_16t",
       "name": "Meizu 16T",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/meizu-16t",
       "image_url": "https://www.mobiledokan.com/media/meizu-16t-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -1867,12 +1867,12 @@
     {
       "id": "meizu_16t_pro",
       "name": "Meizu 16T Pro",
-      "price": null,
+      "price": "33000",
       "url": "https://www.mobiledokan.com/mobile/meizu-16t-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -1991,12 +1991,12 @@
     {
       "id": "meizu_note_9",
       "name": "Meizu Note 9",
-      "price": null,
+      "price": "19490",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-9",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-9-blue-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -2127,12 +2127,12 @@
     {
       "id": "meizu_c9",
       "name": "Meizu C9",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/meizu-c9",
       "image_url": "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -2253,12 +2253,12 @@
     {
       "id": "meizu_c9_pro",
       "name": "Meizu C9 Pro",
-      "price": null,
+      "price": "10800",
       "url": "https://www.mobiledokan.com/mobile/meizu-c9-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-c9-pro-gold-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -2300,14 +2300,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -2321,6 +2313,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2385,12 +2385,12 @@
     {
       "id": "meizu_x8",
       "name": "Meizu X8",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/meizu-x8",
       "image_url": "https://www.mobiledokan.com/media/meizu-x8-blue-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -2426,6 +2426,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.9, Primary Camera, 5 MP Wide Angle Camera",
@@ -2440,13 +2447,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2515,12 +2515,12 @@
     {
       "id": "meizu_note_8",
       "name": "Meizu Note 8",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/meizu-note-8",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-8-black-color-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -2654,12 +2654,12 @@
     {
       "id": "meizu_16x",
       "name": "Meizu 16X",
-      "price": null,
+      "price": "29990",
       "url": "https://www.mobiledokan.com/mobile/meizu-16x",
       "image_url": "https://www.mobiledokan.com/media/meizu-16x-black-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -2793,12 +2793,12 @@
     {
       "id": "meizu_v8_pro",
       "name": "Meizu V8 Pro",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/meizu-v8-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-v8-pro-black-color-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
         {
@@ -2838,13 +2838,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/1.9, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/2.2, Primary Camera, 5 MP f/2.2",
@@ -2858,6 +2851,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/1.9, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -2927,12 +2927,12 @@
     {
       "id": "meizu_v8",
       "name": "Meizu V8",
-      "price": null,
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/meizu-v8",
       "image_url": "https://www.mobiledokan.com/media/meizu-v8-white-official-price.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
         {
@@ -2973,14 +2973,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/1.9, Primary Camera",
-            "Flash": "LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -2994,6 +2986,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/1.9, Primary Camera",
+            "Flash": "LED flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -3065,12 +3065,12 @@
     {
       "id": "meizu_16",
       "name": "Meizu 16",
-      "price": null,
+      "price": "39990",
       "url": "https://www.mobiledokan.com/mobile/meizu-16",
       "image_url": "https://www.mobiledokan.com/media/meizu-16-black-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3197,12 +3197,12 @@
     {
       "id": "meizu_16_plus",
       "name": "Meizu 16 Plus",
-      "price": null,
+      "price": "45990",
       "url": "https://www.mobiledokan.com/mobile/meizu-16-plus",
       "image_url": "https://www.mobiledokan.com/media/meizu-16-plus-white-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3329,12 +3329,12 @@
     {
       "id": "meizu_m6t",
       "name": "Meizu M6T",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/meizu-m6t",
       "image_url": "https://www.mobiledokan.com/media/meizu-m6t-official-champagne-gold-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -3466,12 +3466,12 @@
     {
       "id": "meizu_m8c",
       "name": "Meizu M8c",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/meizu-m8c",
       "image_url": "https://www.mobiledokan.com/media/meizu-m8c-red-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 9, 2024",
       "variants": [
         {
@@ -3512,13 +3512,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -3532,6 +3525,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3598,12 +3598,12 @@
     {
       "id": "meizu_e3",
       "name": "Meizu E3",
-      "price": null,
+      "price": "28500",
       "url": "https://www.mobiledokan.com/mobile/meizu-e3",
       "image_url": "https://www.mobiledokan.com/media/meizu-e3-blue-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -3731,12 +3731,12 @@
     {
       "id": "meizu_15_lite",
       "name": "Meizu 15 Lite",
-      "price": null,
+      "price": "20400",
       "url": "https://www.mobiledokan.com/mobile/meizu-15-lite",
       "image_url": "https://www.mobiledokan.com/media/meizu-15-lite-black-color-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
         {
@@ -3776,13 +3776,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP, f/1.9, 1.4 µm, dual pixel PDAF",
@@ -3795,6 +3788,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3867,12 +3867,12 @@
     {
       "id": "meizu_15_plus",
       "name": "Meizu 15 Plus",
-      "price": null,
+      "price": "49500",
       "url": "https://www.mobiledokan.com/mobile/meizu-15-plus",
       "image_url": "https://www.mobiledokan.com/media/meizu-15-plus-black-color-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3908,6 +3908,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Primary Camera, 20 MP f/2.0, Camera",
@@ -3923,13 +3930,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -4003,12 +4003,12 @@
     {
       "id": "meizu_m6s",
       "name": "Meizu M6s",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/meizu-m6s",
       "image_url": "https://www.mobiledokan.com/media/meizu-m6s-gold-color-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
         {
@@ -4143,12 +4143,12 @@
     {
       "id": "meizu_m6",
       "name": "Meizu M6",
-      "price": null,
+      "price": "12700",
       "url": "https://www.mobiledokan.com/mobile/meizu-m6",
       "image_url": "https://www.mobiledokan.com/media/meizu-m6-electric-light-blue-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -4184,13 +4184,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.2, Primary Camera",
@@ -4204,6 +4197,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -4275,12 +4275,12 @@
     {
       "id": "meizu_m6_note",
       "name": "Meizu M6 Note",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/meizu-m6-note",
       "image_url": "https://www.mobiledokan.com/media/meizu-m6-note-black-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 19, 2024",
       "variants": [
         {
@@ -4410,12 +4410,12 @@
     {
       "id": "meizu_pro_7",
       "name": "Meizu Pro 7",
-      "price": null,
+      "price": "37900",
       "url": "https://www.mobiledokan.com/mobile/meizu-pro-7",
       "image_url": "https://www.mobiledokan.com/media/meizu-pro-7-black-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -4539,12 +4539,12 @@
     {
       "id": "meizu_pro_7_plus",
       "name": "Meizu Pro 7 Plus",
-      "price": null,
+      "price": "46990",
       "url": "https://www.mobiledokan.com/mobile/meizu-pro-7-plus",
       "image_url": "https://www.mobiledokan.com/media/meizu-pro-7-plus-black-color.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
         {
@@ -4678,12 +4678,12 @@
     {
       "id": "meizu_m5c",
       "name": "Meizu M5c",
-      "price": null,
+      "price": "9500",
       "url": "https://www.mobiledokan.com/mobile/meizu-m5c",
       "image_url": "https://www.mobiledokan.com/media/meizu-m5c-black-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -4805,12 +4805,12 @@
     {
       "id": "meizu_e2",
       "name": "Meizu E2",
-      "price": null,
+      "price": "14400",
       "url": "https://www.mobiledokan.com/mobile/meizu-e2",
       "image_url": "https://www.mobiledokan.com/media/meizu-e2-gold-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -4937,12 +4937,12 @@
     {
       "id": "meizu_m5s",
       "name": "Meizu M5s",
-      "price": null,
+      "price": "9900",
       "url": "https://www.mobiledokan.com/mobile/meizu-m5s",
       "image_url": "https://www.mobiledokan.com/media/meizu-m5s-gold-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -5066,12 +5066,12 @@
     {
       "id": "meizu_pro_6",
       "name": "Meizu Pro 6",
-      "price": null,
+      "price": "39990",
       "url": "https://www.mobiledokan.com/mobile/meizu-pro-6",
       "image_url": "https://www.mobiledokan.com/media/meizu-pro-6-silver-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [],
       "specifications": {
@@ -5194,12 +5194,12 @@
     {
       "id": "meizu_m2_note",
       "name": "Meizu M2 Note",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/meizu-m2-note",
       "image_url": "https://www.mobiledokan.com/media/meizu-m2-note-silver-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:09:19",
-      "first_scraped": "2025-09-11 09:09:19",
+      "last_updated": "2025-09-14 13:26:43",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {

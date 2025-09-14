@@ -4,22 +4,22 @@
     "name": "sony",
     "url": "https://www.mobiledokan.com/mobile-brand/sony",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:42",
+    "last_updated": "2025-09-14 13:36:43",
     "total_phones": 85,
     "first_scraped": "2025-09-11 09:14:37",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 85
   },
   "phones": [
     {
       "id": "sony_xperia_1_vii_512gb",
       "name": "Sony Xperia 1 VII (512GB)",
-      "price": null,
+      "price": "190000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-vii-512gb",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-vii-orchid-purple-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "June 29, 2025",
       "variants": [
         {
@@ -162,12 +162,12 @@
     {
       "id": "sony_xperia_1_vii",
       "name": "Sony Xperia 1 VII",
-      "price": null,
+      "price": "160000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-vii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-vii-orchid-purpte-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "June 29, 2025",
       "variants": [
         {
@@ -310,12 +310,12 @@
     {
       "id": "sony_xperia_1_vi",
       "name": "Sony Xperia 1 VI",
-      "price": "৳140000",
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-vi",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [],
       "specifications": {
@@ -448,12 +448,12 @@
     {
       "id": "sony_xperia_1_v",
       "name": "Sony Xperia 1 V",
-      "price": null,
+      "price": "143000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-v",
       "image_url": "https://www.mobiledokan.com/media/1713695911xoeSY.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -595,12 +595,12 @@
     {
       "id": "sony_xperia_5_iv",
       "name": "Sony Xperia 5 IV",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-5-iv",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-5-iv-green-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "May 13, 2025",
       "variants": [
         {
@@ -641,6 +641,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.7, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.4, Telephoto Camera",
@@ -655,13 +662,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -736,12 +736,12 @@
     {
       "id": "sony_xperia_1_iv",
       "name": "Sony Xperia 1 IV",
-      "price": null,
+      "price": "118000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iv",
       "image_url": "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -876,12 +876,12 @@
     {
       "id": "sony_xperia_5_iii",
       "name": "Sony Xperia 5 III",
-      "price": null,
+      "price": "26000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-5-iii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-5-iii-black-official-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -1020,12 +1020,12 @@
     {
       "id": "sony_xperia_1_iii",
       "name": "Sony Xperia 1 III",
-      "price": null,
+      "price": "138000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -1165,12 +1165,12 @@
     {
       "id": "sony_xperia_10_iii",
       "name": "Sony Xperia 10 III",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-10-iii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-10-iii-blue-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
         {
@@ -1308,12 +1308,12 @@
     {
       "id": "sony_xperia_5",
       "name": "Sony Xperia 5",
-      "price": "৳13000",
+      "price": "13000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-5",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -1447,12 +1447,12 @@
     {
       "id": "sony_xperia_1",
       "name": "Sony Xperia 1",
-      "price": "৳61500",
+      "price": "61500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-purple-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [],
       "specifications": {
@@ -1585,12 +1585,12 @@
     {
       "id": "sony_xperia_10_plus",
       "name": "Sony Xperia 10 Plus",
-      "price": null,
+      "price": "41490",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-10-plus",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-10-plus-navy-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -1625,6 +1625,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Wide Angle (76.3° field-of-view), Primary Camera, 8 MP f/2.4, Telephoto Camera",
@@ -1639,14 +1647,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1722,12 +1722,12 @@
     {
       "id": "sony_xperia_10",
       "name": "Sony Xperia 10",
-      "price": null,
+      "price": "33990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-10",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-10-navy-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 17, 2025",
       "variants": [],
       "specifications": {
@@ -1858,12 +1858,12 @@
     {
       "id": "sony_xperia_l3",
       "name": "Sony Xperia L3",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-l3",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-l3-grey-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 17, 2025",
       "variants": [
         {
@@ -1998,12 +1998,12 @@
     {
       "id": "sony_xperia_xz3",
       "name": "Sony Xperia XZ3",
-      "price": null,
+      "price": "79900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz3",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 17, 2025",
       "variants": [
         {
@@ -2143,12 +2143,12 @@
     {
       "id": "sony_xperia_xa2_plus",
       "name": "Sony Xperia XA2 Plus",
-      "price": null,
+      "price": "36990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa2-plus",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa2-plus-black-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -2280,12 +2280,12 @@
     {
       "id": "sony_xperia_xz2_premium",
       "name": "Sony Xperia XZ2 Premium",
-      "price": null,
+      "price": "84500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz2-premium",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz2-premium-black-image_1.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [],
       "specifications": {
@@ -2418,12 +2418,12 @@
     {
       "id": "sony_xperia_xz2",
       "name": "Sony Xperia XZ2",
-      "price": null,
+      "price": "81700",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz2-liquid-silver-image_1.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 17, 2025",
       "variants": [],
       "specifications": {
@@ -2553,12 +2553,12 @@
     {
       "id": "sony_xperia_xz2_compact",
       "name": "Sony Xperia XZ2 Compact",
-      "price": null,
+      "price": "60990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz2-compact",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz2-compact-white-silver-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -2698,12 +2698,12 @@
     {
       "id": "sony_xperia_xa2",
       "name": "Sony Xperia XA2",
-      "price": null,
+      "price": "29990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa2-silver-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -2832,12 +2832,12 @@
     {
       "id": "sony_xperia_l2",
       "name": "Sony Xperia L2",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-l2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -2971,12 +2971,12 @@
     {
       "id": "sony_xperia_r1_plus",
       "name": "Sony Xperia R1 (Plus)",
-      "price": null,
+      "price": "17900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-r1-plus",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-r1-plus-black-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -3010,10 +3010,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Front Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -3026,6 +3022,10 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Front Camera"
           }
         },
         "Design": {
@@ -3093,12 +3093,12 @@
     {
       "id": "sony_xperia_xa1_plus_dual_4gb32gb",
       "name": "Sony Xperia XA1 Plus Dual (4GB+32GB)",
-      "price": null,
+      "price": "23900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-plus-dual-4gb-32gb",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-dual-black-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [],
       "specifications": {
@@ -3226,12 +3226,12 @@
     {
       "id": "sony_xperia_xz1_compact",
       "name": "Sony Xperia XZ1 Compact",
-      "price": null,
+      "price": "84500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1-compact",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-compact-white-silver-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -3363,12 +3363,12 @@
     {
       "id": "sony_xperia_xz1_dual",
       "name": "Sony Xperia XZ1 Dual",
-      "price": null,
+      "price": "38990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-dual-black-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -3496,12 +3496,12 @@
     {
       "id": "sony_xperia_xz1",
       "name": "Sony Xperia XZ1",
-      "price": null,
+      "price": "56900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -3542,14 +3542,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "19 MP f/2.0, Primary Camera",
@@ -3564,6 +3556,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3642,12 +3642,12 @@
     {
       "id": "sony_xperia_xa1_ultra_dual_4gb64gb",
       "name": "Sony Xperia XA1 Ultra Dual (4GB+64GB)",
-      "price": null,
+      "price": "25990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-ultra-dual-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [],
       "specifications": {
@@ -3770,12 +3770,12 @@
     {
       "id": "sony_xperia_l1_dual_sim",
       "name": "Sony Xperia L1 Dual SIM",
-      "price": null,
+      "price": "9900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-l1-dual-sim",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-l1-dual-sim-black-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -3807,13 +3807,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -3827,6 +3820,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3891,12 +3891,12 @@
     {
       "id": "sony_xperia_xz_premium_dual",
       "name": "Sony Xperia XZ Premium Dual",
-      "price": null,
+      "price": "40900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz-premium-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz-premium-dual-bronze-pink-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -4024,12 +4024,12 @@
     {
       "id": "sony_xperia_xa1_ultra_dual",
       "name": "Sony Xperia XA1 Ultra Dual",
-      "price": null,
+      "price": "22900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-ultra-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-ultra-dual-black-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -4152,12 +4152,12 @@
     {
       "id": "sony_xperia_xz",
       "name": "Sony Xperia XZ",
-      "price": null,
+      "price": "24900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz-blue-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -4289,12 +4289,12 @@
     {
       "id": "sony_xperia_xzs_dual",
       "name": "Sony Xperia XZs Dual",
-      "price": null,
+      "price": "24900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xzs-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xzs-dual-ice-blue-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -4329,13 +4329,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "19 MP f/2.0, Primary Camera",
@@ -4349,6 +4342,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160 ,1280x720",
             "Video FPS": "30 fps, 960 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -4416,12 +4416,12 @@
     {
       "id": "sony_xperia_xa1_dual",
       "name": "Sony Xperia XA1 Dual",
-      "price": null,
+      "price": "19900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-dual-official-rose-gold-front-image-2.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -4548,12 +4548,12 @@
     {
       "id": "sony_xperia_xz_dual",
       "name": "Sony Xperia XZ Dual",
-      "price": null,
+      "price": "42900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz-dual-official-forest-blue-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -4682,12 +4682,12 @@
     {
       "id": "sony_xperia_xa_ultra_dual",
       "name": "Sony Xperia XA Ultra Dual",
-      "price": null,
+      "price": "14900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa-ultra-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa-ultra-dual-white-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 16, 2025",
       "variants": [],
       "specifications": {
@@ -4808,12 +4808,12 @@
     {
       "id": "sony_xperia_xa_dual",
       "name": "Sony Xperia XA Dual",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa-dual-graphite-black-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -4941,12 +4941,12 @@
     {
       "id": "sony_xperia_x",
       "name": "Sony Xperia X",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-x",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-x-gold-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -5068,12 +5068,12 @@
     {
       "id": "sony_xperia_x_dual",
       "name": "Sony Xperia X Dual",
-      "price": null,
+      "price": "19900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-x-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-x-dual-graphite-black-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [],
       "specifications": {
@@ -5201,12 +5201,12 @@
     {
       "id": "sony_xperia_z5_premium_dual",
       "name": "Sony Xperia Z5 Premium Dual",
-      "price": null,
+      "price": "47990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z5-premium-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -5241,13 +5241,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5.1 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "23 MP f/2.0, Wide Angle, Primary Camera",
@@ -5261,6 +5254,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5.1 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -5339,12 +5339,12 @@
     {
       "id": "sony_xperia_z5_dual",
       "name": "Sony Xperia Z5 Dual",
-      "price": null,
+      "price": "44900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z5-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z5-dual-gold-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -5476,12 +5476,12 @@
     {
       "id": "sony_xperia_xa1_plus",
       "name": "Sony Xperia XA1 Plus",
-      "price": null,
+      "price": "17900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xa1-plus",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xa1-plus-black-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 16, 2025",
       "variants": [],
       "specifications": {
@@ -5515,13 +5515,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "23 MP, f/2.0, Primary Camera",
@@ -5535,6 +5528,13 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5608,12 +5608,12 @@
     {
       "id": "sony_xperia_m5_dual",
       "name": "Sony Xperia M5 Dual",
-      "price": null,
+      "price": "29900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m5-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m5-dual-official-gold-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -5648,13 +5648,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "21.2 MP f/2.2, Wide Angle, Primary Camera",
@@ -5668,6 +5661,13 @@
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Smile detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5740,12 +5740,12 @@
     {
       "id": "sony_xperia_c5_ultra_dual",
       "name": "Sony Xperia C5 Ultra Dual",
-      "price": null,
+      "price": "27900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c5-ultra-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c5-ultra-dual-black-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -5867,12 +5867,12 @@
     {
       "id": "sony_xperia_c4",
       "name": "Sony Xperia C4",
-      "price": null,
+      "price": "26500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c4",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c4-black-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [],
       "specifications": {
@@ -5907,6 +5907,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2 Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP,  f/2.0 Primary Camera",
@@ -5920,14 +5928,6 @@
             "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2 Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -5997,12 +5997,12 @@
     {
       "id": "sony_xperia_m4_aqua_dual",
       "name": "Sony Xperia M4 Aqua Dual",
-      "price": null,
+      "price": "18900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m4-aqua-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-dual-black-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -6123,12 +6123,12 @@
     {
       "id": "sony_xperia_m4_aqua",
       "name": "Sony Xperia M4 Aqua",
-      "price": null,
+      "price": "18900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m4-aqua",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -6252,12 +6252,12 @@
     {
       "id": "sony_xperia_c4_dual",
       "name": "Sony Xperia C4 Dual",
-      "price": null,
+      "price": "26900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c4-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c4-dual-mint-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -6380,12 +6380,12 @@
     {
       "id": "sony_xperia_e4_dual",
       "name": "Sony Xperia E4 Dual",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-e4-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-e4-dual-official-black-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -6508,12 +6508,12 @@
     {
       "id": "sony_xperia_z3",
       "name": "Sony Xperia Z3",
-      "price": null,
+      "price": "49900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z3",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z3-official-white-back-image-2.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -6646,12 +6646,12 @@
     {
       "id": "sony_xperia_z3_compact",
       "name": "Sony Xperia Z3 Compact",
-      "price": null,
+      "price": "40410",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z3-compact",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z3-compact-black-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 16, 2025",
       "variants": [],
       "specifications": {
@@ -6685,13 +6685,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2.2 MP, f/2.2 Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "20.7 MP, f/2.0 Primary Camera",
@@ -6705,6 +6698,13 @@
             "Camera Features": "Digital image stabilization",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2.2 MP, f/2.2 Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -6780,12 +6780,12 @@
     {
       "id": "sony_xperia_e3_dual",
       "name": "Sony Xperia E3 Dual",
-      "price": null,
+      "price": "13900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-e3-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-e3-dual-white-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -6903,12 +6903,12 @@
     {
       "id": "sony_xperia_c3_dual",
       "name": "Sony Xperia C3 Dual",
-      "price": null,
+      "price": "18905",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c3-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c3-dual-official-black-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -7037,12 +7037,12 @@
     {
       "id": "sony_xperia_t3",
       "name": "Sony Xperia T3",
-      "price": null,
+      "price": "26910",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-t3",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-t3-purple-image_1.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -7076,12 +7076,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.1 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.4 Primary Camera",
@@ -7093,6 +7087,12 @@
             "Aperture": "f/2.4",
             "Camera Features": "Face detection, Smile detection, Touch to focus",
             "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.1 MP, Primary Camera",
+            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -7162,12 +7162,12 @@
     {
       "id": "sony_xperia_m2",
       "name": "Sony Xperia M2",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m2-white-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -7286,12 +7286,12 @@
     {
       "id": "sony_xperia_m2_dual",
       "name": "Sony Xperia M2 dual",
-      "price": null,
+      "price": "15900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m2-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m2-dual-official-black-side-image-2.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -7414,12 +7414,12 @@
     {
       "id": "sony_xperia_z2",
       "name": "Sony Xperia Z2",
-      "price": null,
+      "price": "49900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z2-official-black-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "October 16, 2024",
       "variants": [],
       "specifications": {
@@ -7547,12 +7547,12 @@
     {
       "id": "sony_xperia_e1_dual",
       "name": "Sony Xperia E1 dual",
-      "price": null,
+      "price": "9490",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-e1-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-e1-dual-purple-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -7661,12 +7661,12 @@
     {
       "id": "sony_xperia_t2_ultra_dual",
       "name": "Sony Xperia T2 Ultra dual",
-      "price": null,
+      "price": "21950",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-t2-ultra-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-t2-ultra-dual-official-black-front-image-2.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -7790,12 +7790,12 @@
     {
       "id": "sony_xperia_z1",
       "name": "Sony Xperia Z1",
-      "price": null,
+      "price": "45500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z1",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z1-official-black-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -7830,12 +7830,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "20.7 MP, f/2.0 Primary Camera",
@@ -7848,6 +7842,12 @@
             "Aperture": "f/2.0",
             "Camera Features": "Digital image stabilization, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -7927,12 +7927,12 @@
     {
       "id": "sony_xperia_m_dual",
       "name": "Sony Xperia M DUAL",
-      "price": null,
+      "price": "11500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m-blue-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8047,12 +8047,12 @@
     {
       "id": "sony_xperia_m",
       "name": "Sony Xperia M",
-      "price": null,
+      "price": "11490",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m-blue-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8166,12 +8166,12 @@
     {
       "id": "sony_xperia_z_ultra",
       "name": "Sony Xperia Z Ultra",
-      "price": null,
+      "price": "44900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z-ultra",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z-ultra-black-side-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -8295,12 +8295,12 @@
     {
       "id": "sony_xperia_c",
       "name": "Sony Xperia C",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -8416,12 +8416,12 @@
     {
       "id": "sony_xperia_zr",
       "name": "Sony Xperia ZR",
-      "price": null,
+      "price": "29500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-zr",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-zr-pink-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8539,12 +8539,12 @@
     {
       "id": "sony_xperia_l",
       "name": "Sony Xperia L",
-      "price": null,
+      "price": "12500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-l",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-l-red-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -8661,12 +8661,12 @@
     {
       "id": "sony_xperia_zl",
       "name": "Sony Xperia ZL",
-      "price": null,
+      "price": "33900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-zl",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-zl-black-image.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -8781,12 +8781,12 @@
     {
       "id": "sony_xperia_sp",
       "name": "Sony Xperia SP",
-      "price": null,
+      "price": "18950",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-sp",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-sp-red-image.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [],
       "specifications": {
@@ -8820,6 +8820,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -8832,10 +8836,6 @@
             "Camera Features": "Digital image stabilization,\r\nFace detection,\r\nSmile detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -8901,12 +8901,12 @@
     {
       "id": "sony_xperia_z",
       "name": "Sony Xperia Z",
-      "price": null,
+      "price": "39900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z-official-white-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -9033,12 +9033,12 @@
     {
       "id": "sony_xperia_e_dual",
       "name": "Sony Xperia E dual",
-      "price": null,
+      "price": "8900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-e-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-e-dual-black-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -9146,12 +9146,12 @@
     {
       "id": "sony_xperia_v",
       "name": "Sony Xperia V",
-      "price": null,
+      "price": "19950",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-v",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-v-black-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -9186,10 +9186,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -9201,6 +9197,10 @@
             "Camera Features": "Digital image stabilization, Face detection, Smile detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -9267,12 +9267,12 @@
     {
       "id": "sony_xperia_tipo_dual",
       "name": "Sony Xperia tipo dual",
-      "price": null,
+      "price": "6900",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-tipo-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-tipo-dual-classic-silver-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -9375,12 +9375,12 @@
     {
       "id": "sony_xperia_t",
       "name": "Sony Xperia T",
-      "price": null,
+      "price": "20950",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-t",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-t-black-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -9498,12 +9498,12 @@
     {
       "id": "sony_xperia_sl",
       "name": "Sony Xperia SL",
-      "price": null,
+      "price": "14500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-sl",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-sl-white-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
       "specifications": {
@@ -9623,12 +9623,12 @@
     {
       "id": "sony_xperia_miro",
       "name": "Sony Xperia miro",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-miro",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-miro-official-black-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [],
       "specifications": {
@@ -9747,12 +9747,12 @@
     {
       "id": "sony_xperia_tx",
       "name": "Sony Xperia TX",
-      "price": null,
+      "price": "21950",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-tx",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-tx-black-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -9872,12 +9872,12 @@
     {
       "id": "sony_xperia_acro_s",
       "name": "Sony Xperia acro S",
-      "price": null,
+      "price": "31000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-acro-s",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-acro-s-official-black-image.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -10000,12 +10000,12 @@
     {
       "id": "sony_xperia_j",
       "name": "Sony Xperia J",
-      "price": null,
+      "price": "14490",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-j",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-j-black-image.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -10122,12 +10122,12 @@
     {
       "id": "sony_xperia_tipo",
       "name": "Sony Xperia tipo",
-      "price": null,
+      "price": "14500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-tipo",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [],
       "specifications": {
@@ -10237,12 +10237,12 @@
     {
       "id": "sony_xperia_go",
       "name": "Sony Xperia go",
-      "price": null,
+      "price": "14999",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-go",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-go-black-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "April 15, 2025",
       "variants": [],
       "specifications": {
@@ -10348,12 +10348,12 @@
     {
       "id": "sony_xperia_neo_l",
       "name": "Sony Xperia neo L",
-      "price": null,
+      "price": "16500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-neo-l",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-neo-l-black-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -10387,10 +10387,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -10402,6 +10398,10 @@
             "Camera Features": "Smile detection",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -10466,12 +10466,12 @@
     {
       "id": "sony_xperia_p",
       "name": "Sony Xperia P",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-p",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-p-silver-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [],
       "specifications": {
@@ -10504,6 +10504,11 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Camera Features": "Fixed Focus"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -10514,11 +10519,6 @@
             "Camera Features": "Digital image stabilization, Smile detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Camera Features": "Fixed Focus"
           }
         },
         "Design": {
@@ -10586,12 +10586,12 @@
     {
       "id": "sony_xperia_u",
       "name": "Sony Xperia U",
-      "price": null,
+      "price": "14490",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-u",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-u-white-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [],
       "specifications": {
@@ -10624,6 +10624,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -10636,10 +10640,6 @@
             "Camera Features": "Digital image stabilization,\r\nTouch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -10705,12 +10705,12 @@
     {
       "id": "sony_xperia_s",
       "name": "Sony Xperia S",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-s",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-s-black-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -10826,12 +10826,12 @@
     {
       "id": "sony_live_with_walkman",
       "name": "Sony Live with Walkman",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/sony-live-with-walkman",
       "image_url": "https://www.mobiledokan.com/media/sony-live-with-walkman-white-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -10942,12 +10942,12 @@
     {
       "id": "sony_ericsson_xperia_arc_s",
       "name": "Sony Ericsson Xperia Arc S",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/sony-ericsson-xperia-arc-s",
       "image_url": "https://www.mobiledokan.com/media/sony-ericsson-xperia-arc-s-black-image.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:14:37",
-      "first_scraped": "2025-09-11 09:14:37",
+      "last_updated": "2025-09-14 13:36:43",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {

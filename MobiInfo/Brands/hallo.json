@@ -4,22 +4,22 @@
     "name": "hallo",
     "url": "https://www.mobiledokan.com/mobile-brand/hallo",
     "image_url": null,
-    "last_updated": "2025-09-12 07:07:22",
+    "last_updated": "2025-09-14 13:48:32",
     "total_phones": 3,
     "first_scraped": "2025-09-11 09:23:08",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
       "id": "hallo_h100_music",
       "name": "Hallo H100 Music",
-      "price": null,
+      "price": "1293",
       "url": "https://www.mobiledokan.com/mobile/hallo-h100-music",
       "image_url": "https://www.mobiledokan.com/media/hallo-h100-music-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:23:08",
-      "first_scraped": "2025-09-11 09:23:08",
+      "last_updated": "2025-09-14 13:48:32",
+      "first_scraped": null,
       "updated_on": "November 8, 2024",
       "variants": [],
       "specifications": {
@@ -77,12 +77,12 @@
     {
       "id": "hallo_power",
       "name": "Hallo Power",
-      "price": "৳1899",
+      "price": "1899",
       "url": "https://www.mobiledokan.com/mobile/hallo-power",
       "image_url": "https://www.mobiledokan.com/media/hallo-power-green-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:23:08",
-      "first_scraped": "2025-09-11 09:23:08",
+      "last_updated": "2025-09-14 13:48:32",
+      "first_scraped": null,
       "updated_on": "November 8, 2024",
       "variants": [],
       "specifications": {
@@ -144,12 +144,12 @@
     {
       "id": "hallo_classic",
       "name": "Hallo Classic",
-      "price": null,
+      "price": "1026",
       "url": "https://www.mobiledokan.com/mobile/hallo-classic",
       "image_url": "https://www.mobiledokan.com/media/hallo-classic-blue-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:23:08",
-      "first_scraped": "2025-09-11 09:23:08",
+      "last_updated": "2025-09-14 13:48:32",
+      "first_scraped": null,
       "updated_on": "November 8, 2024",
       "variants": [],
       "specifications": {

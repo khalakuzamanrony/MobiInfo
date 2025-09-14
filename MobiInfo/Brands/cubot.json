@@ -4,22 +4,22 @@
     "name": "cubot",
     "url": "https://www.mobiledokan.com/mobile-brand/cubot",
     "image_url": null,
-    "last_updated": "2025-09-12 07:04:38",
+    "last_updated": "2025-09-14 13:46:17",
     "total_phones": 7,
     "first_scraped": "2025-09-11 09:20:23",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 7
   },
   "phones": [
     {
       "id": "cubot_kingkong_x_pro",
       "name": "Cubot KingKong X Pro",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/cubot-kingkong-x-pro",
       "image_url": "https://www.mobiledokan.com/media/cubot-kingkong-x-pro-black-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [],
       "specifications": {
@@ -55,6 +55,12 @@
           "Features": "Secondary screen on the back, 1.85 inches"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "100 MP, Wide Angle, Primary Camera, 5 MP, Macro Camera",
@@ -65,12 +71,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -137,12 +137,12 @@
     {
       "id": "cubot_kingkong_power_3",
       "name": "Cubot KingKong Power 3",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/cubot-kingkong-power-3",
       "image_url": "https://www.mobiledokan.com/media/cubot-kingkong-power-3-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "October 4, 2024",
       "variants": [],
       "specifications": {
@@ -262,12 +262,12 @@
     {
       "id": "cubot_kingkong_star_2",
       "name": "Cubot KingKong Star 2",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/cubot-kingkong-star-2",
       "image_url": "https://www.mobiledokan.com/media/cubot-kingkong-power-3-black-official-image_1.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "October 4, 2024",
       "variants": [],
       "specifications": {
@@ -393,12 +393,12 @@
     {
       "id": "cubot_a20",
       "name": "Cubot A20",
-      "price": "৳13000",
+      "price": "13000",
       "url": "https://www.mobiledokan.com/mobile/cubot-a20",
       "image_url": "https://www.mobiledokan.com/media/cubot-a20-pink-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "October 1, 2024",
       "variants": [],
       "specifications": {
@@ -433,6 +433,12 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, Wide Angle, Primary Camera",
@@ -443,12 +449,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection Filters, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -517,12 +517,12 @@
     {
       "id": "cubot_kingkong_es",
       "name": "Cubot KingKong ES",
-      "price": null,
+      "price": "33000",
       "url": "https://www.mobiledokan.com/mobile/cubot-kingkong-es",
       "image_url": "https://www.mobiledokan.com/media/cubot-kingkong-es-blackorange-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "January 29, 2025",
       "variants": [
         {
@@ -563,10 +563,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, Wide Angle, Primary Camera, 2 MP, Macro Camera, 0.08 MP, Camera",
@@ -577,6 +573,10 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Primary Camera"
           }
         },
         "Design": {
@@ -646,12 +646,12 @@
     {
       "id": "cubot_kingkong_mini_3",
       "name": "Cubot KingKong Mini 3",
-      "price": null,
+      "price": "33000",
       "url": "https://www.mobiledokan.com/mobile/cubot-kingkong-mini-3",
       "image_url": "https://www.mobiledokan.com/media/cubot-kingkong-mini-3-blackred-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -689,6 +689,10 @@
           "Touch Screen": "Capacitive Touchscreen, Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "20 MP, Wide Angle, Primary Camera",
@@ -699,10 +703,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -769,12 +769,12 @@
     {
       "id": "cubot_pocket_3",
       "name": "Cubot Pocket 3",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/cubot-pocket-3",
       "image_url": "https://www.mobiledokan.com/media/cubot-pocket-3-green-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:20:23",
-      "first_scraped": "2025-09-11 09:20:23",
+      "last_updated": "2025-09-14 13:46:17",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -812,6 +812,10 @@
           "Touch Screen": "Capacitive Touchscreen, Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "20 MP, Wide Angle, Primary Camera",
@@ -822,10 +826,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {

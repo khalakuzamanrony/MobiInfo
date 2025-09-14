@@ -4,22 +4,22 @@
     "name": "micromax",
     "url": "https://www.mobiledokan.com/mobile-brand/micromax",
     "image_url": null,
-    "last_updated": "2025-09-12 07:13:29",
+    "last_updated": "2025-09-14 13:58:05",
     "total_phones": 83,
     "first_scraped": "2025-09-11 09:30:14",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 83
   },
   "phones": [
     {
       "id": "micromax_ione",
       "name": "Micromax iOne",
-      "price": null,
+      "price": "6500",
       "url": "https://www.mobiledokan.com/mobile/micromax-ione",
       "image_url": "https://www.mobiledokan.com/media/micromax-ione-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 26, 2024",
       "variants": [],
       "specifications": {
@@ -127,12 +127,12 @@
     {
       "id": "micromax_infinity_n11",
       "name": "Micromax Infinity N11",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/micromax-infinity-n11",
       "image_url": "https://www.mobiledokan.com/media/micromax-infinity-n11-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -263,12 +263,12 @@
     {
       "id": "micromax_infinity_n12",
       "name": "Micromax Infinity N12",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/micromax-infinity-n12",
       "image_url": "https://www.mobiledokan.com/media/micromax-infinity-n12-blue-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -391,12 +391,12 @@
     {
       "id": "micromax_bharat_5_infinity",
       "name": "Micromax Bharat 5 Infinity",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/micromax-bharat-5-infinity",
       "image_url": "https://www.mobiledokan.com/media/micromax-bharat-5-infinity-red-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -432,6 +432,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -441,12 +447,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Touch To Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -517,12 +517,12 @@
     {
       "id": "micromax_bharat_go",
       "name": "Micromax Bharat Go",
-      "price": null,
+      "price": "5450",
       "url": "https://www.mobiledokan.com/mobile/micromax-bharat-go",
       "image_url": "https://www.mobiledokan.com/media/micromax-bharat-go-black-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -640,12 +640,12 @@
     {
       "id": "micromax_canvas_1",
       "name": "Micromax Canvas 1",
-      "price": null,
+      "price": "8650",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-1",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-1-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -685,15 +685,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Primary Camera",
-            "Flash": "LED Flash",
-            "Camera Features": "Wide Angle Selfie",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.2, Primary Camera",
@@ -707,6 +698,15 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Primary Camera",
+            "Flash": "LED Flash",
+            "Camera Features": "Wide Angle Selfie",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -769,12 +769,12 @@
     {
       "id": "micromax_q398",
       "name": "Micromax Q398",
-      "price": null,
+      "price": "7490",
       "url": "https://www.mobiledokan.com/mobile/micromax-q398",
       "image_url": "https://www.mobiledokan.com/media/micromax-q398-white-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -805,16 +805,16 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
             "Flash": "LED Flash",
             "Zoom": "Digital Zoom",
             "Video Recording": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -876,12 +876,12 @@
     {
       "id": "micromax_q3001",
       "name": "Micromax Q3001",
-      "price": null,
+      "price": "3250",
       "url": "https://www.mobiledokan.com/mobile/micromax-q3001",
       "image_url": "https://www.mobiledokan.com/media/micromax-q3001-black-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -982,12 +982,12 @@
     {
       "id": "micromax_b5_pro",
       "name": "Micromax B5 Pro",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/micromax-b5-pro",
       "image_url": "https://www.mobiledokan.com/media/micromax-b5-pro-black-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 25, 2024",
       "variants": [],
       "specifications": {
@@ -1096,12 +1096,12 @@
     {
       "id": "micromax_canvas_infinity",
       "name": "Micromax Canvas Infinity",
-      "price": null,
+      "price": "15890",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-infinity",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-infinity-black-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1228,12 +1228,12 @@
     {
       "id": "micromax_dual_4_e4816",
       "name": "Micromax Dual 4 E4816",
-      "price": null,
+      "price": "24890",
       "url": "https://www.mobiledokan.com/mobile/micromax-dual-4-e4816",
       "image_url": "https://www.mobiledokan.com/media/micromax-dual-4-e4816-grey-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 18, 2025",
       "variants": [],
       "specifications": {
@@ -1268,12 +1268,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, Depth Camera",
@@ -1285,6 +1279,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Touch to Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -1355,12 +1355,12 @@
     {
       "id": "micromax_q3301",
       "name": "Micromax Q3301",
-      "price": null,
+      "price": "3650",
       "url": "https://www.mobiledokan.com/mobile/micromax-q3301",
       "image_url": "https://www.mobiledokan.com/media/micromax-q3301-black-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1456,12 +1456,12 @@
     {
       "id": "micromax_q354",
       "name": "Micromax Q354",
-      "price": null,
+      "price": "3000",
       "url": "https://www.mobiledokan.com/mobile/micromax-q354",
       "image_url": "https://www.mobiledokan.com/media/micromax-q354-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 26, 2024",
       "variants": [],
       "specifications": {
@@ -1494,10 +1494,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, f/2.0, Primary Camera",
@@ -1510,6 +1506,10 @@
             "Camera Features": "Auto Focus, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
           }
         },
         "Design": {
@@ -1577,12 +1577,12 @@
     {
       "id": "micromax_bolt_mega_q397",
       "name": "Micromax Bolt Mega Q397",
-      "price": null,
+      "price": "6599",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-mega-q397",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-mega-q397-gold-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -1691,12 +1691,12 @@
     {
       "id": "micromax_canvas_5_lite_q462",
       "name": "Micromax Canvas 5 Lite Q462",
-      "price": null,
+      "price": "8650",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-5-lite-q462",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-5-lite-q462.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -1810,12 +1810,12 @@
     {
       "id": "micromax_bolt_q326_plus",
       "name": "Micromax Bolt Q326 Plus",
-      "price": null,
+      "price": "3890",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q326-plus",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q326-plus-grey-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1916,12 +1916,12 @@
     {
       "id": "micromax_q301_plus",
       "name": "Micromax Q301 Plus",
-      "price": null,
+      "price": "3295",
       "url": "https://www.mobiledokan.com/mobile/micromax-q301-plus",
       "image_url": "https://www.mobiledokan.com/media/micromax-q301-plus-black-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2013,12 +2013,12 @@
     {
       "id": "micromax_bolt_q383",
       "name": "Micromax Bolt Q383",
-      "price": null,
+      "price": "4390",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q383",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q383-blue-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2047,11 +2047,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Camera Features": "Wide Angle Selfie"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "2 MP, Primary Camera",
@@ -2062,6 +2057,11 @@
             "Shooting Modes": "Continuous Shooting",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Camera Features": "Wide Angle Selfie"
           }
         },
         "Design": {
@@ -2120,12 +2120,12 @@
     {
       "id": "micromax_bolt_q381",
       "name": "Micromax Bolt Q381",
-      "price": null,
+      "price": "4890",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q381",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q381-black-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -2156,11 +2156,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Camera Features": "Fixed Focus"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -2169,6 +2164,11 @@
             "Zoom": "Digital Zoom",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Camera Features": "Fixed Focus"
           }
         },
         "Design": {
@@ -2227,12 +2227,12 @@
     {
       "id": "micromax_canvas_magnus_2_plus_q350r",
       "name": "Micromax Canvas Magnus 2 Plus Q350R",
-      "price": null,
+      "price": "5299",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-magnus-2-plus-q350r",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-magnus-2-plus-q350r-black-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2330,12 +2330,12 @@
     {
       "id": "micromax_canvas_fire_5_q386",
       "name": "Micromax Canvas Fire 5 Q386",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-fire-5-q386",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-fire-5-q386-grey-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2443,12 +2443,12 @@
     {
       "id": "micromax_canvas_unite_4_pro",
       "name": "Micromax Canvas Unite 4 Pro",
-      "price": null,
+      "price": "9550",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-unite-4-pro",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-unite-4-pro-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 22, 2024",
       "variants": [],
       "specifications": {
@@ -2560,12 +2560,12 @@
     {
       "id": "micromax_canvas_6",
       "name": "Micromax Canvas 6",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-6",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-6-gold-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -2684,12 +2684,12 @@
     {
       "id": "micromax_canvas_selfie_4_q349",
       "name": "Micromax Canvas Selfie 4 Q349",
-      "price": null,
+      "price": "6490",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-selfie-4-q349",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-selfie-4-q349-white-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2796,12 +2796,12 @@
     {
       "id": "micromax_canvas_spark_2_pro_q351",
       "name": "Micromax Canvas Spark 2 Pro Q351",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-spark-2-pro-q351",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-spark-2-pro-q351-white-with-gold-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2900,12 +2900,12 @@
     {
       "id": "micromax_canvas_6_pro_e484",
       "name": "Micromax Canvas 6 Pro E484",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-6-pro-e484",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-6-pro-e484-black-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -3019,12 +3019,12 @@
     {
       "id": "micromax_canvas_juice_4g_q461",
       "name": "Micromax Canvas Juice 4G Q461",
-      "price": null,
+      "price": "9490",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-juice-4g-q461",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-juice-4g-q461-2.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3139,12 +3139,12 @@
     {
       "id": "micromax_x704",
       "name": "Micromax X704",
-      "price": null,
+      "price": "1120",
       "url": "https://www.mobiledokan.com/mobile/micromax-x704",
       "image_url": "https://www.mobiledokan.com/media/micromax-x704-black-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -3223,12 +3223,12 @@
     {
       "id": "micromax_canvas_5",
       "name": "Micromax Canvas 5",
-      "price": null,
+      "price": "15490",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-5",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-5-black-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3346,12 +3346,12 @@
     {
       "id": "micromax_canvas_xpress_4g_q413",
       "name": "Micromax Canvas Xpress 4G Q413",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-xpress-4g-q413",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-xpress-4g-q413-blue-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -3384,6 +3384,11 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP f/2.8, Primary Camera",
+            "Aperture": "f/2.8"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -3397,11 +3402,6 @@
             "Camera Features": "Auto Flash",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP f/2.8, Primary Camera",
-            "Aperture": "f/2.8"
           }
         },
         "Design": {
@@ -3469,12 +3469,12 @@
     {
       "id": "micromax_canvas_mega_e353",
       "name": "Micromax Canvas Mega E353",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-mega-e353",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-mega-e353-black-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [],
       "specifications": {
@@ -3507,6 +3507,11 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "Yes"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -3519,11 +3524,6 @@
             "Camera Features": "Auto Flash, Digital image stabilization, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "Yes"
           }
         },
         "Design": {
@@ -3588,12 +3588,12 @@
     {
       "id": "micromax_canvas_nitro_3_e352",
       "name": "Micromax Canvas Nitro 3 E352",
-      "price": null,
+      "price": "10850",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-nitro-3-e352",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-nitro-3-e352-black-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -3626,6 +3626,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "Yes"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -3637,12 +3643,6 @@
             "Camera Features": "Auto Flash",
             "Video Recording": "720p",
             "Video FPS": "15 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "Yes"
           }
         },
         "Design": {
@@ -3705,12 +3705,12 @@
     {
       "id": "micromax_bolt_q338",
       "name": "Micromax Bolt Q338",
-      "price": null,
+      "price": "7500",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q338",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q338-black-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -3817,12 +3817,12 @@
     {
       "id": "micromax_bolt_q335",
       "name": "Micromax Bolt Q335",
-      "price": null,
+      "price": "5600",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q335",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q335-gray-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 22, 2024",
       "variants": [],
       "specifications": {
@@ -3922,12 +3922,12 @@
     {
       "id": "micromax_canvas_xpress_2_e313",
       "name": "Micromax Canvas Xpress 2 E313",
-      "price": null,
+      "price": "9450",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-xpress-2-e313",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-xpress-2-e313-black-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -4042,12 +4042,12 @@
     {
       "id": "micromax_canvas_sliver_5",
       "name": "Micromax Canvas Sliver 5",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-sliver-5",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-sliver-5-black-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -4079,6 +4079,11 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Camera Features": "Fixed Focus"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -4090,11 +4095,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Camera Features": "Fixed Focus"
           }
         },
         "Design": {
@@ -4164,12 +4164,12 @@
     {
       "id": "micromax_bolt_d320",
       "name": "Micromax Bolt D320",
-      "price": null,
+      "price": "4950",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-d320",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-d320-black-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 24, 2024",
       "variants": [],
       "specifications": {
@@ -4280,12 +4280,12 @@
     {
       "id": "micromax_bolt_q324",
       "name": "Micromax BOLT Q324",
-      "price": null,
+      "price": "4399",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-q324",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-q324-blue-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 24, 2024",
       "variants": [],
       "specifications": {
@@ -4396,12 +4396,12 @@
     {
       "id": "micromax_a255_canvas_selfie",
       "name": "Micromax A255 Canvas Selfie",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/micromax-a255-canvas-selfie",
       "image_url": "https://www.mobiledokan.com/media/micromax-a255-canvas-selfie-mystic-blue-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [],
       "specifications": {
@@ -4520,12 +4520,12 @@
     {
       "id": "micromax_x649",
       "name": "Micromax X649",
-      "price": null,
+      "price": "1270",
       "url": "https://www.mobiledokan.com/mobile/micromax-x649",
       "image_url": "https://www.mobiledokan.com/media/micromax-x649-black-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -4599,12 +4599,12 @@
     {
       "id": "micromax_canvas_a1",
       "name": "Micromax Canvas A1",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-a1",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-a1-white-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -4718,12 +4718,12 @@
     {
       "id": "micromax_bolt_a69",
       "name": "Micromax Bolt A69",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/micromax-bolt-a69",
       "image_url": "https://www.mobiledokan.com/media/micromax-bolt-a69-black-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -4829,12 +4829,12 @@
     {
       "id": "micromax_a104_canvas_fire",
       "name": "Micromax A104 Canvas Fire",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/micromax-a104-canvas-fire",
       "image_url": "https://www.mobiledokan.com/media/micromax-a104-canvas-fire-silver-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -4949,12 +4949,12 @@
     {
       "id": "micromax_x088",
       "name": "Micromax X088",
-      "price": null,
+      "price": "1090",
       "url": "https://www.mobiledokan.com/mobile/micromax-x088",
       "image_url": "https://www.mobiledokan.com/media/micromax-x088-black-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -5031,12 +5031,12 @@
     {
       "id": "micromax_x081",
       "name": "Micromax X081",
-      "price": null,
+      "price": "1199",
       "url": "https://www.mobiledokan.com/mobile/micromax-x081",
       "image_url": "https://www.mobiledokan.com/media/micromax-x081-white-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -5113,12 +5113,12 @@
     {
       "id": "micromax_a093_canvas_fire",
       "name": "Micromax A093 Canvas Fire",
-      "price": null,
+      "price": "7749",
       "url": "https://www.mobiledokan.com/mobile/micromax-a093-canvas-fire",
       "image_url": "https://www.mobiledokan.com/media/micromax-a093-canvas-fire-white-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -5228,12 +5228,12 @@
     {
       "id": "micromax_a106_unite_2",
       "name": "Micromax A106 Unite 2",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/micromax-a106-unite-2",
       "image_url": "https://www.mobiledokan.com/media/micromax-a106-unite-2.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -5349,12 +5349,12 @@
     {
       "id": "micromax_a120_canvas_2_colors",
       "name": "Micromax A120 Canvas 2 Colors",
-      "price": null,
+      "price": "12799",
       "url": "https://www.mobiledokan.com/mobile/micromax-a120-canvas-2-colors",
       "image_url": "https://www.mobiledokan.com/media/micromax-a120-canvas-2-colors-black.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -5466,12 +5466,12 @@
     {
       "id": "micromax_x089",
       "name": "Micromax X089",
-      "price": null,
+      "price": "1025",
       "url": "https://www.mobiledokan.com/mobile/micromax-x089",
       "image_url": "https://www.mobiledokan.com/media/micromax-x089-black-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -5547,12 +5547,12 @@
     {
       "id": "micromax_x254",
       "name": "Micromax X254",
-      "price": null,
+      "price": "1599",
       "url": "https://www.mobiledokan.com/mobile/micromax-x254",
       "image_url": "https://www.mobiledokan.com/media/micromax-x254-black-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [],
       "specifications": {
@@ -5631,12 +5631,12 @@
     {
       "id": "micromax_a114r_canvas_beat",
       "name": "Micromax A114R Canvas Beat",
-      "price": null,
+      "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/micromax-a114r-canvas-beat",
       "image_url": "https://www.mobiledokan.com/media/micromax-a114r-canvas-beat-black.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -5746,12 +5746,12 @@
     {
       "id": "micromax_a200_canvas_turbo_mini",
       "name": "Micromax A200 Canvas Turbo Mini",
-      "price": null,
+      "price": "16499",
       "url": "https://www.mobiledokan.com/mobile/micromax-a200-canvas-turbo-mini",
       "image_url": "https://www.mobiledokan.com/media/micromax-a200-canvas-turbo-mini-blue.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -5862,12 +5862,12 @@
     {
       "id": "micromax_x457",
       "name": "Micromax X457",
-      "price": null,
+      "price": "2599",
       "url": "https://www.mobiledokan.com/mobile/micromax-x457",
       "image_url": "https://www.mobiledokan.com/media/micromax-x457_1.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -5947,12 +5947,12 @@
     {
       "id": "micromax_a76_canvas_fun",
       "name": "Micromax A76 Canvas Fun",
-      "price": null,
+      "price": "9199",
       "url": "https://www.mobiledokan.com/mobile/micromax-a76-canvas-fun",
       "image_url": "https://www.mobiledokan.com/media/micromax-a76-canvas-fun.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -6062,12 +6062,12 @@
     {
       "id": "micromax_x085",
       "name": "Micromax X085",
-      "price": null,
+      "price": "999",
       "url": "https://www.mobiledokan.com/mobile/micromax-x085",
       "image_url": "https://www.mobiledokan.com/media/micromax-x085-black-with-red-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -6145,12 +6145,12 @@
     {
       "id": "micromax_x098",
       "name": "Micromax X098",
-      "price": null,
+      "price": "1099",
       "url": "https://www.mobiledokan.com/mobile/micromax-x098",
       "image_url": "https://www.mobiledokan.com/media/micromax-x098-black-with-red-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -6229,12 +6229,12 @@
     {
       "id": "micromax_canvas_4",
       "name": "Micromax Canvas 4",
-      "price": null,
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-4",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-4-black-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -6350,12 +6350,12 @@
     {
       "id": "micromax_canvas_4_a210",
       "name": "Micromax Canvas 4 A210",
-      "price": null,
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/micromax-canvas-4-a210",
       "image_url": "https://www.mobiledokan.com/media/micromax-canvas-4-a210-black.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -6475,12 +6475,12 @@
     {
       "id": "micromax_a88_canvas_music",
       "name": "Micromax A88 Canvas Music",
-      "price": null,
+      "price": "7999",
       "url": "https://www.mobiledokan.com/mobile/micromax-a88-canvas-music",
       "image_url": "https://www.mobiledokan.com/media/micromax-a88-canvas-music.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -6594,12 +6594,12 @@
     {
       "id": "micromax_a92_canvas_lite",
       "name": "Micromax A92 Canvas Lite",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/micromax-a92-canvas-lite",
       "image_url": "https://www.mobiledokan.com/media/micromax-a92-canvas-lite.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -6711,12 +6711,12 @@
     {
       "id": "micromax_x446",
       "name": "Micromax X446",
-      "price": null,
+      "price": "2849",
       "url": "https://www.mobiledokan.com/mobile/micromax-x446",
       "image_url": "https://www.mobiledokan.com/media/micromax-x446-black-with-white-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -6795,12 +6795,12 @@
     {
       "id": "micromax_x292",
       "name": "Micromax X292",
-      "price": null,
+      "price": "2249",
       "url": "https://www.mobiledokan.com/mobile/micromax-x292",
       "image_url": "https://www.mobiledokan.com/media/micromax-x292-black-image_1.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -6878,12 +6878,12 @@
     {
       "id": "micromax_a72_canvas_viva",
       "name": "Micromax A72 Canvas Viva",
-      "price": null,
+      "price": "7699",
       "url": "https://www.mobiledokan.com/mobile/micromax-a72-canvas-viva",
       "image_url": "https://www.mobiledokan.com/media/micromax-a72-canvas-viva-black-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -6986,12 +6986,12 @@
     {
       "id": "micromax_a116_canvas_hd",
       "name": "Micromax A116 Canvas HD",
-      "price": null,
+      "price": "15750",
       "url": "https://www.mobiledokan.com/mobile/micromax-a116-canvas-hd",
       "image_url": "https://www.mobiledokan.com/media/micromax-a116-canvas-hd.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -7024,6 +7024,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Video Recording": "320p",
+            "Video FPS": "15 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -7034,12 +7040,6 @@
             "Camera Features": "Face detection, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "320p",
-            "Video FPS": "15 fps"
           }
         },
         "Design": {
@@ -7101,12 +7101,12 @@
     {
       "id": "micromax_x272",
       "name": "Micromax X272",
-      "price": null,
+      "price": "1599",
       "url": "https://www.mobiledokan.com/mobile/micromax-x272",
       "image_url": "https://www.mobiledokan.com/media/micromax-x272.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -7183,12 +7183,12 @@
     {
       "id": "micromax_a27_ninja",
       "name": "Micromax A27 Ninja",
-      "price": null,
+      "price": "3999",
       "url": "https://www.mobiledokan.com/mobile/micromax-a27-ninja",
       "image_url": "https://www.mobiledokan.com/media/micromax-a27-ninja.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -7284,12 +7284,12 @@
     {
       "id": "micromax_x281",
       "name": "Micromax X281",
-      "price": null,
+      "price": "1949",
       "url": "https://www.mobiledokan.com/mobile/micromax-x281",
       "image_url": "https://www.mobiledokan.com/media/micromax-x281.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -7371,12 +7371,12 @@
     {
       "id": "micromax_x455",
       "name": "Micromax X455",
-      "price": null,
+      "price": "3299",
       "url": "https://www.mobiledokan.com/mobile/micromax-x455",
       "image_url": "https://www.mobiledokan.com/media/micromax-x455-official-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -7449,12 +7449,12 @@
     {
       "id": "micromax_x1i_xtra",
       "name": "Micromax X1I XTRA",
-      "price": null,
+      "price": "1799",
       "url": "https://www.mobiledokan.com/mobile/micromax-x1i-xtra",
       "image_url": "https://www.mobiledokan.com/media/micromax-x1i-xtra-official-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 26, 2025",
       "variants": [],
       "specifications": {
@@ -7529,12 +7529,12 @@
     {
       "id": "micromax_a25",
       "name": "Micromax A25",
-      "price": null,
+      "price": "4890",
       "url": "https://www.mobiledokan.com/mobile/micromax-a25",
       "image_url": "https://www.mobiledokan.com/media/micromax-a25-official-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 26, 2025",
       "variants": [],
       "specifications": {
@@ -7627,12 +7627,12 @@
     {
       "id": "micromax_x456",
       "name": "Micromax X456",
-      "price": null,
+      "price": "3499",
       "url": "https://www.mobiledokan.com/mobile/micromax-x456",
       "image_url": "https://www.mobiledokan.com/media/micromax-x456-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 26, 2025",
       "variants": [],
       "specifications": {
@@ -7711,12 +7711,12 @@
     {
       "id": "micromax_a110_canvas_2",
       "name": "Micromax A110 Canvas 2",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/micromax-a110-canvas-2",
       "image_url": "https://www.mobiledokan.com/media/micromax-a110-canvas-2-white-color-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "February 26, 2025",
       "variants": [],
       "specifications": {
@@ -7823,12 +7823,12 @@
     {
       "id": "micromax_x324",
       "name": "Micromax X324",
-      "price": null,
+      "price": "2249",
       "url": "https://www.mobiledokan.com/mobile/micromax-x324",
       "image_url": "https://www.mobiledokan.com/media/micromax-x324.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -7901,12 +7901,12 @@
     {
       "id": "micromax_x293",
       "name": "Micromax X293",
-      "price": null,
+      "price": "2299",
       "url": "https://www.mobiledokan.com/mobile/micromax-x293",
       "image_url": "https://www.mobiledokan.com/media/micromax-x293_1.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 20, 2024",
       "variants": [],
       "specifications": {
@@ -7981,12 +7981,12 @@
     {
       "id": "micromax_x103",
       "name": "Micromax X103",
-      "price": null,
+      "price": "1135",
       "url": "https://www.mobiledokan.com/mobile/micromax-x103",
       "image_url": "https://www.mobiledokan.com/media/micromax-x103-black-with-yellow-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -8059,12 +8059,12 @@
     {
       "id": "micromax_x101",
       "name": "Micromax X101",
-      "price": null,
+      "price": "1399",
       "url": "https://www.mobiledokan.com/mobile/micromax-x101",
       "image_url": "https://www.mobiledokan.com/media/micromax-x101-black-with-yellow-image.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -8143,12 +8143,12 @@
     {
       "id": "micromax_x320",
       "name": "Micromax X320",
-      "price": null,
+      "price": "2199",
       "url": "https://www.mobiledokan.com/mobile/micromax-x320",
       "image_url": "https://www.mobiledokan.com/media/micromax-x320-white-image.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -8228,12 +8228,12 @@
     {
       "id": "micromax_x100",
       "name": "Micromax X100",
-      "price": null,
+      "price": "1475",
       "url": "https://www.mobiledokan.com/mobile/micromax-x100",
       "image_url": "https://www.mobiledokan.com/media/micromax-x100-black-image.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -8291,12 +8291,12 @@
     {
       "id": "micromax_q7",
       "name": "Micromax Q7",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/micromax-q7",
       "image_url": "https://www.mobiledokan.com/media/micromax-q7-black-image_1.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
       "specifications": {
@@ -8377,12 +8377,12 @@
     {
       "id": "micromax_x111",
       "name": "Micromax X111",
-      "price": null,
+      "price": "1799",
       "url": "https://www.mobiledokan.com/mobile/micromax-x111",
       "image_url": "https://www.mobiledokan.com/media/micromax-x111-silver-and-golden-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -8451,12 +8451,12 @@
     {
       "id": "micromax_w900",
       "name": "Micromax W900",
-      "price": null,
+      "price": "15499",
       "url": "https://www.mobiledokan.com/mobile/micromax-w900",
       "image_url": "https://www.mobiledokan.com/media/micromax-w900-black-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -8547,12 +8547,12 @@
     {
       "id": "micromax_q55",
       "name": "Micromax Q55",
-      "price": null,
+      "price": "8499",
       "url": "https://www.mobiledokan.com/mobile/micromax-q55",
       "image_url": "https://www.mobiledokan.com/media/micromax-q55-white-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -8631,12 +8631,12 @@
     {
       "id": "micromax_x250",
       "name": "Micromax X250",
-      "price": null,
+      "price": "2990",
       "url": "https://www.mobiledokan.com/mobile/micromax-x250",
       "image_url": "https://www.mobiledokan.com/media/micromax-x250-black-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:30:14",
-      "first_scraped": "2025-09-11 09:30:14",
+      "last_updated": "2025-09-14 13:58:05",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {

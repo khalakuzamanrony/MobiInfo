@@ -4,22 +4,22 @@
     "name": "sharp",
     "url": "https://www.mobiledokan.com/mobile-brand/sharp",
     "image_url": null,
-    "last_updated": "2025-09-12 07:09:30",
+    "last_updated": "2025-09-14 13:50:31",
     "total_phones": 5,
     "first_scraped": "2025-09-11 09:25:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 5
   },
   "phones": [
     {
       "id": "sharp_aquos_r10",
       "name": "Sharp Aquos R10",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/sharp-aquos-r10",
       "image_url": "https://www.mobiledokan.com/media/sharp-aquos-r10-cashmere-white-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:25:42",
-      "first_scraped": "2025-09-11 09:25:42",
+      "last_updated": "2025-09-14 13:50:31",
+      "first_scraped": null,
       "updated_on": "August 16, 2025",
       "variants": [],
       "specifications": {
@@ -56,13 +56,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50.3 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50.3 MP, f/1.9, Wide Angle, Primary Camera, 50.3 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -77,6 +70,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50.3 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -142,12 +142,12 @@
     {
       "id": "sharp_aquos_r9_pro",
       "name": "Sharp Aquos R9 pro",
-      "price": "৳150000",
+      "price": "150000",
       "url": "https://www.mobiledokan.com/mobile/sharp-aquos-r9-pro",
       "image_url": "https://www.mobiledokan.com/media/sharp-aquos-r9-pro-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:25:42",
-      "first_scraped": "2025-09-11 09:25:42",
+      "last_updated": "2025-09-14 13:50:31",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [],
       "specifications": {
@@ -269,12 +269,12 @@
     {
       "id": "sharp_aquos_sense9",
       "name": "Sharp Aquos sense9",
-      "price": "৳45000",
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/sharp-aquos-sense9",
       "image_url": "https://www.mobiledokan.com/media/sharp-aquos-sense9-blue-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:25:42",
-      "first_scraped": "2025-09-11 09:25:42",
+      "last_updated": "2025-09-14 13:50:31",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [],
       "specifications": {
@@ -408,12 +408,12 @@
     {
       "id": "sharp_aquos_r9",
       "name": "Sharp Aquos R9",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/sharp-aquos-r9",
       "image_url": "https://www.mobiledokan.com/media/sharp-aquos-r9-forest-green-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:25:42",
-      "first_scraped": "2025-09-11 09:25:42",
+      "last_updated": "2025-09-14 13:50:31",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -543,12 +543,12 @@
     {
       "id": "sharp_aquos_wish4",
       "name": "Sharp Aquos wish4",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/sharp-aquos-wish4",
       "image_url": "https://www.mobiledokan.com/media/sharp-aquos-wish4-blue-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:25:42",
-      "first_scraped": "2025-09-11 09:25:42",
+      "last_updated": "2025-09-14 13:50:31",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {

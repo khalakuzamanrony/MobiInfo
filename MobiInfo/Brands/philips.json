@@ -4,22 +4,22 @@
     "name": "philips",
     "url": "https://www.mobiledokan.com/mobile-brand/philips",
     "image_url": null,
-    "last_updated": "2025-09-12 07:10:31",
+    "last_updated": "2025-09-14 13:54:23",
     "total_phones": 4,
     "first_scraped": "2025-09-11 09:26:59",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
       "id": "philips_s6210_essence_10",
       "name": "Philips S6210 Essence 10",
-      "price": "৳12000",
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/philips-s6210-essence-10",
       "image_url": "https://www.mobiledokan.com/media/philips-s6210-essence-10-black-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:26:59",
-      "first_scraped": "2025-09-11 09:26:59",
+      "last_updated": "2025-09-14 13:54:23",
+      "first_scraped": null,
       "updated_on": "December 8, 2024",
       "variants": [],
       "specifications": {
@@ -54,6 +54,11 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "LED flash"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -64,11 +69,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "LED flash"
           }
         },
         "Design": {
@@ -134,12 +134,12 @@
     {
       "id": "philips_s6310_essence_20",
       "name": "Philips S6310 Essence 20",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/philips-s6310-essence-20",
       "image_url": "https://www.mobiledokan.com/media/philips-s6310-essence-20-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:26:59",
-      "first_scraped": "2025-09-11 09:26:59",
+      "last_updated": "2025-09-14 13:54:23",
+      "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [],
       "specifications": {
@@ -174,11 +174,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "LED flash"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -189,6 +184,11 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "LED flash"
           }
         },
         "Design": {
@@ -254,12 +254,12 @@
     {
       "id": "philips_s7710_omni_10",
       "name": "Philips S7710 Omni 10",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/philips-s7710-omni-10",
       "image_url": "https://www.mobiledokan.com/media/philips-s7710-omni-10-coastline-blue-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:26:59",
-      "first_scraped": "2025-09-11 09:26:59",
+      "last_updated": "2025-09-14 13:54:23",
+      "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [],
       "specifications": {
@@ -378,12 +378,12 @@
     {
       "id": "philips_s6206",
       "name": "Philips S6206",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/philips-s6206",
       "image_url": "https://www.mobiledokan.com/media/philips-s6206-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:26:59",
-      "first_scraped": "2025-09-11 09:26:59",
+      "last_updated": "2025-09-14 13:54:23",
+      "first_scraped": null,
       "updated_on": "December 8, 2024",
       "variants": [],
       "specifications": {

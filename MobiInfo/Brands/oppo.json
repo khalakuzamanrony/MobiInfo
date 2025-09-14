@@ -4,22 +4,22 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:23",
+    "last_updated": "2025-09-14 13:38:14",
     "total_phones": 226,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 226
   },
   "phones": [
     {
       "id": "oppo_find_x9_plus",
       "name": "Oppo Find X9 Plus",
-      "price": "৳75000",
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x9-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-plus-black-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [],
       "specifications": {
@@ -50,6 +50,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 50 MP, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle",
@@ -62,12 +68,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 240 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60fps"
           }
         },
         "Design": {
@@ -133,12 +133,12 @@
     {
       "id": "oppo_f31",
       "name": "Oppo F31",
-      "price": "৳28000",
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-green-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [],
       "specifications": {
@@ -171,6 +171,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -184,12 +190,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
           }
         },
         "Design": {
@@ -271,12 +271,12 @@
     {
       "id": "oppo_f31_pro",
       "name": "Oppo F31 Pro",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [],
       "specifications": {
@@ -312,6 +312,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Mono Camera",
@@ -326,13 +333,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -415,12 +415,12 @@
     {
       "id": "oppo_f31_pro_plus",
       "name": "Oppo F31 Pro Plus",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-pro-plus-white-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [],
       "specifications": {
@@ -565,12 +565,12 @@
     {
       "id": "oppo_find_x9_pro",
       "name": "Oppo Find X9 Pro",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x9-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 28, 2025",
       "variants": [],
       "specifications": {
@@ -687,12 +687,12 @@
     {
       "id": "oppo_a5i_pro",
       "name": "Oppo A5i Pro",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5i-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5i-pro-breeze-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 3, 2025",
       "variants": [],
       "specifications": {
@@ -820,12 +820,12 @@
     {
       "id": "oppo_a6_max",
       "name": "Oppo A6 Max",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a6-max",
       "image_url": "https://www.mobiledokan.com/media/oppo-a6-max-silver-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 2, 2025",
       "variants": [],
       "specifications": {
@@ -956,12 +956,12 @@
     {
       "id": "oppo_a5_4g",
       "name": "Oppo A5 4G",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-4g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-4g-aurora-green-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 14, 2025",
       "variants": [
         {
@@ -1009,6 +1009,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Monochrome Camera",
@@ -1022,13 +1029,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1105,12 +1105,12 @@
     {
       "id": "oppo_a5_4g_8gb_ram",
       "name": "Oppo A5 4G (8GB RAM)",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-4g-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-4g-aurora-green-official-image_1.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [
         {
@@ -1254,12 +1254,12 @@
     {
       "id": "oppo_reno14_f",
       "name": "Oppo Reno14 F",
-      "price": null,
+      "price": "42990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno14-f",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno14-f-opal-blue-official-image_1.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 29, 2025",
       "variants": [],
       "specifications": {
@@ -1295,14 +1295,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
@@ -1317,6 +1309,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1397,12 +1397,12 @@
     {
       "id": "oppo_reno14",
       "name": "Oppo Reno14",
-      "price": null,
+      "price": "51500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno14",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno14-luminous-green-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 18, 2025",
       "variants": [
         {
@@ -1450,13 +1450,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.8, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1471,6 +1464,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1554,12 +1554,12 @@
     {
       "id": "oppo_k13_turbo",
       "name": "Oppo K13 Turbo",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13-turbo",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-turbo-purple-no-1-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 28, 2025",
       "variants": [
         {
@@ -1704,12 +1704,12 @@
     {
       "id": "oppo_k13_turbo_pro",
       "name": "Oppo K13 Turbo Pro",
-      "price": null,
+      "price": "46000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13-turbo-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-turbo-pro-knight-silver-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 28, 2025",
       "variants": [
         {
@@ -1855,12 +1855,12 @@
     {
       "id": "oppo_k13_turbo_512gb",
       "name": "Oppo K13 Turbo (512GB)",
-      "price": null,
+      "price": "52000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13-turbo-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-turbo-purple-no-1-official-image_1.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 28, 2025",
       "variants": [
         {
@@ -2005,12 +2005,12 @@
     {
       "id": "oppo_k13_turbo_pro_512gb",
       "name": "Oppo K13 Turbo Pro (512GB)",
-      "price": null,
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13-turbo-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-turbo-pro-knight-silver-official-image_1.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 28, 2025",
       "variants": [
         {
@@ -2156,12 +2156,12 @@
     {
       "id": "oppo_k13x",
       "name": "Oppo K13x",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13x",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13x-midnight-violet-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 17, 2025",
       "variants": [],
       "specifications": {
@@ -2274,12 +2274,12 @@
     {
       "id": "oppo_a5i",
       "name": "Oppo A5i",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5i",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5i-starry-purple-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 9, 2025",
       "variants": [],
       "specifications": {
@@ -2395,12 +2395,12 @@
     {
       "id": "oppo_reno14_pro",
       "name": "Oppo Reno14 Pro",
-      "price": null,
+      "price": "64500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno14-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno14-pro-purple-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 24, 2025",
       "variants": [
         {
@@ -2448,6 +2448,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.8, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -2462,13 +2469,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2548,12 +2548,12 @@
     {
       "id": "oppo_reno14_512gb",
       "name": "Oppo Reno14 (512GB)",
-      "price": null,
+      "price": "55500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno14-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno14-luminous-green-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 18, 2025",
       "variants": [
         {
@@ -2601,6 +2601,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.8, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2615,13 +2622,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2704,12 +2704,12 @@
     {
       "id": "oppo_reno14_pro_512gb",
       "name": "Oppo Reno14 Pro (512GB)",
-      "price": null,
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno14-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno14-pro-purple-official-color-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 24, 2025",
       "variants": [
         {
@@ -2857,12 +2857,12 @@
     {
       "id": "oppo_a5x",
       "name": "Oppo A5x",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5x",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5x-laser-white-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 15, 2025",
       "variants": [],
       "specifications": {
@@ -2993,12 +2993,12 @@
     {
       "id": "oppo_a5_5g",
       "name": "Oppo A5 5G",
-      "price": null,
+      "price": "24000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-5g-aurora-green-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 13, 2025",
       "variants": [
         {
@@ -3133,12 +3133,12 @@
     {
       "id": "oppo_k13",
       "name": "Oppo K13",
-      "price": null,
+      "price": "27500",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-icy-purple-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 1, 2025",
       "variants": [
         {
@@ -3281,12 +3281,12 @@
     {
       "id": "oppo_k13_256gb",
       "name": "Oppo K13 (256GB)",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k13-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-k13-icy-purple-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 1, 2025",
       "variants": [
         {
@@ -3334,13 +3334,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -3354,6 +3347,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3429,12 +3429,12 @@
     {
       "id": "oppo_find_x8s",
       "name": "Oppo Find X8s",
-      "price": "৳85000",
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8s",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8s-blue-official-image_1.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 1, 2025",
       "variants": [],
       "specifications": {
@@ -3472,13 +3472,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.8, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -3493,6 +3486,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3572,12 +3572,12 @@
     {
       "id": "oppo_find_x8s_plus",
       "name": "Oppo Find X8s Plus",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8s-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8s-plus-purple-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 12, 2025",
       "variants": [],
       "specifications": {
@@ -3714,12 +3714,12 @@
     {
       "id": "oppo_find_x8_ultra_16gb512gb",
       "name": "Oppo Find X8 Ultra (16GB+512GB)",
-      "price": null,
+      "price": "137500",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8-ultra-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8-ultra-pure-white-official-image_1.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 12, 2025",
       "variants": [
         {
@@ -3866,12 +3866,12 @@
     {
       "id": "oppo_find_x8_ultra",
       "name": "Oppo Find X8 Ultra",
-      "price": null,
+      "price": "125000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8-ultra",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8-ultra-pure-white-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
         {
@@ -4018,12 +4018,12 @@
     {
       "id": "oppo_f29_pro_5g",
       "name": "Oppo F29 Pro 5G",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f29-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-f29-pro-5g-granite-black-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [],
       "specifications": {
@@ -4155,12 +4155,12 @@
     {
       "id": "oppo_f29_5g",
       "name": "Oppo F29 5G",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f29-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-f29-5g-glacier-blue-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [],
       "specifications": {
@@ -4197,13 +4197,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -4217,6 +4210,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4290,12 +4290,12 @@
     {
       "id": "oppo_a5_china",
       "name": "Oppo A5 (China)",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-china",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-china-black-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [],
       "specifications": {
@@ -4427,12 +4427,12 @@
     {
       "id": "oppo_a5_energy",
       "name": "Oppo A5 Energy",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-energy",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-energy-flower-pink-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 18, 2025",
       "variants": [],
       "specifications": {
@@ -4563,12 +4563,12 @@
     {
       "id": "oppo_a5_pro_256gb",
       "name": "Oppo A5 Pro (256GB)",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-pro-olive-green-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 2, 2025",
       "variants": [
         {
@@ -4709,12 +4709,12 @@
     {
       "id": "oppo_a5_pro",
       "name": "Oppo A5 Pro",
-      "price": null,
+      "price": "23990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-pro-green-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 11, 2025",
       "variants": [
         {
@@ -4855,12 +4855,12 @@
     {
       "id": "oppo_find_n5",
       "name": "Oppo Find N5",
-      "price": "৳245000",
+      "price": "245000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n5",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-n5-purple-official-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 7, 2025",
       "variants": [],
       "specifications": {
@@ -4898,14 +4898,6 @@
           "Features": "Cover display:\r\nLTPO OLED, 1B colors, Dolby Vision, HDR10+, HDR Vivid, 120Hz, 1600 nits (HBM), 2450 nits (peak), Ultra HDR image support\r\n6.62 inches, 1140 x 2616 pixels, 431 ppi, Nanocrystal Glass"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Camera Features": "Cover camera:\r\n8MP, f/2.4, 21mm (ultrawide), 1/4.0”, 1.12µm",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.7, Periscope Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -4920,6 +4912,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Camera Features": "Cover camera:\r\n8MP, f/2.4, 21mm (ultrawide), 1/4.0”, 1.12µm",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4997,12 +4997,12 @@
     {
       "id": "oppo_reno13",
       "name": "Oppo Reno13",
-      "price": null,
+      "price": "69990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-plume-white-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 10, 2025",
       "variants": [],
       "specifications": {
@@ -5138,12 +5138,12 @@
     {
       "id": "oppo_reno13_f",
       "name": "Oppo Reno13 F",
-      "price": null,
+      "price": "30990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-f",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-f-plume-purple-official-image_1.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -5279,12 +5279,12 @@
     {
       "id": "oppo_reno13_pro",
       "name": "Oppo Reno13 Pro",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-13-pro-plume-purple-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 9, 2025",
       "variants": [],
       "specifications": {
@@ -5419,12 +5419,12 @@
     {
       "id": "oppo_reno13_f_5g",
       "name": "Oppo Reno13 F 5G",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-f-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-13-f-5g-luminous-blue-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 9, 2025",
       "variants": [],
       "specifications": {
@@ -5461,6 +5461,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
@@ -5475,13 +5482,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -5548,12 +5548,12 @@
     {
       "id": "oppo_a5_pro_china",
       "name": "Oppo A5 Pro (China)",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-pro-china",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-pro-china-red-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 1, 2025",
       "variants": [],
       "specifications": {
@@ -5690,12 +5690,12 @@
     {
       "id": "oppo_reno13_china",
       "name": "Oppo Reno13 (China)",
-      "price": null,
+      "price": "46000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-china",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-china-blue-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [
         {
@@ -5848,12 +5848,12 @@
     {
       "id": "oppo_reno13_pro_china",
       "name": "Oppo Reno13 Pro (China)",
-      "price": null,
+      "price": "68000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-pro-china",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-13-pro-china-pink-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 24, 2025",
       "variants": [
         {
@@ -6003,12 +6003,12 @@
     {
       "id": "oppo_reno13_china_256gb",
       "name": "Oppo Reno13 (China) (256GB)",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-china-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-china-blue-official-image_1.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -6161,12 +6161,12 @@
     {
       "id": "oppo_reno13_china_12gb256gb",
       "name": "Oppo Reno13 (China) (12GB+256GB)",
-      "price": null,
+      "price": "53999",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-china-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-china-blue-official-image_1.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -6319,12 +6319,12 @@
     {
       "id": "oppo_reno13_pro_china_512gb",
       "name": "Oppo Reno13 Pro (China) (512GB)",
-      "price": null,
+      "price": "72000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno13-pro-china-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno13-pro-china-pink-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [
         {
@@ -6372,6 +6372,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.8, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -6386,13 +6393,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -6474,12 +6474,12 @@
     {
       "id": "oppo_find_x8",
       "name": "Oppo Find X8",
-      "price": "৳84999",
+      "price": "84999",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8-blue-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [],
       "specifications": {
@@ -6516,13 +6516,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -6537,6 +6530,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 240 fps, 480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -6620,12 +6620,12 @@
     {
       "id": "oppo_find_x8_pro",
       "name": "Oppo Find X8 Pro",
-      "price": "৳138999",
+      "price": "138999",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8-pro-white-official-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 13, 2025",
       "variants": [],
       "specifications": {
@@ -6764,12 +6764,12 @@
     {
       "id": "oppo_k12_plus",
       "name": "Oppo K12 Plus",
-      "price": "৳48000",
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k12-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-k12-plus-white-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 26, 2025",
       "variants": [],
       "specifications": {
@@ -6807,6 +6807,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -6821,14 +6829,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -6906,12 +6906,12 @@
     {
       "id": "oppo_a3",
       "name": "Oppo A3",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3-4g-starry-purple-official-image_1.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 2, 2025",
       "variants": [],
       "specifications": {
@@ -7044,12 +7044,12 @@
     {
       "id": "oppo_a3x_4g",
       "name": "Oppo A3x 4G",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3x-4g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3x-4g-black-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 24, 2025",
       "variants": [
         {
@@ -7097,6 +7097,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "8 MP, f/2.0, Wide-Angle Camera, Auxiliary lens",
@@ -7110,13 +7117,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -7194,12 +7194,12 @@
     {
       "id": "oppo_a3x",
       "name": "Oppo A3x",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3x",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3x-sparkle-black-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 24, 2025",
       "variants": [
         {
@@ -7247,6 +7247,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
@@ -7260,13 +7267,6 @@
             "Camera Features": "Auto Flash, Autofocus, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -7344,12 +7344,12 @@
     {
       "id": "oppo_reno11",
       "name": "Oppo Reno11",
-      "price": null,
+      "price": "0",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno11",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-11-rock-grey-official-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 3, 2024",
       "variants": [
         {
@@ -7392,13 +7392,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle (79° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 32 MP f/2.0, Telephoto Camera",
@@ -7413,6 +7406,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160 , 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7486,12 +7486,12 @@
     {
       "id": "oppo_a3_4g",
       "name": "Oppo A3 4G",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3-4g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3-4g-starlight-white-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 2, 2025",
       "variants": [],
       "specifications": {
@@ -7624,12 +7624,12 @@
     {
       "id": "oppo_f27",
       "name": "Oppo F27",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f27",
       "image_url": "https://www.mobiledokan.com/media/oppo-f27e-merald-green-official-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -7764,12 +7764,12 @@
     {
       "id": "oppo_a3_5g",
       "name": "Oppo A3 5G",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3-5g-nebula-red-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 9, 2024",
       "variants": [],
       "specifications": {
@@ -7806,14 +7806,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, Auxiliary lens",
@@ -7827,6 +7819,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Extra HD",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -7902,12 +7902,12 @@
     {
       "id": "oppo_a3x_128gb",
       "name": "Oppo A3x (128GB)",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3x-128gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3x-sparkle-black-official-image_1.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [
         {
@@ -8052,12 +8052,12 @@
     {
       "id": "oppo_a80",
       "name": "Oppo A80",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a80",
       "image_url": "https://www.mobiledokan.com/media/oppo-a80-moonlit-purple-official-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -8094,13 +8094,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -8114,6 +8107,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -8188,12 +8188,12 @@
     {
       "id": "oppo_k12x",
       "name": "Oppo K12x",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k12x",
       "image_url": "https://www.mobiledokan.com/media/oppo-k12x-breeze-blue-official-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 30, 2024",
       "variants": [],
       "specifications": {
@@ -8230,6 +8230,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -8243,13 +8250,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -8323,12 +8323,12 @@
     {
       "id": "oppo_a3x_5g",
       "name": "Oppo A3x 5G",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3x-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3x-5g-starry-purple-official-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -8365,13 +8365,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
@@ -8385,6 +8378,13 @@
             "Camera Features": "Auto Flash, Autofocus, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -8460,12 +8460,12 @@
     {
       "id": "oppo_reno12_f_4g",
       "name": "Oppo Reno12 F 4G",
-      "price": null,
+      "price": "27990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-f-4g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-f-4g-amber-orange-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 18, 2025",
       "variants": [
         {
@@ -8605,12 +8605,12 @@
     {
       "id": "oppo_reno_12",
       "name": "Oppo Reno 12",
-      "price": null,
+      "price": "59990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-12",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-12-astro-silver-official-image_3.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 18, 2024",
       "variants": [],
       "specifications": {
@@ -8748,12 +8748,12 @@
     {
       "id": "oppo_reno12_f",
       "name": "Oppo Reno12 F",
-      "price": null,
+      "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-f",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-f-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -8896,12 +8896,12 @@
     {
       "id": "oppo_reno12_f_12gb_ram",
       "name": "OPPO Reno12 F (12GB RAM)",
-      "price": null,
+      "price": "37990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-f-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-f-amber-orange-official-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 17, 2024",
       "variants": [
         {
@@ -9044,12 +9044,12 @@
     {
       "id": "oppo_reno12_5g",
       "name": "Oppo Reno12 5G",
-      "price": null,
+      "price": "59990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-5g-white-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [
         {
@@ -9195,12 +9195,12 @@
     {
       "id": "oppo_a3_pro",
       "name": "Oppo A3 Pro",
-      "price": "৳29000",
+      "price": "29000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3-pro-moonlit-official-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [],
       "specifications": {
@@ -9332,12 +9332,12 @@
     {
       "id": "oppo_f27_pro_plus",
       "name": "Oppo F27 Pro Plus",
-      "price": "৳30500",
+      "price": "30500",
       "url": "https://www.mobiledokan.com/mobile/oppo-f27-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-f27-pro-plus-dusk-pink-official-image_1.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -9472,12 +9472,12 @@
     {
       "id": "oppo_reno12_pro",
       "name": "Oppo Reno12 Pro",
-      "price": null,
+      "price": "44500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-pro-space-brown-official-image.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [
         {
@@ -9526,14 +9526,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -9547,6 +9539,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps, 480 fps, 960 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9627,12 +9627,12 @@
     {
       "id": "oppo_reno12_pro_512gb",
       "name": "Oppo Reno12 Pro (512GB)",
-      "price": null,
+      "price": "49500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno12-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno12-pro-brawn-official.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [
         {
@@ -9681,6 +9681,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -9694,14 +9702,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps, 480 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9781,12 +9781,12 @@
     {
       "id": "oppo_k12",
       "name": "Oppo K12",
-      "price": "৳32000",
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k12",
       "image_url": "https://www.mobiledokan.com/media/oppo-k12-celadon-marble.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -9921,12 +9921,12 @@
     {
       "id": "oppo_a3_pro_china",
       "name": "Oppo A3 Pro (China)",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3-pro-china",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3-pro-china-pink-official-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 3, 2025",
       "variants": [],
       "specifications": {
@@ -9963,13 +9963,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP, f/1.7, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -9983,6 +9976,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -10059,12 +10059,12 @@
     {
       "id": "oppo_a60",
       "name": "Oppo A60",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a60",
       "image_url": "https://www.mobiledokan.com/media/oppo-a60-ripple-blue-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [
         {
@@ -10112,13 +10112,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle (76° field-of-view), Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -10132,6 +10125,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -10206,12 +10206,12 @@
     {
       "id": "oppo_a60_256gb",
       "name": "Oppo A60 (256GB)",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a60-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a60-ripple-blue-official-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [
         {
@@ -10259,13 +10259,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle (76° field-of-view), Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -10279,6 +10272,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -10353,12 +10353,12 @@
     {
       "id": "oppo_f25_pro",
       "name": "Oppo F25 Pro",
-      "price": "৳30490",
+      "price": "30490",
       "url": "https://www.mobiledokan.com/mobile/oppo-f25-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f25-pro-lava-red-official-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -10493,12 +10493,12 @@
     {
       "id": "oppo_reno_11_pro",
       "name": "Oppo Reno 11 Pro",
-      "price": null,
+      "price": "40990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-11-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-11-pro-rock-grey-official-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -10641,12 +10641,12 @@
     {
       "id": "oppo_reno11_pro_512gb",
       "name": "Oppo Reno11 Pro (512GB)",
-      "price": null,
+      "price": "44990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno11-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-11-pro-rock-grey-official-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -10789,12 +10789,12 @@
     {
       "id": "oppo_find_x7_ultra",
       "name": "Oppo Find X7 Ultra",
-      "price": null,
+      "price": "85990",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x7-ultra",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x7-ultra.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 13, 2025",
       "variants": [
         {
@@ -10847,6 +10847,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/1.95, Ultra-Wide Angle Camera, 50 MP, f/2.6, Periscope Camera, 50 MP, f/4.3 (Ultrawide)",
@@ -10862,14 +10870,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -10942,12 +10942,12 @@
     {
       "id": "oppo_find_x7_ultra_16gb_ram",
       "name": "Oppo Find X7 Ultra (16GB RAM)",
-      "price": null,
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x7-ultra-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x7-ultra.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [
         {
@@ -10999,14 +10999,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 50 MP f/1.95, Ultra-Wide Angle Camera, 50 MP f/2.6, Periscope Camera, 50 MP f/4.3",
@@ -11022,6 +11014,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -11094,12 +11094,12 @@
     {
       "id": "oppo_find_x7_ultra_16gb512gb",
       "name": "Oppo Find X7 Ultra (16GB/512GB)",
-      "price": null,
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x7-ultra-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x7-ultra.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [
         {
@@ -11246,12 +11246,12 @@
     {
       "id": "oppo_find_x7",
       "name": "Oppo Find X7",
-      "price": null,
+      "price": "54990",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x7",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x7-black-starry-sky-official-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 13, 2025",
       "variants": [
         {
@@ -11299,14 +11299,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 64 MP, f/2.6, Periscope Camera",
@@ -11321,6 +11313,14 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -11399,12 +11399,12 @@
     {
       "id": "oppo_find_x7_16gb1tb",
       "name": "Oppo Find X7 (16GB/1TB)",
-      "price": null,
+      "price": "67990",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x7-16gb-1tb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x7-black-starry-sky-official-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 8, 2024",
       "variants": [
         {
@@ -11552,12 +11552,12 @@
     {
       "id": "oukitel_wp32",
       "name": "Oukitel WP32",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/oukitel-wp32",
       "image_url": "https://www.mobiledokan.com/media/oukitel-wp32-orenge-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -11678,12 +11678,12 @@
     {
       "id": "oppo_find_n3",
       "name": "Oppo Find N3",
-      "price": null,
+      "price": "230000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n3",
       "image_url": "https://www.mobiledokan.com/media/1713592488zbNJI.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 13, 2025",
       "variants": [
         {
@@ -11813,12 +11813,12 @@
     {
       "id": "oppo_a18_128gb",
       "name": "Oppo A18 (128GB)",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a18-128gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 6, 2024",
       "variants": [
         {
@@ -11964,12 +11964,12 @@
     {
       "id": "oppo_a18",
       "name": "Oppo A18",
-      "price": null,
+      "price": "13490",
       "url": "https://www.mobiledokan.com/mobile/oppo-a18",
       "image_url": "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 28, 2024",
       "variants": [
         {
@@ -12115,12 +12115,12 @@
     {
       "id": "oppo_a38",
       "name": "Oppo A38",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a38",
       "image_url": "https://www.mobiledokan.com/media/1711385686ckiNf.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [
         {
@@ -12168,14 +12168,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle (75° field-of-view), Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -12190,6 +12182,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -12270,12 +12270,12 @@
     {
       "id": "oppo_a38_6gb_ram",
       "name": "Oppo A38 (6GB RAM)",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a38-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-a38-glowing-black-official-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -12423,12 +12423,12 @@
     {
       "id": "oppo_find_n3_flip_512gb",
       "name": "Oppo Find N3 Flip (512GB)",
-      "price": null,
+      "price": "151500",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n3-flip-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-n3-flip-cream-gold-official-image.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 7, 2025",
       "variants": [
         {
@@ -12576,12 +12576,12 @@
     {
       "id": "oppo_find_n3_flip",
       "name": "Oppo Find N3 Flip",
-      "price": null,
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n3-flip",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-n3-flip-cream-gold-official-image.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 7, 2025",
       "variants": [
         {
@@ -12630,15 +12630,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Autofocus": "Yes",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle (84° field-of-view), Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 32 MP, f/2.0, Telephoto Camera",
@@ -12653,6 +12644,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -12730,12 +12730,12 @@
     {
       "id": "oppo_reno10_5g",
       "name": "Oppo Reno10 5G",
-      "price": null,
+      "price": "49000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno10-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [
         {
@@ -12881,12 +12881,12 @@
     {
       "id": "oppo_reno10_pro_5g",
       "name": "Oppo Reno10 Pro 5G",
-      "price": null,
+      "price": "49500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno10-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/1710354184lC43g.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [
         {
@@ -13029,12 +13029,12 @@
     {
       "id": "oppo_reno10_5g_12gb_ram",
       "name": "Oppo Reno10 5G (12GB RAM)",
-      "price": null,
+      "price": "57000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno10-5g-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -13181,12 +13181,12 @@
     {
       "id": "oppo_reno10_pro_plus",
       "name": "Oppo Reno10 Pro Plus",
-      "price": null,
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno10-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/17137285132VOFw.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -13325,12 +13325,12 @@
     {
       "id": "oppo_find_x6_16gb512gb",
       "name": "Oppo Find X6 (16GB/512GB)",
-      "price": null,
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x6-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x6-feiquan-green-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -13484,12 +13484,12 @@
     {
       "id": "oppo_find_x6_pro",
       "name": "Oppo Find X6 Pro",
-      "price": null,
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x6-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x6-pro-official-image.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [
         {
@@ -13637,12 +13637,12 @@
     {
       "id": "oppo_find_x6_pro_16gb512gb",
       "name": "Oppo Find X6 Pro (16GB/512GB)",
-      "price": null,
+      "price": "99900",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x6-pro-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x6-pro-official-image.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [
         {
@@ -13790,12 +13790,12 @@
     {
       "id": "oppo_find_x6",
       "name": "Oppo Find X6",
-      "price": null,
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x6",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x6-feiquan-green-official-image_1.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [
         {
@@ -13950,12 +13950,12 @@
     {
       "id": "oppo_reno8_t_5g",
       "name": "Oppo Reno8 T 5G",
-      "price": null,
+      "price": "35800",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno8-t-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno8-t-5g-sunrise-gold-official-iimage.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 15, 2025",
       "variants": [
         {
@@ -14095,12 +14095,12 @@
     {
       "id": "oppo_reno8_t",
       "name": "Oppo Reno8 T",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno8-t",
       "image_url": "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -14144,14 +14144,6 @@
           "Features": "90Hz refresh rate, 800 nits max. brightness"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "F/2.4, HDR & more",
-            "Video Recording": "Full HD (1080p)",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "100 MP f/1.7, Wide Angle (79° field-of-view), Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/3.3",
@@ -14165,6 +14157,14 @@
             "Camera Features": "Digital Zoom Auto Flash, Face detection Touch to focus",
             "Video Recording": "1920x1080,1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "F/2.4, HDR & more",
+            "Video Recording": "Full HD (1080p)",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -14235,12 +14235,12 @@
     {
       "id": "oppo_a78",
       "name": "Oppo A78",
-      "price": null,
+      "price": "27990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a78",
       "image_url": "https://www.mobiledokan.com/media/oppo-a78-aqua-green-official-image.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "December 25, 2024",
       "variants": [],
       "specifications": {
@@ -14372,12 +14372,12 @@
     {
       "id": "oppo_find_n2_flip",
       "name": "Oppo Find N2 Flip",
-      "price": null,
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n2-flip",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-n2-flip-moonlit-purple-official-image.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 18, 2025",
       "variants": [
         {
@@ -14516,12 +14516,12 @@
     {
       "id": "oppo_find_n2",
       "name": "Oppo Find N2",
-      "price": "৳193000",
+      "price": "193000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-n2",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-n2-green-official-image.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 28, 2025",
       "variants": [],
       "specifications": {
@@ -14651,12 +14651,12 @@
     {
       "id": "oppo_reno9_pro",
       "name": "Oppo Reno9 Pro",
-      "price": null,
+      "price": "64000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno9-pro",
       "image_url": "https://www.mobiledokan.com/media/1713709533td9og.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -14787,12 +14787,12 @@
     {
       "id": "oppo_reno9_pro_plus",
       "name": "OPPO Reno9 Pro Plus",
-      "price": null,
+      "price": "71000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno9-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/1713712587rFROI.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -14924,12 +14924,12 @@
     {
       "id": "oppo_reno9",
       "name": "Oppo Reno9",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno9",
       "image_url": "https://www.mobiledokan.com/media/1713799241MYCDp.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -15065,12 +15065,12 @@
     {
       "id": "oppo_reno9_12gb512gb",
       "name": "Oppo Reno9 (12GB/512GB)",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno9-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/1713799241MYCDp.webp",
       "serial_number": 105,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -15206,12 +15206,12 @@
     {
       "id": "oukitel_wp21",
       "name": "Oukitel WP21",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oukitel-wp21",
       "image_url": "https://www.mobiledokan.com/media/oukitel-wp21-official-image.webp",
       "serial_number": 106,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -15338,12 +15338,12 @@
     {
       "id": "oppo_a17k",
       "name": "Oppo A17K",
-      "price": null,
+      "price": "11590",
       "url": "https://www.mobiledokan.com/mobile/oppo-a17k",
       "image_url": "https://www.mobiledokan.com/media/oppo-a17k-blue-official-image.webp",
       "serial_number": 107,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -15475,12 +15475,12 @@
     {
       "id": "oppo_a77s",
       "name": "Oppo A77s",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a77s",
       "image_url": "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
       "serial_number": 108,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -15622,12 +15622,12 @@
     {
       "id": "oppo_a17",
       "name": "Oppo A17",
-      "price": null,
+      "price": "14400",
       "url": "https://www.mobiledokan.com/mobile/oppo-a17",
       "image_url": "https://www.mobiledokan.com/media/oppo-a17-sunlight-orange-official-image.webp",
       "serial_number": 109,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -15770,12 +15770,12 @@
     {
       "id": "oppo_f21s_pro",
       "name": "Oppo F21s Pro",
-      "price": null,
+      "price": "28200",
       "url": "https://www.mobiledokan.com/mobile/oppo-f21s-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f21s-pro-dawnlight-gold-official-image.webp",
       "serial_number": 110,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -15913,12 +15913,12 @@
     {
       "id": "oppo_a77",
       "name": "Oppo A77",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a77",
       "image_url": "https://www.mobiledokan.com/media/oppo-a77-sunset-orange-official-image.webp",
       "serial_number": 111,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 30, 2024",
       "variants": [],
       "specifications": {
@@ -16050,12 +16050,12 @@
     {
       "id": "oppo_reno8",
       "name": "Oppo Reno8",
-      "price": null,
+      "price": "34500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno8",
       "image_url": "https://www.mobiledokan.com/media/1714387140WJb2D.webp",
       "serial_number": 112,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -16191,12 +16191,12 @@
     {
       "id": "oppo_reno8_pro",
       "name": "Oppo Reno8 Pro",
-      "price": null,
+      "price": "53500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno8-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno8-pro.webp",
       "serial_number": 113,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -16331,12 +16331,12 @@
     {
       "id": "oppo_a57_4g",
       "name": "Oppo A57 4G",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a57-4g",
       "image_url": "https://www.mobiledokan.com/media/1710338272fJDlk.webp",
       "serial_number": 114,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [
         {
@@ -16473,12 +16473,12 @@
     {
       "id": "oppo_f21_pro",
       "name": "Oppo F21 Pro",
-      "price": null,
+      "price": "28200",
       "url": "https://www.mobiledokan.com/mobile/oppo-f21-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f21-pro-sunset-orange-official-image.webp",
       "serial_number": 115,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [],
       "specifications": {
@@ -16613,12 +16613,12 @@
     {
       "id": "oppo_f21_pro_5g",
       "name": "Oppo F21 Pro 5G",
-      "price": null,
+      "price": "32700",
       "url": "https://www.mobiledokan.com/mobile/oppo-f21-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-f21-pro-5g-rainbow-spectrum-official-image.webp",
       "serial_number": 116,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 1, 2024",
       "variants": [
         {
@@ -16758,12 +16758,12 @@
     {
       "id": "oppo_k10",
       "name": "Oppo K10",
-      "price": null,
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k10",
       "image_url": "https://www.mobiledokan.com/media/17142408613OKYP.webp",
       "serial_number": 117,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -16900,12 +16900,12 @@
     {
       "id": "oppo_a16e",
       "name": "Oppo A16e",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a16e",
       "image_url": "https://www.mobiledokan.com/media/oppo-a16e-blue-official-image.webp",
       "serial_number": 118,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -16948,6 +16948,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Wide Angle (80° field-of-view), Primary Camera",
@@ -16961,13 +16968,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -17037,12 +17037,12 @@
     {
       "id": "oppo_find_x5_pro",
       "name": "Oppo Find X5 Pro",
-      "price": null,
+      "price": "77000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x5-pro",
       "image_url": "https://www.mobiledokan.com/media/1714330393oTW5d.webp",
       "serial_number": 119,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 2, 2024",
       "variants": [
         {
@@ -17194,12 +17194,12 @@
     {
       "id": "oppo_find_x5_pro_512gb",
       "name": "Oppo Find X5 Pro (512GB)",
-      "price": null,
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x5-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x5-pro-white-porcelain-official-image.webp",
       "serial_number": 120,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -17350,12 +17350,12 @@
     {
       "id": "oppo_a76",
       "name": "Oppo A76",
-      "price": null,
+      "price": "20990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a76",
       "image_url": "https://www.mobiledokan.com/media/1713334330aayRA.webp",
       "serial_number": 121,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [
         {
@@ -17398,6 +17398,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Camera Features": "Wide Angle",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.2, Wide Angle (80° field-of-view), Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -17411,14 +17419,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "Wide Angle",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -17493,12 +17493,12 @@
     {
       "id": "oppo_reno7_5g",
       "name": "Oppo Reno7 5G",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno7-5g",
       "image_url": "https://www.mobiledokan.com/media/1713975263tONir.webp",
       "serial_number": 122,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "April 30, 2024",
       "variants": [
         {
@@ -17636,12 +17636,12 @@
     {
       "id": "oppo_reno7_pro_5g",
       "name": "Oppo Reno7 Pro 5G",
-      "price": null,
+      "price": "41300",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno7-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/1713973077wUAdu.webp",
       "serial_number": 123,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 18, 2025",
       "variants": [
         {
@@ -17779,12 +17779,12 @@
     {
       "id": "oppo_a95",
       "name": "Oppo A95",
-      "price": null,
+      "price": "22600",
       "url": "https://www.mobiledokan.com/mobile/oppo-a95",
       "image_url": "https://www.mobiledokan.com/media/1714400598M2PK1.webp",
       "serial_number": 124,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -17917,12 +17917,12 @@
     {
       "id": "oppo_reno6",
       "name": "Oppo Reno6",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno6",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
       "serial_number": 125,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 25, 2024",
       "variants": [],
       "specifications": {
@@ -18056,12 +18056,12 @@
     {
       "id": "oppo_a16",
       "name": "Oppo A16",
-      "price": null,
+      "price": "13490",
       "url": "https://www.mobiledokan.com/mobile/oppo-a16",
       "image_url": "https://www.mobiledokan.com/media/oppo-a16-pearl-blue-official-image.webp",
       "serial_number": 126,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
         {
@@ -18205,12 +18205,12 @@
     {
       "id": "oppo_a16_4gb64gb",
       "name": "Oppo A16 (4GB+64GB)",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a16-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a16-pearl-blue-official-image.webp",
       "serial_number": 127,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
         {
@@ -18354,12 +18354,12 @@
     {
       "id": "oppo_reno6_5g",
       "name": "Oppo Reno6 5G",
-      "price": null,
+      "price": "33300",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno6-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno6-5g-blue-official-image.webp",
       "serial_number": 128,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -18502,12 +18502,12 @@
     {
       "id": "oppo_reno6_pro_5g",
       "name": "Oppo Reno6 Pro 5G",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno6-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno6-pro-5g.webp",
       "serial_number": 129,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 18, 2025",
       "variants": [
         {
@@ -18641,12 +18641,12 @@
     {
       "id": "oppo_a95_5g",
       "name": "OPPO A95 5G",
-      "price": null,
+      "price": "22600",
       "url": "https://www.mobiledokan.com/mobile/oppo-a95-5g",
       "image_url": "https://www.mobiledokan.com/media/1714406692CEdrk.webp",
       "serial_number": 130,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [],
       "specifications": {
@@ -18775,12 +18775,12 @@
     {
       "id": "oppo_a54",
       "name": "Oppo A54",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a54",
       "image_url": "https://www.mobiledokan.com/media/1711618189toL4z.webp",
       "serial_number": 131,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
         {
@@ -18823,13 +18823,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP f/2.2, Wide Angle (81° field-of-view), Primary Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
@@ -18843,6 +18836,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080,1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -18916,12 +18916,12 @@
     {
       "id": "oppo_f19",
       "name": "Oppo F19",
-      "price": null,
+      "price": "21990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f19",
       "image_url": "https://www.mobiledokan.com/media/Oppo F19.png.webp",
       "serial_number": 132,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [
         {
@@ -19061,12 +19061,12 @@
     {
       "id": "oppo_find_x3_pro",
       "name": "Oppo Find X3 Pro",
-      "price": null,
+      "price": "67000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x3-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x3-pro-gloss-black-official-image.webp",
       "serial_number": 133,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
         {
@@ -19110,6 +19110,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.2, Ultra-Wide Angle Camera, 13 MP, f/2.4, Telephoto Camera, 3 MP, f/3.0, Macro Camera",
@@ -19124,13 +19131,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -19208,12 +19208,12 @@
     {
       "id": "oppo_f19_pro",
       "name": "Oppo F19 Pro",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f19-pro",
       "image_url": "https://www.mobiledokan.com/media/17102626738pkXQ.webp",
       "serial_number": 134,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 18, 2025",
       "variants": [
         {
@@ -19351,12 +19351,12 @@
     {
       "id": "oppo_reno5_5g",
       "name": "Oppo Reno5 5G",
-      "price": null,
+      "price": "29490",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno5-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno5-5g-blue-official-image.webp",
       "serial_number": 135,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -19399,6 +19399,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP, f/1.7, Wide Angle (79° field-of-view), Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Mono Camera",
@@ -19412,13 +19419,6 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -19493,12 +19493,12 @@
     {
       "id": "oppo_a15s",
       "name": "Oppo A15s",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a15s",
       "image_url": "https://www.mobiledokan.com/media/17112630013Zrkg.webp",
       "serial_number": 136,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [
         {
@@ -19540,13 +19540,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP f/2.2, Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -19560,6 +19553,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -19631,12 +19631,12 @@
     {
       "id": "oppo_a15",
       "name": "Oppo A15",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a15",
       "image_url": "https://www.mobiledokan.com/media/oppo-a15-official-black-color-image.webp",
       "serial_number": 137,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
         {
@@ -19679,14 +19679,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.4, Primary Camera",
-            "Camera Features": "HDR & more",
-            "Video Recording": "Full HD (1080p)",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP f/2.2, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -19700,6 +19692,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.4, Primary Camera",
+            "Camera Features": "HDR & more",
+            "Video Recording": "Full HD (1080p)",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -19773,12 +19773,12 @@
     {
       "id": "oppo_a33",
       "name": "Oppo A33",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a33",
       "image_url": "https://www.mobiledokan.com/media/1710257369eSaxN.webp",
       "serial_number": 138,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
         {
@@ -19915,12 +19915,12 @@
     {
       "id": "oppo_f17",
       "name": "Oppo F17",
-      "price": null,
+      "price": "20990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f17",
       "image_url": "https://www.mobiledokan.com/media/1710326986FGV50.webp",
       "serial_number": 139,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -20058,12 +20058,12 @@
     {
       "id": "oppo_f17_pro",
       "name": "Oppo F17 Pro",
-      "price": null,
+      "price": "24000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f17-pro",
       "image_url": "https://www.mobiledokan.com/media/1711271538Uts0X.webp",
       "serial_number": 140,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 17, 2025",
       "variants": [
         {
@@ -20203,12 +20203,12 @@
     {
       "id": "oppo_a53",
       "name": "Oppo A53",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a53",
       "image_url": "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
       "serial_number": 141,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -20347,12 +20347,12 @@
     {
       "id": "oppo_reno4",
       "name": "Oppo Reno4",
-      "price": null,
+      "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno4",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
       "serial_number": 142,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [
         {
@@ -20489,12 +20489,12 @@
     {
       "id": "oppo_a58_4g_8gb_ram",
       "name": "Oppo A58 4G (8GB RAM)",
-      "price": null,
+      "price": "21700",
       "url": "https://www.mobiledokan.com/mobile/oppo-a58-4g-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-a58-4g-dazzling-green-official-image.webp",
       "serial_number": 143,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [
         {
@@ -20640,12 +20640,12 @@
     {
       "id": "oppo_a58_4g",
       "name": "Oppo A58 4G",
-      "price": null,
+      "price": "18250",
       "url": "https://www.mobiledokan.com/mobile/oppo-a58-4g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a58-4g-dazzling-green-official-image.webp",
       "serial_number": 144,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -20791,12 +20791,12 @@
     {
       "id": "oppo_a92",
       "name": "Oppo A92",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a92",
       "image_url": "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
       "serial_number": 145,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [],
       "specifications": {
@@ -20930,12 +20930,12 @@
     {
       "id": "oppo_a72",
       "name": "Oppo A72",
-      "price": "৳24500",
+      "price": "24500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a72",
       "image_url": "https://www.mobiledokan.com/media/oppo-a72-sky-blue-official-image.webp",
       "serial_number": 146,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -20971,6 +20971,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP, f/1.7, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 2 MP, Macro Camera, 2 MP, Depth Camera",
@@ -20984,13 +20991,6 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -21063,12 +21063,12 @@
     {
       "id": "oppo_ace2",
       "name": "Oppo Ace2",
-      "price": "৳48000",
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oppo-ace2",
       "image_url": "https://www.mobiledokan.com/media/oppo-ace2-moon-rock-grey-image.webp",
       "serial_number": 147,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -21198,12 +21198,12 @@
     {
       "id": "oppo_a12",
       "name": "Oppo A12",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a12",
       "image_url": "https://www.mobiledokan.com/media/1710329517Rk4gT.webp",
       "serial_number": 148,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -21344,12 +21344,12 @@
     {
       "id": "oppo_a52",
       "name": "Oppo A52",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a52",
       "image_url": "https://www.mobiledokan.com/media/oppo-a52-blue-official-image_1.webp",
       "serial_number": 149,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -21392,6 +21392,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "12 MP f/1.8, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
@@ -21405,14 +21413,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -21484,12 +21484,12 @@
     {
       "id": "oppo_a12_4gb64gb",
       "name": "Oppo A12 (4GB+64GB)",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a12-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/1710329517Rk4gT.webp",
       "serial_number": 150,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -21631,12 +21631,12 @@
     {
       "id": "oppo_a92s",
       "name": "Oppo A92s",
-      "price": "৳27000",
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a92s",
       "image_url": "https://www.mobiledokan.com/media/oppo-a92s-black-image.webp",
       "serial_number": 151,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -21765,12 +21765,12 @@
     {
       "id": "oppo_find_x2_pro",
       "name": "Oppo Find X2 Pro",
-      "price": "৳51000",
+      "price": "51000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x2-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x2-pro-orange-image.webp",
       "serial_number": 152,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -21899,12 +21899,12 @@
     {
       "id": "oppo_reno3_pro",
       "name": "Oppo Reno3 Pro",
-      "price": null,
+      "price": "39990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno3-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno3-pro-auroral-blue-official-image.webp",
       "serial_number": 153,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [
         {
@@ -22048,12 +22048,12 @@
     {
       "id": "oppo_find_x2",
       "name": "Oppo Find X2",
-      "price": null,
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x2",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x2.webp",
       "serial_number": 154,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [
         {
@@ -22097,13 +22097,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.7, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 13 MP, f/2.4, Telephoto Camera",
@@ -22119,6 +22112,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -22187,12 +22187,12 @@
     {
       "id": "oppo_a31",
       "name": "Oppo A31",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a31",
       "image_url": "https://www.mobiledokan.com/media/oppo-a31-black-official-image.webp",
       "serial_number": 155,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -22327,12 +22327,12 @@
     {
       "id": "oppo_f15",
       "name": "Oppo F15",
-      "price": "৳27000",
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f15",
       "image_url": "https://www.mobiledokan.com/media/oppo-f15-unicorn-white-official-image.webp",
       "serial_number": 156,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -22467,12 +22467,12 @@
     {
       "id": "oppo_reno5",
       "name": "Oppo Reno5",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno5",
       "image_url": "https://www.mobiledokan.com/media/17102423327gINz.webp",
       "serial_number": 157,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -22608,12 +22608,12 @@
     {
       "id": "oppo_a91",
       "name": "Oppo A91",
-      "price": null,
+      "price": "24999",
       "url": "https://www.mobiledokan.com/mobile/oppo-a91",
       "image_url": "https://www.mobiledokan.com/media/oppo-a91-lightening-black-official-image.webp",
       "serial_number": 158,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 8, 2024",
       "variants": [
         {
@@ -22655,6 +22655,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.3, Ultra-Wide Angle Camera, 2 MP, f/2.4, Camera, 2 MP, f/2.4, Depth Camera",
@@ -22668,13 +22675,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -22752,12 +22752,12 @@
     {
       "id": "oppo_reno2_f",
       "name": "Oppo Reno2 F",
-      "price": null,
+      "price": "27500",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno2-f",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno2-f-image.webp",
       "serial_number": 159,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [
         {
@@ -22799,13 +22799,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP, f/1.7, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Depth Camera, 2 MP B/W, f/2.4, Camera",
@@ -22820,6 +22813,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -22894,12 +22894,12 @@
     {
       "id": "oppo_k5",
       "name": "Oppo K5",
-      "price": "৳23500",
+      "price": "23500",
       "url": "https://www.mobiledokan.com/mobile/oppo-k5",
       "image_url": "https://www.mobiledokan.com/media/oppo-k5-fantasy-forest-official-image.webp",
       "serial_number": 160,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [],
       "specifications": {
@@ -23032,12 +23032,12 @@
     {
       "id": "oppo_a11",
       "name": "Oppo A11",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a11",
       "image_url": "https://www.mobiledokan.com/media/oppo-a11-purple-image.webp",
       "serial_number": 161,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
       "specifications": {
@@ -23165,12 +23165,12 @@
     {
       "id": "oppo_reno_ace",
       "name": "Oppo Reno Ace",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-ace",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-ace-blue-image.webp",
       "serial_number": 162,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [
         {
@@ -23319,12 +23319,12 @@
     {
       "id": "oppo_reno_ace_256gb",
       "name": "Oppo Reno Ace (256GB)",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-ace-256gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-ace-blue-image_1.webp",
       "serial_number": 163,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 9, 2024",
       "variants": [
         {
@@ -23473,12 +23473,12 @@
     {
       "id": "oppo_reno_ace_12gb_ram",
       "name": "Oppo Reno Ace (12GB RAM)",
-      "price": null,
+      "price": "58000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-ace-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-ace-blue-image_1.webp",
       "serial_number": 164,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 9, 2024",
       "variants": [
         {
@@ -23627,12 +23627,12 @@
     {
       "id": "oppo_a5_2020",
       "name": "Oppo A5 (2020)",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-2020",
       "image_url": "https://www.mobiledokan.com/media/1711264559Ub2fT.webp",
       "serial_number": 165,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [
         {
@@ -23774,12 +23774,12 @@
     {
       "id": "oppo_a5_2020_4gb128gb",
       "name": "Oppo A5 (2020) (4GB+128GB)",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-2020-4gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1711264559Ub2fT.webp",
       "serial_number": 166,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [
         {
@@ -23922,12 +23922,12 @@
     {
       "id": "oppo_a9_2020",
       "name": "Oppo A9 (2020)",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a9-2020",
       "image_url": "https://www.mobiledokan.com/media/1710161832bR4Lf.webp",
       "serial_number": 167,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [
         {
@@ -24070,12 +24070,12 @@
     {
       "id": "oppo_reno_2",
       "name": "Oppo Reno 2",
-      "price": "৳42000",
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-2",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-2-blue-image.webp",
       "serial_number": 168,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -24210,12 +24210,12 @@
     {
       "id": "oppo_reno2_z",
       "name": "Oppo Reno2 Z",
-      "price": null,
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno2-z",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno2-z-luminous-black-official-image.webp",
       "serial_number": 169,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -24354,12 +24354,12 @@
     {
       "id": "oppo_reno_10x_zoom",
       "name": "Oppo Reno 10x Zoom",
-      "price": null,
+      "price": "57000",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno-10x-zoom",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-10x-zoom-jet-black-official-image.webp",
       "serial_number": 170,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 7, 2024",
       "variants": [
         {
@@ -24400,6 +24400,15 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Soft light flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.7, Wide Angle, Primary Camera, 13 MP f/3.0, Telephoto Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -24414,15 +24423,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps, 30 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Soft light flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -24499,12 +24499,12 @@
     {
       "id": "oppo_f11_pro_marvels_avengers",
       "name": "Oppo F11 Pro Marvels Avengers",
-      "price": null,
+      "price": "42990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f11-pro-marvels-avengers",
       "image_url": "https://www.mobiledokan.com/media/oppo-f11-pro-marvels-avengers-official-image.webp",
       "serial_number": 171,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 20, 2025",
       "variants": [
         {
@@ -24639,12 +24639,12 @@
     {
       "id": "oppo_f11",
       "name": "Oppo F11",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f11",
       "image_url": "https://www.mobiledokan.com/media/oppo-f11-fluorite-purple-official-image.webp",
       "serial_number": 172,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 1, 2024",
       "variants": [
         {
@@ -24686,13 +24686,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "48 MP f/1.8, Primary Camera, 5 MP f/2.4, Depth Camera",
@@ -24706,6 +24699,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -24781,12 +24781,12 @@
     {
       "id": "oppo_a1k",
       "name": "Oppo A1K",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a1k",
       "image_url": "https://www.mobiledokan.com/media/1710253628Z2EXH.webp",
       "serial_number": 173,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -24920,12 +24920,12 @@
     {
       "id": "oppo_reno",
       "name": "Oppo Reno",
-      "price": null,
+      "price": "49990",
       "url": "https://www.mobiledokan.com/mobile/oppo-reno",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-ocean-green-official-image.webp",
       "serial_number": 174,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -25062,12 +25062,12 @@
     {
       "id": "oppo_a5s",
       "name": "Oppo A5s",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5s",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5s-black-official-image.webp",
       "serial_number": 175,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 18, 2025",
       "variants": [
         {
@@ -25205,12 +25205,12 @@
     {
       "id": "oppo_f11_pro",
       "name": "Oppo F11 Pro",
-      "price": null,
+      "price": "36990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f11-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f11-pro-official-image.webp",
       "serial_number": 176,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 20, 2025",
       "variants": [
         {
@@ -25346,12 +25346,12 @@
     {
       "id": "oppo_a7",
       "name": "Oppo A7",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a7",
       "image_url": "https://www.mobiledokan.com/media/oppo-a7-glaring-gold-official-image.webp",
       "serial_number": 177,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [
         {
@@ -25487,12 +25487,12 @@
     {
       "id": "oppo_rx17_pro",
       "name": "Oppo RX17 Pro",
-      "price": null,
+      "price": "56990",
       "url": "https://www.mobiledokan.com/mobile/oppo-rx17-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-rx17-pro-emerald-green-official-image.webp",
       "serial_number": 178,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 20, 2025",
       "variants": [
         {
@@ -25631,12 +25631,12 @@
     {
       "id": "oppo_r17_pro",
       "name": "Oppo R17 Pro",
-      "price": null,
+      "price": "69990",
       "url": "https://www.mobiledokan.com/mobile/oppo-r17-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-r17-pro-emerald-green-official-image.webp",
       "serial_number": 179,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 18, 2024",
       "variants": [],
       "specifications": {
@@ -25769,12 +25769,12 @@
     {
       "id": "oppo_k1",
       "name": "Oppo K1",
-      "price": null,
+      "price": "19000",
       "url": "https://www.mobiledokan.com/mobile/oppo-k1",
       "image_url": "https://www.mobiledokan.com/media/oppo-k1-blue-official-image.webp",
       "serial_number": 180,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -25915,12 +25915,12 @@
     {
       "id": "oppo_a7x",
       "name": "Oppo A7x",
-      "price": null,
+      "price": "26990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a7x",
       "image_url": "https://www.mobiledokan.com/media/oppo-a7x-ice-flame-blue-official-image.webp",
       "serial_number": 181,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 20, 2025",
       "variants": [
         {
@@ -26053,12 +26053,12 @@
     {
       "id": "oppo_f9",
       "name": "Oppo F9",
-      "price": null,
+      "price": "26990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f9",
       "image_url": "https://www.mobiledokan.com/media/oppo-f9-starry-purple-official-image.webp",
       "serial_number": 182,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 17, 2024",
       "variants": [
         {
@@ -26197,12 +26197,12 @@
     {
       "id": "oppo_f9_6gb64gb",
       "name": "Oppo F9 (6GB+64GB)",
-      "price": null,
+      "price": "31990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f9-6gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-f9.webp",
       "serial_number": 183,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -26341,12 +26341,12 @@
     {
       "id": "oppo_f9_pro",
       "name": "Oppo F9 Pro",
-      "price": null,
+      "price": "26990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f9-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f9-pro-blue-official-image.webp",
       "serial_number": 184,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -26477,12 +26477,12 @@
     {
       "id": "oppo_f9_pro_6gb_ram",
       "name": "Oppo F9 Pro (6GB RAM)",
-      "price": null,
+      "price": "31990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f9-pro-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oppo-f9-pro-red-official-image.webp",
       "serial_number": 185,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -26614,12 +26614,12 @@
     {
       "id": "oppo_a5",
       "name": "Oppo A5",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a5",
       "image_url": "https://www.mobiledokan.com/media/oppo-a5-blue-color-image.webp",
       "serial_number": 186,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 18, 2025",
       "variants": [],
       "specifications": {
@@ -26747,12 +26747,12 @@
     {
       "id": "oppo_a3s_32gb",
       "name": "Oppo A3s (32GB)",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3s-32gb-",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3s-red-official-image_1.webp",
       "serial_number": 187,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 30, 2024",
       "variants": [],
       "specifications": {
@@ -26787,6 +26787,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP f/2.2, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -26800,13 +26807,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -26877,12 +26877,12 @@
     {
       "id": "oppo_a3s",
       "name": "Oppo A3s",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a3s",
       "image_url": "https://www.mobiledokan.com/media/oppo-a3s-red-official-image.webp",
       "serial_number": 188,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 9, 2024",
       "variants": [
         {
@@ -27013,12 +27013,12 @@
     {
       "id": "oppo_find_x",
       "name": "Oppo Find X",
-      "price": null,
+      "price": "40990",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x-glacier-blue-official-image.webp",
       "serial_number": 189,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -27060,14 +27060,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "25 MP f/2.0, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP f/2.0, Primary Camera, 20 MP f/2.0",
@@ -27083,6 +27075,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "25 MP f/2.0, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -27153,12 +27153,12 @@
     {
       "id": "oppo_f7_128gb",
       "name": "Oppo F7 (128GB)",
-      "price": null,
+      "price": "35990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f7-128gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-f7-red.webp",
       "serial_number": 190,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [
         {
@@ -27205,6 +27205,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "25 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP f/1.8, Primary Camera",
@@ -27219,13 +27226,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "25 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -27299,12 +27299,12 @@
     {
       "id": "oppo_f7",
       "name": "Oppo F7",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f7",
       "image_url": "https://www.mobiledokan.com/media/oppo-f7-diamond-black-official-image.webp",
       "serial_number": 191,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -27351,13 +27351,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "25 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP f/1.8, Primary Camera",
@@ -27372,6 +27365,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "25 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -27446,12 +27446,12 @@
     {
       "id": "oppo_a71_2018",
       "name": "Oppo A71 (2018)",
-      "price": null,
+      "price": "12500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a71-2018",
       "image_url": "https://www.mobiledokan.com/media/oppo-a71-2018-official-black-image.webp",
       "serial_number": 192,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -27581,12 +27581,12 @@
     {
       "id": "oppo_a83_2018",
       "name": "Oppo A83 (2018)",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a83-2018",
       "image_url": "https://www.mobiledokan.com/media/oppo-a83-2018-blue-official-image.webp",
       "serial_number": 193,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -27711,12 +27711,12 @@
     {
       "id": "oppo_a83_3gb32gb",
       "name": "Oppo A83 (3GB+32GB)",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a83-3gb-32gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-a83-black.webp",
       "serial_number": 194,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -27851,12 +27851,12 @@
     {
       "id": "oppo_a83",
       "name": "Oppo A83",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a83",
       "image_url": "https://www.mobiledokan.com/media/oppo-a83-champagne-official-image.webp",
       "serial_number": 195,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -27991,12 +27991,12 @@
     {
       "id": "oppo_f5_youth",
       "name": "Oppo F5 Youth",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f5-youth",
       "image_url": "https://www.mobiledokan.com/media/oppo-f5-youth-black-official-image.webp",
       "serial_number": 196,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
         {
@@ -28133,12 +28133,12 @@
     {
       "id": "oppo_f5",
       "name": "Oppo F5",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f5",
       "image_url": "https://www.mobiledokan.com/media/oppo-f5-official-black-image.webp",
       "serial_number": 197,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 17, 2024",
       "variants": [
         {
@@ -28274,12 +28274,12 @@
     {
       "id": "oppo_f5_64gb",
       "name": "Oppo F5 (64GB)",
-      "price": null,
+      "price": "32990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f5-64gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-f5-black.webp",
       "serial_number": 198,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 17, 2024",
       "variants": [
         {
@@ -28326,13 +28326,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP f/1.8, Primary Camera",
@@ -28346,6 +28339,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -28420,12 +28420,12 @@
     {
       "id": "oppo_a71",
       "name": "Oppo A71",
-      "price": null,
+      "price": "12500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a71",
       "image_url": "https://www.mobiledokan.com/media/oppo-a71-gold-official-image.webp",
       "serial_number": 199,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -28552,12 +28552,12 @@
     {
       "id": "oppo_f3",
       "name": "Oppo F3",
-      "price": null,
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f3",
       "image_url": "https://www.mobiledokan.com/media/oppo-f3-official-image.webp",
       "serial_number": 200,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -28686,12 +28686,12 @@
     {
       "id": "oppo_f3_plus",
       "name": "Oppo F3 Plus",
-      "price": null,
+      "price": "40990",
       "url": "https://www.mobiledokan.com/mobile/oppo-f3-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-f3-plus-official-black-image.webp",
       "serial_number": 201,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [
         {
@@ -28825,12 +28825,12 @@
     {
       "id": "oppo_a37fw",
       "name": "Oppo A37fw",
-      "price": null,
+      "price": "10500",
       "url": "https://www.mobiledokan.com/mobile/oppo-a37fw",
       "image_url": "https://www.mobiledokan.com/media/oppo-a37fw-official-image.webp",
       "serial_number": 202,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 4, 2024",
       "variants": [],
       "specifications": {
@@ -28866,6 +28866,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0 Primary Camera",
@@ -28878,13 +28885,6 @@
             "Camera Features": "Flashlight, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -28948,12 +28948,12 @@
     {
       "id": "oppo_a57",
       "name": "Oppo A57",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a57",
       "image_url": "https://www.mobiledokan.com/media/oppo-a57-gold-image.webp",
       "serial_number": 203,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 20, 2025",
       "variants": [],
       "specifications": {
@@ -29078,12 +29078,12 @@
     {
       "id": "oppo_f1s",
       "name": "Oppo F1s",
-      "price": null,
+      "price": "20900",
       "url": "https://www.mobiledokan.com/mobile/oppo-f1s",
       "image_url": "https://www.mobiledokan.com/media/oppo-f1s-gold-image.webp",
       "serial_number": 204,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [
         {
@@ -29130,14 +29130,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Camera Features": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -29151,6 +29143,14 @@
             "Camera Features": "Auto Flash,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Camera Features": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -29220,12 +29220,12 @@
     {
       "id": "oppo_f1s_4gb64gb",
       "name": "Oppo F1s (4GB+64GB)",
-      "price": null,
+      "price": "23900",
       "url": "https://www.mobiledokan.com/mobile/oppo-f1s-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/oppo-f1s-gold-image.webp",
       "serial_number": 205,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -29362,12 +29362,12 @@
     {
       "id": "oppo_c1",
       "name": "Oppo C1",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/oppo-c1",
       "image_url": "https://www.mobiledokan.com/media/oppo-c1-white-image.webp",
       "serial_number": 206,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -29464,12 +29464,12 @@
     {
       "id": "oppo_f1_plus",
       "name": "Oppo F1 Plus",
-      "price": null,
+      "price": "35900",
       "url": "https://www.mobiledokan.com/mobile/oppo-f1-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-f1-plus.webp",
       "serial_number": 207,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -29596,12 +29596,12 @@
     {
       "id": "oppo_f1",
       "name": "Oppo F1",
-      "price": null,
+      "price": "21800",
       "url": "https://www.mobiledokan.com/mobile/oppo-f1",
       "image_url": "https://www.mobiledokan.com/media/oppo-f1-official-image.webp",
       "serial_number": 208,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [],
       "specifications": {
@@ -29720,12 +29720,12 @@
     {
       "id": "oppo_a33f",
       "name": "Oppo A33f",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a33f",
       "image_url": "https://www.mobiledokan.com/media/oppo-a33f-official-image.webp",
       "serial_number": 209,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -29761,6 +29761,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -29774,10 +29778,6 @@
             "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -29843,12 +29843,12 @@
     {
       "id": "oppo_neo_7",
       "name": "Oppo Neo 7",
-      "price": null,
+      "price": "13900",
       "url": "https://www.mobiledokan.com/mobile/oppo-neo-7",
       "image_url": "https://www.mobiledokan.com/media/oppo-neo-7-black-image.webp",
       "serial_number": 210,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -29972,12 +29972,12 @@
     {
       "id": "oppo_r7_lite",
       "name": "Oppo R7 lite",
-      "price": null,
+      "price": "21800",
       "url": "https://www.mobiledokan.com/mobile/oppo-r7-lite",
       "image_url": "https://www.mobiledokan.com/media/oppo-r7-lite-3.webp",
       "serial_number": 211,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -30097,12 +30097,12 @@
     {
       "id": "oppo_joy_3",
       "name": "Oppo Joy 3",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/oppo-joy-3",
       "image_url": "https://www.mobiledokan.com/media/oppo-joy-3-black-image.webp",
       "serial_number": 212,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -30216,12 +30216,12 @@
     {
       "id": "oppo_mirror_5",
       "name": "Oppo Mirror 5",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/oppo-mirror-5",
       "image_url": "https://www.mobiledokan.com/media/oppo-mirror-5-w.webp",
       "serial_number": 213,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 25, 2024",
       "variants": [],
       "specifications": {
@@ -30337,12 +30337,12 @@
     {
       "id": "oppo_r7_plus",
       "name": "Oppo R7 Plus",
-      "price": null,
+      "price": "42800",
       "url": "https://www.mobiledokan.com/mobile/oppo-r7-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-r7-plus-gold-official-image.webp",
       "serial_number": 214,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -30464,12 +30464,12 @@
     {
       "id": "oppo_joy_plus",
       "name": "Oppo Joy Plus",
-      "price": null,
+      "price": "8900",
       "url": "https://www.mobiledokan.com/mobile/oppo-joy-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-joy-plus-blue-image.webp",
       "serial_number": 215,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 22, 2025",
       "variants": [],
       "specifications": {
@@ -30502,6 +30502,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "3.15 MP f/2.8, Primary Camera",
@@ -30514,10 +30518,6 @@
             "Camera Features": "Auto Flash",
             "Video Recording": "1280x720, 720x480",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -30581,12 +30581,12 @@
     {
       "id": "oppo_mirror_3",
       "name": "Oppo Mirror 3",
-      "price": null,
+      "price": "16500",
       "url": "https://www.mobiledokan.com/mobile/oppo-mirror-3",
       "image_url": "https://www.mobiledokan.com/media/oppo-mirror-3-white-color-image.webp",
       "serial_number": 216,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 23, 2025",
       "variants": [],
       "specifications": {
@@ -30700,12 +30700,12 @@
     {
       "id": "oppo_r5",
       "name": "Oppo R5",
-      "price": null,
+      "price": "39900",
       "url": "https://www.mobiledokan.com/mobile/oppo-r5",
       "image_url": "https://www.mobiledokan.com/media/oppo-r5-silver-image.webp",
       "serial_number": 217,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [],
       "specifications": {
@@ -30817,12 +30817,12 @@
     {
       "id": "oppo_r1k",
       "name": "Oppo R1k",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/oppo-r1k",
       "image_url": "https://www.mobiledokan.com/media/oppo-r1k-official-blue-image.webp",
       "serial_number": 218,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 13, 2024",
       "variants": [
         {
@@ -30943,12 +30943,12 @@
     {
       "id": "oppo_n1_mini",
       "name": "Oppo N1 mini",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/oppo-n1-mini",
       "image_url": "https://www.mobiledokan.com/media/oppo-n1-mini-white-official.webp",
       "serial_number": 219,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "August 9, 2024",
       "variants": [
         {
@@ -31064,12 +31064,12 @@
     {
       "id": "oppo_joy",
       "name": "Oppo Joy",
-      "price": null,
+      "price": "8700",
       "url": "https://www.mobiledokan.com/mobile/oppo-joy",
       "image_url": "https://www.mobiledokan.com/media/oppo-joy-black-color-image.webp",
       "serial_number": 220,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "January 21, 2025",
       "variants": [],
       "specifications": {
@@ -31181,12 +31181,12 @@
     {
       "id": "oppo_neo_5",
       "name": "Oppo Neo 5",
-      "price": null,
+      "price": "9900",
       "url": "https://www.mobiledokan.com/mobile/oppo-neo-5",
       "image_url": "https://www.mobiledokan.com/media/oppo-neo-5_1.webp",
       "serial_number": 221,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -31299,12 +31299,12 @@
     {
       "id": "oppo_neo_3",
       "name": "Oppo Neo 3",
-      "price": null,
+      "price": "12800",
       "url": "https://www.mobiledokan.com/mobile/oppo-neo-3",
       "image_url": "https://www.mobiledokan.com/media/oppo-neo-3.webp",
       "serial_number": 222,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -31413,12 +31413,12 @@
     {
       "id": "oppo_yoyo",
       "name": "Oppo Yoyo",
-      "price": null,
+      "price": "16500",
       "url": "https://www.mobiledokan.com/mobile/oppo-yoyo",
       "image_url": "https://www.mobiledokan.com/media/oppo-yoyo-white-image.webp",
       "serial_number": 223,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "September 5, 2024",
       "variants": [],
       "specifications": {
@@ -31529,12 +31529,12 @@
     {
       "id": "oppo_find_7",
       "name": "Oppo Find 7",
-      "price": null,
+      "price": "38000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-7",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-7.webp",
       "serial_number": 224,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -31651,12 +31651,12 @@
     {
       "id": "oppo_find_7a",
       "name": "Oppo Find 7a",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-7a",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-7a.webp",
       "serial_number": 225,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -31776,12 +31776,12 @@
     {
       "id": "oppo_a4",
       "name": "Oppo A4",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a4",
       "image_url": "https://www.mobiledokan.com/media/oppo-a4-image.webp",
       "serial_number": 226,
-      "last_updated": "2025-09-11 09:17:05",
-      "first_scraped": "2025-09-11 09:17:05",
+      "last_updated": "2025-09-14 13:38:14",
+      "first_scraped": null,
       "updated_on": "October 20, 2024",
       "variants": [],
       "specifications": {

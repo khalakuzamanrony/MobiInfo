@@ -4,22 +4,22 @@
     "name": "gionee",
     "url": "https://www.mobiledokan.com/mobile-brand/gionee",
     "image_url": null,
-    "last_updated": "2025-09-12 07:03:38",
+    "last_updated": "2025-09-14 13:44:54",
     "total_phones": 7,
     "first_scraped": "2025-09-11 09:19:24",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 7
   },
   "phones": [
     {
       "id": "geo_r23",
       "name": "Geo R23",
-      "price": null,
+      "price": "1350",
       "url": "https://www.mobiledokan.com/mobile/geo-r23",
       "image_url": "https://www.mobiledokan.com/media/geo-r23-dark-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
@@ -92,12 +92,12 @@
     {
       "id": "gionee_l800",
       "name": "Gionee L800",
-      "price": null,
+      "price": "2199",
       "url": "https://www.mobiledokan.com/mobile/gionee-l800",
       "image_url": "https://www.mobiledokan.com/media/gionee-l800-grey-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -172,12 +172,12 @@
     {
       "id": "gionee_l910",
       "name": "Gionee L910",
-      "price": null,
+      "price": "2999",
       "url": "https://www.mobiledokan.com/mobile/gionee-l910",
       "image_url": "https://www.mobiledokan.com/media/gionee-l910-grey-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -246,12 +246,12 @@
     {
       "id": "gionee_p4s",
       "name": "Gionee P4S",
-      "price": null,
+      "price": "6599",
       "url": "https://www.mobiledokan.com/mobile/gionee-p4s",
       "image_url": "https://www.mobiledokan.com/media/gionee-p4s-white-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -359,12 +359,12 @@
     {
       "id": "gionee_elife_s7",
       "name": "Gionee Elife S7",
-      "price": null,
+      "price": "21999",
       "url": "https://www.mobiledokan.com/mobile/gionee-elife-s7",
       "image_url": "https://www.mobiledokan.com/media/gionee-elife-s7-white-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -483,12 +483,12 @@
     {
       "id": "gionee_pioneer_p6",
       "name": "Gionee Pioneer P6",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/gionee-pioneer-p6",
       "image_url": "https://www.mobiledokan.com/media/gionee-pioneer-p6-black-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -600,12 +600,12 @@
     {
       "id": "gionee_marathon_m3",
       "name": "Gionee Marathon M3",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/gionee-marathon-m3",
       "image_url": "https://www.mobiledokan.com/media/gionee-marathon-m3-white-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:19:24",
-      "first_scraped": "2025-09-11 09:19:24",
+      "last_updated": "2025-09-14 13:44:54",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -638,10 +638,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.2, Primary Camera",
@@ -655,6 +651,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
           }
         },
         "Design": {

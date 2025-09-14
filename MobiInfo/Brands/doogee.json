@@ -4,22 +4,22 @@
     "name": "doogee",
     "url": "https://www.mobiledokan.com/mobile-brand/doogee",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:25",
+    "last_updated": "2025-09-14 13:53:15",
     "total_phones": 26,
     "first_scraped": "2025-09-11 09:26:33",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 26
   },
   "phones": [
     {
       "id": "doogee_blade20_turbo",
       "name": "Doogee Blade20 Turbo",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade20-turbo",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade20-turbo-desert-titanium-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "June 16, 2025",
       "variants": [],
       "specifications": {
@@ -54,13 +54,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.2, Macro Camera",
@@ -74,6 +67,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -148,12 +148,12 @@
     {
       "id": "doogee_note59_pro_plus",
       "name": "Doogee Note59 Pro Plus",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/doogee-note59-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/doogee-note59-pro-plus-white-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
       "specifications": {
@@ -277,12 +277,12 @@
     {
       "id": "doogee_note_59",
       "name": "Doogee Note 59",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/doogee-note-59",
       "image_url": "https://www.mobiledokan.com/media/doogee-note-59-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
       "specifications": {
@@ -318,13 +318,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP, f/1.8, Wide Angle, Primary Camera",
@@ -338,6 +331,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -406,12 +406,12 @@
     {
       "id": "doogee_note59_pro",
       "name": "Doogee Note59 Pro",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/doogee-note59-pro",
       "image_url": "https://www.mobiledokan.com/media/doogee-note59-pro-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
       "specifications": {
@@ -536,12 +536,12 @@
     {
       "id": "doogee_fire_6_max",
       "name": "Doogee Fire 6 Max",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/doogee-fire-6-max",
       "image_url": "https://www.mobiledokan.com/media/doogee-fire-6-max-silver-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [],
       "specifications": {
@@ -670,12 +670,12 @@
     {
       "id": "doogee_s200_plus",
       "name": "Doogee S200 Plus",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s200-plus",
       "image_url": "https://www.mobiledokan.com/media/doogee-s200-plus-red-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [],
       "specifications": {
@@ -806,12 +806,12 @@
     {
       "id": "doogee_blade_gt_ultra",
       "name": "Doogee Blade GT Ultra",
-      "price": "৳80000",
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade-gt-ultra",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade-gt-ultra-black-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [],
       "specifications": {
@@ -846,6 +846,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "100 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -859,13 +866,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -940,12 +940,12 @@
     {
       "id": "doogee_s119",
       "name": "Doogee S119",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s119",
       "image_url": "https://www.mobiledokan.com/media/doogee-s119-red-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -1074,12 +1074,12 @@
     {
       "id": "doogee_s118_pro",
       "name": "Doogee S118 Pro",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s118-pro",
       "image_url": "https://www.mobiledokan.com/media/doogee-s118-pro-blackred-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -1203,12 +1203,12 @@
     {
       "id": "doogee_balde_gt",
       "name": "Doogee Balde GT",
-      "price": "৳60000",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/doogee-balde-gt",
       "image_url": "https://www.mobiledokan.com/media/doogee-balde-gt-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "December 28, 2024",
       "variants": [],
       "specifications": {
@@ -1243,13 +1243,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, f/2.3, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.3"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, f/2.2, Ultra-Wide Angle Camera, 0.08 MP, Camera",
@@ -1264,6 +1257,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
           }
         },
         "Design": {
@@ -1339,12 +1339,12 @@
     {
       "id": "doogee_fire_6",
       "name": "Doogee Fire 6",
-      "price": "৳42000",
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/doogee-fire-6",
       "image_url": "https://www.mobiledokan.com/media/doogee-fire-6-black-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -1472,12 +1472,12 @@
     {
       "id": "doogee_fire_6_power",
       "name": "Doogee Fire 6 Power",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/doogee-fire-6-power",
       "image_url": "https://www.mobiledokan.com/media/doogee-fire-6-power-black-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -1604,12 +1604,12 @@
     {
       "id": "doogee_s200",
       "name": "DOOGEE S200",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s200",
       "image_url": "https://www.mobiledokan.com/media/doogee-s200-silver-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -1644,6 +1644,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "100 MP, Wide Angle, Primary Camera, 20 MP, Night Vision Camera, 2 MP, Macro Camera",
@@ -1655,12 +1661,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
@@ -1733,12 +1733,12 @@
     {
       "id": "doogee_blade10_max",
       "name": "Doogee Blade10 Max",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade10-max",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade10-max-black-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -1857,12 +1857,12 @@
     {
       "id": "doogee_v40_pro",
       "name": "Doogee V40 Pro",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/doogee-v40-pro",
       "image_url": "https://www.mobiledokan.com/media/doogee-v40-pro-silver-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 10, 2024",
       "variants": [],
       "specifications": {
@@ -1982,12 +1982,12 @@
     {
       "id": "doogee_v_max_pro",
       "name": "Doogee V Max Pro",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/doogee-v-max-pro",
       "image_url": "https://www.mobiledokan.com/media/doogee-v-max-pro-black-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -2115,12 +2115,12 @@
     {
       "id": "doogee_blade10",
       "name": "Doogee Blade10",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade10",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade10-black-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -2154,12 +2154,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP, Wide Angle, Primary Camera",
@@ -2170,6 +2164,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2236,12 +2236,12 @@
     {
       "id": "doogee_blade10_pro",
       "name": "Doogee Blade10 Pro",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade10-pro",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade10-pro-red-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -2358,12 +2358,12 @@
     {
       "id": "doogee_blade10_ultra",
       "name": "Doogee Blade10 Ultra",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/doogee-blade10-ultra",
       "image_url": "https://www.mobiledokan.com/media/doogee-blade10-ultra-black-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -2482,12 +2482,12 @@
     {
       "id": "doogee_v_max_plus",
       "name": "Doogee V Max Plus",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/doogee-v-max-plus",
       "image_url": "https://www.mobiledokan.com/media/doogee-v-max-plus-obsidian-black-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -2522,13 +2522,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.8"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "200 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/1.8, Night Vision Camera, 8 MP, f/2.2, 125˚ Ultra-Wide Angle Camera",
@@ -2542,6 +2535,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/1.8, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.8"
           }
         },
         "Design": {
@@ -2616,12 +2616,12 @@
     {
       "id": "doogee_s_punk",
       "name": "Doogee S Punk",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s-punk",
       "image_url": "https://www.mobiledokan.com/media/doogee-s-punk-black-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -2747,12 +2747,12 @@
     {
       "id": "doogee_s_cyber",
       "name": "Doogee S Cyber",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/doogee-s-cyber",
       "image_url": "https://www.mobiledokan.com/media/doogee-s-cyber-red-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 24, 2024",
       "variants": [],
       "specifications": {
@@ -2786,12 +2786,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera",
@@ -2802,6 +2796,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2875,12 +2875,12 @@
     {
       "id": "doogee_n55_plus",
       "name": "Doogee N55 Plus",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/doogee-n55-plus",
       "image_url": "https://www.mobiledokan.com/media/doogee-n55-plus-silver-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "March 3, 2025",
       "variants": [],
       "specifications": {
@@ -2994,12 +2994,12 @@
     {
       "id": "doogee_dk10",
       "name": "Doogee DK10",
-      "price": "৳60000",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/doogee-dk10",
       "image_url": "https://www.mobiledokan.com/media/doogee-dk10-leather-black-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
       "specifications": {
@@ -3131,12 +3131,12 @@
     {
       "id": "doogee_v20s",
       "name": "Doogee V20S",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/doogee-v20s",
       "image_url": "https://www.mobiledokan.com/media/doogee-v20s-orange-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "October 10, 2024",
       "variants": [],
       "specifications": {
@@ -3262,12 +3262,12 @@
     {
       "id": "doogee_v30t",
       "name": "Doogee V30T",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/doogee-v30t",
       "image_url": "https://www.mobiledokan.com/media/doogee-v30t-gold-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:26:33",
-      "first_scraped": "2025-09-11 09:26:33",
+      "last_updated": "2025-09-14 13:53:15",
+      "first_scraped": null,
       "updated_on": "March 3, 2025",
       "variants": [],
       "specifications": {
@@ -3302,13 +3302,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/1.8, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720, 720x480",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.8"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.8, Wide Angle (90° field-of-view), Primary Camera, 20 MP f/1.8, Wide Angle Camera, 16 MP f/2.2, Wide Angle Camera",
@@ -3322,6 +3315,13 @@
             "Camera Features": "Auto Flash, Face detection,Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720, 720x480",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/1.8, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720, 720x480",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.8"
           }
         },
         "Design": {

@@ -4,22 +4,22 @@
     "name": "okapia",
     "url": "https://www.mobiledokan.com/mobile-brand/okapia",
     "image_url": null,
-    "last_updated": "2025-09-12 07:16:25",
+    "last_updated": "2025-09-14 14:01:12",
     "total_phones": 60,
     "first_scraped": "2025-09-11 09:33:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 60
   },
   "phones": [
     {
       "id": "okapia_z_4",
       "name": "Okapia Z 4",
-      "price": null,
+      "price": "7400",
       "url": "https://www.mobiledokan.com/mobile/okapia-z-4",
       "image_url": "https://www.mobiledokan.com/media/okapia-z-4-official-black-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -130,12 +130,12 @@
     {
       "id": "okapia_titan",
       "name": "Okapia Titan",
-      "price": null,
+      "price": "12700",
       "url": "https://www.mobiledokan.com/mobile/okapia-titan",
       "image_url": "https://www.mobiledokan.com/media/okapia-titan-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -239,12 +239,12 @@
     {
       "id": "okapia_x1",
       "name": "Okapia X1",
-      "price": null,
+      "price": "5390",
       "url": "https://www.mobiledokan.com/mobile/okapia-x1",
       "image_url": "https://www.mobiledokan.com/media/okapia-x1-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -274,12 +274,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP Primary Camera",
@@ -288,6 +282,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting",
             "Camera Features": "Flashlight, Face Beauty",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -343,12 +343,12 @@
     {
       "id": "okapia_kotha",
       "name": "Okapia Kotha",
-      "price": null,
+      "price": "1199",
       "url": "https://www.mobiledokan.com/mobile/okapia-kotha",
       "image_url": "https://www.mobiledokan.com/media/okapia-kotha.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 22, 2025",
       "variants": [],
       "specifications": {
@@ -418,12 +418,12 @@
     {
       "id": "okapia_energy_l",
       "name": "Okapia Energy L",
-      "price": null,
+      "price": "1199",
       "url": "https://www.mobiledokan.com/mobile/okapia-energy-l",
       "image_url": "https://www.mobiledokan.com/media/okapia-energy-l.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 21, 2024",
       "variants": [],
       "specifications": {
@@ -492,12 +492,12 @@
     {
       "id": "okapia_energy",
       "name": "Okapia Energy",
-      "price": null,
+      "price": "1280",
       "url": "https://www.mobiledokan.com/mobile/okapia-energy",
       "image_url": "https://www.mobiledokan.com/media/okapia-energy.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -568,12 +568,12 @@
     {
       "id": "okapia_king",
       "name": "Okapia King",
-      "price": null,
+      "price": "1990",
       "url": "https://www.mobiledokan.com/mobile/okapia-king",
       "image_url": "https://www.mobiledokan.com/media/okapia-king.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -643,12 +643,12 @@
     {
       "id": "okapia_asha_l",
       "name": "Okapia Asha L",
-      "price": null,
+      "price": "1280",
       "url": "https://www.mobiledokan.com/mobile/okapia-asha-l",
       "image_url": "https://www.mobiledokan.com/media/okapia-asha-l.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -717,12 +717,12 @@
     {
       "id": "okapia_signature_l",
       "name": "Okapia Signature L",
-      "price": null,
+      "price": "6250",
       "url": "https://www.mobiledokan.com/mobile/okapia-signature-l",
       "image_url": "https://www.mobiledokan.com/media/okapia-signature-l-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 6, 2024",
       "variants": [],
       "specifications": {
@@ -817,12 +817,12 @@
     {
       "id": "okapia_icon",
       "name": "Okapia ICON",
-      "price": null,
+      "price": "1450",
       "url": "https://www.mobiledokan.com/mobile/okapia-icon",
       "image_url": "https://www.mobiledokan.com/media/okapia-icon.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -891,12 +891,12 @@
     {
       "id": "okapia_mirage",
       "name": "Okapia Mirage",
-      "price": null,
+      "price": "10350",
       "url": "https://www.mobiledokan.com/mobile/okapia-mirage",
       "image_url": "https://www.mobiledokan.com/media/okapia-mirage-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -992,12 +992,12 @@
     {
       "id": "okapia_one_x",
       "name": "Okapia One X",
-      "price": null,
+      "price": "5390",
       "url": "https://www.mobiledokan.com/mobile/okapia-one-x",
       "image_url": "https://www.mobiledokan.com/media/okapia-one-x-front-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1088,12 +1088,12 @@
     {
       "id": "okapia_signature_pro",
       "name": "Okapia Signature Pro",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/okapia-signature-pro",
       "image_url": "https://www.mobiledokan.com/media/okapia-signature-pro-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 21, 2024",
       "variants": [],
       "specifications": {
@@ -1194,12 +1194,12 @@
     {
       "id": "okapia_joy",
       "name": "Okapia JOY",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/okapia-joy",
       "image_url": "https://www.mobiledokan.com/media/okapia-joy-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -1298,12 +1298,12 @@
     {
       "id": "okapia_alo",
       "name": "Okapia Alo",
-      "price": null,
+      "price": "2595",
       "url": "https://www.mobiledokan.com/mobile/okapia-alo",
       "image_url": "https://www.mobiledokan.com/media/okapia-alo-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -1399,12 +1399,12 @@
     {
       "id": "okapia_freedom",
       "name": "Okapia Freedom",
-      "price": null,
+      "price": "1990",
       "url": "https://www.mobiledokan.com/mobile/okapia-freedom",
       "image_url": "https://www.mobiledokan.com/media/okapia-freedom.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -1465,12 +1465,12 @@
     {
       "id": "okapia_hello",
       "name": "Okapia Hello",
-      "price": null,
+      "price": "880",
       "url": "https://www.mobiledokan.com/mobile/okapia-hello",
       "image_url": "https://www.mobiledokan.com/media/okapia-hello.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -1540,12 +1540,12 @@
     {
       "id": "okapia_signatur",
       "name": "Okapia Signatur",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/okapia-signatur",
       "image_url": "https://www.mobiledokan.com/media/okapia-signatur-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1645,12 +1645,12 @@
     {
       "id": "okapia_signature",
       "name": "Okapia Signature",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/okapia-signature",
       "image_url": "https://www.mobiledokan.com/media/okapia-signature-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -1747,12 +1747,12 @@
     {
       "id": "okapia_shopno",
       "name": "Okapia Shopno",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/okapia-shopno",
       "image_url": "https://www.mobiledokan.com/media/okapia-shopno-gold-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 27, 2024",
       "variants": [],
       "specifications": {
@@ -1840,12 +1840,12 @@
     {
       "id": "okapia_bondhu",
       "name": "Okapia Bondhu",
-      "price": null,
+      "price": "3290",
       "url": "https://www.mobiledokan.com/mobile/okapia-bondhu",
       "image_url": "https://www.mobiledokan.com/media/okapia-bondhu-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 12, 2025",
       "variants": [],
       "specifications": {
@@ -1873,10 +1873,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "2 MP Primary Camera",
@@ -1886,6 +1882,10 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -1944,12 +1944,12 @@
     {
       "id": "okapia_tiger",
       "name": "Okapia Tiger",
-      "price": null,
+      "price": "1390",
       "url": "https://www.mobiledokan.com/mobile/okapia-tiger",
       "image_url": "https://www.mobiledokan.com/media/okapia-tiger.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -2019,12 +2019,12 @@
     {
       "id": "okapia_evolution",
       "name": "Okapia Evolution",
-      "price": null,
+      "price": "10490",
       "url": "https://www.mobiledokan.com/mobile/okapia-evolution",
       "image_url": "https://www.mobiledokan.com/media/okapia-evolution-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -2119,12 +2119,12 @@
     {
       "id": "okapia_infinity_x",
       "name": "Okapia Infinity X",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/okapia-infinity-x",
       "image_url": "https://www.mobiledokan.com/media/okapia-infinity-x-black-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -2223,12 +2223,12 @@
     {
       "id": "okapia_inspire",
       "name": "Okapia Inspire",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/okapia-inspire",
       "image_url": "https://www.mobiledokan.com/media/okapia-inspire-black-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -2328,12 +2328,12 @@
     {
       "id": "okapia_magic_pro",
       "name": "Okapia Magic Pro",
-      "price": null,
+      "price": "6490",
       "url": "https://www.mobiledokan.com/mobile/okapia-magic-pro",
       "image_url": "https://www.mobiledokan.com/media/okapia-magic-pro-white-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 21, 2024",
       "variants": [],
       "specifications": {
@@ -2429,12 +2429,12 @@
     {
       "id": "okapia_infinity",
       "name": "Okapia Infinity",
-      "price": null,
+      "price": "7490",
       "url": "https://www.mobiledokan.com/mobile/okapia-infinity",
       "image_url": "https://www.mobiledokan.com/media/okapia-infinity-black-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -2531,12 +2531,12 @@
     {
       "id": "okapia_magic_plus",
       "name": "Okapia Magic Plus",
-      "price": null,
+      "price": "5590",
       "url": "https://www.mobiledokan.com/mobile/okapia-magic-plus",
       "image_url": "https://www.mobiledokan.com/media/okapia-magic-plus-black-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -2636,12 +2636,12 @@
     {
       "id": "okapia_ultima",
       "name": "Okapia Ultima",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/okapia-ultima",
       "image_url": "https://www.mobiledokan.com/media/okapia-ultima-black-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -2741,12 +2741,12 @@
     {
       "id": "okapia_matrix",
       "name": "Okapia Matrix",
-      "price": null,
+      "price": "7590",
       "url": "https://www.mobiledokan.com/mobile/okapia-matrix",
       "image_url": "https://www.mobiledokan.com/media/okapia-matrix-black-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -2849,12 +2849,12 @@
     {
       "id": "okapia_silk",
       "name": "Okapia Silk",
-      "price": null,
+      "price": "1499",
       "url": "https://www.mobiledokan.com/mobile/okapia-silk",
       "image_url": "https://www.mobiledokan.com/media/okapia-silk.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 19, 2025",
       "variants": [],
       "specifications": {
@@ -2919,12 +2919,12 @@
     {
       "id": "okapia_bijoy",
       "name": "Okapia Bijoy",
-      "price": null,
+      "price": "1250",
       "url": "https://www.mobiledokan.com/mobile/okapia-bijoy",
       "image_url": "https://www.mobiledokan.com/media/okapia-bijoy.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -2994,12 +2994,12 @@
     {
       "id": "okapia_classic_plus",
       "name": "Okapia Classic Plus",
-      "price": null,
+      "price": "1290",
       "url": "https://www.mobiledokan.com/mobile/okapia-classic-plus",
       "image_url": "https://www.mobiledokan.com/media/okapia-classic-plus.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -3068,12 +3068,12 @@
     {
       "id": "okapia_power_plus",
       "name": "Okapia Power Plus",
-      "price": null,
+      "price": "1550",
       "url": "https://www.mobiledokan.com/mobile/okapia-power-plus",
       "image_url": "https://www.mobiledokan.com/media/okapia-power-plus.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 19, 2025",
       "variants": [],
       "specifications": {
@@ -3139,12 +3139,12 @@
     {
       "id": "okapia_maa",
       "name": "Okapia MAA",
-      "price": null,
+      "price": "2590",
       "url": "https://www.mobiledokan.com/mobile/okapia-maa",
       "image_url": "https://www.mobiledokan.com/media/okapia-maa.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 22, 2025",
       "variants": [],
       "specifications": {
@@ -3214,12 +3214,12 @@
     {
       "id": "okapia_magic",
       "name": "Okapia Magic",
-      "price": null,
+      "price": "5490",
       "url": "https://www.mobiledokan.com/mobile/okapia-magic",
       "image_url": "https://www.mobiledokan.com/media/okapia-magic-front-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -3316,12 +3316,12 @@
     {
       "id": "okapia_style",
       "name": "Okapia Style",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/okapia-style",
       "image_url": "https://www.mobiledokan.com/media/okapia-style-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3415,12 +3415,12 @@
     {
       "id": "okapia_infinity_pro",
       "name": "Okapia Infinity Pro",
-      "price": null,
+      "price": "6890",
       "url": "https://www.mobiledokan.com/mobile/okapia-infinity-pro",
       "image_url": "https://www.mobiledokan.com/media/okapia-infinity-pro-black-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -3522,12 +3522,12 @@
     {
       "id": "okapia_spark",
       "name": "Okapia Spark",
-      "price": null,
+      "price": "3790",
       "url": "https://www.mobiledokan.com/mobile/okapia-spark",
       "image_url": "https://www.mobiledokan.com/media/okapia-spark-official-white-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -3632,12 +3632,12 @@
     {
       "id": "okapia_champion",
       "name": "Okapia Champion",
-      "price": null,
+      "price": "1290",
       "url": "https://www.mobiledokan.com/mobile/okapia-champion",
       "image_url": "https://www.mobiledokan.com/media/okapia-champion.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 23, 2025",
       "variants": [],
       "specifications": {
@@ -3703,12 +3703,12 @@
     {
       "id": "okapia_innova",
       "name": "Okapia Innova",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/okapia-innova",
       "image_url": "https://www.mobiledokan.com/media/okapia-innova-official-grey-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -3818,12 +3818,12 @@
     {
       "id": "okapia_music_man",
       "name": "Okapia Music Man",
-      "price": null,
+      "price": "1390",
       "url": "https://www.mobiledokan.com/mobile/okapia-music-man",
       "image_url": "https://www.mobiledokan.com/media/okapia-music-man.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -3890,12 +3890,12 @@
     {
       "id": "okapia_speed",
       "name": "Okapia Speed",
-      "price": null,
+      "price": "890",
       "url": "https://www.mobiledokan.com/mobile/okapia-speed",
       "image_url": "https://www.mobiledokan.com/media/okapia-speed.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -3961,12 +3961,12 @@
     {
       "id": "okapia_classic",
       "name": "Okapia Classic",
-      "price": null,
+      "price": "1460",
       "url": "https://www.mobiledokan.com/mobile/okapia-classic",
       "image_url": "https://www.mobiledokan.com/media/okapia-classic.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -4030,12 +4030,12 @@
     {
       "id": "okapia_life",
       "name": "Okapia Life",
-      "price": null,
+      "price": "3490",
       "url": "https://www.mobiledokan.com/mobile/okapia-life",
       "image_url": "https://www.mobiledokan.com/media/okapia-life-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -4125,12 +4125,12 @@
     {
       "id": "okapia_easy",
       "name": "Okapia Easy",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/okapia-easy",
       "image_url": "https://www.mobiledokan.com/media/okapia-easy-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 24, 2025",
       "variants": [],
       "specifications": {
@@ -4158,10 +4158,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "3 MP Primary Camera",
@@ -4171,6 +4167,10 @@
             "Camera Features": "Flashlight",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -4223,12 +4223,12 @@
     {
       "id": "okapia_sensation",
       "name": "Okapia Sensation",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/okapia-sensation",
       "image_url": "https://www.mobiledokan.com/media/okapia-sensation-black-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 27, 2024",
       "variants": [],
       "specifications": {
@@ -4321,12 +4321,12 @@
     {
       "id": "okapia_fusion",
       "name": "Okapia Fusion",
-      "price": null,
+      "price": "8490",
       "url": "https://www.mobiledokan.com/mobile/okapia-fusion",
       "image_url": "https://www.mobiledokan.com/media/okapia-fusion-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 12, 2025",
       "variants": [],
       "specifications": {
@@ -4416,12 +4416,12 @@
     {
       "id": "okapia_storm",
       "name": "Okapia Storm",
-      "price": null,
+      "price": "6290",
       "url": "https://www.mobiledokan.com/mobile/okapia-storm",
       "image_url": "https://www.mobiledokan.com/media/okapia-storm-front-side-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "February 12, 2025",
       "variants": [],
       "specifications": {
@@ -4449,6 +4449,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP Primary Camera",
@@ -4459,10 +4463,6 @@
             "Camera Features": "Flashlight, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -4513,12 +4513,12 @@
     {
       "id": "okapia_dream",
       "name": "Okapia Dream",
-      "price": null,
+      "price": "1790",
       "url": "https://www.mobiledokan.com/mobile/okapia-dream",
       "image_url": "https://www.mobiledokan.com/media/okapia-dream.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 19, 2024",
       "variants": [],
       "specifications": {
@@ -4585,12 +4585,12 @@
     {
       "id": "okapia_butterfly",
       "name": "Okapia Butterfly",
-      "price": null,
+      "price": "1150",
       "url": "https://www.mobiledokan.com/mobile/okapia-butterfly",
       "image_url": "https://www.mobiledokan.com/media/okapia-butterfly.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 20, 2024",
       "variants": [],
       "specifications": {
@@ -4658,12 +4658,12 @@
     {
       "id": "okapia_hero",
       "name": "Okapia Hero",
-      "price": null,
+      "price": "899",
       "url": "https://www.mobiledokan.com/mobile/okapia-hero",
       "image_url": "https://www.mobiledokan.com/media/okapia-hero.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [],
       "specifications": {
@@ -4731,12 +4731,12 @@
     {
       "id": "okapia_elite",
       "name": "Okapia Elite",
-      "price": null,
+      "price": "12490",
       "url": "https://www.mobiledokan.com/mobile/okapia-elite",
       "image_url": "https://www.mobiledokan.com/media/okapia-elite-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -4837,12 +4837,12 @@
     {
       "id": "okapia_xcite",
       "name": "Okapia XCITE",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/okapia-xcite",
       "image_url": "https://www.mobiledokan.com/media/okapia-xcite-front-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "November 19, 2024",
       "variants": [],
       "specifications": {
@@ -4940,12 +4940,12 @@
     {
       "id": "okapia_style_x",
       "name": "Okapia Style X",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/okapia-style-x",
       "image_url": "https://www.mobiledokan.com/media/okapia-style-x-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -5046,12 +5046,12 @@
     {
       "id": "okapia_striker",
       "name": "Okapia Striker",
-      "price": null,
+      "price": "2990",
       "url": "https://www.mobiledokan.com/mobile/okapia-striker",
       "image_url": "https://www.mobiledokan.com/media/okapia-striker-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -5144,12 +5144,12 @@
     {
       "id": "okapia_magic_x",
       "name": "Okapia Magic X",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/okapia-magic-x",
       "image_url": "https://www.mobiledokan.com/media/okapia-magic-x-official-white-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -5256,12 +5256,12 @@
     {
       "id": "okapia_epic",
       "name": "Okapia Epic",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/okapia-epic",
       "image_url": "https://www.mobiledokan.com/media/okapia-epic.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -5359,12 +5359,12 @@
     {
       "id": "okapia_desh_x",
       "name": "Okapia Desh X",
-      "price": null,
+      "price": "3390",
       "url": "https://www.mobiledokan.com/mobile/okapia-desh-x",
       "image_url": "https://www.mobiledokan.com/media/okapia-desh-x-white-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "December 27, 2024",
       "variants": [],
       "specifications": {
@@ -5461,12 +5461,12 @@
     {
       "id": "okapia_desh",
       "name": "Okapia Desh",
-      "price": null,
+      "price": "3290",
       "url": "https://www.mobiledokan.com/mobile/okapia-desh",
       "image_url": "https://www.mobiledokan.com/media/okapia-desh-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:33:53",
-      "first_scraped": "2025-09-11 09:33:53",
+      "last_updated": "2025-09-14 14:01:12",
+      "first_scraped": null,
       "updated_on": "September 7, 2024",
       "variants": [],
       "specifications": {

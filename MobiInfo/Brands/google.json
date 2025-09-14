@@ -4,22 +4,22 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:33",
+    "last_updated": "2025-09-14 13:01:50",
     "total_phones": 53,
     "first_scraped": "2025-09-11 08:52:18",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 53
   },
   "phones": [
     {
       "id": "google_pixel_10",
       "name": "Google Pixel 10",
-      "price": null,
+      "price": "105000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-indigo-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -166,12 +166,12 @@
     {
       "id": "google_pixel_10_pro_xl",
       "name": "Google Pixel 10 Pro XL",
-      "price": null,
+      "price": "154000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-xl-jade-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -319,12 +319,12 @@
     {
       "id": "google_pixel_10_256gb",
       "name": "Google Pixel 10 (256GB)",
-      "price": null,
+      "price": "112000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-indigo-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -471,12 +471,12 @@
     {
       "id": "google_pixel_10_pro_256gb",
       "name": "Google Pixel 10 Pro (256GB)",
-      "price": null,
+      "price": "143000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-moonstone-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 2, 2025",
       "variants": [
         {
@@ -629,12 +629,12 @@
     {
       "id": "google_pixel_10_pro_512gb",
       "name": "Google Pixel 10 Pro (512GB)",
-      "price": null,
+      "price": "167000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-moonstone-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -687,14 +687,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Dual Pixel PD autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 48 MP, f/2.8, Telephoto Camera, 48 MP, f/1.7, Ultra-Wide Angle Camera",
@@ -709,6 +701,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Dual Video Recording, Slo-motion, Video HDR, Video Pro Mode, Macro Video, Audio Zoom, Stereo recording",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "42 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Dual Pixel PD autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -787,12 +787,12 @@
     {
       "id": "google_pixel_10_pro_xl_512gb",
       "name": "Google Pixel 10 Pro XL (512GB)",
-      "price": null,
+      "price": "176000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro-xl-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-xl-jade-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -940,12 +940,12 @@
     {
       "id": "google_pixel_10_pro",
       "name": "Google Pixel 10 Pro",
-      "price": null,
+      "price": "137000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-moonstone-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 2, 2025",
       "variants": [
         {
@@ -1098,12 +1098,12 @@
     {
       "id": "google_pixel_10_pro_fold",
       "name": "Google Pixel 10 Pro Fold",
-      "price": "৳220000",
+      "price": "220000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-10-pro-fold",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-10-pro-fold-grey-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "August 9, 2025",
       "variants": [],
       "specifications": {
@@ -1141,13 +1141,6 @@
           "Features": "Cover display:\r\nOLED, 120Hz, HDR, Corning Gorilla Glass Victus 2\r\n6.4 inches, 1080 x 2424 pixels\r\n1800 nits (HBM), 3000 nits (peak)"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10 MP, f/2.2, Wide Angle, Primary Camera\r\nCover camera:\r\n10 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.7, Wide Angle, Primary Camera, 10.8 MP, f/3.1, Telephoto Camera, 10.5 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1162,6 +1155,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Dual Video Recording, Slo-motion, Video HDR, Video Pro Mode, Macro Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10 MP, f/2.2, Wide Angle, Primary Camera\r\nCover camera:\r\n10 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1224,12 +1224,12 @@
     {
       "id": "google_pixel_9a",
       "name": "Google Pixel 9a",
-      "price": "৳61000",
+      "price": "61000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9a-peony-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 5, 2025",
       "variants": [],
       "specifications": {
@@ -1363,12 +1363,12 @@
     {
       "id": "google_pixel_9_pro",
       "name": "Google Pixel 9 Pro",
-      "price": "৳120000",
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
       "specifications": {
@@ -1505,12 +1505,12 @@
     {
       "id": "google_pixel_9_pro_fold",
       "name": "Google Pixel 9 Pro Fold",
-      "price": null,
+      "price": "225000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-fold-obsidian-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 30, 2024",
       "variants": [
         {
@@ -1658,12 +1658,12 @@
     {
       "id": "google_pixel_9_pro_fold_512gb",
       "name": "Google Pixel 9 Pro Fold (512GB)",
-      "price": null,
+      "price": "290000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-fold-obsidian-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 16, 2024",
       "variants": [
         {
@@ -1712,6 +1712,14 @@
           "Features": "Cover display:\r\nOLED, 120Hz, HDR, Corning Gorilla Glass Victus 2\r\n6.3 inches, 1080 x 2424 pixels, 20:9 ratio, 422 ppi\r\n1800 nits (HBM), 2700 nits (peak)"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10 MP f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Dual Pixel PD autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.7, Wide Angle (82° field-of-view), Primary Camera, 10.5 MP f/2.2, Ultra-Wide Angle Camera, 10.8 MP f/3.1, Telephoto Camera",
@@ -1726,14 +1734,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Dual Video Recording, Slo-motion, Video HDR, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10 MP f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Dual Pixel PD autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1811,12 +1811,12 @@
     {
       "id": "google_pixel_9",
       "name": "Google Pixel 9",
-      "price": null,
+      "price": "68999",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-peony-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -1963,12 +1963,12 @@
     {
       "id": "google_pixel_9_pro_xl_256gb",
       "name": "Google Pixel 9 Pro XL (256GB)",
-      "price": null,
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [
         {
@@ -2118,12 +2118,12 @@
     {
       "id": "google_pixel_9_pro_xl_512gb",
       "name": "Google Pixel 9 Pro XL (512GB)",
-      "price": null,
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-official-image_1.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [
         {
@@ -2176,13 +2176,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "42 MP, f/2.2, Ultra-wide Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Wide Angle Camera, 48 MP, f/2.8, Periscope Telephoto Camera, 48 MP, f/1.7, Ultra-Wide Camera",
@@ -2196,6 +2189,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "42 MP, f/2.2, Ultra-wide Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2273,12 +2273,12 @@
     {
       "id": "google_pixel_9_256gb",
       "name": "Google Pixel 9 (256GB)",
-      "price": null,
+      "price": "74999",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-peony-official-image_1.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -2327,13 +2327,6 @@
           "Features": "Always-on display"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 48 MP, f/1.7, Ultra-Wide Angle Camera",
@@ -2348,6 +2341,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10.5 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2425,12 +2425,12 @@
     {
       "id": "google_pixel_9_pro_xl",
       "name": "Google Pixel 9 Pro XL",
-      "price": null,
+      "price": "99000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-image_1.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [
         {
@@ -2580,12 +2580,12 @@
     {
       "id": "google_pixel_8a",
       "name": "Google Pixel 8a",
-      "price": "৳48000",
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [],
       "specifications": {
@@ -2720,12 +2720,12 @@
     {
       "id": "google_pixel_8",
       "name": "Google Pixel 8",
-      "price": null,
+      "price": "57500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8",
       "image_url": "https://www.mobiledokan.com/media/17108416653jwsG.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [
         {
@@ -2874,12 +2874,12 @@
     {
       "id": "google_pixel_8_256gb",
       "name": "Google Pixel 8 (256GB)",
-      "price": null,
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "August 4, 2024",
       "variants": [
         {
@@ -3028,12 +3028,12 @@
     {
       "id": "google_pixel_8_pro_256gb",
       "name": "Google Pixel 8 Pro (256GB)",
-      "price": null,
+      "price": "89000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -3086,14 +3086,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.68, Wide Angle (82° field-of-view), Primary Camera, 48 MP f/1.95, Ultra-Wide Angle Camera, 48 MP f/2.8, Telephoto Camera",
@@ -3109,6 +3101,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10.5 MP f/2.2, Ultra-Wide Angle, Primary Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3187,12 +3187,12 @@
     {
       "id": "google_pixel_8_pro_512gb",
       "name": "Google Pixel 8 Pro (512GB)",
-      "price": null,
+      "price": "142000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -3346,12 +3346,12 @@
     {
       "id": "google_pixel_8_pro",
       "name": "Google Pixel 8 Pro",
-      "price": null,
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -3505,12 +3505,12 @@
     {
       "id": "google_pixel_fold",
       "name": "Google Pixel Fold",
-      "price": null,
+      "price": "190000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-fold",
       "image_url": "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "March 18, 2025",
       "variants": [
         {
@@ -3658,12 +3658,12 @@
     {
       "id": "google_pixel_fold_12gb512gb",
       "name": "Google Pixel Fold (12GB+512GB)",
-      "price": null,
+      "price": "195000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-fold-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "March 18, 2025",
       "variants": [
         {
@@ -3810,12 +3810,12 @@
     {
       "id": "google_pixel_7a",
       "name": "Google Pixel 7a",
-      "price": null,
+      "price": "39000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 13, 2024",
       "variants": [
         {
@@ -3962,12 +3962,12 @@
     {
       "id": "google_pixel_7_pro_512gb",
       "name": "Google Pixel 7 Pro (512GB)",
-      "price": null,
+      "price": "56500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-pro-hazel-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 1, 2025",
       "variants": [
         {
@@ -4122,12 +4122,12 @@
     {
       "id": "google_pixel_7",
       "name": "Google Pixel 7",
-      "price": null,
+      "price": "43500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7",
       "image_url": "https://www.mobiledokan.com/media/1710049030YCxoz.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "August 12, 2024",
       "variants": [
         {
@@ -4274,12 +4274,12 @@
     {
       "id": "google_pixel_7_256gb",
       "name": "Google Pixel 7 (256GB)",
-      "price": null,
+      "price": "67000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "June 28, 2024",
       "variants": [
         {
@@ -4426,12 +4426,12 @@
     {
       "id": "google_pixel_7_pro",
       "name": "Google Pixel 7 Pro",
-      "price": null,
+      "price": "49500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-pro-obsidian-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 1, 2025",
       "variants": [
         {
@@ -4586,12 +4586,12 @@
     {
       "id": "google_pixel_7_pro_256gb",
       "name": "Google Pixel 7 Pro (256GB)",
-      "price": null,
+      "price": "53500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-pro-gray-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 1, 2025",
       "variants": [
         {
@@ -4746,12 +4746,12 @@
     {
       "id": "google_pixel_6a",
       "name": "Google Pixel 6A",
-      "price": null,
+      "price": "38000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-6a-charcoal-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "August 8, 2024",
       "variants": [
         {
@@ -4893,12 +4893,12 @@
     {
       "id": "google_pixel_6",
       "name": "Google Pixel 6",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-6-green-image_1.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "April 21, 2025",
       "variants": [
         {
@@ -4945,14 +4945,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle (82° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera",
@@ -4968,6 +4960,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5046,12 +5046,12 @@
     {
       "id": "google_pixel_6_256gb",
       "name": "Google Pixel 6 (256GB)",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-6-green-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "April 21, 2025",
       "variants": [
         {
@@ -5098,6 +5098,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle (82° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera",
@@ -5113,14 +5121,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5198,12 +5198,12 @@
     {
       "id": "google_pixel_6_pro",
       "name": "Google Pixel 6 Pro",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6-pro",
       "image_url": "https://www.mobiledokan.com/media/1711549617mJCWW.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 23, 2025",
       "variants": [],
       "specifications": {
@@ -5342,12 +5342,12 @@
     {
       "id": "google_pixel_5a_5g",
       "name": "Google Pixel 5a 5G",
-      "price": null,
+      "price": "43500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-5a-5g",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 16, 2024",
       "variants": [
         {
@@ -5481,12 +5481,12 @@
     {
       "id": "google_pixel_4a_5g",
       "name": "Google Pixel 4a 5G",
-      "price": null,
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4a-5g",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4a-5g-black-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -5627,12 +5627,12 @@
     {
       "id": "google_pixel_4a_5g_8gb_ram",
       "name": "Google Pixel 4a 5G (8GB RAM)",
-      "price": null,
+      "price": "53000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4a-5g-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4a-5g-black-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -5773,12 +5773,12 @@
     {
       "id": "google_pixel_5",
       "name": "Google Pixel 5",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-5",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-5-sorta-sage-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "September 7, 2024",
       "variants": [],
       "specifications": {
@@ -5913,12 +5913,12 @@
     {
       "id": "google_pixel_4a",
       "name": "Google Pixel 4a",
-      "price": null,
+      "price": "24000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4a-barely-blue-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 13, 2024",
       "variants": [
         {
@@ -6054,12 +6054,12 @@
     {
       "id": "google_pixel_4_xl",
       "name": "Google Pixel 4 XL",
-      "price": null,
+      "price": "24500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-xl.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "May 9, 2024",
       "variants": [
         {
@@ -6192,12 +6192,12 @@
     {
       "id": "google_pixel_4_xl_128gb",
       "name": "Google Pixel 4 XL (128GB)",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4-xl-128gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-xl.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "June 30, 2024",
       "variants": [
         {
@@ -6329,12 +6329,12 @@
     {
       "id": "google_pixel_4_128gb",
       "name": "Google Pixel 4 (128GB)",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4-128gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-black-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "November 10, 2024",
       "variants": [
         {
@@ -6475,12 +6475,12 @@
     {
       "id": "google_pixel_4",
       "name": "Google Pixel 4",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-black-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "November 9, 2024",
       "variants": [
         {
@@ -6526,6 +6526,14 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12.2 MP f/1.7, Primary Camera, 16 MP f/2.4, Telephoto Camera",
@@ -6540,14 +6548,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160 , 1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -6621,12 +6621,12 @@
     {
       "id": "google_pixel_3a_xl",
       "name": "Google Pixel 3a XL",
-      "price": "৳19500",
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3a-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3a-xl-white-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -6756,12 +6756,12 @@
     {
       "id": "google_pixel_3a",
       "name": "Google Pixel 3a",
-      "price": null,
+      "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3-clearly-white-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 9, 2024",
       "variants": [
         {
@@ -6896,12 +6896,12 @@
     {
       "id": "google_pixel_3_xl",
       "name": "Google Pixel 3 XL",
-      "price": null,
+      "price": "23000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3-xl-just-black-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 20, 2024",
       "variants": [
         {
@@ -7048,12 +7048,12 @@
     {
       "id": "google_pixel_3_xl_128gb",
       "name": "Google Pixel 3 XL (128GB)",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3-xl-128gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3-xl-just-black-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [
         {
@@ -7100,6 +7100,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP f/2.2, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12.2 MP f/1.8, Wide Angle, Primary Camera",
@@ -7114,14 +7122,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP f/2.2, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -7199,12 +7199,12 @@
     {
       "id": "google_pixel_3",
       "name": "Google Pixel 3",
-      "price": null,
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3-clearly-white-official-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "July 9, 2024",
       "variants": [
         {
@@ -7344,12 +7344,12 @@
     {
       "id": "google_pixel_2",
       "name": "Google Pixel 2",
-      "price": null,
+      "price": "13500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-2",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -7495,12 +7495,12 @@
     {
       "id": "google_pixel_2_128gb",
       "name": "Google Pixel 2 (128GB)",
-      "price": null,
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-2-128gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -7646,12 +7646,12 @@
     {
       "id": "google_pixel_2_xl",
       "name": "Google Pixel 2 XL",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-2-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-2-xl-white-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -7784,12 +7784,12 @@
     {
       "id": "google_pixel",
       "name": "Google Pixel",
-      "price": null,
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-black-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 08:52:18",
-      "first_scraped": "2025-09-11 08:52:18",
+      "last_updated": "2025-09-14 13:01:50",
+      "first_scraped": null,
       "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {

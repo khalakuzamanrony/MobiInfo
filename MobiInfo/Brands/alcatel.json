@@ -4,22 +4,22 @@
     "name": "alcatel",
     "url": "https://www.mobiledokan.com/mobile-brand/alcatel",
     "image_url": null,
-    "last_updated": "2025-09-12 07:11:11",
+    "last_updated": "2025-09-14 13:55:35",
     "total_phones": 54,
     "first_scraped": "2025-09-11 09:27:43",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 54
   },
   "phones": [
     {
       "id": "alcatel_3_2025",
       "name": "Alcatel 3 (2025)",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/alcatel-3-2025",
       "image_url": "https://www.mobiledokan.com/media/alcatel-3-2025-teal-blue-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
       "specifications": {
@@ -141,12 +141,12 @@
     {
       "id": "alcatel_go_flip_3",
       "name": "Alcatel Go Flip 3",
-      "price": null,
+      "price": "9000",
       "url": "https://www.mobiledokan.com/mobile/alcatel-go-flip-3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-go-flip-3-prime-black-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -234,12 +234,12 @@
     {
       "id": "alcatel_7",
       "name": "Alcatel 7",
-      "price": null,
+      "price": "15500",
       "url": "https://www.mobiledokan.com/mobile/alcatel-7",
       "image_url": "https://www.mobiledokan.com/media/alcatel-7-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -369,12 +369,12 @@
     {
       "id": "alcatel_1054d",
       "name": "Alcatel 1054D",
-      "price": null,
+      "price": "1149",
       "url": "https://www.mobiledokan.com/mobile/alcatel-1054d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-1054d-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -450,12 +450,12 @@
     {
       "id": "alcatel_2002d",
       "name": "Alcatel 2002D",
-      "price": null,
+      "price": "1190",
       "url": "https://www.mobiledokan.com/mobile/alcatel-2002d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-2002d-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -532,12 +532,12 @@
     {
       "id": "alcatel_a3",
       "name": "Alcatel A3",
-      "price": null,
+      "price": "9500",
       "url": "https://www.mobiledokan.com/mobile/alcatel-a3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-a3-official-black-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -660,12 +660,12 @@
     {
       "id": "alcatel_a5_led",
       "name": "Alcatel A5 LED",
-      "price": null,
+      "price": "16499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-a5-led",
       "image_url": "https://www.mobiledokan.com/media/alcatel-a5-led-official-black-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -700,13 +700,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
@@ -718,6 +711,13 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Flash": "LED Flash",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -787,12 +787,12 @@
     {
       "id": "alcatel_x1",
       "name": "Alcatel X1",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-x1",
       "image_url": "https://www.mobiledokan.com/media/alcatel-x1-white-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -911,12 +911,12 @@
     {
       "id": "alcatel_idol_4",
       "name": "Alcatel Idol 4",
-      "price": null,
+      "price": "22999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-4",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-4-official-dark-gray-back-image-2.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1042,12 +1042,12 @@
     {
       "id": "alcatel_pixi_4_5",
       "name": "Alcatel Pixi 4 (5)",
-      "price": null,
+      "price": "5190",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pixi-4-5-",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pixi-4-6-official-black-back-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1162,12 +1162,12 @@
     {
       "id": "alcatel_pop_3_55",
       "name": "Alcatel Pop 3 (5.5)",
-      "price": null,
+      "price": "7299",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-3-5-5",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-3-55-official-gold-side-image-2.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1199,6 +1199,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -1209,12 +1215,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -1281,12 +1281,12 @@
     {
       "id": "alcatel_pixi_4_6",
       "name": "Alcatel Pixi 4 (6)",
-      "price": null,
+      "price": "6799",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pixi-4-6",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pixi-4-6-silver-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -1404,12 +1404,12 @@
     {
       "id": "alcatel_flash_2",
       "name": "Alcatel Flash 2",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-flash-2",
       "image_url": "https://www.mobiledokan.com/media/alcatel-flash-2-official-volcanic-grey-back-image-2.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1533,12 +1533,12 @@
     {
       "id": "alcatel_pop_up",
       "name": "Alcatel Pop Up",
-      "price": null,
+      "price": "8499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-up",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-up-official-black-front-image-2.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1655,12 +1655,12 @@
     {
       "id": "alcatel_onetouch_2007d",
       "name": "Alcatel Onetouch 2007D",
-      "price": null,
+      "price": "2599",
       "url": "https://www.mobiledokan.com/mobile/alcatel-onetouch-2007d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-2007d-blak-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "November 30, 2024",
       "variants": [],
       "specifications": {
@@ -1736,12 +1736,12 @@
     {
       "id": "alcatel_one_touch_815_d",
       "name": "Alcatel One Touch 815 D",
-      "price": null,
+      "price": "3499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-815-d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-815-d-black-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 1, 2024",
       "variants": [],
       "specifications": {
@@ -1825,12 +1825,12 @@
     {
       "id": "alcatel_pop_star",
       "name": "Alcatel POP Star",
-      "price": null,
+      "price": "8499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-star",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-star-official-white-image-2.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1949,12 +1949,12 @@
     {
       "id": "alcatel_one_touch_flash",
       "name": "Alcatel One Touch Flash",
-      "price": null,
+      "price": "8888",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-flash",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-flash-gray-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 1, 2024",
       "variants": [],
       "specifications": {
@@ -2066,12 +2066,12 @@
     {
       "id": "alcatel_fire_c_2g",
       "name": "Alcatel Fire C 2G",
-      "price": null,
+      "price": "3299",
       "url": "https://www.mobiledokan.com/mobile/alcatel-fire-c-2g",
       "image_url": "https://www.mobiledokan.com/media/alcatel-fire-c-2g-official-bluish-black-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -2186,12 +2186,12 @@
     {
       "id": "alcatel_pop_s3",
       "name": "Alcatel Pop S3",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-s3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-s3-red-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [],
       "specifications": {
@@ -2224,6 +2224,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -2232,10 +2236,6 @@
             "Zoom": "Digital Zoom",
             "Video Recording": "720p",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -2297,12 +2297,12 @@
     {
       "id": "alcatel_pop_d5",
       "name": "Alcatel Pop D5",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-d5",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-d5-official-platinum-silver-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -2417,12 +2417,12 @@
     {
       "id": "alcatel_pop_d1",
       "name": "Alcatel Pop D1",
-      "price": null,
+      "price": "5999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-d1",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-d1-official-midnight-blue-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -2454,10 +2454,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "VGA, Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "2 MP, Wide Angle, Primary Camera",
@@ -2470,6 +2466,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "VGA, Camera"
           }
         },
         "Design": {
@@ -2538,12 +2538,12 @@
     {
       "id": "alcatel_1060d",
       "name": "Alcatel 1060D",
-      "price": null,
+      "price": "1249",
       "url": "https://www.mobiledokan.com/mobile/alcatel-1060d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-1060d-black-with-white-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {
@@ -2608,12 +2608,12 @@
     {
       "id": "alcatel_one_touch_3020d",
       "name": "Alcatel One Touch 3020D",
-      "price": null,
+      "price": "3049",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-3020d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-3020d-black-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [],
       "specifications": {
@@ -2690,12 +2690,12 @@
     {
       "id": "alcatel_one_touch_pop_d1",
       "name": "Alcatel One Touch Pop D1",
-      "price": null,
+      "price": "5999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-d1",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-d1-black-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [],
       "specifications": {
@@ -2788,12 +2788,12 @@
     {
       "id": "alcatel_one_touch_pop_s9",
       "name": "Alcatel One Touch Pop S9",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-s9",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-s9-brown-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [],
       "specifications": {
@@ -2895,12 +2895,12 @@
     {
       "id": "alcatel_pop_d3",
       "name": "Alcatel Pop D3",
-      "price": null,
+      "price": "3499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-d3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-d3-official-midnight-blue-side-image-2.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3014,12 +3014,12 @@
     {
       "id": "alcatel_idol_2",
       "name": "Alcatel Idol 2",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-2",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-2-chocolate-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -3132,12 +3132,12 @@
     {
       "id": "alcatel_one_touch_idol_alpha",
       "name": "Alcatel One Touch Idol Alpha",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-idol-alpha",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-idol-alpha-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "November 30, 2024",
       "variants": [],
       "specifications": {
@@ -3169,6 +3169,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -3180,10 +3184,6 @@
             "Camera Features": "Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3243,12 +3243,12 @@
     {
       "id": "alcatel_idol_alpha",
       "name": "Alcatel Idol Alpha",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-alpha",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-alpha-gold-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -3362,12 +3362,12 @@
     {
       "id": "alcatel_one_touch_pop_c9",
       "name": "Alcatel One Touch Pop C9",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-c9",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-c9-white-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 1, 2024",
       "variants": [],
       "specifications": {
@@ -3470,12 +3470,12 @@
     {
       "id": "alcatel_pop_c9",
       "name": "Alcatel Pop C9",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-c9",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-c9-pink-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -3587,12 +3587,12 @@
     {
       "id": "alcatel_idol_2_mini_s",
       "name": "Alcatel Idol 2 Mini S",
-      "price": null,
+      "price": "4999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-2-mini-s",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-2-mini-s-official-white-front-image-2.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -3709,12 +3709,12 @@
     {
       "id": "alcatel_idol_2_s",
       "name": "Alcatel Idol 2 S",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-2-s",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-2-s-official-chocolate-side-image-2.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3829,12 +3829,12 @@
     {
       "id": "alcatel_one_touch_pop_c3",
       "name": "Alcatel One Touch Pop C3",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-c3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-c3-black-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "October 7, 2024",
       "variants": [],
       "specifications": {
@@ -3937,12 +3937,12 @@
     {
       "id": "alcatel_pop_c3",
       "name": "Alcatel Pop C3",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-c3",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-c3-pink-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -4055,12 +4055,12 @@
     {
       "id": "alcatel_one_touch_pop_c1",
       "name": "Alcatel One Touch Pop C1",
-      "price": null,
+      "price": "2999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-c1",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-c1-black-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "November 30, 2024",
       "variants": [],
       "specifications": {
@@ -4145,12 +4145,12 @@
     {
       "id": "alcatel_pop_c1",
       "name": "Alcatel Pop C1",
-      "price": null,
+      "price": "2999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-c1",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-c1-black-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -4256,12 +4256,12 @@
     {
       "id": "alcatel_2005",
       "name": "Alcatel 2005",
-      "price": null,
+      "price": "2499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-2005",
       "image_url": "https://www.mobiledokan.com/media/alcatel-2005-gray-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "November 30, 2024",
       "variants": [],
       "specifications": {
@@ -4331,12 +4331,12 @@
     {
       "id": "alcatel_pop_7",
       "name": "Alcatel Pop 7",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-7",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-7-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -4444,12 +4444,12 @@
     {
       "id": "alcatel_pop_s9",
       "name": "Alcatel Pop S9",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-s9",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-s9-blue-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -4561,12 +4561,12 @@
     {
       "id": "alcatel_idol_x_plus",
       "name": "Alcatel Idol X Plus",
-      "price": null,
+      "price": "9500",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-x-plus",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-x-plus-blue-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -4685,12 +4685,12 @@
     {
       "id": "alcatel_hero",
       "name": "Alcatel Hero",
-      "price": null,
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-hero",
       "image_url": "https://www.mobiledokan.com/media/alcatel-hero-black-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -4803,12 +4803,12 @@
     {
       "id": "alcatel_one_touch_pop_c5",
       "name": "Alcatel One Touch Pop C5",
-      "price": null,
+      "price": "8199",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pop-c5",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pop-c5-white-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 1, 2024",
       "variants": [],
       "specifications": {
@@ -4911,12 +4911,12 @@
     {
       "id": "alcatel_pop_c5",
       "name": "Alcatel Pop C5",
-      "price": null,
+      "price": "8199",
       "url": "https://www.mobiledokan.com/mobile/alcatel-pop-c5",
       "image_url": "https://www.mobiledokan.com/media/alcatel-pop-c5-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -4947,10 +4947,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "VGA Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -4962,6 +4958,10 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "VGA Camera"
           }
         },
         "Design": {
@@ -5023,12 +5023,12 @@
     {
       "id": "alcatel_idol_mini",
       "name": "Alcatel Idol Mini",
-      "price": null,
+      "price": "7999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-mini",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-mini-pink-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -5142,12 +5142,12 @@
     {
       "id": "alcatel_2040d",
       "name": "Alcatel 2040D",
-      "price": null,
+      "price": "1799",
       "url": "https://www.mobiledokan.com/mobile/alcatel-2040d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-2040d-black-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "November 30, 2024",
       "variants": [],
       "specifications": {
@@ -5224,12 +5224,12 @@
     {
       "id": "alcatel_one_touch_pixi",
       "name": "Alcatel One Touch Pixi",
-      "price": null,
+      "price": "4999",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-pixi",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-pixi-white-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -5320,12 +5320,12 @@
     {
       "id": "alcatel_onetouch_tribe_3040d",
       "name": "Alcatel OneTouch Tribe 3040D",
-      "price": null,
+      "price": "3499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-onetouch-tribe-3040d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-onetouch-tribe-3040d-black-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [],
       "specifications": {
@@ -5411,12 +5411,12 @@
     {
       "id": "alcatel_idol_x",
       "name": "Alcatel Idol X",
-      "price": null,
+      "price": "12799",
       "url": "https://www.mobiledokan.com/mobile/alcatel-idol-x",
       "image_url": "https://www.mobiledokan.com/media/alcatel-idol-x-red-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -5533,12 +5533,12 @@
     {
       "id": "alcatel_one_touch_scribe_easy",
       "name": "Alcatel One Touch Scribe Easy",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-scribe-easy",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-scribe-easy-red-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
       "specifications": {
@@ -5652,12 +5652,12 @@
     {
       "id": "alcatel_one_touch_xpop",
       "name": "Alcatel One Touch X'Pop",
-      "price": null,
+      "price": "9949",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-x-pop",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-xpop-black-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -5774,12 +5774,12 @@
     {
       "id": "alcatel_one_touch_star_6010d",
       "name": "Alcatel One Touch Star 6010D",
-      "price": null,
+      "price": "7888",
       "url": "https://www.mobiledokan.com/mobile/alcatel-one-touch-star-6010d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-one-touch-star-6010d-silver-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 1, 2024",
       "variants": [],
       "specifications": {
@@ -5887,12 +5887,12 @@
     {
       "id": "alcatel_1011d",
       "name": "Alcatel 1011D",
-      "price": null,
+      "price": "1249",
       "url": "https://www.mobiledokan.com/mobile/alcatel-1011d",
       "image_url": "https://www.mobiledokan.com/media/alcatel-1011d-black-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:27:43",
-      "first_scraped": "2025-09-11 09:27:43",
+      "last_updated": "2025-09-14 13:55:35",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {

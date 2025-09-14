@@ -4,21 +4,21 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:36",
+    "last_updated": "2025-09-14 13:13:11",
     "total_phones": 104,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 104
   },
   "phones": [
     {
       "id": "apple_iphone_17",
       "name": "Apple iPhone 17",
-      "price": "৳100000",
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-12 06:43:47",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "September 12, 2025",
       "variants": [],
@@ -165,11 +165,11 @@
     {
       "id": "apple_iphone_17_pro",
       "name": "Apple iPhone 17 Pro",
-      "price": "৳135000",
+      "price": "135000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-12 06:43:47",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "September 12, 2025",
       "variants": [],
@@ -311,11 +311,11 @@
     {
       "id": "apple_iphone_17_pro_max",
       "name": "Apple iPhone 17 Pro Max",
-      "price": "৳165000",
+      "price": "165000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-12 06:43:47",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "September 12, 2025",
       "variants": [],
@@ -457,11 +457,11 @@
     {
       "id": "apple_iphone_17_air",
       "name": "Apple iPhone 17 Air",
-      "price": "৳120000",
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-air",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-12 06:43:47",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "September 12, 2025",
       "variants": [],
@@ -606,12 +606,12 @@
     {
       "id": "apple_iphone_air",
       "name": "Apple iPhone Air",
-      "price": "৳120000",
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-air",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-air-sky-blue-offiicial-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-13 06:27:00",
-      "first_scraped": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "September 12, 2025",
       "variants": [],
       "specifications": {
@@ -648,6 +648,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -662,15 +671,6 @@
             "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -755,11 +755,11 @@
     {
       "id": "apple_iphone_se_4",
       "name": "Apple iPhone SE 4",
-      "price": "৳60000",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-4",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-4-image_1.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "February 11, 2025",
       "variants": [],
@@ -795,6 +795,14 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.5, Wide Angle, Primary Camera",
@@ -809,14 +817,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "24 fps, 30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -891,11 +891,11 @@
     {
       "id": "apple_iphone_16e",
       "name": "Apple iPhone 16e",
-      "price": null,
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 21, 2025",
       "variants": [
@@ -942,14 +942,6 @@
           "HDR 10 / HDR + support": "HDR10"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -965,6 +957,14 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -1039,11 +1039,11 @@
     {
       "id": "apple_iphone_16e_256gb",
       "name": "Apple iPhone 16e (256GB)",
-      "price": null,
+      "price": "78000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16e-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16e-white-official-image_1.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 21, 2025",
       "variants": [
@@ -1186,11 +1186,11 @@
     {
       "id": "apple_iphone_16_pro_max",
       "name": "Apple iPhone 16 Pro Max",
-      "price": null,
+      "price": "152000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -1345,11 +1345,11 @@
     {
       "id": "apple_iphone_16",
       "name": "Apple iPhone 16",
-      "price": null,
+      "price": "94000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -1508,11 +1508,11 @@
     {
       "id": "apple_iphone_16_pro",
       "name": "Apple iPhone 16 Pro",
-      "price": null,
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -1672,11 +1672,11 @@
     {
       "id": "apple_iphone_16_pro_max_512gb_sg",
       "name": "Apple iPhone 16 Pro Max (512GB SG)",
-      "price": null,
+      "price": "174000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -1832,11 +1832,11 @@
     {
       "id": "apple_iphone_16_pro_max_1tb_sg",
       "name": "Apple iPhone 16 Pro Max (1TB SG)",
-      "price": null,
+      "price": "198000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_2.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 23, 2025",
       "variants": [
@@ -1890,6 +1890,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -1905,15 +1914,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -1992,11 +1992,11 @@
     {
       "id": "apple_iphone_16_pro_256gb_sg",
       "name": "Apple iPhone 16 Pro (256GB SG)",
-      "price": null,
+      "price": "142000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -2157,11 +2157,11 @@
     {
       "id": "apple_iphone_16_pro_512gb_sg",
       "name": "Apple iPhone 16 Pro (512GB SG)",
-      "price": null,
+      "price": "165000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -2322,11 +2322,11 @@
     {
       "id": "apple_iphone_16_pro_1tb_sg",
       "name": "Apple iPhone 16 Pro (1TB SG)",
-      "price": null,
+      "price": "192000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_2.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -2487,11 +2487,11 @@
     {
       "id": "apple_iphone_16_256gb_sg",
       "name": "Apple iPhone 16 (256GB SG)",
-      "price": null,
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_3.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -2644,11 +2644,11 @@
     {
       "id": "apple_iphone_16_plus_256gb_sg",
       "name": "Apple iPhone 16 Plus (256GB SG)",
-      "price": null,
+      "price": "128000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-256gb-sg",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_2.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
@@ -2805,11 +2805,11 @@
     {
       "id": "apple_iphone_16_256gb_usa",
       "name": "Apple iPhone 16 (256GB USA)",
-      "price": null,
+      "price": "105000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-256gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -2966,11 +2966,11 @@
     {
       "id": "apple_iphone_16_512gb_usa",
       "name": "Apple iPhone 16 (512GB USA)",
-      "price": null,
+      "price": "130000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-512gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-ultramarine-official-image_1.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 21, 2025",
       "variants": [
@@ -3127,11 +3127,11 @@
     {
       "id": "apple_iphone_16_pro_256gb_usa",
       "name": "Apple iPhone 16 Pro (256GB USA)",
-      "price": null,
+      "price": "131000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-256gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -3291,11 +3291,11 @@
     {
       "id": "apple_iphone_16_pro_512gb_usa",
       "name": "Apple iPhone 16 Pro (512GB USA)",
-      "price": null,
+      "price": "160000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-512gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -3455,11 +3455,11 @@
     {
       "id": "apple_iphone_16_pro_1tb_usa",
       "name": "Apple iPhone 16 Pro (1TB USA)",
-      "price": null,
+      "price": "165000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-1tb-usa-",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-desert-titanium-official-image_1.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -3619,11 +3619,11 @@
     {
       "id": "apple_iphone_16_pro_max_512gb_usa",
       "name": "Apple iPhone 16 Pro Max (512GB USA)",
-      "price": null,
+      "price": "164000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-512gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_1.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 31, 2025",
       "variants": [
@@ -3677,15 +3677,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -3701,6 +3692,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -3778,11 +3778,11 @@
     {
       "id": "apple_iphone_16_pro_max_1tb_usa",
       "name": "Apple iPhone 16 Pro Max (1TB USA)",
-      "price": null,
+      "price": "190000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-pro-max-1tb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-pro-max-desert-titanium-official-image_1.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "August 23, 2025",
       "variants": [
@@ -3836,6 +3836,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 48 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -3851,15 +3860,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "120 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -3937,11 +3937,11 @@
     {
       "id": "apple_iphone_16_plus_256gb_usa",
       "name": "Apple iPhone 16 Plus (256GB USA)",
-      "price": null,
+      "price": "116000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-256gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_1.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "July 18, 2025",
       "variants": [
@@ -4097,11 +4097,11 @@
     {
       "id": "apple_iphone_16_plus_512gb_usa",
       "name": "Apple iPhone 16 Plus (512GB USA)",
-      "price": null,
+      "price": "144000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus-512gb-usa",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_1.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
@@ -4257,11 +4257,11 @@
     {
       "id": "apple_iphone_16_plus",
       "name": "Apple iPhone 16 Plus",
-      "price": null,
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-16-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-pink-official-image_1.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "July 18, 2025",
       "variants": [
@@ -4418,11 +4418,11 @@
     {
       "id": "apple_iphone_15_pro_max",
       "name": "Apple iPhone 15 Pro Max",
-      "price": null,
+      "price": "142000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
@@ -4577,11 +4577,11 @@
     {
       "id": "apple_iphone_15_pro_max_512gb",
       "name": "Apple iPhone 15 Pro Max (512GB)",
-      "price": null,
+      "price": "154000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
@@ -4737,11 +4737,11 @@
     {
       "id": "apple_iphone_15_pro_max_1tb",
       "name": "Apple iPhone 15 Pro Max (1TB)",
-      "price": null,
+      "price": "165000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-1tb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
@@ -4895,11 +4895,11 @@
     {
       "id": "apple_iphone_15_plus_256gb",
       "name": "Apple iPhone 15 Plus (256GB)",
-      "price": null,
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-plus-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-plus-black-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-13 06:27:00",
+      "last_updated": "2025-09-14 13:13:11",
       "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
@@ -5054,12 +5054,12 @@
     {
       "id": "apple_iphone_15_plus",
       "name": "Apple iPhone 15 Plus",
-      "price": null,
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-plus-black-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
         {
@@ -5214,12 +5214,12 @@
     {
       "id": "apple_iphone_15_pro",
       "name": "Apple iPhone 15 Pro",
-      "price": null,
+      "price": "126000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -5379,12 +5379,12 @@
     {
       "id": "apple_iphone_15",
       "name": "Apple iPhone 15",
-      "price": null,
+      "price": "84000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
         {
@@ -5535,12 +5535,12 @@
     {
       "id": "apple_iphone_15_256gb",
       "name": "Apple iPhone 15 (256GB)",
-      "price": null,
+      "price": "105000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
         {
@@ -5689,12 +5689,12 @@
     {
       "id": "apple_iphone_15_pro_256gb",
       "name": "Apple iPhone 15 Pro (256GB)",
-      "price": null,
+      "price": "136000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -5854,12 +5854,12 @@
     {
       "id": "apple_iphone_15_pro_512gb",
       "name": "Apple iPhone 15 Pro (512GB)",
-      "price": null,
+      "price": "155000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -6019,12 +6019,12 @@
     {
       "id": "apple_iphone_15_pro_1tb",
       "name": "Apple iPhone 15 Pro (1TB)",
-      "price": null,
+      "price": "165000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-1tb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -6184,12 +6184,12 @@
     {
       "id": "apple_iphone_14_plus",
       "name": "Apple iPhone 14 Plus",
-      "price": null,
+      "price": "112000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -6344,12 +6344,12 @@
     {
       "id": "apple_iphone_14_plus_256gb",
       "name": "Apple iPhone 14 Plus (256GB)",
-      "price": null,
+      "price": "122000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -6504,12 +6504,12 @@
     {
       "id": "apple_iphone_14_pro",
       "name": "Apple iPhone 14 Pro",
-      "price": null,
+      "price": "121000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro",
       "image_url": "https://www.mobiledokan.com/media/171074490670V5y.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -6659,12 +6659,12 @@
     {
       "id": "apple_iphone_14_pro_max",
       "name": "Apple iPhone 14 Pro Max",
-      "price": null,
+      "price": "127999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -6824,12 +6824,12 @@
     {
       "id": "apple_iphone_14_256gb",
       "name": "Apple iPhone 14 (256GB)",
-      "price": null,
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-purple-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "August 20, 2025",
       "variants": [
         {
@@ -6977,12 +6977,12 @@
     {
       "id": "apple_iphone_14",
       "name": "Apple iPhone 14",
-      "price": null,
+      "price": "67000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-purple-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "August 20, 2025",
       "variants": [
         {
@@ -7030,15 +7030,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.5, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
@@ -7054,6 +7045,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Action Mode, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -7129,12 +7129,12 @@
     {
       "id": "apple_iphone_14_pro_256gb",
       "name": "Apple iPhone 14 Pro (256GB)",
-      "price": null,
+      "price": "133000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [
         {
@@ -7183,16 +7183,6 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@24/30fps)",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.78, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.8, Telephoto Camera",
@@ -7208,6 +7198,16 @@
             "Camera Features": "9 x Digital Zoom, Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@24/30fps)",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -7284,12 +7284,12 @@
     {
       "id": "apple_iphone_14_pro_max_256gb",
       "name": "Apple iPhone 14 Pro Max (256GB)",
-      "price": null,
+      "price": "138000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -7348,15 +7348,6 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -7372,6 +7363,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -7449,12 +7449,12 @@
     {
       "id": "apple_iphone_14_pro_max_512gb",
       "name": "Apple iPhone 14 Pro Max (512GB)",
-      "price": null,
+      "price": "144999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -7614,12 +7614,12 @@
     {
       "id": "apple_iphone_14_pro_max_1tb",
       "name": "Apple iPhone 14 Pro Max (1TB)",
-      "price": null,
+      "price": "177000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max-1tb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -7779,12 +7779,12 @@
     {
       "id": "apple_iphone_se_2022_256gb",
       "name": "Apple iPhone SE 2022 (256GB)",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2022-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-2022-starlight-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -7932,12 +7932,12 @@
     {
       "id": "apple_iphone_se_2022_128gb",
       "name": "Apple iPhone SE 2022 (128GB)",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2022-128gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-2022-starlight-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -8085,12 +8085,12 @@
     {
       "id": "apple_iphone_se_2022",
       "name": "Apple iPhone SE 2022",
-      "price": null,
+      "price": "51000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2022",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-2022-starlight-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -8237,12 +8237,12 @@
     {
       "id": "apple_iphone_13",
       "name": "Apple iPhone 13",
-      "price": null,
+      "price": "64500",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "May 23, 2025",
       "variants": [
         {
@@ -8390,12 +8390,12 @@
     {
       "id": "apple_iphone_13_pro_max",
       "name": "Apple iPhone 13 Pro Max",
-      "price": null,
+      "price": "149000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
         {
@@ -8444,6 +8444,14 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.5, Wide Angle, Primary Camera, 12 MP f/1.8, Ultra-Wide Angle Camera, 12 MP f/2.8, Telephoto Camera",
@@ -8459,14 +8467,6 @@
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "60 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -8543,12 +8543,12 @@
     {
       "id": "apple_iphone_13_mini",
       "name": "Apple iPhone 13 mini",
-      "price": null,
+      "price": "81000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-mini",
       "image_url": "https://www.mobiledokan.com/media/1713763825WreWy.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "June 27, 2024",
       "variants": [
         {
@@ -8679,12 +8679,12 @@
     {
       "id": "apple_iphone_13_pro_max_256gb",
       "name": "Apple iPhone 13 Pro Max (256GB)",
-      "price": null,
+      "price": "159000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
         {
@@ -8833,12 +8833,12 @@
     {
       "id": "apple_iphone_13_256gb",
       "name": "Apple iPhone 13 (256GB)",
-      "price": null,
+      "price": "81000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "May 23, 2025",
       "variants": [
         {
@@ -8986,12 +8986,12 @@
     {
       "id": "apple_iphone_13_pro",
       "name": "Apple iPhone 13 Pro",
-      "price": null,
+      "price": "126000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-silver-color-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -9138,12 +9138,12 @@
     {
       "id": "apple_iphone_13_pro_256gb",
       "name": "Apple iPhone 13 Pro (256GB)",
-      "price": null,
+      "price": "162999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-gold-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -9282,12 +9282,12 @@
     {
       "id": "apple_iphone_12_pro_max",
       "name": "Apple iPhone 12 Pro Max",
-      "price": null,
+      "price": "61990",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 8, 2025",
       "variants": [
         {
@@ -9433,12 +9433,12 @@
     {
       "id": "apple_iphone_12_mini",
       "name": "Apple iPhone 12 Mini",
-      "price": "৳71000",
+      "price": "71000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-mini",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-mini-blue-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -9574,12 +9574,12 @@
     {
       "id": "apple_iphone_12_pro_max_256gb",
       "name": "Apple iPhone 12 Pro Max (256GB)",
-      "price": null,
+      "price": "67990",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 8, 2025",
       "variants": [
         {
@@ -9725,12 +9725,12 @@
     {
       "id": "apple_iphone_12_pro",
       "name": "Apple iPhone 12 Pro",
-      "price": "৳44000",
+      "price": "44000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "May 24, 2025",
       "variants": [],
       "specifications": {
@@ -9865,12 +9865,12 @@
     {
       "id": "apple_iphone_12",
       "name": "Apple iPhone 12",
-      "price": null,
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [
         {
@@ -9918,6 +9918,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.6, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
@@ -9933,14 +9941,6 @@
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "24 fps, 30 fps, 30 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -10017,12 +10017,12 @@
     {
       "id": "apple_iphone_12_128gb",
       "name": "Apple iPhone 12 (128GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-128gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [
         {
@@ -10169,12 +10169,12 @@
     {
       "id": "apple_iphone_se_2020",
       "name": "Apple iPhone SE 2020",
-      "price": null,
+      "price": "33000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2020",
       "image_url": "https://www.mobiledokan.com/media/1710833332s9TdL.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
         {
@@ -10316,12 +10316,12 @@
     {
       "id": "apple_iphone_11_128gb",
       "name": "Apple iPhone 11 (128GB)",
-      "price": null,
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-128gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 14, 2025",
       "variants": [
         {
@@ -10474,12 +10474,12 @@
     {
       "id": "apple_iphone_11_pro_max_256gb",
       "name": "Apple iPhone 11 Pro Max (256GB)",
-      "price": null,
+      "price": "154999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [
         {
@@ -10532,15 +10532,6 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "HDR",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.0, Telephoto Camera",
@@ -10557,6 +10548,15 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Camera Features": "HDR",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -10633,12 +10633,12 @@
     {
       "id": "apple_iphone_11_256gb",
       "name": "Apple iPhone 11 (256GB)",
-      "price": null,
+      "price": "63000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 14, 2025",
       "variants": [
         {
@@ -10791,12 +10791,12 @@
     {
       "id": "apple_iphone_11_pro_max",
       "name": "Apple iPhone 11 Pro Max",
-      "price": null,
+      "price": "95000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [
         {
@@ -10950,12 +10950,12 @@
     {
       "id": "apple_iphone_11_pro_max_512gb",
       "name": "Apple iPhone 11 Pro Max (512GB)",
-      "price": null,
+      "price": "169999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-max-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [
         {
@@ -11112,12 +11112,12 @@
     {
       "id": "apple_iphone_11_pro",
       "name": "Apple iPhone 11 Pro",
-      "price": null,
+      "price": "58000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro",
       "image_url": "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -11168,6 +11168,15 @@
           "HDR 10 / HDR + support": "HDR10"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Camera Features": "HDR",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera, 12 MP, f/2.0, Telephoto Camera",
@@ -11183,15 +11192,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "HDR",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -11268,12 +11268,12 @@
     {
       "id": "apple_iphone_11",
       "name": "Apple iPhone 11",
-      "price": null,
+      "price": "44000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 14, 2025",
       "variants": [
         {
@@ -11325,6 +11325,14 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
@@ -11340,14 +11348,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Slo-motion, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -11426,12 +11426,12 @@
     {
       "id": "apple_iphone_11_pro_256gb",
       "name": "Apple iPhone 11 Pro (256GB)",
-      "price": null,
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-256gb-",
       "image_url": "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -11483,6 +11483,15 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Camera Features": "HDR",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.0, Telephoto Camera",
@@ -11498,15 +11507,6 @@
             "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "HDR",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -11582,12 +11582,12 @@
     {
       "id": "apple_iphone_11_pro_512gb",
       "name": "Apple iPhone 11 Pro (512GB)",
-      "price": null,
+      "price": "159999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -11639,15 +11639,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "HDR",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.0, Telephoto Camera",
@@ -11663,6 +11654,15 @@
             "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Camera Features": "HDR",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -11738,12 +11738,12 @@
     {
       "id": "apple_iphone_xr_128gb",
       "name": "Apple iPhone XR (128GB)",
-      "price": null,
+      "price": "61000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xr-128gb",
       "image_url": "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -11898,12 +11898,12 @@
     {
       "id": "apple_iphone_xr_256gb",
       "name": "Apple iPhone XR (256GB)",
-      "price": null,
+      "price": "98000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xr-256gb",
       "image_url": "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -11955,15 +11955,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP f/2.2, Primary Camera",
-            "Sensor": "BSI Sensor",
-            "Flash": "Retina Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera",
@@ -11979,6 +11970,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP f/2.2, Primary Camera",
+            "Sensor": "BSI Sensor",
+            "Flash": "Retina Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -12058,12 +12058,12 @@
     {
       "id": "apple_iphone_xr",
       "name": "Apple iPhone XR",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xr",
       "image_url": "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -12115,15 +12115,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP f/2.2, Primary Camera",
-            "Sensor": "BSI Sensor",
-            "Flash": "Retina Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera",
@@ -12139,6 +12130,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP f/2.2, Primary Camera",
+            "Sensor": "BSI Sensor",
+            "Flash": "Retina Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -12218,12 +12218,12 @@
     {
       "id": "apple_iphone_xs_max",
       "name": "Apple iPhone XS Max",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xs-max",
       "image_url": "https://www.mobiledokan.com/media/1710773486q7ljJ.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
         {
@@ -12371,12 +12371,12 @@
     {
       "id": "apple_iphone_xs",
       "name": "Apple iPhone XS",
-      "price": null,
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xs",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-xs-gold-color-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -12518,12 +12518,12 @@
     {
       "id": "apple_iphone_xs_max_256gb",
       "name": "Apple iPhone XS Max (256GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xs-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-xs-max-space-grey-official-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -12672,12 +12672,12 @@
     {
       "id": "apple_iphone_x_256gb",
       "name": "Apple iPhone X (256GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-x-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
         {
@@ -12819,12 +12819,12 @@
     {
       "id": "apple_iphone_x",
       "name": "Apple iPhone X",
-      "price": null,
+      "price": "67000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-x",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
         {
@@ -12872,6 +12872,14 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP , Telephoto Camera",
@@ -12886,14 +12894,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Optical Image stabilization",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -12966,12 +12966,12 @@
     {
       "id": "apple_iphone_8",
       "name": "Apple iPhone 8",
-      "price": "৳30500",
+      "price": "30500",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-8",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-8-gold-official-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 1, 2025",
       "variants": [],
       "specifications": {
@@ -13107,12 +13107,12 @@
     {
       "id": "apple_iphone_8_plus",
       "name": "Apple iPhone 8 Plus",
-      "price": null,
+      "price": "54000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-8-plus-price",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-8-plus-space-grey-official-image.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
         {
@@ -13154,14 +13154,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "7 MP, f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.8, Telephoto Camera",
@@ -13176,6 +13168,14 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nSimultaneous HD video and image recording, \r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "7 MP, f/2.2, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -13255,12 +13255,12 @@
     {
       "id": "apple_iphone_7_plus",
       "name": "Apple iPhone 7 Plus",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-7-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-7-plus-gold-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -13394,12 +13394,12 @@
     {
       "id": "apple_iphone_7",
       "name": "Apple iPhone 7",
-      "price": "৳34000",
+      "price": "34000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-7",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-7-golden-official-image.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [],
       "specifications": {
@@ -13533,12 +13533,12 @@
     {
       "id": "apple_iphone_se_64gb",
       "name": "Apple iPhone SE (64GB)",
-      "price": null,
+      "price": "46530",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-64gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-64gb-gold-image.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [],
       "specifications": {
@@ -13664,12 +13664,12 @@
     {
       "id": "apple_iphone_6s_plus",
       "name": "Apple iPhone 6S Plus",
-      "price": null,
+      "price": "61499",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-price",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
         {
@@ -13822,12 +13822,12 @@
     {
       "id": "apple_iphone_6s_plus_32gb_rom",
       "name": "Apple iPhone 6S Plus (32GB ROM)",
-      "price": null,
+      "price": "44999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-32gb-rom",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image_1.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 18, 2025",
       "variants": [
         {
@@ -13980,12 +13980,12 @@
     {
       "id": "apple_iphone_6s_plus_128gb",
       "name": "Apple iPhone 6S Plus (128GB)",
-      "price": null,
+      "price": "72169",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-128gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
         {
@@ -14138,12 +14138,12 @@
     {
       "id": "apple_iphone_6s_plus_64gb",
       "name": "Apple iPhone 6S Plus (64GB)",
-      "price": null,
+      "price": "65099",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-64gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
         {
@@ -14296,12 +14296,12 @@
     {
       "id": "apple_iphone_6s",
       "name": "Apple iPhone 6s",
-      "price": null,
+      "price": "53650",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6-gold-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [
         {
@@ -14438,12 +14438,12 @@
     {
       "id": "apple_iphone_6s_64gb",
       "name": "Apple iPhone 6s (64GB)",
-      "price": null,
+      "price": "55760",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-64gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-rose-gold-image.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [
         {
@@ -14581,12 +14581,12 @@
     {
       "id": "apple_iphone_6_plus",
       "name": "Apple iPhone 6 Plus",
-      "price": null,
+      "price": "64000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6-plus-gold-image.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
       "specifications": {
@@ -14710,12 +14710,12 @@
     {
       "id": "apple_iphone_6",
       "name": "Apple iPhone 6",
-      "price": null,
+      "price": "29999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6-grey-official-image.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -14845,12 +14845,12 @@
     {
       "id": "apple_iphone_5s",
       "name": "Apple iPhone 5S",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-5s",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-5s-silver-official-image.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -14890,14 +14890,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.2 MP,,f/2.4  Primary Camera",
-            "Camera Features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.2, Primary Camera",
@@ -14911,6 +14903,14 @@
             "Camera Features": "Digital image stabilization, Face detection, Simultaneous HD video and image recording, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.2 MP,,f/2.4  Primary Camera",
+            "Camera Features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -14981,12 +14981,12 @@
     {
       "id": "apple_iphone_5c",
       "name": "Apple iPhone 5c",
-      "price": null,
+      "price": "28990",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-5c",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-5c-official-blue-image.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -15028,6 +15028,14 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.2 MP f/2.4 Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.4, Primary Camera",
@@ -15041,14 +15049,6 @@
             "Camera Features": "Digital image stabilization, Face detection, Simultaneous HD video and image recording, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.2 MP f/2.4 Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -15119,12 +15119,12 @@
     {
       "id": "apple_iphone_5",
       "name": "Apple iPhone 5",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-5",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-5-silver-official-image.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [
         {
@@ -15255,12 +15255,12 @@
     {
       "id": "apple_iphone_5_32gb",
       "name": "Apple iPhone 5 (32GB)",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-5-32gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-5-silver-official-image.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 6, 2025",
       "variants": [
         {
@@ -15391,12 +15391,12 @@
     {
       "id": "apple_iphone_4s",
       "name": "Apple iPhone 4s",
-      "price": null,
+      "price": "16500",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-4s",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-4s-black-color-picture.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "March 12, 2025",
       "variants": [],
       "specifications": {
@@ -15429,12 +15429,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Video Recording": "640x480",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.4, Wide Angle, Primary Camera",
@@ -15446,6 +15440,12 @@
             "Aperture": "f/2.4",
             "Camera Features": "Auto Flash, \r\nDigital image stabilization, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Video Recording": "640x480",
             "Video FPS": "30 fps"
           }
         },
@@ -15513,12 +15513,12 @@
     {
       "id": "apple_iphone_3gs",
       "name": "Apple iPhone 3GS",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-3gs",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-3gs-black-image.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "February 5, 2025",
       "variants": [],
       "specifications": {
@@ -15616,12 +15616,12 @@
     {
       "id": "apple_iphone_se_2025",
       "name": "Apple iPhone SE (2025)",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2025",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-se-2025-black-official-image.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
       "specifications": {
@@ -15655,14 +15655,6 @@
           "HDR 10 / HDR + support": "HDR10"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, Wide Angle, Primary Camera",
@@ -15676,6 +15668,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -15736,12 +15736,12 @@
     {
       "id": "apple_iphone_17_plus",
       "name": "Apple iPhone 17 Plus",
-      "price": "৳160000",
+      "price": "160000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-16-plus-ultramarine-official-image_2.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 08:59:22",
-      "first_scraped": "2025-09-11 08:59:22",
+      "last_updated": "2025-09-14 13:13:11",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {

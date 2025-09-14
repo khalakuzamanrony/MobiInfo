@@ -4,22 +4,22 @@
     "name": "lenovo",
     "url": "https://www.mobiledokan.com/mobile-brand/lenovo",
     "image_url": null,
-    "last_updated": "2025-09-14 06:30:23",
+    "last_updated": "2025-09-14 13:46:46",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:21:36",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 19
   },
   "phones": [
     {
       "id": "lenovo_legion_y70",
       "name": "Lenovo Legion Y70",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/lenovo-legion-y70",
       "image_url": "https://www.mobiledokan.com/media/17142463390jdM4.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "April 12, 2025",
       "variants": [
         {
@@ -148,12 +148,12 @@
     {
       "id": "lenovo_a6_note",
       "name": "Lenovo A6 Note",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a6-note",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a6-note-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -194,6 +194,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP f/2.0, Primary Camera, 2 MP, Depth Camera",
@@ -207,13 +214,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -285,12 +285,12 @@
     {
       "id": "lenovo_k10_plus",
       "name": "Lenovo K10 Plus",
-      "price": null,
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/lenovo-k10-plus",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
         {
@@ -331,13 +331,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP f/2.0, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 5 MP, Depth Camera",
@@ -351,6 +344,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -426,12 +426,12 @@
     {
       "id": "lenovo_k6_enjoy",
       "name": "Lenovo K6 Enjoy",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-k6-enjoy",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
@@ -556,12 +556,12 @@
     {
       "id": "lenovo_z5_pro_gt",
       "name": "Lenovo Z5 Pro GT",
-      "price": null,
+      "price": "38990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5-pro-gt",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
@@ -688,12 +688,12 @@
     {
       "id": "lenovo_z5s",
       "name": "Lenovo Z5s",
-      "price": null,
+      "price": "19990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5s",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "April 12, 2025",
       "variants": [],
       "specifications": {
@@ -728,6 +728,13 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "16 MP, f/1.8, Primary Camera, 8 MP, f/2.4, Telephoto Camera, 5 MP, f/2.4, Depth Camera",
@@ -741,13 +748,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -820,12 +820,12 @@
     {
       "id": "lenovo_s5_pro_gt",
       "name": "Lenovo S5 Pro GT",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-s5-pro-gt",
       "image_url": "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
@@ -954,12 +954,12 @@
     {
       "id": "lenovo_z5",
       "name": "Lenovo Z5",
-      "price": null,
+      "price": "12500",
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -1092,12 +1092,12 @@
     {
       "id": "lenovo_a5",
       "name": "Lenovo A5",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a5-black-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [
         {
@@ -1233,12 +1233,12 @@
     {
       "id": "lenovo_a5_32gb",
       "name": "Lenovo A5 (32GB)",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a5-32gb",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a5-gold-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [
         {
@@ -1373,12 +1373,12 @@
     {
       "id": "lenovo_k5_play",
       "name": "Lenovo K5 Play",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-k5-play",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "April 11, 2025",
       "variants": [
         {
@@ -1508,12 +1508,12 @@
     {
       "id": "lenovo_vibe_k5",
       "name": "Lenovo Vibe K5",
-      "price": null,
+      "price": "8499",
       "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-k5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -1634,12 +1634,12 @@
     {
       "id": "lenovo_k5_note",
       "name": "Lenovo K5 Note",
-      "price": null,
+      "price": "15490",
       "url": "https://www.mobiledokan.com/mobile/lenovo-k5-note",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -1765,12 +1765,12 @@
     {
       "id": "lenovo_vibe_p1m",
       "name": "Lenovo Vibe P1m",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-p1m",
       "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -1894,12 +1894,12 @@
     {
       "id": "lenovo_zuk_z1",
       "name": "Lenovo ZUK Z1",
-      "price": null,
+      "price": "21890",
       "url": "https://www.mobiledokan.com/mobile/lenovo-zuk-z1",
       "image_url": "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -2026,12 +2026,12 @@
     {
       "id": "lenovo_a2010",
       "name": "Lenovo A2010",
-      "price": null,
+      "price": "6499",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a2010",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a2010.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -2141,12 +2141,12 @@
     {
       "id": "lenovo_a1000",
       "name": "Lenovo A1000",
-      "price": null,
+      "price": "5599",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a1000",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {
@@ -2254,12 +2254,12 @@
     {
       "id": "lenovo_k3_note",
       "name": "Lenovo K3 Note",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/lenovo-k3-note",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 14, 2024",
       "variants": [],
       "specifications": {
@@ -2384,12 +2384,12 @@
     {
       "id": "lenovo_a6000",
       "name": "Lenovo A6000",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a6000",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:21:36",
-      "first_scraped": "2025-09-11 09:21:36",
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
       "specifications": {

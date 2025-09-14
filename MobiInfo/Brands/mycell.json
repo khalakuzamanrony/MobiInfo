@@ -4,22 +4,22 @@
     "name": "mycell",
     "url": "https://www.mobiledokan.com/mobile-brand/mycell",
     "image_url": null,
-    "last_updated": "2025-09-12 07:15:08",
+    "last_updated": "2025-09-14 13:59:18",
     "total_phones": 49,
     "first_scraped": "2025-09-11 09:31:56",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 49
   },
   "phones": [
     {
       "id": "mycell_alien_sx1",
       "name": "Mycell Alien SX1",
-      "price": null,
+      "price": "3650",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx1",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx1-front-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -47,10 +47,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "2 MP Primary Camera",
@@ -62,6 +58,10 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP Primary Camera"
           }
         },
         "Design": {
@@ -117,12 +117,12 @@
     {
       "id": "mycell_spider_a7",
       "name": "Mycell SPIDER A7",
-      "price": null,
+      "price": "8199",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a7",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a7-black-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -226,12 +226,12 @@
     {
       "id": "mycell_spider_a6",
       "name": "Mycell SPIDER A6",
-      "price": null,
+      "price": "3970",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a6",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a6-blue-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -258,6 +258,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "3.15 MP, Primary Camera",
@@ -267,10 +271,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting",
             "Camera Features": "Auto Flash, Touch to Focus"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -324,12 +324,12 @@
     {
       "id": "mycell_spider_a5",
       "name": "Mycell SPIDER A5",
-      "price": null,
+      "price": "5499",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a5",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a5-official-black-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -439,12 +439,12 @@
     {
       "id": "mycell_alien_sx6",
       "name": "Mycell Alien SX6",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx6",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx6-official-white-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -550,12 +550,12 @@
     {
       "id": "mycell_alien_sx3",
       "name": "Mycell Alien SX3",
-      "price": null,
+      "price": "2590",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx3",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx3-official-grey-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -655,12 +655,12 @@
     {
       "id": "mycell_alien_sx4",
       "name": "Mycell Alien SX4",
-      "price": null,
+      "price": "3649",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx4",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx4-official-black-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -766,12 +766,12 @@
     {
       "id": "mycell_iron3",
       "name": "Mycell Iron3",
-      "price": null,
+      "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/mycell-iron3",
       "image_url": "https://www.mobiledokan.com/media/mycell-iron3-official-golden-front-image-2_1.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 3, 2024",
       "variants": [],
       "specifications": {
@@ -881,12 +881,12 @@
     {
       "id": "mycell_iron_blue",
       "name": "Mycell Iron Blue",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/mycell-iron-blue",
       "image_url": "https://www.mobiledokan.com/media/mycell-iron-blue-official-black-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -988,12 +988,12 @@
     {
       "id": "mycell_mi11",
       "name": "Mycell Mi11",
-      "price": null,
+      "price": "1150",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi11",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi11.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -1055,12 +1055,12 @@
     {
       "id": "mycell_mi4",
       "name": "Mycell Mi4",
-      "price": null,
+      "price": "1390",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi4",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi4.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -1126,12 +1126,12 @@
     {
       "id": "mycell_bee_8",
       "name": "Mycell Bee 8",
-      "price": null,
+      "price": "1060",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-8",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-8.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -1198,12 +1198,12 @@
     {
       "id": "mycell_bee_6",
       "name": "Mycell Bee 6",
-      "price": null,
+      "price": "990",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-6",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-6.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {
@@ -1271,12 +1271,12 @@
     {
       "id": "mycell_bee_14",
       "name": "Mycell Bee 14",
-      "price": null,
+      "price": "1060",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-14",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-14.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1342,12 +1342,12 @@
     {
       "id": "mycell_mi9",
       "name": "Mycell Mi9",
-      "price": null,
+      "price": "1190",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi9",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi9.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -1413,12 +1413,12 @@
     {
       "id": "mycell_bee_12",
       "name": "Mycell Bee 12",
-      "price": null,
+      "price": "1070",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-12",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-12.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {
@@ -1485,12 +1485,12 @@
     {
       "id": "mycell_mi8",
       "name": "Mycell Mi8",
-      "price": null,
+      "price": "1300",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi8",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi8.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1561,12 +1561,12 @@
     {
       "id": "mycell_bee_16",
       "name": "Mycell Bee 16",
-      "price": null,
+      "price": "1070",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-16",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-16.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1633,12 +1633,12 @@
     {
       "id": "mycell_bee_9",
       "name": "Mycell Bee 9",
-      "price": null,
+      "price": "890",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-9",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-9.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -1706,12 +1706,12 @@
     {
       "id": "mycell_mi10",
       "name": "Mycell Mi10",
-      "price": null,
+      "price": "1350",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi10",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi10.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1779,12 +1779,12 @@
     {
       "id": "mycell_m102",
       "name": "Mycell M102",
-      "price": null,
+      "price": "1350",
       "url": "https://www.mobiledokan.com/mobile/mycell-m102",
       "image_url": "https://www.mobiledokan.com/media/mycell-m102.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1852,12 +1852,12 @@
     {
       "id": "mycell_mi13",
       "name": "Mycell Mi13",
-      "price": null,
+      "price": "1280",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi13",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi13.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -1925,12 +1925,12 @@
     {
       "id": "mycell_bee_10",
       "name": "Mycell Bee 10",
-      "price": null,
+      "price": "990",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-10",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-10.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {
@@ -1993,12 +1993,12 @@
     {
       "id": "mycell_bee_4",
       "name": "Mycell Bee 4",
-      "price": null,
+      "price": "970",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-4",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-4.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2066,12 +2066,12 @@
     {
       "id": "mycell_bee",
       "name": "Mycell Bee",
-      "price": null,
+      "price": "1050",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2137,12 +2137,12 @@
     {
       "id": "mycell_f3",
       "name": "Mycell F3",
-      "price": null,
+      "price": "1550",
       "url": "https://www.mobiledokan.com/mobile/mycell-f3",
       "image_url": "https://www.mobiledokan.com/media/mycell-f3.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -2212,12 +2212,12 @@
     {
       "id": "mycell_bee_11",
       "name": "Mycell Bee 11",
-      "price": null,
+      "price": "970",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-11",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-11_1.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2283,12 +2283,12 @@
     {
       "id": "mycell_mi14",
       "name": "Mycell Mi14",
-      "price": null,
+      "price": "1090",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi14",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi14.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {
@@ -2355,12 +2355,12 @@
     {
       "id": "mycell_f2",
       "name": "Mycell F2",
-      "price": null,
+      "price": "1550",
       "url": "https://www.mobiledokan.com/mobile/mycell-f2",
       "image_url": "https://www.mobiledokan.com/media/mycell-f2.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2427,12 +2427,12 @@
     {
       "id": "mycell_bee_2",
       "name": "Mycell Bee 2",
-      "price": null,
+      "price": "1000",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-2",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-2.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2498,12 +2498,12 @@
     {
       "id": "mycell_m103",
       "name": "Mycell M103",
-      "price": null,
+      "price": "1220",
       "url": "https://www.mobiledokan.com/mobile/mycell-m103",
       "image_url": "https://www.mobiledokan.com/media/mycell-m103.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -2574,12 +2574,12 @@
     {
       "id": "mycell_m101",
       "name": "Mycell M101",
-      "price": null,
+      "price": "1290",
       "url": "https://www.mobiledokan.com/mobile/mycell-m101",
       "image_url": "https://www.mobiledokan.com/media/mycell-m101.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -2650,12 +2650,12 @@
     {
       "id": "mycell_m100",
       "name": "Mycell M100",
-      "price": null,
+      "price": "1290",
       "url": "https://www.mobiledokan.com/mobile/mycell-m100",
       "image_url": "https://www.mobiledokan.com/media/mycell-m100.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -2719,12 +2719,12 @@
     {
       "id": "mycell_p6",
       "name": "Mycell P6",
-      "price": null,
+      "price": "1420",
       "url": "https://www.mobiledokan.com/mobile/mycell-p6",
       "image_url": "https://www.mobiledokan.com/media/mycell-p6.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -2792,12 +2792,12 @@
     {
       "id": "mycell_mi5",
       "name": "Mycell Mi5",
-      "price": null,
+      "price": "1450",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi5",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi5.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -2864,12 +2864,12 @@
     {
       "id": "mycell_spider_a2",
       "name": "Mycell SPIDER A2",
-      "price": null,
+      "price": "10470",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a2",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a2-white-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -2964,12 +2964,12 @@
     {
       "id": "mycell_m105",
       "name": "Mycell M105",
-      "price": null,
+      "price": "1150",
       "url": "https://www.mobiledokan.com/mobile/mycell-m105",
       "image_url": "https://www.mobiledokan.com/media/mycell-m105.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -3036,12 +3036,12 @@
     {
       "id": "mycell_mi3",
       "name": "Mycell Mi3",
-      "price": null,
+      "price": "1350",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi3",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi3.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -3109,12 +3109,12 @@
     {
       "id": "mycell_iron1",
       "name": "Mycell iRON1",
-      "price": null,
+      "price": "6699",
       "url": "https://www.mobiledokan.com/mobile/mycell-iron1",
       "image_url": "https://www.mobiledokan.com/media/mycell-iron1-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -3210,12 +3210,12 @@
     {
       "id": "mycell_spider_a1",
       "name": "Mycell SPIDER A1",
-      "price": null,
+      "price": "5499",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a1",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a1-black-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3308,12 +3308,12 @@
     {
       "id": "mycell_spider_a3",
       "name": "Mycell SPIDER A3",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a3",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a3-white-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3341,6 +3341,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -3353,10 +3357,6 @@
             "Camera Features": "Auto Flash, Touch to Focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3410,12 +3410,12 @@
     {
       "id": "mycell_spider_a4",
       "name": "Mycell SPIDER A4",
-      "price": null,
+      "price": "7680",
       "url": "https://www.mobiledokan.com/mobile/mycell-spider-a4",
       "image_url": "https://www.mobiledokan.com/media/mycell-spider-a4-white-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3516,12 +3516,12 @@
     {
       "id": "mycell_g1",
       "name": "Mycell G1",
-      "price": null,
+      "price": "2450",
       "url": "https://www.mobiledokan.com/mobile/mycell-g1",
       "image_url": "https://www.mobiledokan.com/media/mycell-g1.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 14, 2024",
       "variants": [],
       "specifications": {
@@ -3595,12 +3595,12 @@
     {
       "id": "mycell_mi12",
       "name": "Mycell Mi12",
-      "price": null,
+      "price": "1350",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi12",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi12.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 31, 2024",
       "variants": [],
       "specifications": {
@@ -3668,12 +3668,12 @@
     {
       "id": "mycell_alien_sx5",
       "name": "Mycell Alien SX5",
-      "price": null,
+      "price": "4250",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx5",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx5-black-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3768,12 +3768,12 @@
     {
       "id": "mycell_p5",
       "name": "Mycell P5",
-      "price": null,
+      "price": "8500",
       "url": "https://www.mobiledokan.com/mobile/mycell-p5",
       "image_url": "https://www.mobiledokan.com/media/mycell-p5-white-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -3805,10 +3805,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "1.3 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -3819,6 +3815,10 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting",
             "Camera Features": "Auto Flash, Touch to focus"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3878,12 +3878,12 @@
     {
       "id": "mycell_alien_sx2",
       "name": "Mycell Alien SX2",
-      "price": null,
+      "price": "6490",
       "url": "https://www.mobiledokan.com/mobile/mycell-alien-sx2",
       "image_url": "https://www.mobiledokan.com/media/mycell-alien-sx2-black-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "March 12, 2025",
       "variants": [],
       "specifications": {
@@ -3910,6 +3910,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -3919,10 +3923,6 @@
             "Settings": "Exposure compensation",
             "Zoom": "Digital Zoom",
             "Camera Features": "Auto Flash, Touch to Focus"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3981,12 +3981,12 @@
     {
       "id": "mycell_bee_3",
       "name": "Mycell Bee 3",
-      "price": null,
+      "price": "1050",
       "url": "https://www.mobiledokan.com/mobile/mycell-bee-3",
       "image_url": "https://www.mobiledokan.com/media/mycell-bee-3.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
       "specifications": {
@@ -4056,12 +4056,12 @@
     {
       "id": "mycell_mi6",
       "name": "Mycell Mi6",
-      "price": null,
+      "price": "1490",
       "url": "https://www.mobiledokan.com/mobile/mycell-mi6",
       "image_url": "https://www.mobiledokan.com/media/mycell-mi6.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:31:56",
-      "first_scraped": "2025-09-11 09:31:56",
+      "last_updated": "2025-09-14 13:59:18",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
       "specifications": {

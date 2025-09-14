@@ -4,22 +4,22 @@
     "name": "umidigi",
     "url": "https://www.mobiledokan.com/mobile-brand/umidigi",
     "image_url": null,
-    "last_updated": "2025-09-14 14:36:02",
-    "total_phones": 10,
+    "last_updated": "2025-09-14 13:40:09",
+    "total_phones": 14,
     "first_scraped": "2025-09-14 14:23:29",
-    "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "new_phones_this_run": 4,
+    "updated_phones_this_run": 10
   },
   "phones": [
     {
       "id": "umidigi_g9x",
       "name": "Umidigi G9x",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/umidigi-g9x",
       "image_url": "https://www.mobiledokan.com/media/umidigi-g9x-sand-green-official.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "June 18, 2025",
       "variants": [],
       "specifications": {
@@ -138,12 +138,12 @@
     {
       "id": "umidigi_note_100_5g",
       "name": "Umidigi Note 100 5G",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/umidigi-note-100-5g",
       "image_url": "https://www.mobiledokan.com/media/umidigi-note-100-5g-interstellar-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "February 16, 2025",
       "variants": [],
       "specifications": {
@@ -177,13 +177,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
@@ -197,6 +190,13 @@
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -266,12 +266,12 @@
     {
       "id": "umidigi_g9t",
       "name": "Umidigi G9T",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-g9t",
       "image_url": "https://www.mobiledokan.com/media/umidigi-g9t-grass-green-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -398,12 +398,12 @@
     {
       "id": "umidigi_g9c",
       "name": "Umidigi G9C",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-g9c",
       "image_url": "https://www.mobiledokan.com/media/umidigi-g9c-grass-green-official-image_1.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "January 26, 2025",
       "variants": [],
       "specifications": {
@@ -531,12 +531,12 @@
     {
       "id": "umidigi_g9a",
       "name": "Umidigi G9A",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-g9a",
       "image_url": "https://www.mobiledokan.com/media/umidigi-g9a-space-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "May 13, 2025",
       "variants": [],
       "specifications": {
@@ -570,6 +570,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -583,13 +590,6 @@
             "Camera Features": "Auto Flash, Autofocus, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -655,12 +655,12 @@
     {
       "id": "umidigi_g9_5g",
       "name": "Umidigi G9 5G",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-g9-5g",
       "image_url": "https://www.mobiledokan.com/media/umidigi-g9-5g-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "January 26, 2025",
       "variants": [],
       "specifications": {
@@ -793,12 +793,12 @@
     {
       "id": "umidigi_f2",
       "name": "UMIDIGI F2",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/umidigi-f2",
       "image_url": "https://www.mobiledokan.com/media/umidigi-f2-blue-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-14 14:23:29",
-      "first_scraped": "2025-09-14 14:23:29",
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [],
       "specifications": {
@@ -924,11 +924,11 @@
     {
       "id": "umidigi_a5_pro",
       "name": "Umidigi A5 Pro",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/umidigi-a5-pro",
       "image_url": "https://www.mobiledokan.com/media/umidigi-a5-pro-breathing-crystal-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-14 14:30:27",
+      "last_updated": "2025-09-14 13:40:09",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
@@ -1056,11 +1056,11 @@
     {
       "id": "umidigi_one_max",
       "name": "Umidigi One Max",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-one-max",
       "image_url": "https://www.mobiledokan.com/media/umidigi-one-max-twilight-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-14 14:30:27",
+      "last_updated": "2025-09-14 13:40:09",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
@@ -1196,11 +1196,11 @@
     {
       "id": "umidigi_a3",
       "name": "Umidigi A3",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/umidigi-a3",
       "image_url": "https://www.mobiledokan.com/media/umidigi-a3-gold-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-14 14:30:27",
+      "last_updated": "2025-09-14 13:40:09",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
@@ -1241,13 +1241,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0 Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP, f/2.0, Primary Camera, 5 MP Camera",
@@ -1260,6 +1253,13 @@
             "Camera Features": "Dual Flashlight,\r\nPanorama,\r\nFace recognition,\r\nReal-time filters",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0 Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1323,6 +1323,543 @@
         "https://www.mobiledokan.com/media/umidigi-a3-gold-official-image.webp",
         "https://www.mobiledokan.com/media/umidigi-a3-gold-official-image.webp",
         "https://www.mobiledokan.com/media/umidigi-a3-black-official-image.webp"
+      ]
+    },
+    {
+      "id": "umidigi_one_pro",
+      "name": "Umidigi One Pro",
+      "price": "13990",
+      "url": "https://www.mobiledokan.com/mobile/umidigi-one-pro",
+      "image_url": "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+      "serial_number": 11,
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": "2025-09-14 13:40:09",
+      "updated_on": "July 27, 2024",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.13,990",
+          "url": "https://www.mobiledokan.com/mobile/umidigi-one-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Umidigi",
+          "Model": "One Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "05 October 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1",
+          "Chipset": "MediaTek Helio P23 MT6763V",
+          "CPU": "Octa-Core (4 x 2.0GHz ARM Cortex-A53, 4 x 1.5GHz ARM Cortex-A53) CPU Clock",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "GPU": "PowerVR GT71 MP2, 700MHz, 2-Cores GPU"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.99 inches, 92.6 cm2",
+          "Resolution": "720x1520 px (HD+)",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "282 ppi",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "12 MP Primary camara, 5 MP Camara",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP Selfie Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "148.4 mm",
+          "Width": "71.4 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "180 grams",
+          "Colors": "Black, Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3550 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v4.2",
+          "GPS": "With A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-front-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-backside-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-side-view.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-pro-official-image.webp"
+      ]
+    },
+    {
+      "id": "umidigi_one",
+      "name": "Umidigi One",
+      "price": "10400",
+      "url": "https://www.mobiledokan.com/mobile/umidigi-one",
+      "image_url": "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+      "serial_number": 12,
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": "2025-09-14 13:40:09",
+      "updated_on": "July 27, 2024",
+      "variants": [
+        {
+          "name": "4GB+32GB",
+          "price": "৳.10,400",
+          "url": "https://www.mobiledokan.com/mobile/umidigi-one"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Umidigi",
+          "Model": "One",
+          "Device Type": "Smartphone",
+          "Release Date": "05 October 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1",
+          "Chipset": "MediaTek MT6763T",
+          "CPU": "Octa core (2 GHz, Quad core, Cortex A53 + 1.5 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "GPU": "Mali-G71 MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.9 inches (14.99 cm)",
+          "Resolution": "720x1520 px (HD+)",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "285 ppi",
+          "Screen to Body Ratio": "81.59 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "12 MP f/2.0, Primary Camera, 5 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "3000 x 4000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "148.4 mm",
+          "Width": "71.4 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "180 grams",
+          "Colors": "Twilight Color, Carbon Fiber"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3550 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-front-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-backside-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-side-view.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-twilight-color-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-one-carbon-fiber-official-image.webp"
+      ]
+    },
+    {
+      "id": "umidigi_a1_pro",
+      "name": "Umidigi A1 Pro",
+      "price": "11490",
+      "url": "https://www.mobiledokan.com/mobile/umidigi-a1-pro",
+      "image_url": "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+      "serial_number": 13,
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": "2025-09-14 13:40:09",
+      "updated_on": "July 27, 2024",
+      "variants": [
+        {
+          "name": "3GB+16GB",
+          "price": "৳.11,490",
+          "url": "https://www.mobiledokan.com/mobile/umidigi-a1-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Umidigi",
+          "Model": "A1",
+          "Device Type": "Smartphone",
+          "Release Date": "05 May 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1",
+          "Chipset": "MediaTek MT6739",
+          "CPU": "Quad core, 1.5 GHz, Cortex A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "GPU": "PowerVR GE8100"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "720x1440 px (HD+)",
+          "Aspect Ratio": "18:9",
+          "Pixel Density": "293 ppi",
+          "Screen to Body Ratio": "77.75 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP f/2.0, Primary Camera, 5 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Burst mode",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "145.3 mm",
+          "Width": "69.1 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "173 grams",
+          "Colors": "Pitch Dark, Icy Blue, Moonlight Silver"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3150 mAh",
+          "Quick Charging": "15W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR3"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-front-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-moonlight-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-pitch-dark-official-image.webp"
+      ]
+    },
+    {
+      "id": "umidigi_s2_lite",
+      "name": "Umidigi S2 Lite",
+      "price": "15990",
+      "url": "https://www.mobiledokan.com/mobile/umidigi-s2-lite",
+      "image_url": "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+      "serial_number": 14,
+      "last_updated": "2025-09-14 13:40:09",
+      "first_scraped": "2025-09-14 13:40:09",
+      "updated_on": "December 1, 2024",
+      "variants": [
+        {
+          "name": "4GB+32GB",
+          "price": "৳.15,990",
+          "url": "https://www.mobiledokan.com/mobile/umidigi-s2-lite"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Umidigi",
+          "Model": "S2 Lite",
+          "Device Type": "Smartphone",
+          "Release Date": "05 January 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v7.0 (Nougat)",
+          "Chipset": "MediaTek MT6750",
+          "CPU": "Octa core, 1.5 GHz, Cortex A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "GPU": "Mali-T860 MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.0 inches (15.24 cm)",
+          "Resolution": "720x1440 px (HD+)",
+          "Aspect Ratio": "18:9",
+          "Pixel Density": "268 ppi",
+          "Screen to Body Ratio": "78.77 %",
+          "Screen Protection": "Corning Gorilla Glass v4",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP f/2.0, Primary Camera, 5 MP",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4616 x 3464 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "158.1 mm",
+          "Width": "74.6 mm",
+          "Thickness": "8.8 mm",
+          "Weight": "186 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Black, Red"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5100 mAh",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Proximity sensor, Accelerometer, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-front-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-back-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-red-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-s2-lite-black-official-image.webp"
       ]
     }
   ]

@@ -4,22 +4,22 @@
     "name": "infinix",
     "url": "https://www.mobiledokan.com/mobile-brand/infinix",
     "image_url": null,
-    "last_updated": "2025-09-14 06:27:27",
+    "last_updated": "2025-09-14 13:17:21",
     "total_phones": 114,
     "first_scraped": "2025-09-11 09:00:41",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 114
   },
   "phones": [
     {
       "id": "infinix_hot_60i_5g",
       "name": "Infinix Hot 60i 5G",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60i-5g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60i-5g-shadow-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -54,6 +54,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 0.08 MP, Auxiliary lens Camera",
@@ -67,13 +74,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.0, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -152,12 +152,12 @@
     {
       "id": "infinix_hot_60_pro",
       "name": "Infinix Hot 60 Pro",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60-pro-sapphire-blue-official-image_1.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 25, 2025",
       "variants": [],
       "specifications": {
@@ -304,12 +304,12 @@
     {
       "id": "infinix_hot_60_pro_plus",
       "name": "Infinix Hot 60 Pro Plus",
-      "price": null,
+      "price": "21999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60-pro-plus-coral-tides-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 25, 2025",
       "variants": [
         {
@@ -474,12 +474,12 @@
     {
       "id": "infinix_hot_60_pro_plus_256gb",
       "name": "Infinix Hot 60 Pro Plus (256GB)",
-      "price": null,
+      "price": "23999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60-pro-plus-256gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60-pro-plus-coral-tides-official-image_1.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 25, 2025",
       "variants": [
         {
@@ -645,12 +645,12 @@
     {
       "id": "infinix_hot_60",
       "name": "Infinix Hot 60",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60-tundra-green-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 12, 2025",
       "variants": [],
       "specifications": {
@@ -786,12 +786,12 @@
     {
       "id": "infinix_hot_60i_8gb256gb",
       "name": "Infinix Hot 60i (8GB+256GB)",
-      "price": null,
+      "price": "16499",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60i-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60i-sleek-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 3, 2025",
       "variants": [
         {
@@ -954,12 +954,12 @@
     {
       "id": "infinix_hot_60i",
       "name": "Infinix Hot 60i",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-60i",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-60i-sleek-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 3, 2025",
       "variants": [
         {
@@ -1007,13 +1007,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 0.08 MP Auxiliary lens Camera",
@@ -1027,6 +1020,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1122,12 +1122,12 @@
     {
       "id": "infinix_smart_10",
       "name": "Infinix Smart 10",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-10",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-10-iris-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 22, 2025",
       "variants": [],
       "specifications": {
@@ -1164,13 +1164,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
@@ -1184,6 +1177,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1274,12 +1274,12 @@
     {
       "id": "infinix_smart_10_plus",
       "name": "Infinix Smart 10 Plus",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-10-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-10-plus-ruby-red-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 23, 2025",
       "variants": [],
       "specifications": {
@@ -1316,13 +1316,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
@@ -1336,6 +1329,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1425,12 +1425,12 @@
     {
       "id": "infinix_smart_10_hd",
       "name": "Infinix Smart 10 HD",
-      "price": "৳9000",
+      "price": "9000",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-10-hd",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-10-hd-timber-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 17, 2025",
       "variants": [],
       "specifications": {
@@ -1556,12 +1556,12 @@
     {
       "id": "infinix_gt_30_pro_12gb_ram",
       "name": "Infinix GT 30 Pro (12GB RAM)",
-      "price": null,
+      "price": "39999",
       "url": "https://www.mobiledokan.com/mobile/infinix-gt-30-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/infinix-gt-30-pro-shadow-ash-official-color-image_1.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 2, 2025",
       "variants": [
         {
@@ -1707,12 +1707,12 @@
     {
       "id": "infinix_gt_30_pro",
       "name": "Infinix GT 30 Pro",
-      "price": null,
+      "price": "37999",
       "url": "https://www.mobiledokan.com/mobile/infinix-gt-30-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-gt-30-pro-shadow-ash-official-color-side-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 2, 2025",
       "variants": [
         {
@@ -1858,12 +1858,12 @@
     {
       "id": "infinix_note_50s",
       "name": "Infinix Note 50s",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-50s",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-50s-marine-blue-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [],
       "specifications": {
@@ -1995,12 +1995,12 @@
     {
       "id": "infinix_note_50_pro_plus",
       "name": "Infinix Note 50 Pro Plus",
-      "price": null,
+      "price": "54999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-50-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-50-pro-plus-enchanted-purple-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 10, 2025",
       "variants": [],
       "specifications": {
@@ -2138,12 +2138,12 @@
     {
       "id": "infinix_note_50",
       "name": "Infinix Note 50",
-      "price": null,
+      "price": "25999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-50",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-50-mountain-shade-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 16, 2025",
       "variants": [],
       "specifications": {
@@ -2282,12 +2282,12 @@
     {
       "id": "infinix_note_50_pro",
       "name": "Infinix Note 50 Pro",
-      "price": null,
+      "price": "31999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-50-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-50-pro-shadow-black-official-image_1.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 13, 2025",
       "variants": [],
       "specifications": {
@@ -2426,12 +2426,12 @@
     {
       "id": "infinix_note_50x",
       "name": "Infinix Note 50x",
-      "price": "৳20500",
+      "price": "20500",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-50x",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-50x-sea-breeze-green-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 1, 2025",
       "variants": [],
       "specifications": {
@@ -2468,6 +2468,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera",
@@ -2481,13 +2488,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2566,12 +2566,12 @@
     {
       "id": "infinix_smart_9_hd_4gb_ram",
       "name": "Infinix Smart 9 HD (4GB RAM)",
-      "price": null,
+      "price": "10299",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-9-hd-4gb-ram",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-9-hd-neo-titanium-official-color-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [
         {
@@ -2618,13 +2618,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/1.85, Primary Camera",
@@ -2638,6 +2631,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2724,12 +2724,12 @@
     {
       "id": "infinix_smart_9_hd",
       "name": "Infinix Smart 9 HD",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-9-hd",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-9-hd-neo-titanium-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 8, 2025",
       "variants": [
         {
@@ -2882,12 +2882,12 @@
     {
       "id": "infinix_hot_50_pro_plus",
       "name": "Infinix Hot 50 Pro Plus",
-      "price": null,
+      "price": "22999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-pro-plus-dreamy-purple-official-image_1.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 11, 2025",
       "variants": [],
       "specifications": {
@@ -3034,12 +3034,12 @@
     {
       "id": "infinix_hot_50_pro_plus_4g",
       "name": "Infinix Hot 50 Pro Plus 4G",
-      "price": null,
+      "price": "22999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-pro-plus-4g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-pro-plus-dreamy-purple-official-image_1.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 11, 2025",
       "variants": [],
       "specifications": {
@@ -3076,6 +3076,14 @@
           "Features": "Always-on display"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
+            "Flash": "LED flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, Auxiliary lens",
@@ -3089,14 +3097,6 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
-            "Flash": "LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3186,12 +3186,12 @@
     {
       "id": "infinix_hot_50_4g",
       "name": "Infinix Hot 50 4G",
-      "price": null,
+      "price": "15999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-4g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-4g-titanium-grey-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -3320,12 +3320,12 @@
     {
       "id": "infinix_hot_50",
       "name": "Infinix Hot 50",
-      "price": null,
+      "price": "15999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-titanium-grey-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -3455,12 +3455,12 @@
     {
       "id": "infinix_hot_50_pro",
       "name": "Infinix Hot 50 Pro",
-      "price": null,
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-pro-4g-glacier-blue-official-image_1.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 11, 2025",
       "variants": [],
       "specifications": {
@@ -3599,12 +3599,12 @@
     {
       "id": "infinix_hot_50_pro_4g",
       "name": "Infinix Hot 50 Pro 4G",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-pro-4g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-pro-4g-glacier-blue-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [],
       "specifications": {
@@ -3739,12 +3739,12 @@
     {
       "id": "infinix_hot_50_5g",
       "name": "Infinix HOT 50 5G",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-5g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-5g-sage-green-official-image_1.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [],
       "specifications": {
@@ -3780,14 +3780,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, Auxiliary lens",
@@ -3801,6 +3793,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3879,12 +3879,12 @@
     {
       "id": "infinix_zero_flip",
       "name": "Infinix Zero Flip",
-      "price": "৳80000",
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-flip",
       "image_url": "https://www.mobiledokan.com/media/infinix-zero-flip-blossom-glow-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -4007,12 +4007,12 @@
     {
       "id": "infinix_hot_50i",
       "name": "Infinix Hot 50i",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50i",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50i-sage-green-official-image_1.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -4048,13 +4048,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "48 MP, f/1.79, Primary Camera, 2 MP Camera",
@@ -4068,6 +4061,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -4140,12 +4140,12 @@
     {
       "id": "infinix_smart_9",
       "name": "Infinix Smart 9",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-9",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-9-mint-green-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 2, 2024",
       "variants": [
         {
@@ -4279,12 +4279,12 @@
     {
       "id": "infinix_smart_9_4gb128gb",
       "name": "Infinix Smart 9 (4GB+128GB)",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-9-4gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-9-mint-green-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -4331,12 +4331,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, Primary Camera, 0.08 MP Camera",
@@ -4347,6 +4341,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -4418,12 +4418,12 @@
     {
       "id": "infinix_zero_40",
       "name": "Infinix Zero 40",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-40",
       "image_url": "https://www.mobiledokan.com/media/infinix-zero-40-violet-garden-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -4460,14 +4460,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.5, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 2 MP, f/2.4, Depth Camera",
@@ -4482,6 +4474,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.5, Wide Angle, Primary Camera",
+            "Flash": "Dual-LED flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -4557,12 +4557,12 @@
     {
       "id": "infinix_zero_40_4g",
       "name": "Infinix Zero 40 4G",
-      "price": "৳35000",
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-40-4g",
       "image_url": "https://www.mobiledokan.com/media/infinix-zero-40-4g-misty-aqua-official-image_1.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -4696,12 +4696,12 @@
     {
       "id": "infinix_note_40x_5g",
       "name": "Infinix Note 40X 5G",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40x-5g",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-40x-5g-palm-blue-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -4836,12 +4836,12 @@
     {
       "id": "infinix_note_40s",
       "name": "Infinix Note 40S",
-      "price": null,
+      "price": "26999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40s",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-40s-obsidian-black-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 22, 2024",
       "variants": [],
       "specifications": {
@@ -4971,12 +4971,12 @@
     {
       "id": "infinix_note_40_5g",
       "name": "Infinix Note 40 5G",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40-5g",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-40-5g-titan-gold-official-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 13, 2024",
       "variants": [],
       "specifications": {
@@ -5113,12 +5113,12 @@
     {
       "id": "infinix_gt_20_pro",
       "name": "Infinix GT 20 Pro",
-      "price": null,
+      "price": "34300",
       "url": "https://www.mobiledokan.com/mobile/infinix-gt-20-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-gt-20-pro-mecha-orange-official.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 25, 2025",
       "variants": [
         {
@@ -5263,12 +5263,12 @@
     {
       "id": "infinix_note_40",
       "name": "Infinix Note 40",
-      "price": null,
+      "price": "24999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-40-obsidian-black-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [],
       "specifications": {
@@ -5303,14 +5303,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.9, Wide Angle, Primary Camera, 2 MP f/2.4 Camera",
@@ -5324,6 +5316,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Short Video Mode",
             "Video Recording": "1920x1080, 2560x1440",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -5401,12 +5401,12 @@
     {
       "id": "infinix_note_40_pro_4g",
       "name": "Infinix Note 40 Pro 4G",
-      "price": null,
+      "price": "30999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40-pro-4g",
       "image_url": "https://www.mobiledokan.com/media/1711780234cVXL2.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
         {
@@ -5453,15 +5453,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "Fixed Focus, Wide Angle",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.75, Wide Angle, Primary Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
@@ -5477,6 +5468,15 @@
             "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus, Dual Video Recording, Short Video Mode",
             "Video Recording": "1920x1080, 2560x1440",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Camera Features": "Fixed Focus, Wide Angle",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -5554,12 +5554,12 @@
     {
       "id": "infinix_note_40_pro_4g_12gb_ram",
       "name": "Infinix Note 40 Pro 4G (12GB RAM)",
-      "price": null,
+      "price": "34999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40-pro-4g-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1711780234cVXL2.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
         {
@@ -5707,12 +5707,12 @@
     {
       "id": "infinix_note_40_pro_plus",
       "name": "Infinix Note 40 Pro Plus",
-      "price": "৳38990",
+      "price": "38990",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-40-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-40-pro-plus-obsidian-black-official-image_1.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -5849,12 +5849,12 @@
     {
       "id": "infinix_smart_6_plus",
       "name": "Infinix Smart 6 Plus",
-      "price": null,
+      "price": "10999",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-6-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-6-plus-tranquil-sea-blue-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -5988,12 +5988,12 @@
     {
       "id": "infinix_smart_8_pro",
       "name": "Infinix Smart 8 Pro",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-8-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-8-pro-timber-black-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 30, 2024",
       "variants": [
         {
@@ -6036,13 +6036,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Primary Camera, 0.08 MP f/2.4",
@@ -6056,6 +6049,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -6132,12 +6132,12 @@
     {
       "id": "infinix_hot_40",
       "name": "Infinix Hot 40",
-      "price": null,
+      "price": "15999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-40",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-40-palm-blue-official-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [
         {
@@ -6283,12 +6283,12 @@
     {
       "id": "infinix_hot_40_pro",
       "name": "Infinix Hot 40 Pro",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-40-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-40-pro-horizon-gold-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -6324,6 +6324,15 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Macro Camera, 0.08 MP f/2.0 Camera",
@@ -6337,15 +6346,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 2560x1440",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -6425,12 +6425,12 @@
     {
       "id": "infinix_smart_8",
       "name": "Infinix Smart 8",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-8",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-8-rainbow-blue-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [
         {
@@ -6575,12 +6575,12 @@
     {
       "id": "infinix_smart_8_128gb",
       "name": "Infinix Smart 8 (128GB)",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-8-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-8-rainbow-blue-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 29, 2024",
       "variants": [
         {
@@ -6725,12 +6725,12 @@
     {
       "id": "infinix_zero_30_4g",
       "name": "Infinix Zero 30 4G",
-      "price": "৳25990",
+      "price": "25990",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-4g",
       "image_url": "https://www.mobiledokan.com/media/infinix-zero-30-4g-pearly-white-official.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -6767,6 +6767,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.5, Wide Angle, Primary Camera",
+            "Flash": "Dual-LED flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP, f/1.7, Wide Angle, Primary Camera, 2 MP, f/2.4 Camera, 2 MP, f/2.4 Camera",
@@ -6780,14 +6788,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.5, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -6862,12 +6862,12 @@
     {
       "id": "infinix_zero_30_5g",
       "name": "Infinix Zero 30 5G",
-      "price": null,
+      "price": "36990",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-5g",
       "image_url": "https://www.mobiledokan.com/media/1710239904HFdhp.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -7016,12 +7016,12 @@
     {
       "id": "infinix_zero_30_5g_12gb256gb",
       "name": "Infinix Zero 30 5G (12GB+256GB)",
-      "price": null,
+      "price": "39990",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-5g-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/1710239904HFdhp.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -7170,12 +7170,12 @@
     {
       "id": "infinix_gt_10_pro",
       "name": "Infinix GT 10 Pro",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/infinix-gt-10-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-gt-10-pro-mirage-silver-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [
         {
@@ -7316,12 +7316,12 @@
     {
       "id": "infinix_note_30_pro",
       "name": "Infinix Note 30 Pro",
-      "price": null,
+      "price": "23700",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-30-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-30-pro-sunset-gold-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -7362,15 +7362,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.8, Wide Angle, Primary Camera, 2MP f/2.4, Depth Camera, 0.08 MP f/2.4 Camera",
@@ -7385,6 +7376,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 2560x1440",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -7463,12 +7463,12 @@
     {
       "id": "infinix_note_30",
       "name": "Infinix Note 30",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-30",
       "image_url": "https://www.mobiledokan.com/media/1711478166u057a.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -7515,15 +7515,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "LED flash, HDR",
-            "Video Recording": "1080p",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.7, (wide), 1/2.0\", 0.7µm, PDAF\r\n2 MP, f/2.4, (depth)\r\nQVGA",
@@ -7538,6 +7529,15 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Camera Features": "LED flash, HDR",
+            "Video Recording": "1080p",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -7614,12 +7614,12 @@
     {
       "id": "infinix_note_30_256gb",
       "name": "Infinix Note 30 (256GB)",
-      "price": null,
+      "price": "21999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-30-256gb",
       "image_url": "https://www.mobiledokan.com/media/1711478166u057a.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -7765,12 +7765,12 @@
     {
       "id": "infinix_hot_30i_128gb",
       "name": "Infinix Hot 30i (128GB)",
-      "price": null,
+      "price": "12599",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-30i-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-30i-glacier-blue-official-image_1.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
         {
@@ -7920,12 +7920,12 @@
     {
       "id": "infinix_hot_30i_8gb128gb",
       "name": "Infinix Hot 30i (8GB+128GB)",
-      "price": null,
+      "price": "13199",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-30i-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-30i-glacier-blue-official-image_1.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
         {
@@ -8075,12 +8075,12 @@
     {
       "id": "infinix_hot_30",
       "name": "Infinix Hot 30",
-      "price": null,
+      "price": "13053",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-30",
       "image_url": "https://www.mobiledokan.com/media/1710157833kgjCF.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -8223,12 +8223,12 @@
     {
       "id": "infinix_hot_30i",
       "name": "Infinix Hot 30i",
-      "price": null,
+      "price": "10999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-30i",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-30i-glacier-blue-official-image_1.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
         {
@@ -8378,12 +8378,12 @@
     {
       "id": "infinix_hot_30_8gb128gb",
       "name": "Infinix Hot 30 (8GB+128GB)",
-      "price": null,
+      "price": "14999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-30-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710157833kgjCF.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -8526,12 +8526,12 @@
     {
       "id": "infinix_smart_7",
       "name": "Infinix Smart 7",
-      "price": null,
+      "price": "8400",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-7",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-7-peacock-blue-official-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [
         {
@@ -8578,11 +8578,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Flash": "LED Flash"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP f/2.0, Primary Camera, 0.3 MP, Depth Camera",
@@ -8596,6 +8591,11 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Flash": "LED Flash"
           }
         },
         "Design": {
@@ -8670,12 +8670,12 @@
     {
       "id": "infinix_smart_7_4gb_ram",
       "name": "Infinix Smart 7 (4GB RAM)",
-      "price": null,
+      "price": "10200",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-7-4gb-ram",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-7-peacock-blue-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [
         {
@@ -8814,12 +8814,12 @@
     {
       "id": "infinix_zero_5g_2023",
       "name": "Infinix Zero 5G 2023",
-      "price": "৳24990",
+      "price": "24990",
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-5g-2023",
       "image_url": "https://www.mobiledokan.com/media/infinix-zero-5g-2023-pearl-white-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
       "specifications": {
@@ -8856,6 +8856,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.6, Wide Angle, Primary Camera, 2 MP, Macro Camera, 2 MP, Depth Camera",
@@ -8869,14 +8877,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -8950,12 +8950,12 @@
     {
       "id": "infinix_hot_20s",
       "name": "Infinix Hot 20S",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-20s",
       "image_url": "https://www.mobiledokan.com/media/1710173386ajRh9.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -9086,12 +9086,12 @@
     {
       "id": "infinix_hot_20",
       "name": "Infinix Hot 20",
-      "price": null,
+      "price": "14400",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-20",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-20-black-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [
         {
@@ -9229,12 +9229,12 @@
     {
       "id": "infinix_note_12_2023",
       "name": "Infinix Note 12 2023",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-2023",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-2023-blue-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -9375,12 +9375,12 @@
     {
       "id": "infinix_note_12_2023_256gb",
       "name": "Infinix Note 12 2023 (256GB)",
-      "price": null,
+      "price": "20999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-2023-256gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-2023-blue-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -9427,6 +9427,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Video Recording": "2560x1440",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6 Wide Angle, Primary Camera 2 MP, f/2.4 Depth Camera",
@@ -9438,13 +9445,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.6",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "2560x1440",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
             "Video Recording": "2560x1440",
             "Video FPS": "30 fps"
           }
@@ -9521,12 +9521,12 @@
     {
       "id": "infinix_hot_20i",
       "name": "Infinix Hot 20i",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-20i",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-20i-gold-color-image.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -9657,12 +9657,12 @@
     {
       "id": "infinix_note_12_pro",
       "name": "Infinix Note 12 Pro",
-      "price": null,
+      "price": "22999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-pro",
       "image_url": "https://www.mobiledokan.com/media/17101614295IGfB.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [
         {
@@ -9803,12 +9803,12 @@
     {
       "id": "infinix_note_12_g96",
       "name": "Infinix Note 12 (G96)",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-g96-",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
@@ -9935,11 +9935,11 @@
     {
       "id": "infinix_note_12_g96",
       "name": "Infinix Note 12 G96",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-g96",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-12 06:45:33",
+      "last_updated": "2025-09-14 13:17:21",
       "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
@@ -10058,17 +10058,27 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp",
+        "https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp"
+      ]
     },
     {
       "id": "infinix_hot_12",
       "name": "Infinix Hot 12",
-      "price": null,
+      "price": "16299",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-12",
       "image_url": "https://www.mobiledokan.com/media/1710223674stVIj.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -10211,12 +10221,12 @@
     {
       "id": "infinix_note_12",
       "name": "Infinix Note 12",
-      "price": null,
+      "price": "18499",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-sunset-gold-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -10357,12 +10367,12 @@
     {
       "id": "infinix_smart_6_hd",
       "name": "Infinix Smart 6 HD",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-6-hd",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-6-hd-aqua-sky-official-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -10496,12 +10506,12 @@
     {
       "id": "infinix_note_12_g88",
       "name": "Infinix Note 12 (G88)",
-      "price": null,
+      "price": "18499",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-12-g88-",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-12-g88-gold-official-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
       "specifications": {
@@ -10629,12 +10639,12 @@
     {
       "id": "infinix_hot_12i",
       "name": "Infinix Hot 12i",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-12i",
       "image_url": "https://www.mobiledokan.com/media/171346109162YJj.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [
         {
@@ -10768,12 +10778,12 @@
     {
       "id": "infinix_hot_12_play",
       "name": "Infinix Hot 12 Play",
-      "price": null,
+      "price": "12600",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-12-play",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-12-play-daylight-green-official-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -10918,12 +10928,12 @@
     {
       "id": "infinix_hot_12_play_128gb",
       "name": "Infinix Hot 12 Play (128GB)",
-      "price": null,
+      "price": "13980",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-12-play-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-12-play-daylight-green-official-image.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -11068,12 +11078,12 @@
     {
       "id": "infinix_hot_11_play",
       "name": "Infinix Hot 11 Play",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-11-play",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-11-play-blue-official-image.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -11213,12 +11223,12 @@
     {
       "id": "infinix_smart_5_pro",
       "name": "Infinix Smart 5 Pro",
-      "price": null,
+      "price": "9490",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-5-pro",
       "image_url": "https://www.mobiledokan.com/media/17134447267pzQu.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 6, 2025",
       "variants": [
         {
@@ -11347,12 +11357,12 @@
     {
       "id": "infinix_hot_11_play_128gb",
       "name": "Infinix Hot 11 Play (128GB)",
-      "price": null,
+      "price": "12490",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-11-play-128gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-11-play-blue-official-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 28, 2024",
       "variants": [
         {
@@ -11490,12 +11500,12 @@
     {
       "id": "infinix_note_11s",
       "name": "Infinix Note 11S",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-11s",
       "image_url": "https://www.mobiledokan.com/media/17138915793L22m.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "April 30, 2024",
       "variants": [
         {
@@ -11629,12 +11639,12 @@
     {
       "id": "infinix_note_11_pro",
       "name": "Infinix Note 11 Pro",
-      "price": null,
+      "price": "21490",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-11-pro",
       "image_url": "https://www.mobiledokan.com/media/1713107153W47cf.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 3, 2025",
       "variants": [
         {
@@ -11765,12 +11775,12 @@
     {
       "id": "infinix_smart_6",
       "name": "Infinix Smart 6",
-      "price": null,
+      "price": "9090",
       "url": "https://www.mobiledokan.com/mobile/Infinix-Smart-6",
       "image_url": "https://www.mobiledokan.com/media/1710225847rXkNX.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -11817,6 +11827,14 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.0, Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "8 MP f/2.0, Primary Camera\r\n0.8 MP, Depth Camera",
@@ -11830,14 +11848,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.0, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -11912,12 +11922,12 @@
     {
       "id": "infinix_smart_6_3gb64gb",
       "name": "Infinix Smart 6 (3GB+64GB)",
-      "price": null,
+      "price": "10690",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-6-3gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/1710225847rXkNX.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
         {
@@ -12060,12 +12070,12 @@
     {
       "id": "infinix_hot_11s_6gb_ram",
       "name": "Infinix Hot 11s (6GB RAM)",
-      "price": null,
+      "price": "15490",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-11s-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-11s-polar-black-official-image.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -12205,12 +12215,12 @@
     {
       "id": "infinix_hot_11s",
       "name": "Infinix Hot 11s",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-11s",
       "image_url": "https://www.mobiledokan.com/media/171239704204w2F.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -12352,12 +12362,12 @@
     {
       "id": "infinix_note_10",
       "name": "Infinix Note 10",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-10",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-10-emerald-green-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 4, 2025",
       "variants": [
         {
@@ -12497,12 +12507,12 @@
     {
       "id": "infinix_hot_10s",
       "name": "Infinix Hot 10s",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-10s",
       "image_url": "https://www.mobiledokan.com/media/Infinix Hot 10s.png.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 3, 2025",
       "variants": [
         {
@@ -12549,6 +12559,15 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Dual LED",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP f/1.79, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -12562,15 +12581,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2048x1152",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -12647,12 +12657,12 @@
     {
       "id": "infinix_hot_10s_6gb_ram",
       "name": "Infinix Hot 10s (6GB RAM)",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-10s-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/Infinix Hot 10s.png.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 3, 2025",
       "variants": [
         {
@@ -12797,12 +12807,12 @@
     {
       "id": "infinix_hot_40i",
       "name": "Infinix Hot 40i",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-40i",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-40i-palm-blue-official-image.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [],
       "specifications": {
@@ -12940,12 +12950,12 @@
     {
       "id": "infinix_hot_10_play_4gb64gb",
       "name": "Infinix Hot 10 Play (4GB+64GB)",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-10-play-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-10-play-blue-official-image_1.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -13085,12 +13095,12 @@
     {
       "id": "infinix_hot_10_play",
       "name": "Infinix Hot 10 Play",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-10-play",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-10-play-black-official-image.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [
         {
@@ -13229,12 +13239,12 @@
     {
       "id": "infinix_smart_hd_2021",
       "name": "Infinix Smart HD 2021",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-hd-2021",
       "image_url": "https://www.mobiledokan.com/media/1710256659nwtop.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 3, 2025",
       "variants": [
         {
@@ -13277,14 +13287,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.0, Primary Camera",
-            "Flash": "Dual LED",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP f/2.0, Primary Camera",
@@ -13298,6 +13300,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.0, Primary Camera",
+            "Flash": "Dual LED",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -13371,12 +13381,12 @@
     {
       "id": "infinix_note_8i",
       "name": "Infinix Note 8i",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-8i",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-8i-blue-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
         {
@@ -13508,12 +13518,12 @@
     {
       "id": "infinix_hot_10",
       "name": "Infinix Hot 10",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-10",
       "image_url": "https://www.mobiledokan.com/media/1710323120fzBKX.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 3, 2025",
       "variants": [
         {
@@ -13652,12 +13662,12 @@
     {
       "id": "infinix_smart_5",
       "name": "Infinix Smart 5",
-      "price": null,
+      "price": "8490",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-5",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-5-aegean-blue-official-image.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -13800,12 +13810,12 @@
     {
       "id": "infinix_smart_5_3gb64gb",
       "name": "Infinix Smart 5 (3GB/64GB)",
-      "price": null,
+      "price": "9490",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-5-3gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-5-aegean-blue-official-image.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -13948,12 +13958,12 @@
     {
       "id": "infinix_note_7_2020",
       "name": "Infinix Note 7 (2020)",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-7-2020",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-7-2020-forest-green-image.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [],
       "specifications": {
@@ -14081,12 +14091,12 @@
     {
       "id": "infinix_note_7_lite",
       "name": "Infinix Note 7 Lite",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-7-lite",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-7-lite-froest-green-image.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "February 27, 2025",
       "variants": [],
       "specifications": {
@@ -14214,12 +14224,12 @@
     {
       "id": "infinix_hot_9_play",
       "name": "Infinix Hot 9 Play",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-9-play",
       "image_url": "https://www.mobiledokan.com/media/1710326253MVjKV.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [
         {
@@ -14355,12 +14365,12 @@
     {
       "id": "infinix_hot_9_play_4gb64gb",
       "name": "Infinix Hot 9 Play (4GB+64GB)",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-9-play-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/1711538303B1A8s.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 7, 2025",
       "variants": [
         {
@@ -14496,12 +14506,12 @@
     {
       "id": "infinix_note_7",
       "name": "Infinix Note 7",
-      "price": null,
+      "price": "15990",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-7",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-7-forest-green-official-image.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -14640,12 +14650,12 @@
     {
       "id": "infinix_smart_4",
       "name": "Infinix Smart 4",
-      "price": null,
+      "price": "8490",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-4",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-4-quetzal-cyan-official-image.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -14776,12 +14786,12 @@
     {
       "id": "infinix_s5",
       "name": "Infinix S5",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/infinix-s5",
       "image_url": "https://www.mobiledokan.com/media/infinix-s5-quetzal-cyan-official-image.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 5, 2024",
       "variants": [
         {
@@ -14914,12 +14924,12 @@
     {
       "id": "infinix_hot_8",
       "name": "Infinix Hot 8",
-      "price": null,
+      "price": "8790",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-8",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-8-cosmic-purple-official-image.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 9, 2024",
       "variants": [
         {
@@ -15060,12 +15070,12 @@
     {
       "id": "infinix_hot_8_4gb64gb",
       "name": "Infinix Hot 8 (4GB+64GB)",
-      "price": null,
+      "price": "11000",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-8-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-8-shark-blue-image.webp",
       "serial_number": 105,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -15206,12 +15216,12 @@
     {
       "id": "infinix_s4",
       "name": "Infinix S4",
-      "price": null,
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/infinix-s4",
       "image_url": "https://www.mobiledokan.com/media/infinix-s4-nebula-blue-official-image.webp",
       "serial_number": 106,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 15, 2024",
       "variants": [
         {
@@ -15344,12 +15354,12 @@
     {
       "id": "infinix_smart_3_plus",
       "name": "Infinix Smart 3 Plus",
-      "price": null,
+      "price": "9500",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-3-plus",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-3-plus-sapphire-cyan-official-image.webp",
       "serial_number": 107,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
         {
@@ -15478,12 +15488,12 @@
     {
       "id": "infinix_s3x",
       "name": "Infinix S3X",
-      "price": null,
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/infinix-s3x",
       "image_url": "https://www.mobiledokan.com/media/infinix-s3x-sandstone-black-official-image.webp",
       "serial_number": 108,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "July 15, 2024",
       "variants": [
         {
@@ -15619,12 +15629,12 @@
     {
       "id": "infinix_note_5",
       "name": "Infinix Note 5",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/infinix-note-5",
       "image_url": "https://www.mobiledokan.com/media/infinix-note-5-blue-image.webp",
       "serial_number": 109,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 20, 2024",
       "variants": [],
       "specifications": {
@@ -15754,12 +15764,12 @@
     {
       "id": "infinix_smart_2_pro",
       "name": "Infinix Smart 2 Pro",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/infinix-smart-2-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-smart-2-pro-gold-image.webp",
       "serial_number": 110,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "March 12, 2025",
       "variants": [],
       "specifications": {
@@ -15792,10 +15802,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP., Primary Camera",
@@ -15807,6 +15813,10 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera"
           }
         },
         "Design": {
@@ -15873,12 +15883,12 @@
     {
       "id": "infinix_hot_s3",
       "name": "Infinix Hot S3",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-s3",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-s3-gold-image.webp",
       "serial_number": 111,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -16007,12 +16017,12 @@
     {
       "id": "infinix_hot_6_pro",
       "name": "Infinix Hot 6 Pro",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-6-pro",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-6-pro-blue-image.webp",
       "serial_number": 112,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -16139,12 +16149,12 @@
     {
       "id": "infinix_hot_12_6gb128gb",
       "name": "Infinix Hot 12 (6GB+128GB)",
-      "price": null,
+      "price": "16499",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-12-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710223674stVIj.webp",
       "serial_number": 113,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "January 2, 2025",
       "variants": [
         {
@@ -16287,12 +16297,12 @@
     {
       "id": "infinix_hot_50_pro_plus_5g",
       "name": "Infinix Hot 50 Pro Plus 5G",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/infinix-hot-50-pro-plus-5g",
       "image_url": "https://www.mobiledokan.com/media/infinix-hot-50-pro-plus-5g-titanium-grey-official-image.webp",
       "serial_number": 114,
-      "last_updated": "2025-09-11 09:00:41",
-      "first_scraped": "2025-09-11 09:00:41",
+      "last_updated": "2025-09-14 13:17:21",
+      "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [],
       "specifications": {

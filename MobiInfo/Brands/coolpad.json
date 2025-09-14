@@ -4,22 +4,22 @@
     "name": "coolpad",
     "url": "https://www.mobiledokan.com/mobile-brand/coolpad",
     "image_url": null,
-    "last_updated": "2025-09-12 07:01:24",
+    "last_updated": "2025-09-14 13:39:03",
     "total_phones": 13,
     "first_scraped": "2025-09-11 09:16:27",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 13
   },
   "phones": [
     {
       "id": "coolpad_cp12_neo",
       "name": "Coolpad CP12 Neo",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cp12-neo",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cp12-neo-cherry-pink-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "March 26, 2025",
       "variants": [],
       "specifications": {
@@ -134,12 +134,12 @@
     {
       "id": "coolpad_x100",
       "name": "Coolpad X100",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-x100",
       "image_url": "https://www.mobiledokan.com/media/coolpad-x100-fairy-pink-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -264,12 +264,12 @@
     {
       "id": "coolpad_c16s",
       "name": "Coolpad C16s",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-c16s",
       "image_url": "https://www.mobiledokan.com/media/coolpad-c16s-sunset-orange-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -305,9 +305,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "8 MP, f/2.0, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Macro Camera, XX MP, Depth Camera",
@@ -321,6 +318,9 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "8 MP, f/2.0, Primary Camera"
           }
         },
         "Design": {
@@ -384,12 +384,12 @@
     {
       "id": "coolpad_cool_40i",
       "name": "Coolpad Cool 40i",
-      "price": "৳12000",
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cool-40i",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cool-40i-ivory-white-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "December 26, 2024",
       "variants": [],
       "specifications": {
@@ -425,13 +425,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8 Wide Angle, Primary Camera, 0.3 MP, Depth Camera",
@@ -445,6 +438,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -506,12 +506,12 @@
     {
       "id": "coolpad_c16",
       "name": "Coolpad C16",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-c16",
       "image_url": "https://www.mobiledokan.com/media/coolpad-c16-midnight-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -628,12 +628,12 @@
     {
       "id": "coolpad_legacy_sr",
       "name": "Coolpad Legacy SR",
-      "price": null,
+      "price": "6000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-legacy-sr",
       "image_url": "https://www.mobiledokan.com/media/coolpad-legacy-sr-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
         {
@@ -757,12 +757,12 @@
     {
       "id": "coolpad_cool_5",
       "name": "Coolpad Cool 5",
-      "price": null,
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cool-5",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cool-5-gradient-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -893,12 +893,12 @@
     {
       "id": "coolpad_cool_3_plus",
       "name": "Coolpad Cool 3 Plus",
-      "price": null,
+      "price": "7500",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cool-3-plus",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cool-3-ocean-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1027,12 +1027,12 @@
     {
       "id": "coolpad_legacy",
       "name": "Coolpad Legacy",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/coolpad-legacy",
       "image_url": "https://www.mobiledokan.com/media/coolpad-legacy-silver-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1162,12 +1162,12 @@
     {
       "id": "coolpad_cool_play_8",
       "name": "Coolpad Cool Play 8",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cool-play-8",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cool-play-8-red-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1209,6 +1209,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "16 MP, f/2.0, Primary Camera, 2 MP Camera",
@@ -1222,13 +1229,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1299,12 +1299,12 @@
     {
       "id": "coolpad_mega_5a",
       "name": "Coolpad Mega 5A",
-      "price": null,
+      "price": "8500",
       "url": "https://www.mobiledokan.com/mobile/coolpad-mega-5a",
       "image_url": "https://www.mobiledokan.com/media/coolpad-mega-5a-official-golden-side-image-2.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
         {
@@ -1343,12 +1343,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "8 MP f/2.0, Primary Camera, 0.3 MP Camera",
@@ -1361,6 +1355,12 @@
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -1429,12 +1429,12 @@
     {
       "id": "coolpad_cool_2",
       "name": "Coolpad Cool 2",
-      "price": null,
+      "price": "18900",
       "url": "https://www.mobiledokan.com/mobile/coolpad-cool-2",
       "image_url": "https://www.mobiledokan.com/media/coolpad-cool-2-blue-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1562,12 +1562,12 @@
     {
       "id": "coolpad_note_6",
       "name": "Coolpad Note 6",
-      "price": null,
+      "price": "11400",
       "url": "https://www.mobiledokan.com/mobile/coolpad-note-6",
       "image_url": "https://www.mobiledokan.com/media/coolpad-note-6-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:16:27",
-      "first_scraped": "2025-09-11 09:16:27",
+      "last_updated": "2025-09-14 13:39:03",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1609,14 +1609,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP, Primary Camera, 5 MP, Depth Camera",
-            "Camera Features": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Primary Camera",
@@ -1630,6 +1622,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP, Primary Camera, 5 MP, Depth Camera",
+            "Camera Features": "LED Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {

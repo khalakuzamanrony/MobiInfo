@@ -4,22 +4,22 @@
     "name": "freeyond",
     "url": "https://www.mobiledokan.com/mobile-brand/freeyond",
     "image_url": null,
-    "last_updated": "2025-09-12 07:04:50",
+    "last_updated": "2025-09-14 13:46:31",
     "total_phones": 1,
     "first_scraped": "2025-09-11 09:20:35",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
       "id": "freeyond_f9",
       "name": "FreeYond F9",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/freeyond-f9",
       "image_url": "https://www.mobiledokan.com/media/freeyond-f9-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:20:35",
-      "first_scraped": "2025-09-11 09:20:35",
+      "last_updated": "2025-09-14 13:46:31",
+      "first_scraped": null,
       "updated_on": "September 14, 2024",
       "variants": [],
       "specifications": {
@@ -52,6 +52,12 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 2 MP, Camera",
@@ -62,12 +68,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }

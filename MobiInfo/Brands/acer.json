@@ -4,22 +4,22 @@
     "name": "acer",
     "url": "https://www.mobiledokan.com/mobile-brand/acer",
     "image_url": null,
-    "last_updated": "2025-09-12 07:07:31",
+    "last_updated": "2025-09-14 13:49:03",
     "total_phones": 2,
     "first_scraped": "2025-09-11 09:23:37",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
       "id": "acer_super_zx",
       "name": "Acer Super ZX",
-      "price": "৳15000",
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/acer-super-zx",
       "image_url": "https://www.mobiledokan.com/media/acer-super-zx-cosmic-green-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:23:37",
-      "first_scraped": "2025-09-11 09:23:37",
+      "last_updated": "2025-09-14 13:49:03",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [],
       "specifications": {
@@ -55,6 +55,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, Primary Camera",
+            "Video Recording": "2560x1440",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.8, Primary Camera, 2 MP, Macro Camera, 2 MP, Depth Camera",
@@ -67,12 +73,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "2560x1440",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
             "Video Recording": "2560x1440",
             "Video FPS": "30 fps"
           }
@@ -140,12 +140,12 @@
     {
       "id": "acer_super_zx_pro",
       "name": "Acer Super ZX Pro",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/acer-super-zx-pro",
       "image_url": "https://www.mobiledokan.com/media/acer-super-zx-pro-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:23:37",
-      "first_scraped": "2025-09-11 09:23:37",
+      "last_updated": "2025-09-14 13:49:03",
+      "first_scraped": null,
       "updated_on": "April 16, 2025",
       "variants": [],
       "specifications": {
@@ -180,12 +180,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera, 2 MP, Depth Camera",
@@ -198,6 +192,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "2560x1440, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, Primary Camera",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
           }

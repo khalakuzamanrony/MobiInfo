@@ -4,22 +4,22 @@
     "name": "we",
     "url": "https://www.mobiledokan.com/mobile-brand/we",
     "image_url": null,
-    "last_updated": "2025-09-12 07:08:54",
+    "last_updated": "2025-09-14 13:50:44",
     "total_phones": 35,
     "first_scraped": "2025-09-11 09:25:01",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 35
   },
   "phones": [
     {
       "id": "we_l9",
       "name": "We L9",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/we-l9",
       "image_url": "https://www.mobiledokan.com/media/we-l9-charcoal-black-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -122,12 +122,12 @@
     {
       "id": "we_v5",
       "name": "WE V5",
-      "price": null,
+      "price": "8999",
       "url": "https://www.mobiledokan.com/mobile/we-v5",
       "image_url": "https://www.mobiledokan.com/media/we-v5-blue-colort.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 19, 2024",
       "variants": [
         {
@@ -249,12 +249,12 @@
     {
       "id": "we_v4",
       "name": "We V4",
-      "price": null,
+      "price": "9090",
       "url": "https://www.mobiledokan.com/mobile/we-v4",
       "image_url": "https://www.mobiledokan.com/media/we-v4-official-matte-black-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -372,12 +372,12 @@
     {
       "id": "we_r4",
       "name": "WE R4",
-      "price": null,
+      "price": "7000",
       "url": "https://www.mobiledokan.com/mobile/we-r4",
       "image_url": "https://www.mobiledokan.com/media/we-r4-official-space-black-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -492,12 +492,12 @@
     {
       "id": "we_b2",
       "name": "WE B2",
-      "price": null,
+      "price": "9790",
       "url": "https://www.mobiledokan.com/mobile/we-b2",
       "image_url": "https://www.mobiledokan.com/media/we-b2-official-gold-image-1.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -528,13 +528,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.8 Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.8"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, f/2.8 Primary Camera",
@@ -548,6 +541,13 @@
             "Camera Features": "Flashlight, Face Beauty, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.8 Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.8"
           }
         },
         "Design": {
@@ -613,12 +613,12 @@
     {
       "id": "we_x2",
       "name": "WE X2",
-      "price": null,
+      "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/we-x2",
       "image_url": "https://www.mobiledokan.com/media/we-x2-official-golden-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -733,12 +733,12 @@
     {
       "id": "we_a50",
       "name": "WE A50",
-      "price": null,
+      "price": "3599",
       "url": "https://www.mobiledokan.com/mobile/we-a50",
       "image_url": "https://www.mobiledokan.com/media/we-a50-blue-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -844,12 +844,12 @@
     {
       "id": "we_l2",
       "name": "WE L2",
-      "price": null,
+      "price": "3396",
       "url": "https://www.mobiledokan.com/mobile/we-l2",
       "image_url": "https://www.mobiledokan.com/media/we-l2-official-gray-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -965,12 +965,12 @@
     {
       "id": "we_f10",
       "name": "WE F10",
-      "price": null,
+      "price": "4490",
       "url": "https://www.mobiledokan.com/mobile/we-f10",
       "image_url": "https://www.mobiledokan.com/media/we-f10-official-blue-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -1087,12 +1087,12 @@
     {
       "id": "we_a10",
       "name": "WE A10",
-      "price": null,
+      "price": "2950",
       "url": "https://www.mobiledokan.com/mobile/we-a10",
       "image_url": "https://www.mobiledokan.com/media/we-a10-official-black-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -1126,13 +1126,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, f/2.8, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.8"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "2 MP, f/2.8, Primary Camera",
@@ -1146,6 +1139,13 @@
             "Camera Features": "Flashlight, Face Beauty, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, f/2.8, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.8"
           }
         },
         "Design": {
@@ -1211,12 +1211,12 @@
     {
       "id": "we_f20",
       "name": "WE F20",
-      "price": null,
+      "price": "4990",
       "url": "https://www.mobiledokan.com/mobile/we-f20",
       "image_url": "https://www.mobiledokan.com/media/we-f20-official-black-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -1331,12 +1331,12 @@
     {
       "id": "we_f1",
       "name": "We F1",
-      "price": null,
+      "price": "5490",
       "url": "https://www.mobiledokan.com/mobile/we-f1",
       "image_url": "https://www.mobiledokan.com/media/we-f1-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "July 29, 2024",
       "variants": [
         {
@@ -1453,12 +1453,12 @@
     {
       "id": "we_l8",
       "name": "WE L8",
-      "price": null,
+      "price": "5490",
       "url": "https://www.mobiledokan.com/mobile/we-l8",
       "image_url": "https://www.mobiledokan.com/media/we-l8-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "April 11, 2025",
       "variants": [],
       "specifications": {
@@ -1564,12 +1564,12 @@
     {
       "id": "we_t1",
       "name": "WE T1",
-      "price": null,
+      "price": "4444",
       "url": "https://www.mobiledokan.com/mobile/we-t1",
       "image_url": "https://www.mobiledokan.com/media/we-t1-front-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -1663,12 +1663,12 @@
     {
       "id": "we_l7",
       "name": "WE L7",
-      "price": null,
+      "price": "5990",
       "url": "https://www.mobiledokan.com/mobile/we-l7",
       "image_url": "https://www.mobiledokan.com/media/we-l7-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1774,12 +1774,12 @@
     {
       "id": "we_e2",
       "name": "WE E2",
-      "price": null,
+      "price": "4490",
       "url": "https://www.mobiledokan.com/mobile/we-e2",
       "image_url": "https://www.mobiledokan.com/media/we-e2-official-gold-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -1813,12 +1813,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP f/2.0, Wide Angle Primary Camera",
@@ -1830,6 +1824,12 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -1897,12 +1897,12 @@
     {
       "id": "we_b3",
       "name": "WE B3",
-      "price": null,
+      "price": "7990",
       "url": "https://www.mobiledokan.com/mobile/we-b3",
       "image_url": "https://www.mobiledokan.com/media/we-b3-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -2008,12 +2008,12 @@
     {
       "id": "we_s1",
       "name": "WE S1",
-      "price": null,
+      "price": "10990",
       "url": "https://www.mobiledokan.com/mobile/we-s1",
       "image_url": "https://www.mobiledokan.com/media/we-s1-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -2118,12 +2118,12 @@
     {
       "id": "we_r3",
       "name": "WE R3",
-      "price": null,
+      "price": "6590",
       "url": "https://www.mobiledokan.com/mobile/we-r3",
       "image_url": "https://www.mobiledokan.com/media/we-r3-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 27, 2024",
       "variants": [],
       "specifications": {
@@ -2228,12 +2228,12 @@
     {
       "id": "we_a3",
       "name": "WE A3",
-      "price": null,
+      "price": "2990",
       "url": "https://www.mobiledokan.com/mobile/we-a3",
       "image_url": "https://www.mobiledokan.com/media/we-a3-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -2332,12 +2332,12 @@
     {
       "id": "we_l6",
       "name": "WE L6",
-      "price": null,
+      "price": "5290",
       "url": "https://www.mobiledokan.com/mobile/we-l6",
       "image_url": "https://www.mobiledokan.com/media/we-l6-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -2367,6 +2367,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP Primary Camera",
@@ -2378,10 +2382,6 @@
             "Camera Features": "Flashlight, Face Beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Primary Camera"
           }
         },
         "Design": {
@@ -2447,12 +2447,12 @@
     {
       "id": "we_v3",
       "name": "WE V3",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/we-v3",
       "image_url": "https://www.mobiledokan.com/media/we-v3-official-gold-backimage-2.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -2569,12 +2569,12 @@
     {
       "id": "we_x3",
       "name": "WE X3",
-      "price": null,
+      "price": "11490",
       "url": "https://www.mobiledokan.com/mobile/we-x3",
       "image_url": "https://www.mobiledokan.com/media/we-x3-official-black-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -2692,12 +2692,12 @@
     {
       "id": "we_l5",
       "name": "WE L5",
-      "price": null,
+      "price": "4800",
       "url": "https://www.mobiledokan.com/mobile/we-l5",
       "image_url": "https://www.mobiledokan.com/media/we-l5-official-white-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -2730,6 +2730,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Wide Angle, Primary Camera",
@@ -2740,12 +2746,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -2813,12 +2813,12 @@
     {
       "id": "we_e1",
       "name": "WE E1",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/we-e1",
       "image_url": "https://www.mobiledokan.com/media/we-e1-official-dark-grey-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -2933,12 +2933,12 @@
     {
       "id": "we_a2",
       "name": "WE A2",
-      "price": null,
+      "price": "2999",
       "url": "https://www.mobiledokan.com/mobile/we-a2",
       "image_url": "https://www.mobiledokan.com/media/we-a2-official-gray-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 28, 2024",
       "variants": [],
       "specifications": {
@@ -3056,12 +3056,12 @@
     {
       "id": "we_r2",
       "name": "WE R2",
-      "price": null,
+      "price": "7890",
       "url": "https://www.mobiledokan.com/mobile/we-r2",
       "image_url": "https://www.mobiledokan.com/media/we-r2-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -3165,12 +3165,12 @@
     {
       "id": "we_l3",
       "name": "WE L3",
-      "price": null,
+      "price": "3990",
       "url": "https://www.mobiledokan.com/mobile/we-l3",
       "image_url": "https://www.mobiledokan.com/media/we-l3-black-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "October 31, 2024",
       "variants": [],
       "specifications": {
@@ -3199,6 +3199,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "5 MP, Primary Camera",
@@ -3208,10 +3212,6 @@
             "Shooting Modes": "Continuous Shooting",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera"
           }
         },
         "Design": {
@@ -3265,12 +3265,12 @@
     {
       "id": "we_l4",
       "name": "WE L4",
-      "price": null,
+      "price": "4890",
       "url": "https://www.mobiledokan.com/mobile/we-l4",
       "image_url": "https://www.mobiledokan.com/media/we-l4-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3375,12 +3375,12 @@
     {
       "id": "we_v2",
       "name": "WE V2",
-      "price": null,
+      "price": "8590",
       "url": "https://www.mobiledokan.com/mobile/we-v2",
       "image_url": "https://www.mobiledokan.com/media/we-v2-official-champagne-gold-image-1.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
       "specifications": {
@@ -3413,6 +3413,12 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Wide Angle, Primary Camera",
@@ -3423,12 +3429,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -3498,12 +3498,12 @@
     {
       "id": "we_v1",
       "name": "WE V1",
-      "price": null,
+      "price": "8500",
       "url": "https://www.mobiledokan.com/mobile/we-v1",
       "image_url": "https://www.mobiledokan.com/media/we-v1-official-black-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -3536,12 +3536,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
@@ -3552,6 +3546,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Touch to focus, Face detection",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
@@ -3620,12 +3620,12 @@
     {
       "id": "we_x1",
       "name": "WE X1",
-      "price": null,
+      "price": "13990",
       "url": "https://www.mobiledokan.com/mobile/we-x1",
       "image_url": "https://www.mobiledokan.com/media/we-x1-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -3731,12 +3731,12 @@
     {
       "id": "we_b1",
       "name": "WE B1",
-      "price": null,
+      "price": "7700",
       "url": "https://www.mobiledokan.com/mobile/we-b1",
       "image_url": "https://www.mobiledokan.com/media/we-b1-official-black-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
       "specifications": {
@@ -3851,12 +3851,12 @@
     {
       "id": "we_r1",
       "name": "WE R1",
-      "price": null,
+      "price": "5900",
       "url": "https://www.mobiledokan.com/mobile/we-r1",
       "image_url": "https://www.mobiledokan.com/media/we-r1-front-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {
@@ -3947,12 +3947,12 @@
     {
       "id": "we_l1",
       "name": "WE L1",
-      "price": null,
+      "price": "4250",
       "url": "https://www.mobiledokan.com/mobile/we-l1",
       "image_url": "https://www.mobiledokan.com/media/we-l1-official-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:25:01",
-      "first_scraped": "2025-09-11 09:25:01",
+      "last_updated": "2025-09-14 13:50:44",
+      "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
       "specifications": {

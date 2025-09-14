@@ -4,22 +4,22 @@
     "name": "motorola",
     "url": "https://www.mobiledokan.com/mobile-brand/motorola",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:20",
+    "last_updated": "2025-09-14 13:47:33",
     "total_phones": 151,
     "first_scraped": "2025-09-11 09:23:16",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 151
   },
   "phones": [
     {
       "id": "motorola_moto_g86_power",
       "name": "Motorola Moto G86 Power",
-      "price": "৳28000",
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g86-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g86-power-pantone-spellbound-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -151,12 +151,12 @@
     {
       "id": "motorola_moto_g96",
       "name": "Motorola Moto G96",
-      "price": null,
+      "price": "25500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g96",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g96-pantone-dresden-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 4, 2025",
       "variants": [
         {
@@ -300,12 +300,12 @@
     {
       "id": "motorola_moto_g96_256gb",
       "name": "Motorola Moto G96 (256GB)",
-      "price": null,
+      "price": "28500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g96-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g96-pantone-dresden-blue-official-image_1.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 4, 2025",
       "variants": [
         {
@@ -352,6 +352,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -366,13 +373,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Dual Video Recording\r\nSlow Motion, Audio Zoom",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -449,12 +449,12 @@
     {
       "id": "motorola_moto_g86",
       "name": "Motorola Moto G86",
-      "price": "৳26500",
+      "price": "26500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g86",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g86-golden-cypress-official-color-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 7, 2025",
       "variants": [],
       "specifications": {
@@ -491,13 +491,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -512,6 +505,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -586,12 +586,12 @@
     {
       "id": "motorola_moto_g56",
       "name": "Motorola Moto G56",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g56",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g56-gray-mist-official-image_1.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 6, 2025",
       "variants": [],
       "specifications": {
@@ -711,12 +711,12 @@
     {
       "id": "motorola_edge_60s",
       "name": "Motorola Edge 60s",
-      "price": "৳50000",
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60s",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60s-pantone-amazonite-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 9, 2025",
       "variants": [],
       "specifications": {
@@ -849,12 +849,12 @@
     {
       "id": "motorola_edge_60_pro_12gb512gb",
       "name": "Motorola Edge 60 Pro (12GB+512GB)",
-      "price": null,
+      "price": "55500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-color-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 30, 2025",
       "variants": [
         {
@@ -1006,12 +1006,12 @@
     {
       "id": "motorola_edge_60_pro",
       "name": "Motorola Edge 60 Pro",
-      "price": null,
+      "price": "41000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 30, 2025",
       "variants": [
         {
@@ -1064,6 +1064,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 120 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 10 MP, f2.0, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -1078,13 +1085,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 120 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1163,12 +1163,12 @@
     {
       "id": "motorola_edge_60_pro_12gb_ram",
       "name": "Motorola Edge 60 Pro (12GB RAM)",
-      "price": null,
+      "price": "45500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-color-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 30, 2025",
       "variants": [
         {
@@ -1320,12 +1320,12 @@
     {
       "id": "motorola_edge_60",
       "name": "Motorola Edge 60",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-green-grape-iced-tea-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 27, 2025",
       "variants": [
         {
@@ -1463,12 +1463,12 @@
     {
       "id": "motorola_razr_60_ultra",
       "name": "Motorola Razr 60 Ultra",
-      "price": "৳155000",
+      "price": "155000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-60-ultra",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-60-ultra-cabaret-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 31, 2025",
       "variants": [],
       "specifications": {
@@ -1603,12 +1603,12 @@
     {
       "id": "motorola_edge_60_stylus",
       "name": "Motorola Edge 60 Stylus",
-      "price": "৳33500",
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-stylus",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-stylus-pantone-gibraltar-sea-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 17, 2025",
       "variants": [],
       "specifications": {
@@ -1645,6 +1645,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1658,13 +1665,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1740,12 +1740,12 @@
     {
       "id": "motorola_edge_60_fusion",
       "name": "Motorola Edge 60 Fusion",
-      "price": null,
+      "price": "32500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-fusion",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-fusion-pantone-amazonite-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 22, 2025",
       "variants": [
         {
@@ -1890,12 +1890,12 @@
     {
       "id": "motorola_edge_60_fusion_12gb_ram",
       "name": "Motorola Edge 60 Fusion (12GB RAM)",
-      "price": null,
+      "price": "35500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-fusion-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-fusion-pantone-amazonite-official-image_1.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 22, 2025",
       "variants": [
         {
@@ -2040,12 +2040,12 @@
     {
       "id": "motorola_moto_g_power_2025",
       "name": "Motorola Moto G Power (2025)",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-power-2025",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-power-2025-green-official-image_1.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -2168,12 +2168,12 @@
     {
       "id": "motorola_moto_g_5g_2025",
       "name": "Motorola Moto G 5G (2025)",
-      "price": "৳25000",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-5g-2025",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-5g-2025-sapphire-blue-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -2302,12 +2302,12 @@
     {
       "id": "motorola_moto_g05",
       "name": "Motorola Moto G05",
-      "price": "৳12190",
+      "price": "12190",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g05",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g05-plum-red-official-image_1.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -2342,6 +2342,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.1, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.1"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera",
@@ -2355,13 +2362,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.1, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.1"
           }
         },
         "Design": {
@@ -2438,12 +2438,12 @@
     {
       "id": "motorola_moto_g15",
       "name": "Motorola Moto G15",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g15",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g15-iguana-green-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -2572,12 +2572,12 @@
     {
       "id": "motorola_moto_e15",
       "name": "Motorola Moto E15",
-      "price": "৳12000",
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e15",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e15-misty-blue-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -2705,12 +2705,12 @@
     {
       "id": "motorola_moto_g15_power",
       "name": "Motorola Moto G15 Power",
-      "price": "৳16000",
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g15-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g15-power-iguana-green-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -2838,12 +2838,12 @@
     {
       "id": "motorola_moto_g75",
       "name": "Motorola Moto G75",
-      "price": "৳28500",
+      "price": "28500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g75",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g75-succulent-green-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 30, 2025",
       "variants": [],
       "specifications": {
@@ -2974,12 +2974,12 @@
     {
       "id": "motorola_thinkphone_25",
       "name": "Motorola ThinkPhone 25",
-      "price": "৳115000",
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/motorola-thinkphone-25",
       "image_url": "https://www.mobiledokan.com/media/motorola-thinkphone-25-carbon-black-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 4, 2024",
       "variants": [],
       "specifications": {
@@ -3111,12 +3111,12 @@
     {
       "id": "motorola_moto_g35",
       "name": "Motorola Moto G35",
-      "price": "৳15800",
+      "price": "15800",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g35",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g35-leaf-green-official-image_2.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 11, 2025",
       "variants": [],
       "specifications": {
@@ -3249,12 +3249,12 @@
     {
       "id": "motorola_moto_s50",
       "name": "Motorola Moto S50",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-s50",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-s50-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
       "specifications": {
@@ -3380,12 +3380,12 @@
     {
       "id": "motorola_edge_50_neo",
       "name": "Motorola Edge 50 Neo",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-neo",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-neo-pantone-grisaille-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [],
       "specifications": {
@@ -3421,13 +3421,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 10 MP, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -3442,6 +3435,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Bokeh portrait video",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -3521,12 +3521,12 @@
     {
       "id": "motorola_moto_g45",
       "name": "Motorola Moto G45",
-      "price": "৳17999",
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g45",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g45-brilliant-blue-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "December 29, 2024",
       "variants": [],
       "specifications": {
@@ -3653,12 +3653,12 @@
     {
       "id": "motorola_edge_50",
       "name": "Motorola Edge 50",
-      "price": "৳29000",
+      "price": "29000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-jungle-green-official-image_2.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 11, 2025",
       "variants": [],
       "specifications": {
@@ -3792,12 +3792,12 @@
     {
       "id": "motorola_s50_neo_12gb_ram",
       "name": "Motorola S50 Neo (12GB RAM)",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/motorola-s50-neo-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-s50-neo-olivine-official-image_1.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 9, 2025",
       "variants": [
         {
@@ -3946,12 +3946,12 @@
     {
       "id": "motorola_s50_neo_12gb512gb",
       "name": "Motorola S50 Neo (12GB+512GB)",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/motorola-s50-neo-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-s50-neo-olivine-official-image_1.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -4100,12 +4100,12 @@
     {
       "id": "motorola_s50_neo",
       "name": "Motorola S50 Neo",
-      "price": null,
+      "price": "26500",
       "url": "https://www.mobiledokan.com/mobile/motorola-s50-neo",
       "image_url": "https://www.mobiledokan.com/media/motorola-s50-neo-olivine-official-image_1.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 9, 2025",
       "variants": [
         {
@@ -4254,12 +4254,12 @@
     {
       "id": "motorola_moto_g85_12gb256gb",
       "name": "Motorola Moto G85 (12GB+256GB)",
-      "price": null,
+      "price": "27800",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g85-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g85-cobalt-blue-official-image_1.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -4405,12 +4405,12 @@
     {
       "id": "motorola_moto_g85",
       "name": "Motorola Moto G85",
-      "price": null,
+      "price": "24500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g85",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g85-cobalt-blue-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -4556,12 +4556,12 @@
     {
       "id": "motorola_razr_50_ultra",
       "name": "Motorola Razr 50 Ultra",
-      "price": "৳94999",
+      "price": "94999",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-50-ultra",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-50-ultra-peach-official-image.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "December 7, 2024",
       "variants": [],
       "specifications": {
@@ -4597,13 +4597,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Telephoto Camera",
@@ -4618,6 +4611,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4696,12 +4696,12 @@
     {
       "id": "motorola_razr_50",
       "name": "Motorola Razr 50",
-      "price": "৳60000",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-50",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-50-arabesque-official-image.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 10, 2024",
       "variants": [],
       "specifications": {
@@ -4737,6 +4737,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 13 MP, f/2.2, Ultra-Wide Camera",
@@ -4751,13 +4758,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4832,12 +4832,12 @@
     {
       "id": "motorola_one_hyper",
       "name": "Motorola One Hyper",
-      "price": "৳40000",
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/motorola-one-hyper",
       "image_url": "https://www.mobiledokan.com/media/motorola-one-hyper-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -4871,13 +4871,6 @@
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.0, Wide Angle, primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual Camera",
             "Resolution": "64 MP, f/1.8, Wide Angle, primary Camera, 8 MP, f/2.2, Ultra-Wide Angle, Primary Camera",
@@ -4891,6 +4884,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.0, Wide Angle, primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -4962,12 +4962,12 @@
     {
       "id": "motorola_edge_2024",
       "name": "Motorola Edge (2024)",
-      "price": "৳65000",
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-2024",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-2024-black-official-image.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -5100,12 +5100,12 @@
     {
       "id": "motorola_moto_g_stylus_5g_2024",
       "name": "Motorola Moto G Stylus 5G (2024)",
-      "price": "৳35999",
+      "price": "35999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-stylus-5g-2024",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-stylus-5g-2024-scarlet-wave-official-image.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "November 23, 2024",
       "variants": [],
       "specifications": {
@@ -5235,12 +5235,12 @@
     {
       "id": "motorola_moto_x50_ultra",
       "name": "Motorola Moto X50 Ultra",
-      "price": "৳70000",
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-x50-ultra",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-x50-ultra-nordic-wood-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [],
       "specifications": {
@@ -5373,12 +5373,12 @@
     {
       "id": "motorola_edge_50_ultra_16gb_ram",
       "name": "Motorola Edge 50 Ultra (16GB RAM)",
-      "price": null,
+      "price": "79499",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-ultra-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-ultra-official-image.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 17, 2024",
       "variants": [
         {
@@ -5528,12 +5528,12 @@
     {
       "id": "motorola_edge_50_fusion_12gb256gb",
       "name": "Motorola Edge 50 Fusion (12GB+256GB)",
-      "price": null,
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-fusion-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-fusion-hot-pink-official-image_1.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 20, 2025",
       "variants": [
         {
@@ -5683,12 +5683,12 @@
     {
       "id": "motorola_edge_50_fusion",
       "name": "Motorola Edge 50 Fusion",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-fusion",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-hot-pink-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 20, 2025",
       "variants": [
         {
@@ -5737,13 +5737,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera",
@@ -5758,6 +5751,13 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -5837,12 +5837,12 @@
     {
       "id": "motorola_edge_50_ultra",
       "name": "Motorola Edge 50 Ultra",
-      "price": null,
+      "price": "75999",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-ultra",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-ultra-nordic-wood-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 16, 2024",
       "variants": [
         {
@@ -5993,12 +5993,12 @@
     {
       "id": "motorola_moto_g04s",
       "name": "Motorola Moto G04s",
-      "price": null,
+      "price": "12300",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g04s",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g04s-black.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [
         {
@@ -6045,13 +6045,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera",
@@ -6065,6 +6058,13 @@
             "Camera Features": "Auto Flash, \r\nCustom Watermark, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -6142,12 +6142,12 @@
     {
       "id": "motorola_moto_g04s_8gb128gb",
       "name": "Motorola Moto G04s (8GB+128GB)",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g04s-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g04s-black.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -6194,13 +6194,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera",
@@ -6214,6 +6207,13 @@
             "Camera Features": "Auto Flash, \r\nCustom Watermark, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -6291,12 +6291,12 @@
     {
       "id": "motorola_moto_g64",
       "name": "Motorola Moto G64",
-      "price": null,
+      "price": "22000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g64",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g64-pearl-blue-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 23, 2024",
       "variants": [
         {
@@ -6441,12 +6441,12 @@
     {
       "id": "motorola_moto_g64_12gb256gb",
       "name": "Motorola Moto G64 (12GB/256GB)",
-      "price": null,
+      "price": "23999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g64-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g64-pearl-blue-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 28, 2024",
       "variants": [
         {
@@ -6591,12 +6591,12 @@
     {
       "id": "motorola_edge_50_pro_12gb_ram",
       "name": "Motorola Edge 50 Pro (12GB RAM)",
-      "price": null,
+      "price": "42999",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-pro-luxe-lavender-official-image_1.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -6644,6 +6644,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Quad Pixel autofocus",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.4, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle, Macro Camera, 10 MP f/2.0, Telephoto Camera",
@@ -6658,14 +6666,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Smile detection, Touch to focus, Dual Video Recording, Slo-motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Quad Pixel autofocus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
@@ -6749,12 +6749,12 @@
     {
       "id": "motorola_edge_50_pro",
       "name": "Motorola Edge 50 Pro",
-      "price": null,
+      "price": "38500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-50-pro",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-50-pro-luxe-lavender-official-image.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [
         {
@@ -6908,12 +6908,12 @@
     {
       "id": "motorola_moto_g24_power",
       "name": "Motorola Moto G24 Power",
-      "price": null,
+      "price": "14000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g24-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g24-power-ink-blue-official-image.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 19, 2024",
       "variants": [
         {
@@ -7065,12 +7065,12 @@
     {
       "id": "motorola_moto_g24_power_8gb_ram",
       "name": "Motorola Moto G24 Power (8GB RAM)",
-      "price": null,
+      "price": "16000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g24-power-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g24-power-ink-blue-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 19, 2024",
       "variants": [
         {
@@ -7221,12 +7221,12 @@
     {
       "id": "motorola_moto_g24_power_256gb",
       "name": "Motorola Moto G24 Power (256GB)",
-      "price": null,
+      "price": "17000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g24-power-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g24-power-blue-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 31, 2025",
       "variants": [
         {
@@ -7375,12 +7375,12 @@
     {
       "id": "motorola_moto_g04",
       "name": "Motorola Moto G04",
-      "price": null,
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g04",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g04-sunrise-orange-official-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 31, 2024",
       "variants": [
         {
@@ -7525,12 +7525,12 @@
     {
       "id": "motorola_moto_g24",
       "name": "Motorola Moto G24",
-      "price": "৳17000",
+      "price": "17000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g24",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g24-pink-lavender-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
       "specifications": {
@@ -7566,6 +7566,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Primary Camera, 2 MP f/2.4, Macro Camera",
@@ -7579,13 +7586,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -7665,12 +7665,12 @@
     {
       "id": "motorola_moto_g34",
       "name": "Motorola Moto G34",
-      "price": null,
+      "price": "17799",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g34",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g34-ocean-green-official-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -7817,12 +7817,12 @@
     {
       "id": "motorola_moto_g34_256gb",
       "name": "Motorola Moto G34 (256GB)",
-      "price": null,
+      "price": "24500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g34-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g34-ocean-green-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -7868,6 +7868,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Macro Camera",
@@ -7881,13 +7888,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -7969,12 +7969,12 @@
     {
       "id": "motorola_edge_40_neo",
       "name": "Motorola Edge 40 Neo",
-      "price": null,
+      "price": "31200",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-40-neo",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-40-neo-black-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
         {
@@ -8119,12 +8119,12 @@
     {
       "id": "motorola_edge_40_neo_12gb256gb",
       "name": "Motorola Edge 40 Neo (12GB/256GB)",
-      "price": null,
+      "price": "35500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-40-neo-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-40-neo-black-official-image.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
         {
@@ -8274,12 +8274,12 @@
     {
       "id": "motorola_moto_g84",
       "name": "Motorola Moto G84",
-      "price": "৳25999",
+      "price": "25999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g84",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g84-viva-magenta-official-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [],
       "specifications": {
@@ -8315,6 +8315,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -8329,13 +8336,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -8417,12 +8417,12 @@
     {
       "id": "motorola_moto_g54",
       "name": "Motorola Moto G54",
-      "price": null,
+      "price": "21000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g54",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g54-mint-green-official-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 22, 2025",
       "variants": [
         {
@@ -8569,12 +8569,12 @@
     {
       "id": "motorola_moto_g54_12gb256gb",
       "name": "Motorola Moto G54 (12GB+256GB)",
-      "price": null,
+      "price": "21500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g54-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g54-mint-green-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -8620,13 +8620,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.2, Macro Camera",
@@ -8641,6 +8634,13 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -8721,12 +8721,12 @@
     {
       "id": "motorola_moto_g14",
       "name": "Motorola Moto G14",
-      "price": "৳14900",
+      "price": "14900",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g14",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g14-sky-blue-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [],
       "specifications": {
@@ -8863,12 +8863,12 @@
     {
       "id": "motorola_razr_40",
       "name": "Motorola Razr 40",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-40",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-40-sage-green-official-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 26, 2025",
       "variants": [
         {
@@ -9010,12 +9010,12 @@
     {
       "id": "motorola_razr_40_ultra",
       "name": "Motorola Razr 40 Ultra",
-      "price": null,
+      "price": "135000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-40-ultra",
       "image_url": "https://www.mobiledokan.com/media/1713604446L5spJ.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -9155,12 +9155,12 @@
     {
       "id": "motorola_razr_40_ultra_12gb512gb",
       "name": "Motorola Razr 40 Ultra (12GB+512GB)",
-      "price": null,
+      "price": "155000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-40-ultra-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/1713604446L5spJ.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -9298,12 +9298,12 @@
     {
       "id": "motorola_moto_g_stylus_5g_2023",
       "name": "Motorola Moto G Stylus 5G (2023)",
-      "price": "৳45000",
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-stylus-5g-2023-",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-stylus-5g-2023-rose-champagne-official-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
       "specifications": {
@@ -9434,12 +9434,12 @@
     {
       "id": "motorola_edge_40",
       "name": "Motorola Edge 40",
-      "price": null,
+      "price": "36500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-40",
       "image_url": "https://www.mobiledokan.com/media/17136296876sVrT.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 31, 2025",
       "variants": [
         {
@@ -9578,12 +9578,12 @@
     {
       "id": "motorola_moto_e13",
       "name": "Motorola Moto E13",
-      "price": null,
+      "price": "14000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e13",
       "image_url": "https://www.mobiledokan.com/media/1713792324Z66gA.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -9625,13 +9625,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.2, Wide Angle, Primary Camera",
@@ -9645,6 +9638,13 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -9712,12 +9712,12 @@
     {
       "id": "motorola_moto_g73",
       "name": "Motorola Moto G73",
-      "price": null,
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g73",
       "image_url": "https://www.mobiledokan.com/media/1713732303Bte1F.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -9757,6 +9757,13 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -9770,13 +9777,6 @@
             "Camera Features": "8 x Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -9848,12 +9848,12 @@
     {
       "id": "motorola_moto_g13",
       "name": "Motorola Moto G13",
-      "price": null,
+      "price": "18500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g13",
       "image_url": "https://www.mobiledokan.com/media/1713789123ct6bh.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -9986,12 +9986,12 @@
     {
       "id": "motorola_moto_x40",
       "name": "Motorola Moto X40",
-      "price": null,
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-x40",
       "image_url": "https://www.mobiledokan.com/media/1713778344oXsyR.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 28, 2024",
       "variants": [
         {
@@ -10127,12 +10127,12 @@
     {
       "id": "motorola_moto_e22s",
       "name": "Motorola Moto E22s",
-      "price": null,
+      "price": "14999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e22s",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e22s-iceberg-blue-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
         {
@@ -10271,12 +10271,12 @@
     {
       "id": "motorola_moto_g72",
       "name": "Motorola Moto G72",
-      "price": "৳32000",
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g72",
       "image_url": "https://www.mobiledokan.com/media/1713934119dqz7J.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [],
       "specifications": {
@@ -10314,6 +10314,13 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.45, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.7, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -10326,13 +10333,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.45, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -10404,12 +10404,12 @@
     {
       "id": "motorola_edge_30_fusion",
       "name": "Motorola Edge 30 Fusion",
-      "price": null,
+      "price": "58000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30-fusion",
       "image_url": "https://www.mobiledokan.com/media/1713887261Nz9zF.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
         {
@@ -10546,12 +10546,12 @@
     {
       "id": "motorola_edge_30_ultra",
       "name": "Motorola Edge 30 Ultra",
-      "price": null,
+      "price": "84000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30-ultra",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-30-ultra-white-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [
         {
@@ -10599,13 +10599,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "60 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "200 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.6, Telephoto Camera",
@@ -10621,6 +10614,13 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nCustom Watermark,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080,5760x3240",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "60 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -10702,12 +10702,12 @@
     {
       "id": "motorola_razr_2022",
       "name": "Motorola Razr 2022",
-      "price": null,
+      "price": "130000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-2022",
       "image_url": "https://www.mobiledokan.com/media/1714331877Spjnf.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 3, 2024",
       "variants": [
         {
@@ -10838,12 +10838,12 @@
     {
       "id": "motorola_moto_g32",
       "name": "Motorola Moto G32",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g32",
       "image_url": "https://www.mobiledokan.com/media/1714320374m5lbx.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 30, 2024",
       "variants": [
         {
@@ -10974,12 +10974,12 @@
     {
       "id": "motorola_moto_s30_pro",
       "name": "Motorola Moto S30 Pro",
-      "price": null,
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-s30-pro",
       "image_url": "https://www.mobiledokan.com/media/1714244827WbzIa.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 30, 2024",
       "variants": [
         {
@@ -11111,12 +11111,12 @@
     {
       "id": "motorola_moto_g62",
       "name": "Motorola Moto G62",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g62",
       "image_url": "https://www.mobiledokan.com/media/1714060501zy45F.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 30, 2024",
       "variants": [
         {
@@ -11250,12 +11250,12 @@
     {
       "id": "motorola_moto_g42",
       "name": "Motorola Moto G42",
-      "price": "৳17500",
+      "price": "17500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g42",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g42-atlantic-green-official-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "December 15, 2024",
       "variants": [],
       "specifications": {
@@ -11389,12 +11389,12 @@
     {
       "id": "motorola_moto_g82",
       "name": "Motorola Moto G82",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g82",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g82-black-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {
@@ -11542,12 +11542,12 @@
     {
       "id": "motorola_moto_g82_8gb_ram",
       "name": "Motorola Moto G82 (8GB RAM)",
-      "price": null,
+      "price": "34000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g82-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g82-black-imagejpg.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {
@@ -11593,13 +11593,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -11614,6 +11607,13 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -11695,12 +11695,12 @@
     {
       "id": "motorola_edge_30",
       "name": "Motorola Edge 30",
-      "price": null,
+      "price": "37000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30",
       "image_url": "https://www.mobiledokan.com/media/1713710738YS370.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 22, 2024",
       "variants": [
         {
@@ -11839,12 +11839,12 @@
     {
       "id": "motorola_edge_30_8gb_ram",
       "name": "Motorola Edge 30 (8GB RAM)",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1713710738YS370.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 22, 2024",
       "variants": [
         {
@@ -11983,12 +11983,12 @@
     {
       "id": "motorola_moto_e32",
       "name": "Motorola Moto E32",
-      "price": null,
+      "price": "15999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e32",
       "image_url": "https://www.mobiledokan.com/media/17135015184aAHp.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
         {
@@ -12125,12 +12125,12 @@
     {
       "id": "motorola_edge_30_pro",
       "name": "Motorola Edge 30 Pro",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30-pro",
       "image_url": "https://www.mobiledokan.com/media/1714328662HMHc9.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "June 30, 2024",
       "variants": [
         {
@@ -12267,12 +12267,12 @@
     {
       "id": "motorola_edge_30_ultra_12gb256gb",
       "name": "Motorola Edge 30 Ultra (12GB+256GB)",
-      "price": null,
+      "price": "92000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-30-ultra-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-30-ultra-white-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -12425,12 +12425,12 @@
     {
       "id": "motorola_edge_s30",
       "name": "Motorola Edge S30",
-      "price": null,
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-s30",
       "image_url": "https://www.mobiledokan.com/media/1713872641yaSTj.webp",
       "serial_number": 87,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "April 29, 2024",
       "variants": [
         {
@@ -12559,12 +12559,12 @@
     {
       "id": "motorola_moto_g31",
       "name": "Motorola Moto G31",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g31",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g31-sterling-blue-official-image.webp",
       "serial_number": 88,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -12708,12 +12708,12 @@
     {
       "id": "motorola_moto_g31_6gb128gb",
       "name": "Motorola Moto G31 (6GB/128GB)",
-      "price": null,
+      "price": "22990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g31-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g31-sterling-blue-official-image.webp",
       "serial_number": 89,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 24, 2024",
       "variants": [
         {
@@ -12857,12 +12857,12 @@
     {
       "id": "motorola_moto_e40",
       "name": "Motorola Moto E40",
-      "price": null,
+      "price": "17499",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e40",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e40-carbon-gray-official-image.webp",
       "serial_number": 90,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
         {
@@ -12999,12 +12999,12 @@
     {
       "id": "motorola_edge_20_fusion",
       "name": "Motorola Edge 20 Fusion",
-      "price": null,
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-20-fusion",
       "image_url": "https://www.mobiledokan.com/media/1713271419poJ4L.webp",
       "serial_number": 91,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -13051,13 +13051,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.25, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.25"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.9, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Depth Camera",
@@ -13071,6 +13064,13 @@
             "Camera Features": "8 x Digital Zoom,\r\nAuto Flash,\r\nCustom Watermark,\r\nFace detection,\r\nFilters,\r\nSmile detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.25, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.25"
           }
         },
         "Design": {
@@ -13147,12 +13147,12 @@
     {
       "id": "motorola_edge_20_fusion_8gb_ram",
       "name": "Motorola Edge 20 Fusion (8GB RAM)",
-      "price": null,
+      "price": "38999",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-20-fusion-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1713271419poJ4L.webp",
       "serial_number": 92,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
         {
@@ -13199,6 +13199,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.25, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.25"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "108 MP f/1.9, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Depth Camera",
@@ -13212,13 +13219,6 @@
             "Camera Features": "8 x Digital Zoom, Auto Flash, Custom Watermark, Face detection, Filters Smile detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080,1280x720",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.25, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.25"
           }
         },
         "Design": {
@@ -13295,12 +13295,12 @@
     {
       "id": "motorola_edge_20_pro",
       "name": "Motorola Edge 20 Pro",
-      "price": null,
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-20-pro",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-20-pro-midnight-blue-official-image.webp",
       "serial_number": 93,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 26, 2025",
       "variants": [
         {
@@ -13441,12 +13441,12 @@
     {
       "id": "motorola_moto_g40_fusion",
       "name": "Motorola Moto G40 Fusion",
-      "price": null,
+      "price": "20500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g40-fusion",
       "image_url": "https://www.mobiledokan.com/media/Motorola Moto G40 Fusion.jpg.webp",
       "serial_number": 94,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 10, 2025",
       "variants": [
         {
@@ -13589,12 +13589,12 @@
     {
       "id": "motorola_moto_g40_fusion_6gb128gb",
       "name": "Motorola Moto G40 Fusion (6GB/128GB)",
-      "price": null,
+      "price": "25800",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g40-fusion-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/Motorola Moto G40 Fusion.jpg.webp",
       "serial_number": 95,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 10, 2025",
       "variants": [
         {
@@ -13737,12 +13737,12 @@
     {
       "id": "motorola_moto_g60",
       "name": "Motorola Moto G60",
-      "price": null,
+      "price": "27999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g60",
       "image_url": "https://www.mobiledokan.com/media/Motorola Moto G60.png.webp",
       "serial_number": 96,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 3, 2024",
       "variants": [
         {
@@ -13877,12 +13877,12 @@
     {
       "id": "motorola_moto_g30",
       "name": "Motorola Moto G30",
-      "price": null,
+      "price": "17990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g30",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g30-picture.webp",
       "serial_number": 97,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 10, 2025",
       "variants": [],
       "specifications": {
@@ -13917,6 +13917,13 @@
           "Features": "Multitouch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP f/1.7, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
@@ -13930,13 +13937,6 @@
             "Camera Features": "Digital Zoom\r\nAuto Flash\r\nFace detection\r\nTouch to focus",
             "Video Recording": "1920x1080,1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -14014,12 +14014,12 @@
     {
       "id": "motorola_moto_g10_power",
       "name": "Motorola Moto G10 Power",
-      "price": null,
+      "price": "15599",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g10-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g10-power-aurora-grey-official-imagejpg.webp",
       "serial_number": 98,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 18, 2025",
       "variants": [
         {
@@ -14156,12 +14156,12 @@
     {
       "id": "motorola_moto_e7_power",
       "name": "Motorola Moto E7 Power",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e7-power",
       "image_url": "https://www.mobiledokan.com/media/Motorola Moto E7 Power.png.webp",
       "serial_number": 99,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 3, 2024",
       "variants": [
         {
@@ -14290,12 +14290,12 @@
     {
       "id": "motorola_edge_s",
       "name": "Motorola Edge S",
-      "price": null,
+      "price": "38000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-s",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-s-silver-official-image.webp",
       "serial_number": 100,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -14432,12 +14432,12 @@
     {
       "id": "motorola_moto_e7_plus",
       "name": "Motorola Moto E7 Plus",
-      "price": null,
+      "price": "14999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e7-plus",
       "image_url": "https://www.mobiledokan.com/media/1711308202uH1XZ.webp",
       "serial_number": 101,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [],
       "specifications": {
@@ -14567,12 +14567,12 @@
     {
       "id": "motorola_moto_g9_plus",
       "name": "Motorola Moto G9 Plus",
-      "price": null,
+      "price": "27999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g9-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g9-plus-indigo-blue-official-image.webp",
       "serial_number": 102,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [
         {
@@ -14707,12 +14707,12 @@
     {
       "id": "motorola_moto_g9_play",
       "name": "Motorola Moto G9 Play",
-      "price": null,
+      "price": "16999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g9-play",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g9-play-sapphire-blue-official-image.webp",
       "serial_number": 103,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -14850,12 +14850,12 @@
     {
       "id": "motorola_edge",
       "name": "Motorola Edge",
-      "price": "৳56000",
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-midnight-magenta-official-image.webp",
       "serial_number": 104,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 1, 2025",
       "variants": [],
       "specifications": {
@@ -14988,12 +14988,12 @@
     {
       "id": "motorola_edge_plus",
       "name": "Motorola Edge Plus",
-      "price": null,
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-plus-thunder-grey-official-image.webp",
       "serial_number": 105,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
         {
@@ -15137,12 +15137,12 @@
     {
       "id": "motorola_moto_e6s_2020",
       "name": "Motorola Moto E6s (2020)",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e6s-2020",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e6s-2020-peacock-blue-image.webp",
       "serial_number": 106,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -15267,12 +15267,12 @@
     {
       "id": "motorola_moto_g8_power",
       "name": "Motorola Moto G8 Power",
-      "price": "৳20990",
+      "price": "20990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g8-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g8-power-black-image.webp",
       "serial_number": 107,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "February 25, 2025",
       "variants": [],
       "specifications": {
@@ -15399,12 +15399,12 @@
     {
       "id": "motorola_razr_2019",
       "name": "Motorola Razr 2019",
-      "price": "৳148000",
+      "price": "148000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-2019",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-2019-black-color-image.webp",
       "serial_number": 108,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 18, 2025",
       "variants": [],
       "specifications": {
@@ -15530,12 +15530,12 @@
     {
       "id": "motorola_moto_g8_power_lite",
       "name": "Motorola Moto G8 Power Lite",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g8-power-lite",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g8-power-lite-royal-blue-official-image.webp",
       "serial_number": 109,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
         {
@@ -15668,12 +15668,12 @@
     {
       "id": "motorola_one_action",
       "name": "Motorola One Action",
-      "price": null,
+      "price": "19500",
       "url": "https://www.mobiledokan.com/mobile/motorola-one-action",
       "image_url": "https://www.mobiledokan.com/media/motorola-one-action-pearl-white.webp",
       "serial_number": 110,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [
         {
@@ -15814,12 +15814,12 @@
     {
       "id": "motorola_g8_plus",
       "name": "Motorola G8 Plus",
-      "price": "৳16700",
+      "price": "16700",
       "url": "https://www.mobiledokan.com/mobile/motorola-g8-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-g8-plus-blue-official-image.webp",
       "serial_number": 111,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -15951,12 +15951,12 @@
     {
       "id": "motorola_one_macro",
       "name": "Motorola One Macro",
-      "price": null,
+      "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/motorola-one-macro",
       "image_url": "https://www.mobiledokan.com/media/motorola-one-macro-space-blue-official-image.webp",
       "serial_number": 112,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -16087,12 +16087,12 @@
     {
       "id": "motorola_moto_e6_plus",
       "name": "Motorola Moto E6 Plus",
-      "price": null,
+      "price": "15995",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e6-plus",
       "image_url": "https://www.mobiledokan.com/media/1711309645OLtiS.webp",
       "serial_number": 113,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -16220,12 +16220,12 @@
     {
       "id": "motorola_moto_z4",
       "name": "Motorola Moto Z4",
-      "price": null,
+      "price": "47990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-z4",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-z4-flash-grey-official-image.webp",
       "serial_number": 114,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -16357,12 +16357,12 @@
     {
       "id": "motorola_one_vision",
       "name": "Motorola One Vision",
-      "price": "৳28990",
+      "price": "28990",
       "url": "https://www.mobiledokan.com/mobile/motorola-one-vision",
       "image_url": "https://www.mobiledokan.com/media/motorola-one-vision-blue-image.webp",
       "serial_number": 115,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -16492,12 +16492,12 @@
     {
       "id": "motorola_moto_g7_plus",
       "name": "Motorola Moto G7 Plus",
-      "price": null,
+      "price": "28990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g7-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g7-plus-red-image.webp",
       "serial_number": 116,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 19, 2024",
       "variants": [],
       "specifications": {
@@ -16625,12 +16625,12 @@
     {
       "id": "motorola_moto_g7",
       "name": "Motorola Moto G7",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g7",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g7-white-image.webp",
       "serial_number": 117,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "March 4, 2025",
       "variants": [],
       "specifications": {
@@ -16665,14 +16665,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP f/1.8, Primary Camera, 5 MP f/2.2, Depth Camera",
@@ -16686,6 +16678,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -16760,12 +16760,12 @@
     {
       "id": "motorola_moto_g7_play",
       "name": "Motorola Moto G7 Play",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g7-play",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g7-play-indigo-official-image.webp",
       "serial_number": 118,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
         {
@@ -16892,12 +16892,12 @@
     {
       "id": "motorola_moto_g7_power",
       "name": "Motorola Moto G7 Power",
-      "price": null,
+      "price": "16990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g7-power",
       "image_url": "https://www.mobiledokan.com/media/1711288595FGOLJ.webp",
       "serial_number": 119,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [
         {
@@ -17036,12 +17036,12 @@
     {
       "id": "motorola_one",
       "name": "Motorola One",
-      "price": null,
+      "price": "18990",
       "url": "https://www.mobiledokan.com/mobile/motorola-one",
       "image_url": "https://www.mobiledokan.com/media/1710777419c64Sl.webp",
       "serial_number": 120,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [
         {
@@ -17173,12 +17173,12 @@
     {
       "id": "motorola_moto_z3",
       "name": "Motorola Moto Z3",
-      "price": null,
+      "price": "46990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-z3",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-z3-price-in-bangladesh.webp",
       "serial_number": 121,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 1, 2024",
       "variants": [
         {
@@ -17314,12 +17314,12 @@
     {
       "id": "motorola_moto_e5_play_go",
       "name": "Motorola Moto E5 Play Go",
-      "price": null,
+      "price": "11500",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e5-play-go",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e5-play-go-official-image.webp",
       "serial_number": 122,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 11, 2024",
       "variants": [
         {
@@ -17443,12 +17443,12 @@
     {
       "id": "motorola_moto_e5_cruise",
       "name": "Motorola Moto E5 Cruise",
-      "price": null,
+      "price": "3490",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e5-cruise",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e5-cruise-navy-official-image.webp",
       "serial_number": 123,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "May 11, 2024",
       "variants": [
         {
@@ -17563,12 +17563,12 @@
     {
       "id": "motorola_moto_z3_play",
       "name": "Motorola Moto Z3 Play",
-      "price": null,
+      "price": "28990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-z3-play",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-z3-play-official-image.webp",
       "serial_number": 124,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
@@ -17693,12 +17693,12 @@
     {
       "id": "motorola_moto_e5",
       "name": "Motorola Moto E5",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e5",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e5-black-image.webp",
       "serial_number": 125,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -17819,12 +17819,12 @@
     {
       "id": "motorola_moto_e5_plus",
       "name": "Motorola Moto E5 Plus",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e5-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e5-plus-black-official-image.webp",
       "serial_number": 126,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -17952,12 +17952,12 @@
     {
       "id": "motorola_moto_e4_plus",
       "name": "Motorola Moto E4 Plus",
-      "price": null,
+      "price": "11990",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-e4-plus",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-e4-plus-iron-gray-image.webp",
       "serial_number": 127,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
       "specifications": {
@@ -17992,6 +17992,13 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Primary Camera",
+            "Flash": "LED Flash",
+            "Camera Features": "Fixed Focus",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP f/2.0, Primary Camera",
@@ -18005,13 +18012,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Primary Camera",
-            "Flash": "LED Flash",
-            "Camera Features": "Fixed Focus",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -18084,12 +18084,12 @@
     {
       "id": "motorola_nexus_6",
       "name": "Motorola Nexus 6",
-      "price": null,
+      "price": "66000",
       "url": "https://www.mobiledokan.com/mobile/motorola-nexus-6",
       "image_url": "https://www.mobiledokan.com/media/motorola-nexus-6-midnight-blue-image.webp",
       "serial_number": 128,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 6, 2024",
       "variants": [],
       "specifications": {
@@ -18210,12 +18210,12 @@
     {
       "id": "motorola_moto_g_2014",
       "name": "Motorola Moto G (2014)",
-      "price": null,
+      "price": "19000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-2014",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-2014-black-image.webp",
       "serial_number": 129,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 6, 2024",
       "variants": [],
       "specifications": {
@@ -18324,12 +18324,12 @@
     {
       "id": "motorola_moto_g_16gb",
       "name": "Motorola Moto G (16GB)",
-      "price": null,
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g-16gb-",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-official-black-image.webp",
       "serial_number": 130,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [
         {
@@ -18449,12 +18449,12 @@
     {
       "id": "motorola_moto_g",
       "name": "Motorola Moto G",
-      "price": null,
+      "price": "19900",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g-official-black-image.webp",
       "serial_number": 131,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [
         {
@@ -18574,12 +18574,12 @@
     {
       "id": "motorola_moto_x",
       "name": "Motorola Moto X",
-      "price": null,
+      "price": "36900",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-x",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-x-official-image.webp",
       "serial_number": 132,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 6, 2024",
       "variants": [],
       "specifications": {
@@ -18612,6 +18612,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "10 MP f/2.4 Primary Camera",
@@ -18624,10 +18628,6 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Primary Camera"
           }
         },
         "Design": {
@@ -18691,12 +18691,12 @@
     {
       "id": "motorola_zn200",
       "name": "Motorola ZN200",
-      "price": null,
+      "price": "6999",
       "url": "https://www.mobiledokan.com/mobile/motorola-zn200",
       "image_url": "https://www.mobiledokan.com/media/motorola-zn200-black-image.webp",
       "serial_number": 133,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [],
       "specifications": {
@@ -18775,12 +18775,12 @@
     {
       "id": "motorola_rokr_em325",
       "name": "Motorola ROKR EM325",
-      "price": null,
+      "price": "5499",
       "url": "https://www.mobiledokan.com/mobile/motorola-rokr-em325",
       "image_url": "https://www.mobiledokan.com/media/motorola-rokr-em325-image.webp",
       "serial_number": 134,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -18850,12 +18850,12 @@
     {
       "id": "motorola_zn5",
       "name": "Motorola ZN5",
-      "price": null,
+      "price": "19999",
       "url": "https://www.mobiledokan.com/mobile/motorola-zn5",
       "image_url": "https://www.mobiledokan.com/media/motorola-zn5-image.webp",
       "serial_number": 135,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -18937,12 +18937,12 @@
     {
       "id": "motorola_em30",
       "name": "Motorola EM30",
-      "price": null,
+      "price": "8999",
       "url": "https://www.mobiledokan.com/mobile/motorola-em30",
       "image_url": "https://www.mobiledokan.com/media/motorola-em30-image.webp",
       "serial_number": 136,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19018,12 +19018,12 @@
     {
       "id": "motorola_w388",
       "name": "Motorola W388",
-      "price": null,
+      "price": "4499",
       "url": "https://www.mobiledokan.com/mobile/motorola-w388",
       "image_url": "https://www.mobiledokan.com/media/motorola-w388-image.webp",
       "serial_number": 137,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19092,12 +19092,12 @@
     {
       "id": "motorola_w181",
       "name": "Motorola W181",
-      "price": null,
+      "price": "1875",
       "url": "https://www.mobiledokan.com/mobile/motorola-w181",
       "image_url": "https://www.mobiledokan.com/media/motorola-w181-official-image.webp",
       "serial_number": 138,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19156,12 +19156,12 @@
     {
       "id": "motorola_w230",
       "name": "Motorola W230",
-      "price": null,
+      "price": "3199",
       "url": "https://www.mobiledokan.com/mobile/motorola-w230",
       "image_url": "https://www.mobiledokan.com/media/motorola-w230-official-image.webp",
       "serial_number": 139,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -19224,12 +19224,12 @@
     {
       "id": "motorola_w270",
       "name": "Motorola W270",
-      "price": null,
+      "price": "3500",
       "url": "https://www.mobiledokan.com/mobile/motorola-w270",
       "image_url": "https://www.mobiledokan.com/media/motorola-w270-image.webp",
       "serial_number": 140,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19291,12 +19291,12 @@
     {
       "id": "motorola_w160",
       "name": "Motorola W160",
-      "price": null,
+      "price": "1650",
       "url": "https://www.mobiledokan.com/mobile/motorola-w160",
       "image_url": "https://www.mobiledokan.com/media/motorola-w160-image.webp",
       "serial_number": 141,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "October 18, 2024",
       "variants": [],
       "specifications": {
@@ -19355,12 +19355,12 @@
     {
       "id": "motorola_rokr_e8",
       "name": "Motorola ROKR E8",
-      "price": null,
+      "price": "14970",
       "url": "https://www.mobiledokan.com/mobile/motorola-rokr-e8",
       "image_url": "https://www.mobiledokan.com/media/motorola-rokr-e8-image.webp",
       "serial_number": 142,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19440,12 +19440,12 @@
     {
       "id": "motorola_razr2_v8",
       "name": "Motorola RAZR2 V8",
-      "price": null,
+      "price": "13620",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr2-v8",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr2-v8-black-image.webp",
       "serial_number": 143,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19525,12 +19525,12 @@
     {
       "id": "motorola_rokr_e6",
       "name": "Motorola ROKR E6",
-      "price": null,
+      "price": "12270",
       "url": "https://www.mobiledokan.com/mobile/motorola-rokr-e6",
       "image_url": "https://www.mobiledokan.com/media/motorola-rokr-e6-image.webp",
       "serial_number": 144,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 13, 2025",
       "variants": [],
       "specifications": {
@@ -19611,12 +19611,12 @@
     {
       "id": "motorola_krzr_k1",
       "name": "Motorola KRZR K1",
-      "price": null,
+      "price": "5999",
       "url": "https://www.mobiledokan.com/mobile/motorola-krzr-k1",
       "image_url": "https://www.mobiledokan.com/media/motorola-krzr-k1-black-image.webp",
       "serial_number": 145,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 10, 2025",
       "variants": [],
       "specifications": {
@@ -19692,12 +19692,12 @@
     {
       "id": "motorola_w220",
       "name": "Motorola W220",
-      "price": null,
+      "price": "4900",
       "url": "https://www.mobiledokan.com/mobile/motorola-w220",
       "image_url": "https://www.mobiledokan.com/media/motorola-w220-image.webp",
       "serial_number": 146,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -19757,12 +19757,12 @@
     {
       "id": "motorola_razr_v3i",
       "name": "Motorola RAZR V3i",
-      "price": null,
+      "price": "6400",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-v3i",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-v3i-purple-image.webp",
       "serial_number": 147,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 10, 2025",
       "variants": [],
       "specifications": {
@@ -19836,12 +19836,12 @@
     {
       "id": "motorola_c118",
       "name": "Motorola C118",
-      "price": null,
+      "price": "2000",
       "url": "https://www.mobiledokan.com/mobile/motorola-c118",
       "image_url": "https://www.mobiledokan.com/media/motorola-c118-image.webp",
       "serial_number": 148,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 12, 2025",
       "variants": [],
       "specifications": {
@@ -19893,12 +19893,12 @@
     {
       "id": "motorola_v3x",
       "name": "Motorola V3x",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/motorola-v3x",
       "image_url": "https://www.mobiledokan.com/media/motorola-v3x-blue-image.webp",
       "serial_number": 149,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "January 11, 2025",
       "variants": [],
       "specifications": {
@@ -19977,12 +19977,12 @@
     {
       "id": "motorola_moto_g55",
       "name": "Motorola Moto G55",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g55",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g55-official-image.webp",
       "serial_number": 150,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "August 22, 2024",
       "variants": [],
       "specifications": {
@@ -20016,13 +20016,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -20037,6 +20030,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -20101,12 +20101,12 @@
     {
       "id": "motorola_razr_50s",
       "name": "Motorola Razr 50s",
-      "price": "৳80000",
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/motorola-razr-50s",
       "image_url": "https://www.mobiledokan.com/media/motorola-razr-50s-spritz-orange-arabesque-official-image.webp",
       "serial_number": 151,
-      "last_updated": "2025-09-11 09:23:16",
-      "first_scraped": "2025-09-11 09:23:16",
+      "last_updated": "2025-09-14 13:47:33",
+      "first_scraped": null,
       "updated_on": "September 10, 2024",
       "variants": [],
       "specifications": {

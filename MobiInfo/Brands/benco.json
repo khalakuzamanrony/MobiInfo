@@ -4,22 +4,22 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2025-09-14 06:30:25",
+    "last_updated": "2025-09-14 13:19:46",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:03:15",
-    "new_phones_this_run": 2,
-    "updated_phones_this_run": 15
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 19
   },
   "phones": [
     {
       "id": "benco_v90i",
       "name": "Benco V90i",
-      "price": null,
+      "price": "9199",
       "url": "https://www.mobiledokan.com/mobile/benco-v90i",
       "image_url": "https://www.mobiledokan.com/media/benco-v90i-champagne-gold-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:03:15",
-      "first_scraped": "2025-09-11 09:03:15",
+      "last_updated": "2025-09-14 13:19:46",
+      "first_scraped": null,
       "updated_on": "April 28, 2025",
       "variants": [],
       "specifications": {
@@ -133,12 +133,12 @@
     {
       "id": "benco_v90i_se",
       "name": "Benco V90i SE",
-      "price": "৳8000",
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/benco-v90i-se",
       "image_url": "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:03:15",
-      "first_scraped": "2025-09-11 09:03:15",
+      "last_updated": "2025-09-14 13:19:46",
+      "first_scraped": null,
       "updated_on": "May 1, 2025",
       "variants": [],
       "specifications": {
@@ -172,10 +172,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "8 MP, Primary Camera, 2 MP, Camera",
@@ -188,6 +184,10 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -251,12 +251,12 @@
     {
       "id": "benco_v92",
       "name": "Benco V92",
-      "price": "৳13000",
+      "price": "13000",
       "url": "https://www.mobiledokan.com/mobile/benco-v92",
       "image_url": "https://www.mobiledokan.com/media/benco-v92-sahara-gold-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-14 06:30:25",
-      "first_scraped": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
+      "first_scraped": null,
       "updated_on": "September 13, 2025",
       "variants": [],
       "specifications": {
@@ -374,12 +374,12 @@
     {
       "id": "benco_v92c",
       "name": "Benco V92c",
-      "price": "৳12000",
+      "price": "12000",
       "url": "https://www.mobiledokan.com/mobile/benco-v92c",
       "image_url": "https://www.mobiledokan.com/media/benco-v92c-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-14 06:30:25",
-      "first_scraped": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
+      "first_scraped": null,
       "updated_on": "September 13, 2025",
       "variants": [],
       "specifications": {
@@ -495,11 +495,11 @@
     {
       "id": "benco_v91_plus",
       "name": "Benco V91 Plus",
-      "price": null,
+      "price": "12499",
       "url": "https://www.mobiledokan.com/mobile/benco-v91-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "September 6, 2024",
       "variants": [
@@ -546,6 +546,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Primary Camera, 2 MP, Camera",
@@ -559,13 +566,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1080x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -632,11 +632,11 @@
     {
       "id": "benco_v91_plus_8gb256gb",
       "name": "Benco V91 Plus (8GB+256GB)",
-      "price": null,
+      "price": "15899",
       "url": "https://www.mobiledokan.com/mobile/benco-v91-plus-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image_1.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
@@ -770,11 +770,11 @@
     {
       "id": "benco_v91c",
       "name": "Benco V91c",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/benco-v91c",
       "image_url": "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "September 7, 2025",
       "variants": [],
@@ -810,13 +810,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, Camera",
@@ -830,6 +823,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -895,11 +895,11 @@
     {
       "id": "benco_v90_plus",
       "name": "Benco V90 Plus",
-      "price": null,
+      "price": "8990",
       "url": "https://www.mobiledokan.com/mobile/benco-v90-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [
@@ -1029,11 +1029,11 @@
     {
       "id": "benco_s1_plus",
       "name": "Benco S1 Plus",
-      "price": null,
+      "price": "17499",
       "url": "https://www.mobiledokan.com/mobile/benco-s1-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "July 31, 2025",
       "variants": [],
@@ -1157,11 +1157,11 @@
     {
       "id": "benco_s1_pro",
       "name": "Benco S1 Pro",
-      "price": null,
+      "price": "13650",
       "url": "https://www.mobiledokan.com/mobile/benco-s1-pro",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "April 23, 2025",
       "variants": [
@@ -1206,15 +1206,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, AI front camera, f/2.0 aperture, 2μm 4-in-1 super pixel sensor",
-            "Sensor": "2μm 4-in-1 super pixel sensor",
-            "Camera Features": "HDR & panorama",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.89, Primary Camera, 2 MP, 2 MP",
@@ -1226,6 +1217,15 @@
             "Aperture": "f/1.89",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, AI front camera, f/2.0 aperture, 2μm 4-in-1 super pixel sensor",
+            "Sensor": "2μm 4-in-1 super pixel sensor",
+            "Camera Features": "HDR & panorama",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1296,11 +1296,11 @@
     {
       "id": "benco_s1",
       "name": "Benco S1",
-      "price": null,
+      "price": "11699",
       "url": "https://www.mobiledokan.com/mobile/benco-s1",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "August 3, 2024",
       "variants": [
@@ -1344,13 +1344,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "48 MP, f/1.8, Wide Angle Primary Camera, 2 MP, Camera, 2 MP, Camera",
@@ -1364,6 +1357,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1432,11 +1432,11 @@
     {
       "id": "benco_s1_8gb_ram",
       "name": "Benco S1 (8GB RAM)",
-      "price": null,
+      "price": "12599",
       "url": "https://www.mobiledokan.com/mobile/benco-s1-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "August 3, 2024",
       "variants": [
@@ -1568,11 +1568,11 @@
     {
       "id": "benco_s1_pro_8gb256gb",
       "name": "Benco S1 Pro (8GB/256GB)",
-      "price": null,
+      "price": "14399",
       "url": "https://www.mobiledokan.com/mobile/benco-s1-pro-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
@@ -1706,11 +1706,11 @@
     {
       "id": "benco_v82",
       "name": "Benco V82",
-      "price": null,
+      "price": "8689",
       "url": "https://www.mobiledokan.com/mobile/benco-v82",
       "image_url": "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
@@ -1744,12 +1744,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "8 MP, f/2.0, Primary Camera, 8MP AI front Camera",
@@ -1761,6 +1755,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Auto Flash, Touch to Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -1831,11 +1831,11 @@
     {
       "id": "benco_v91",
       "name": "Benco V91",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/benco-v91",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "April 23, 2025",
       "variants": [
@@ -1963,11 +1963,11 @@
     {
       "id": "benco_v90",
       "name": "Benco V90",
-      "price": null,
+      "price": "9199",
       "url": "https://www.mobiledokan.com/mobile/benco-v90",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "April 23, 2025",
       "variants": [
@@ -2014,13 +2014,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "16 MP, f/1.7, Primary Camera, 0.3 MP, 0.3 MP",
@@ -2034,6 +2027,13 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -2106,11 +2106,11 @@
     {
       "id": "benco_v90_128gb",
       "name": "Benco V90 (128GB)",
-      "price": null,
+      "price": "9599",
       "url": "https://www.mobiledokan.com/mobile/benco-v90-128gb",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "August 3, 2024",
       "variants": [
@@ -2249,11 +2249,11 @@
     {
       "id": "benco_e20",
       "name": "Benco E20",
-      "price": "৳1170",
+      "price": "1170",
       "url": "https://www.mobiledokan.com/mobile/benco-e20",
       "image_url": "https://www.mobiledokan.com/media/benco-e20-black-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "April 20, 2025",
       "variants": [],
@@ -2327,11 +2327,11 @@
     {
       "id": "benco_v80",
       "name": "Benco V80",
-      "price": "৳7999",
+      "price": "7999",
       "url": "https://www.mobiledokan.com/mobile/benco-v80",
       "image_url": "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-14 06:30:25",
+      "last_updated": "2025-09-14 13:19:46",
       "first_scraped": null,
       "updated_on": "April 20, 2025",
       "variants": [],

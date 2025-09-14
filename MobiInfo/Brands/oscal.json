@@ -4,22 +4,22 @@
     "name": "oscal",
     "url": "https://www.mobiledokan.com/mobile-brand/oscal",
     "image_url": null,
-    "last_updated": "2025-09-12 07:10:00",
+    "last_updated": "2025-09-14 13:53:07",
     "total_phones": 7,
     "first_scraped": "2025-09-11 09:26:23",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 7
   },
   "phones": [
     {
       "id": "oscal_pilot_3",
       "name": "Oscal Pilot 3",
-      "price": "৳30000",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oscal-pilot-3",
       "image_url": "https://www.mobiledokan.com/media/oscal-pilot-3-orange-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "June 6, 2025",
       "variants": [],
       "specifications": {
@@ -55,6 +55,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 20 MP, f/2.0, Night Vision Camera, 2 MP, Depth Camera",
@@ -68,13 +75,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "2560x1440, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -144,12 +144,12 @@
     {
       "id": "oscal_marine_1",
       "name": "Oscal Marine 1",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oscal-marine-1",
       "image_url": "https://www.mobiledokan.com/media/oscal-marine-1-orange-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [],
       "specifications": {
@@ -186,6 +186,12 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "16 MP, Primary Camera",
@@ -197,12 +203,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1280x720",
             "Video FPS": "30 fps"
           }
         },
@@ -277,12 +277,12 @@
     {
       "id": "oscal_pilot_1",
       "name": "Oscal Pilot 1",
-      "price": "৳20000",
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/oscal-pilot-1",
       "image_url": "https://www.mobiledokan.com/media/oscal-pilot-1-orange-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [],
       "specifications": {
@@ -410,12 +410,12 @@
     {
       "id": "oscal_flat_2",
       "name": "Oscal Flat 2",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/oscal-flat-2",
       "image_url": "https://www.mobiledokan.com/media/oscal-flat-2-sky-purple-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "January 29, 2025",
       "variants": [],
       "specifications": {
@@ -535,12 +535,12 @@
     {
       "id": "oscal_flat_2c",
       "name": "Oscal Flat 2C",
-      "price": "৳10000",
+      "price": "10000",
       "url": "https://www.mobiledokan.com/mobile/oscal-flat-2c",
       "image_url": "https://www.mobiledokan.com/media/oscal-flat-2c-phantom-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "January 30, 2025",
       "variants": [],
       "specifications": {
@@ -657,12 +657,12 @@
     {
       "id": "oscal_tiger_13",
       "name": "Oscal Tiger 13",
-      "price": "৳18000",
+      "price": "18000",
       "url": "https://www.mobiledokan.com/mobile/oscal-tiger-13",
       "image_url": "https://www.mobiledokan.com/media/oscal-tiger-13-hurricane-black-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
       "specifications": {
@@ -699,6 +699,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 2 MP, Macro Camera, 2 MP, Depth Camera",
@@ -710,12 +716,6 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
@@ -785,12 +785,12 @@
     {
       "id": "oscal_tiger_10",
       "name": "Oscal Tiger 10",
-      "price": "৳17000",
+      "price": "17000",
       "url": "https://www.mobiledokan.com/mobile/oscal-tiger-10",
       "image_url": "https://www.mobiledokan.com/media/oscal-tiger-10-stardust-grey-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:26:23",
-      "first_scraped": "2025-09-11 09:26:23",
+      "last_updated": "2025-09-14 13:53:07",
+      "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [],
       "specifications": {
@@ -827,12 +827,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera",
@@ -843,6 +837,12 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }

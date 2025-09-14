@@ -4,22 +4,22 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:44",
+    "last_updated": "2025-09-14 13:31:28",
     "total_phones": 86,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 86
   },
   "phones": [
     {
       "id": "iqoo_z10_turbo_plus",
       "name": "iQOO Z10 Turbo Plus",
-      "price": null,
+      "price": "47900",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo-plus",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-plus-gray-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 27, 2025",
       "variants": [
         {
@@ -164,12 +164,12 @@
     {
       "id": "iqoo_z10_turbo_plus_512gb",
       "name": "iQOO Z10 Turbo Plus (512GB)",
-      "price": null,
+      "price": "56900",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo-plus-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-plus-gray-official-image_1.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 27, 2025",
       "variants": [
         {
@@ -218,6 +218,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -231,13 +238,6 @@
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -314,12 +314,12 @@
     {
       "id": "iqoo_z10r",
       "name": "iQOO Z10R",
-      "price": "৳27000",
+      "price": "27000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10r",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10r-aquamarine-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -452,12 +452,12 @@
     {
       "id": "iqoo_z10_lite",
       "name": "iQOO Z10 Lite",
-      "price": "৳17400",
+      "price": "17400",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-lite",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-lite-titanium-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 19, 2025",
       "variants": [],
       "specifications": {
@@ -587,12 +587,12 @@
     {
       "id": "iqoo_neo_10",
       "name": "iQOO Neo 10",
-      "price": null,
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-color-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 5, 2025",
       "variants": [
         {
@@ -753,12 +753,12 @@
     {
       "id": "iqoo_neo_10_256gb",
       "name": "iQOO Neo 10 (256GB)",
-      "price": null,
+      "price": "51000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "August 5, 2025",
       "variants": [
         {
@@ -914,12 +914,12 @@
     {
       "id": "iqoo_neo_10_12gb256gb",
       "name": "iQOO Neo 10 (12GB+256GB)",
-      "price": null,
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 15, 2025",
       "variants": [
         {
@@ -978,6 +978,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -992,13 +999,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1075,12 +1075,12 @@
     {
       "id": "iqoo_neo_10_16gb512gb",
       "name": "iQOO Neo 10 (16GB+512GB)",
-      "price": null,
+      "price": "67000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 15, 2025",
       "variants": [
         {
@@ -1139,6 +1139,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1153,13 +1160,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1236,12 +1236,12 @@
     {
       "id": "iqoo_neo10_pro_plus_china_512gb",
       "name": "iQOO Neo10 Pro Plus (China) (512GB)",
-      "price": null,
+      "price": "73000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo10-pro-plus-china-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo10-pro-plus-china-blue-official-color-image_1.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 30, 2025",
       "variants": [
         {
@@ -1389,12 +1389,12 @@
     {
       "id": "iqoo_neo10_pro_plus_china_16gb512gb",
       "name": "iQOO Neo10 Pro Plus (China) (16GB+512GB)",
-      "price": null,
+      "price": "80000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo10-pro-plus-china-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo10-pro-plus-china-blue-official-color-image_1.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 30, 2025",
       "variants": [
         {
@@ -1542,12 +1542,12 @@
     {
       "id": "iqoo_neo10_pro_plus_china",
       "name": "iQOO Neo10 Pro Plus (China)",
-      "price": null,
+      "price": "68000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo10-pro-plus-china",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo10-pro-plus-china-blue-official-color-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 30, 2025",
       "variants": [
         {
@@ -1695,12 +1695,12 @@
     {
       "id": "iqoo_z10_turbo",
       "name": "iQOO Z10 Turbo",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-orange-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [
         {
@@ -1749,6 +1749,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera , 2 MP, f/2.4, Depth Camera",
@@ -1762,13 +1769,6 @@
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1847,12 +1847,12 @@
     {
       "id": "iqoo_z10_turbo_pro",
       "name": "iQOO Z10 Turbo Pro",
-      "price": null,
+      "price": "36500",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo-pro",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-pro-gold-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "July 21, 2025",
       "variants": [
         {
@@ -2000,12 +2000,12 @@
     {
       "id": "iqoo_z10_turbo_512gb",
       "name": "iQOO Z10 Turbo (512GB)",
-      "price": null,
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-orange-official-image_1.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 14, 2025",
       "variants": [
         {
@@ -2054,13 +2054,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera , 2 MP, f/2.4, Depth Camera",
@@ -2074,6 +2067,13 @@
             "Aperture": "f/1.8",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -2152,12 +2152,12 @@
     {
       "id": "iqoo_z10_turbo_pro_512gb",
       "name": "iQOO Z10 Turbo Pro (512GB)",
-      "price": null,
+      "price": "49000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-turbo-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-turbo-pro-gold-official-image_2.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 15, 2025",
       "variants": [
         {
@@ -2305,12 +2305,12 @@
     {
       "id": "iqoo_z10x",
       "name": "iQOO Z10x",
-      "price": null,
+      "price": "20500",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10x",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10x-ultramarine-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [
         {
@@ -2363,6 +2363,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.05, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.05"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -2376,13 +2383,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.05, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.05"
           }
         },
         "Design": {
@@ -2456,12 +2456,12 @@
     {
       "id": "iqoo_z10x_8gb_ram",
       "name": "iQOO Z10x (8GB RAM)",
-      "price": null,
+      "price": "23000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10x-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10x-ultramarine-official-image_1.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 12, 2025",
       "variants": [
         {
@@ -2607,12 +2607,12 @@
     {
       "id": "iqoo_z10x_8gb256gb",
       "name": "iQOO Z10x (8GB+256GB)",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10x-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10x-ultramarine-official-image_2.webp",
       "serial_number": 18,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -2758,12 +2758,12 @@
     {
       "id": "iqoo_z10",
       "name": "iQOO Z10",
-      "price": null,
+      "price": "30500",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-glacier-silver-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [
         {
@@ -2902,12 +2902,12 @@
     {
       "id": "iqoo_z10_256gb",
       "name": "iQOO Z10 (256GB)",
-      "price": null,
+      "price": "33500",
       "url": "https://www.mobiledokan.com/mobile/iqoo-z10-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z10-glacier-silver-official-image_1.webp",
       "serial_number": 20,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 19, 2025",
       "variants": [
         {
@@ -2954,13 +2954,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -2975,6 +2968,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -3046,12 +3046,12 @@
     {
       "id": "vivo_iqoo_neo_10r",
       "name": "Vivo iQOO Neo 10R",
-      "price": null,
+      "price": "38500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-10r",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-10r-moonknight-titanium-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
         {
@@ -3202,12 +3202,12 @@
     {
       "id": "vivo_iqoo_neo_10r_256gb",
       "name": "Vivo iQOO Neo 10R (256GB)",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-10r-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-10r-moonknight-titanium-official-image_1.webp",
       "serial_number": 22,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
         {
@@ -3358,12 +3358,12 @@
     {
       "id": "vivo_iqoo_neo_10r_12gb256gb",
       "name": "Vivo iQOO Neo 10R (12GB+256GB)",
-      "price": null,
+      "price": "46500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-10r-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-10r-moonknight-titanium-official-image_1.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -3513,12 +3513,12 @@
     {
       "id": "vivo_iqoo_z9_turbo_endurance",
       "name": "Vivo iQOO Z9 Turbo Endurance",
-      "price": "৳56000",
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-turbo-endurance",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-turbo-endurance-pictures-black-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [],
       "specifications": {
@@ -3643,12 +3643,12 @@
     {
       "id": "vivo_iqoo_neo10_pro_china",
       "name": "Vivo iQOO Neo10 Pro (China)",
-      "price": "৳65000",
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo10-pro-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo10-pro-china-orange-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "January 21, 2025",
       "variants": [],
       "specifications": {
@@ -3779,12 +3779,12 @@
     {
       "id": "vivo_iqoo_neo10_china",
       "name": "Vivo iQOO Neo10 (China)",
-      "price": null,
+      "price": "37500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo10-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo10-china-white-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
         {
@@ -3927,12 +3927,12 @@
     {
       "id": "vivo_iqoo_13",
       "name": "Vivo iQOO 13",
-      "price": null,
+      "price": "72000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-13",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-13-black-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
         {
@@ -3980,6 +3980,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle Primary Camera, 50 MP, f/1.9, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -3994,13 +4001,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "24 fps, 30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -4078,12 +4078,12 @@
     {
       "id": "vivo_iqoo_13_512gb",
       "name": "Vivo iQOO 13 (512GB)",
-      "price": null,
+      "price": "87500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-13-512gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-13-black-official-image_1.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
         {
@@ -4132,6 +4132,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle Primary Camera, 50 MP, f/1.9, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -4146,13 +4153,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "24 fps, 30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -4230,12 +4230,12 @@
     {
       "id": "vivo_iqoo_z9_turbo_plus",
       "name": "Vivo iQOO Z9 Turbo Plus",
-      "price": null,
+      "price": "41999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-turbo-plus",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-turbo-plus-titanium-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 21, 2024",
       "variants": [
         {
@@ -4383,12 +4383,12 @@
     {
       "id": "vivo_iqoo_z9_turbo_plus_16gb_ram",
       "name": "Vivo iQOO Z9 Turbo Plus (16GB RAM)",
-      "price": null,
+      "price": "52999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-turbo-plus-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-turbo-plus-titanium-official-image_1.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 12, 2024",
       "variants": [
         {
@@ -4535,12 +4535,12 @@
     {
       "id": "vivo_iqoo_z9s_pro",
       "name": "Vivo iQOO Z9s Pro",
-      "price": null,
+      "price": "34999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-pro-flamboyant-orange-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
         {
@@ -4690,12 +4690,12 @@
     {
       "id": "vivo_iqoo_z9s_256gb",
       "name": "Vivo iQOO Z9s (256GB)",
-      "price": null,
+      "price": "32899",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-titanium-matte-official-image_3.webp",
       "serial_number": 32,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [
         {
@@ -4748,13 +4748,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
@@ -4769,6 +4762,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -4846,12 +4846,12 @@
     {
       "id": "vivo_iqoo_z9s",
       "name": "Vivo iQOO Z9s",
-      "price": null,
+      "price": "28799",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-titanium-matte-official-image_1.webp",
       "serial_number": 33,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -5002,12 +5002,12 @@
     {
       "id": "vivo_iqoo_z9s_12gb_ram",
       "name": "Vivo iQOO Z9s (12GB RAM)",
-      "price": null,
+      "price": "34600",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-titanium-matte-official-image_2.webp",
       "serial_number": 34,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 5, 2024",
       "variants": [
         {
@@ -5158,12 +5158,12 @@
     {
       "id": "vivo_iqoo_z9s_pro_256gb",
       "name": "Vivo iQOO Z9s Pro (256GB)",
-      "price": null,
+      "price": "38000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-pro-flamboyant-orange-official-image_1.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "September 28, 2024",
       "variants": [
         {
@@ -5216,6 +5216,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
@@ -5230,13 +5237,6 @@
             "Camera Features": "Auto Flash, Face detection, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -5313,12 +5313,12 @@
     {
       "id": "vivo_iqoo_z9s_pro_12gb256gb",
       "name": "Vivo iQOO Z9s Pro (12GB+256GB)",
-      "price": null,
+      "price": "40499",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9s-pro-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9s-pro-flamboyant-orange-official-image_1.webp",
       "serial_number": 36,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -5468,12 +5468,12 @@
     {
       "id": "vivo_iqoo_z9_lite_6gb_ram",
       "name": "Vivo iQOO Z9 Lite (6GB RAM)",
-      "price": null,
+      "price": "17500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-lite-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-lite-aqua-flow-official-image_1.webp",
       "serial_number": 37,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [
         {
@@ -5521,6 +5521,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -5534,13 +5541,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -5617,12 +5617,12 @@
     {
       "id": "vivo_iqoo_z9_lite",
       "name": "Vivo iQOO Z9 Lite",
-      "price": null,
+      "price": "16500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-lite",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-lite-aqua-flow-official-image.webp",
       "serial_number": 38,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {
@@ -5766,12 +5766,12 @@
     {
       "id": "vivo_iqoo_neo9s_pro_plus",
       "name": "Vivo iQOO Neo9s Pro Plus",
-      "price": "৳47999",
+      "price": "47999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9s-pro-plus-blue-official-image_1.webp",
       "serial_number": 39,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [],
       "specifications": {
@@ -5903,12 +5903,12 @@
     {
       "id": "vivo_iqoo_neo9s_pro",
       "name": "Vivo iQOO Neo9s Pro",
-      "price": null,
+      "price": "32999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-9s-pro-red-offiicial-image.webp",
       "serial_number": 40,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [
         {
@@ -6054,12 +6054,12 @@
     {
       "id": "vivo_iqoo_neo9s_pro_256gb",
       "name": "Vivo iQOO Neo9s Pro (256GB)",
-      "price": null,
+      "price": "36500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9s-pro-red-official-image.webp",
       "serial_number": 41,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 18, 2024",
       "variants": [
         {
@@ -6113,6 +6113,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.0, Ultra-Wide Angle Camera",
@@ -6127,13 +6134,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -6205,12 +6205,12 @@
     {
       "id": "vivo_iqoo_neo9s_pro_12gb256gb",
       "name": "Vivo iQOO Neo9s Pro (12GB+256GB)",
-      "price": null,
+      "price": "48999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9s-pro-red-official-image.webp",
       "serial_number": 42,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
         {
@@ -6264,6 +6264,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.0, Ultra-Wide Angle Camera",
@@ -6278,13 +6285,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -6356,12 +6356,12 @@
     {
       "id": "vivo_iqoo_z9x_8gb_ram",
       "name": "Vivo iQOO Z9x (8GB RAM)",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9x-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9x-light-green-official-image.webp",
       "serial_number": 43,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [
         {
@@ -6498,12 +6498,12 @@
     {
       "id": "vivo_iqoo_z9_turbo",
       "name": "Vivo iQOO Z9 Turbo",
-      "price": "৳32000",
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-turbo",
       "image_url": "https://www.mobiledokan.com/media/iqoo-z9-turbo-black-official-image.webp",
       "serial_number": 44,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "July 17, 2025",
       "variants": [],
       "specifications": {
@@ -6640,12 +6640,12 @@
     {
       "id": "vivo_iqoo_z9_china",
       "name": "Vivo iQOO Z9 (China)",
-      "price": "৳27490",
+      "price": "27490",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-china-green-official-image.webp",
       "serial_number": 45,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 17, 2025",
       "variants": [],
       "specifications": {
@@ -6779,12 +6779,12 @@
     {
       "id": "vivo_iqoo_z9x",
       "name": "Vivo iQOO Z9x",
-      "price": null,
+      "price": "18800",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9x",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9x-tornado-green-official-image.webp",
       "serial_number": 46,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [
         {
@@ -6925,12 +6925,12 @@
     {
       "id": "vivo_iqoo_z9",
       "name": "Vivo iQOO Z9",
-      "price": null,
+      "price": "25500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
       "serial_number": 47,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [
         {
@@ -7079,12 +7079,12 @@
     {
       "id": "vivo_iqoo_z9_256gb",
       "name": "Vivo iQOO Z9 (256GB)",
-      "price": null,
+      "price": "29000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
       "serial_number": 48,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "July 26, 2024",
       "variants": [
         {
@@ -7233,12 +7233,12 @@
     {
       "id": "vivo_iqoo_neo9_pro_12gb_ram",
       "name": "Vivo iQOO Neo9 Pro (12GB RAM)",
-      "price": null,
+      "price": "54490",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-pro-conqueror-black-official-image_1.webp",
       "serial_number": 49,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [
         {
@@ -7384,12 +7384,12 @@
     {
       "id": "vivo_iqoo_neo9_pro",
       "name": "Vivo iQOO Neo9 Pro",
-      "price": null,
+      "price": "52999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-pro-conqueror-black-official-image.webp",
       "serial_number": 50,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 13, 2024",
       "variants": [
         {
@@ -7535,12 +7535,12 @@
     {
       "id": "vivo_iqoo_neo9_pro_china",
       "name": "Vivo iQOO Neo9 Pro (China)",
-      "price": null,
+      "price": "56000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-pro-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-pro-china-red-official-image.webp",
       "serial_number": 51,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 30, 2024",
       "variants": [
         {
@@ -7678,12 +7678,12 @@
     {
       "id": "vivo_iqoo_neo9_512gb",
       "name": "Vivo iQOO Neo9 (512GB)",
-      "price": null,
+      "price": "38500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-512gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-black-image.webp",
       "serial_number": 52,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 14, 2025",
       "variants": [
         {
@@ -7828,12 +7828,12 @@
     {
       "id": "vivo_iqoo_neo9",
       "name": "Vivo iQOO Neo9",
-      "price": null,
+      "price": "34500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-fighting-black-official-image.webp",
       "serial_number": 53,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 14, 2025",
       "variants": [
         {
@@ -7886,6 +7886,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
@@ -7900,13 +7907,6 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -7978,12 +7978,12 @@
     {
       "id": "vivo_iqoo_neo9_16gb_ram",
       "name": "Vivo iQOO Neo9 (16GB RAM)",
-      "price": null,
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-fighting-black-official-image.webp",
       "serial_number": 54,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 14, 2025",
       "variants": [
         {
@@ -8036,13 +8036,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
@@ -8057,6 +8050,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -8128,12 +8128,12 @@
     {
       "id": "vivo_iqoo_12_pro",
       "name": "Vivo iQOO 12 Pro",
-      "price": "৳81999",
+      "price": "81999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-12-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-12-pro-black-official-image.webp",
       "serial_number": 55,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "September 17, 2024",
       "variants": [],
       "specifications": {
@@ -8270,12 +8270,12 @@
     {
       "id": "vivo_iqoo_12",
       "name": "Vivo iQOO 12",
-      "price": null,
+      "price": "70000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-12",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-12-black-official-image.webp",
       "serial_number": 56,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "May 31, 2024",
       "variants": [
         {
@@ -8420,12 +8420,12 @@
     {
       "id": "vivo_iqoo_z7_pro_256gb",
       "name": "Vivo iQOO Z7 Pro (256GB)",
-      "price": null,
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7-pro-blue-lagoon-official-image_1.webp",
       "serial_number": 57,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 1, 2024",
       "variants": [
         {
@@ -8568,12 +8568,12 @@
     {
       "id": "vivo_iqoo_z7_pro",
       "name": "Vivo iQOO Z7 Pro",
-      "price": null,
+      "price": "32999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7-pro-blue-lagoon-official-image.webp",
       "serial_number": 58,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 1, 2024",
       "variants": [
         {
@@ -8716,12 +8716,12 @@
     {
       "id": "vivo_iqoo_z8_china",
       "name": "Vivo iQOO Z8 (China)",
-      "price": null,
+      "price": "31000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z8-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z8-china-black-image.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [
         {
@@ -8856,12 +8856,12 @@
     {
       "id": "vivo_iqoo_neo_7_pro_12gb256gb",
       "name": "Vivo iQOO Neo 7 Pro (12GB/256GB)",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-pro-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-7-pro-fearless-flame-official-image.webp",
       "serial_number": 60,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "July 10, 2024",
       "variants": [
         {
@@ -9006,12 +9006,12 @@
     {
       "id": "vivo_iqoo_neo_7_pro",
       "name": "Vivo iQOO Neo 7 Pro",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-7-pro-fearless-flame-official-image.webp",
       "serial_number": 61,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "July 12, 2024",
       "variants": [
         {
@@ -9059,13 +9059,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -9081,6 +9074,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -9156,12 +9156,12 @@
     {
       "id": "vivo_iqoo_11s",
       "name": "Vivo iQOO 11s",
-      "price": null,
+      "price": "65000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-11s",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-11s-blue-image.webp",
       "serial_number": 62,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [
         {
@@ -9298,12 +9298,12 @@
     {
       "id": "vivo_iqoo_neo8_pro",
       "name": "Vivo iQOO Neo8 Pro",
-      "price": null,
+      "price": "46000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo8-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo8-pro-mint-official-image.webp",
       "serial_number": 63,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 1, 2024",
       "variants": [
         {
@@ -9438,12 +9438,12 @@
     {
       "id": "vivo_iqoo_neo8",
       "name": "Vivo iQOO Neo8",
-      "price": null,
+      "price": "40000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo8",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo8-red-official-image.webp",
       "serial_number": 64,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 4, 2024",
       "variants": [
         {
@@ -9485,6 +9485,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera",
@@ -9500,13 +9507,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -9580,12 +9580,12 @@
     {
       "id": "vivo_iqoo_z7s",
       "name": "Vivo iQOO Z7s",
-      "price": null,
+      "price": "26999",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7s",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7s-norway-blue-official-image.webp",
       "serial_number": 65,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 30, 2024",
       "variants": [
         {
@@ -9728,12 +9728,12 @@
     {
       "id": "vivo_iqoo_z7",
       "name": "Vivo iQOO Z7",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7-norway-blue-official-image.webp",
       "serial_number": 66,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -9781,6 +9781,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -9796,13 +9803,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -9881,12 +9881,12 @@
     {
       "id": "vivo_iqoo_z7_8gb_ram",
       "name": "Vivo iQOO Z7 (8GB RAM)",
-      "price": null,
+      "price": "33000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7-norway-blue-official-image.webp",
       "serial_number": 67,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -9934,6 +9934,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -9949,13 +9956,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -10034,12 +10034,12 @@
     {
       "id": "vivo_iqoo_neo_7",
       "name": "Vivo iQOO Neo 7",
-      "price": null,
+      "price": "38500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-7-frost-blue-official-image.webp",
       "serial_number": 68,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -10186,12 +10186,12 @@
     {
       "id": "vivo_iqoo_neo_7_256gb",
       "name": "Vivo iQOO Neo 7 (256GB)",
-      "price": null,
+      "price": "54000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-7-256gb-sky-blue-image.webp",
       "serial_number": 69,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 28, 2024",
       "variants": [
         {
@@ -10337,12 +10337,12 @@
     {
       "id": "vivo_iqoo_11_pro",
       "name": "Vivo iQOO 11 Pro",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-11-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-11-pro-black-image.webp",
       "serial_number": 70,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 3, 2024",
       "variants": [],
       "specifications": {
@@ -10380,6 +10380,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 50 MP f/2.5, Ultra-Wide Angle Camera, 13 MP f/2.3",
@@ -10394,13 +10401,6 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 24 fps, 30 fps, 60 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -10476,12 +10476,12 @@
     {
       "id": "vivo_iqoo_neo7_se",
       "name": "Vivo iQOO Neo7 SE",
-      "price": null,
+      "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo7-se",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo7-se-blue-official-image.webp",
       "serial_number": 71,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 4, 2024",
       "variants": [
         {
@@ -10524,13 +10524,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.45, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP f/1.79, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -10546,6 +10539,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -10618,12 +10618,12 @@
     {
       "id": "vivo_iqoo_11_16gb256gb",
       "name": "Vivo iQOO 11 (16GB/256GB)",
-      "price": null,
+      "price": "93000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-11-16gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-11-alpha-official-image.webp",
       "serial_number": 72,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -10769,12 +10769,12 @@
     {
       "id": "vivo_iqoo_z6_lite",
       "name": "Vivo iQOO Z6 Lite",
-      "price": null,
+      "price": "17000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z6-lite",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z6-lite-mystic-night-official-image.webp",
       "serial_number": 73,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -10917,12 +10917,12 @@
     {
       "id": "vivo_iqoo_z6_lite_128gb",
       "name": "Vivo iQOO Z6 Lite (128GB)",
-      "price": null,
+      "price": "21000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z6-lite-128gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z6-lite-128gb-black-image.webp",
       "serial_number": 74,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [
         {
@@ -11065,12 +11065,12 @@
     {
       "id": "vivo_iqoo_9t",
       "name": "Vivo iQOO 9T",
-      "price": null,
+      "price": "42000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-9t",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-9t-alpha-official-image.webp",
       "serial_number": 75,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -11113,14 +11113,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.45, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.88, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/1.98",
@@ -11136,6 +11128,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.45, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -11217,12 +11217,12 @@
     {
       "id": "vivo_iqoo_neo6",
       "name": "Vivo iQOO Neo6",
-      "price": null,
+      "price": "39500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo6",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-6-dark-nova-official-image.webp",
       "serial_number": 76,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -11364,12 +11364,12 @@
     {
       "id": "vivo_iqoo_z6_pro",
       "name": "Vivo iQOO Z6 Pro",
-      "price": null,
+      "price": "30500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z6-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z6-pro-phantom-dusk-official-image.webp",
       "serial_number": 77,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 5, 2024",
       "variants": [
         {
@@ -11512,12 +11512,12 @@
     {
       "id": "vivo_iqoo_z6_pro_8gb_ram",
       "name": "Vivo iQOO Z6 Pro (8GB RAM)",
-      "price": null,
+      "price": "41500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z6-pro-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z6-pro-blue-image.webp",
       "serial_number": 78,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [
         {
@@ -11659,12 +11659,12 @@
     {
       "id": "vivo_iqoo_z6_44w",
       "name": "Vivo iQOO Z6 44W",
-      "price": null,
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z6-44w",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z6-44w-raven-black-official-image.webp",
       "serial_number": 79,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 4, 2024",
       "variants": [
         {
@@ -11802,12 +11802,12 @@
     {
       "id": "vivo_iqoo_9_se",
       "name": "Vivo iQOO 9 SE",
-      "price": null,
+      "price": "40500",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-9-se",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-9-se-space-fusion-official-image.webp",
       "serial_number": 80,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -11954,12 +11954,12 @@
     {
       "id": "vivo_iqoo_9_se_12gb256gb",
       "name": "Vivo iQOO 9 SE (12GB/256GB)",
-      "price": null,
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-9-se-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-9-se-space-fusion-official-image.webp",
       "serial_number": 81,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
         {
@@ -12106,12 +12106,12 @@
     {
       "id": "vivo_iqoo_9_china",
       "name": "Vivo iQOO 9 (China)",
-      "price": "৳62000",
+      "price": "62000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-9-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-9-china-black-image.webp",
       "serial_number": 82,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [],
       "specifications": {
@@ -12239,12 +12239,12 @@
     {
       "id": "vivo_iqoo_11",
       "name": "Vivo iQOO 11",
-      "price": null,
+      "price": "82000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-11",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-11-alpha-official-image.webp",
       "serial_number": 83,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
         {
@@ -12390,12 +12390,12 @@
     {
       "id": "vivo_iqoo_7_256gb",
       "name": "vivo iQOO 7 (256GB)",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-7-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-7-blue.webp",
       "serial_number": 84,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -12540,12 +12540,12 @@
     {
       "id": "vivo_iqoo_7",
       "name": "vivo iQOO 7",
-      "price": null,
+      "price": "45000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-7",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-7-blue.webp",
       "serial_number": 85,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
         {
@@ -12691,12 +12691,12 @@
     {
       "id": "vivo_iqoo_14",
       "name": "Vivo iQOO 14",
-      "price": "৳90000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-14",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-14-black-official-image.webp",
       "serial_number": 86,
-      "last_updated": "2025-09-11 09:13:57",
-      "first_scraped": "2025-09-11 09:13:57",
+      "last_updated": "2025-09-14 13:31:28",
+      "first_scraped": null,
       "updated_on": "December 2, 2024",
       "variants": [],
       "specifications": {
@@ -12732,6 +12732,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle Primary Camera, 50 MP, f/1.9, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -12746,13 +12753,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "24 fps, 30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
