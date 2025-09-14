@@ -903,6 +903,29 @@ class MobiInfoScraper:
             from datetime import timezone, timedelta
             bst = timezone(timedelta(hours=6))
             timestamp = datetime.now(bst).strftime("%Y-%m-%d %H:%M:%S")
+            
+            # Calculate significant updates and visited phones from details
+            significant_updates = 0
+            visited_phones = 0
+            insignificant_fields = ['last_updated', 'first_scraped']
+            
+            for brand_change in changes_summary['changes_details']:
+                if 'phone_changes' in brand_change:
+                    for phone_change in brand_change['phone_changes']:
+                        if phone_change['type'] != 'new':  # Only count updated phones
+                            has_significant_changes = False
+                            if 'differences' in phone_change:
+                                for diff in phone_change['differences']:
+                                    field_name = diff.split(':')[0].strip()
+                                    if field_name not in insignificant_fields:
+                                        has_significant_changes = True
+                                        break
+                            
+                            if has_significant_changes:
+                                significant_updates += 1
+                            else:
+                                visited_phones += 1
+            
             changelog_entry = {
                 "timestamp": timestamp,
                 "summary": {
@@ -911,6 +934,8 @@ class MobiInfoScraper:
                     "failed_brands": changes_summary['failed_brands'],
                     "new_phones": changes_summary['new_phones'],
                     "updated_phones": changes_summary['updated_phones'],
+                    "significant_updates": significant_updates,
+                    "visited_phones": visited_phones,
                     "failed_phones": changes_summary['failed_phones']
                 },
                 "details": changes_summary['changes_details']
@@ -1000,7 +1025,8 @@ class MobiInfoScraper:
                     f.write(f"- **Updated brands**: {summary['updated_brands']}\n")
                     f.write(f"- **Failed brands**: {summary['failed_brands']}\n")
                     f.write(f"- **New phones**: {summary['new_phones']}\n")
-                    f.write(f"- **Updated phones**: {summary['updated_phones']}\n")
+                    f.write(f"- **Updated phones**: {summary.get('significant_updates', summary['updated_phones'])}\n")
+                    f.write(f"- **Visited phones**: {summary.get('visited_phones', 0)}\n")
                     f.write(f"- **Failed phones**: {summary['failed_phones']}\n\n")
                     
                     # Write detailed changes only if there are actual changes
@@ -1011,40 +1037,105 @@ class MobiInfoScraper:
                     if entry['details'] and has_changes:
                         f.write("### Detailed Changes\n\n")
                         
+                        # Collect new phones, updated phones, and visited phones separately
+                        new_phones_by_brand = {}
+                        updated_phones_by_brand = {}
+                        visited_phones_by_brand = {}
+                        new_brands = []
+                        
                         for brand_change in entry['details']:
-                            # Only include brand details if it has actual changes
-                            brand_has_changes = (brand_change.get('new_phones', 0) > 0 or 
-                                               brand_change.get('updated_phones', 0) > 0 or
-                                               brand_change.get('type') == 'new')
+                            brand_name = brand_change['brand_name']
                             
-                            if brand_has_changes:
-                                f.write(f"#### {brand_change['brand_name']}\n\n")
-                                
-                                if 'type' in brand_change and brand_change['type'] == 'new':
-                                    f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
-                                else:
-                                    # Only show counts if they are greater than 0
-                                    if brand_change.get('new_phones', 0) > 0:
-                                        f.write(f"- **New phones**: {brand_change['new_phones']}\n")
-                                    if brand_change.get('updated_phones', 0) > 0:
-                                        f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n")
-                                    f.write("\n")
-                                
-                                    if 'phone_changes' in brand_change:
-                                        for phone_change in brand_change['phone_changes']:
-                                            if phone_change['type'] == 'new':
-                                                f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
-                                            else:
-                                                f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
-                                                
-                                                # Format differences as a nested list
-                                                if 'differences' in phone_change:
-                                                    for diff in phone_change['differences']:
-                                                        f.write(f"    - {diff}\n")
-                                                
-                                                f.write("\n")
-                                
+                            # Handle new brands
+                            if 'type' in brand_change and brand_change['type'] == 'new':
+                                new_brands.append(brand_name)
+                                continue
+                            
+                            # Process phone changes
+                            if 'phone_changes' in brand_change:
+                                for phone_change in brand_change['phone_changes']:
+                                    phone_name = phone_change['phone_name']
+                                    
+                                    if phone_change['type'] == 'new':
+                                        if brand_name not in new_phones_by_brand:
+                                            new_phones_by_brand[brand_name] = []
+                                        new_phones_by_brand[brand_name].append(phone_name)
+                                    else:  # updated phone
+                                        # Check if there are significant changes (excluding metadata fields)
+                                        significant_changes = []
+                                        insignificant_fields = ['last_updated', 'first_scraped']
+                                        
+                                        if 'differences' in phone_change:
+                                            for diff in phone_change['differences']:
+                                                # Extract field name from difference string
+                                                field_name = diff.split(':')[0].strip()
+                                                if field_name not in insignificant_fields:
+                                                    significant_changes.append(diff)
+                                        
+                                        if significant_changes:
+                                            # Has significant changes - add to updates with change details
+                                            if brand_name not in updated_phones_by_brand:
+                                                updated_phones_by_brand[brand_name] = []
+                                            
+                                            # Format the changes in a more readable way
+                                            change_summary = []
+                                            for change in significant_changes:
+                                                # Clean up the change text for better readability
+                                                clean_change = change.replace("Changed from '", "").replace("' to '", " → ").replace("'", "")
+                                                change_summary.append(clean_change)
+                                            
+                                            phone_entry = {
+                                                'name': phone_name,
+                                                'changes': change_summary
+                                            }
+                                            updated_phones_by_brand[brand_name].append(phone_entry)
+                                        else:
+                                            # No significant changes - add to visited
+                                            if brand_name not in visited_phones_by_brand:
+                                                visited_phones_by_brand[brand_name] = []
+                                            visited_phones_by_brand[brand_name].append(phone_name)
+                        
+                        # Write New phones added section
+                        if new_phones_by_brand or new_brands:
+                            f.write("## New phones added\n\n")
+                            
+                            # First show new brands
+                            for brand_name in new_brands:
+                                f.write(f"#### {brand_name}\n")
+                                f.write("- **New brand added**\n\n")
+                            
+                            # Then show new phones by brand
+                            for brand_name in sorted(new_phones_by_brand.keys()):
+                                f.write(f"#### {brand_name}\n")
+                                for phone_name in new_phones_by_brand[brand_name]:
+                                    f.write(f"- {phone_name}\n")
                                 f.write("\n")
+                        
+                        # Write Updates section (phones with significant changes)
+                        if updated_phones_by_brand:
+                            f.write("## Updates\n\n")
+                            
+                            for brand_name in sorted(updated_phones_by_brand.keys()):
+                                f.write(f"#### {brand_name}\n")
+                                for phone_entry in updated_phones_by_brand[brand_name]:
+                                    phone_name = phone_entry['name']
+                                    changes = phone_entry['changes']
+                                    
+                                    if changes:
+                                        changes_text = ", ".join(changes)
+                                        f.write(f"- **Updated phone**: {phone_name} ({changes_text})\n")
+                                    else:
+                                        f.write(f"- **Updated phone**: {phone_name}\n")
+                                f.write("\n")
+                        
+                        # Write Visited section (phones with no significant changes)
+                        if visited_phones_by_brand:
+                            f.write("## Visited\n\n")
+                            
+                            for brand_name in sorted(visited_phones_by_brand.keys()):
+                                phone_count = len(visited_phones_by_brand[brand_name])
+                                f.write(f"#### {brand_name}\n")
+                                f.write(f"- {phone_count} phones visited from first 1 page\n\n")
                     
                     f.write("---\n\n")
             
@@ -1783,40 +1874,105 @@ class MobiInfoScraper:
                     if entry['details'] and has_changes:
                         f.write("### Detailed Changes\n\n")
                         
+                        # Collect new phones, updated phones, and visited phones separately
+                        new_phones_by_brand = {}
+                        updated_phones_by_brand = {}
+                        visited_phones_by_brand = {}
+                        new_brands = []
+                        
                         for brand_change in entry['details']:
-                            # Only include brand details if it has actual changes
-                            brand_has_changes = (brand_change.get('new_phones', 0) > 0 or 
-                                               brand_change.get('updated_phones', 0) > 0 or
-                                               brand_change.get('type') == 'new')
+                            brand_name = brand_change['brand_name']
                             
-                            if brand_has_changes:
-                                f.write(f"#### {brand_change['brand_name']}\n\n")
-                                
-                                if 'type' in brand_change and brand_change['type'] == 'new':
-                                    f.write(f"- **New brand added** with {brand_change['new_phones']} phones\n\n")
-                                else:
-                                    # Only show counts if they are greater than 0
-                                    if brand_change.get('new_phones', 0) > 0:
-                                        f.write(f"- **New phones**: {brand_change['new_phones']}\n")
-                                    if brand_change.get('updated_phones', 0) > 0:
-                                        f.write(f"- **Updated phones**: {brand_change['updated_phones']}\n")
-                                    f.write("\n")
-                                
-                                    if 'phone_changes' in brand_change:
-                                        for phone_change in brand_change['phone_changes']:
-                                            if phone_change['type'] == 'new':
-                                                f.write(f"  - **New phone**: {phone_change['phone_name']}\n")
-                                            else:
-                                                f.write(f"  - **Updated phone**: {phone_change['phone_name']}\n")
-                                                
-                                                # Format differences as a nested list
-                                                if 'differences' in phone_change:
-                                                    for diff in phone_change['differences']:
-                                                        f.write(f"    - {diff}\n")
-                                                
-                                                f.write("\n")
-                                
+                            # Handle new brands
+                            if 'type' in brand_change and brand_change['type'] == 'new':
+                                new_brands.append(brand_name)
+                                continue
+                            
+                            # Process phone changes
+                            if 'phone_changes' in brand_change:
+                                for phone_change in brand_change['phone_changes']:
+                                    phone_name = phone_change['phone_name']
+                                    
+                                    if phone_change['type'] == 'new':
+                                        if brand_name not in new_phones_by_brand:
+                                            new_phones_by_brand[brand_name] = []
+                                        new_phones_by_brand[brand_name].append(phone_name)
+                                    else:  # updated phone
+                                        # Check if there are significant changes (excluding metadata fields)
+                                        significant_changes = []
+                                        insignificant_fields = ['last_updated', 'first_scraped']
+                                        
+                                        if 'differences' in phone_change:
+                                            for diff in phone_change['differences']:
+                                                # Extract field name from difference string
+                                                field_name = diff.split(':')[0].strip()
+                                                if field_name not in insignificant_fields:
+                                                    significant_changes.append(diff)
+                                        
+                                        if significant_changes:
+                                            # Has significant changes - add to updates with change details
+                                            if brand_name not in updated_phones_by_brand:
+                                                updated_phones_by_brand[brand_name] = []
+                                            
+                                            # Format the changes in a more readable way
+                                            change_summary = []
+                                            for change in significant_changes:
+                                                # Clean up the change text for better readability
+                                                clean_change = change.replace("Changed from '", "").replace("' to '", " → ").replace("'", "")
+                                                change_summary.append(clean_change)
+                                            
+                                            phone_entry = {
+                                                'name': phone_name,
+                                                'changes': change_summary
+                                            }
+                                            updated_phones_by_brand[brand_name].append(phone_entry)
+                                        else:
+                                            # No significant changes - add to visited
+                                            if brand_name not in visited_phones_by_brand:
+                                                visited_phones_by_brand[brand_name] = []
+                                            visited_phones_by_brand[brand_name].append(phone_name)
+                        
+                        # Write New phones added section
+                        if new_phones_by_brand or new_brands:
+                            f.write("## New phones added\n\n")
+                            
+                            # First show new brands
+                            for brand_name in new_brands:
+                                f.write(f"#### {brand_name}\n")
+                                f.write("- **New brand added**\n\n")
+                            
+                            # Then show new phones by brand
+                            for brand_name in sorted(new_phones_by_brand.keys()):
+                                f.write(f"#### {brand_name}\n")
+                                for phone_name in new_phones_by_brand[brand_name]:
+                                    f.write(f"- {phone_name}\n")
                                 f.write("\n")
+                        
+                        # Write Updates section (phones with significant changes)
+                        if updated_phones_by_brand:
+                            f.write("## Updates\n\n")
+                            
+                            for brand_name in sorted(updated_phones_by_brand.keys()):
+                                f.write(f"#### {brand_name}\n")
+                                for phone_entry in updated_phones_by_brand[brand_name]:
+                                    phone_name = phone_entry['name']
+                                    changes = phone_entry['changes']
+                                    
+                                    if changes:
+                                        changes_text = ", ".join(changes)
+                                        f.write(f"- **Updated phone**: {phone_name} ({changes_text})\n")
+                                    else:
+                                        f.write(f"- **Updated phone**: {phone_name}\n")
+                                f.write("\n")
+                        
+                        # Write Visited section (phones with no significant changes)
+                        if visited_phones_by_brand:
+                            f.write("## Visited\n\n")
+                            
+                            for brand_name in sorted(visited_phones_by_brand.keys()):
+                                phone_count = len(visited_phones_by_brand[brand_name])
+                                f.write(f"#### {brand_name}\n")
+                                f.write(f"- {phone_count} phones visited from first 1 page\n\n")
                     
                     f.write("---\n\n")
             
@@ -2395,24 +2551,24 @@ if __name__ == "__main__":
     # brand_list = ["okapia", "philips", "energizer", "kingster", "wiko", "bengal", "okutel"]  # List of brand names
     # brand_list = ["kingstar", "wiko"]  # List of brand names
     # brand_list = ["allview", "panasonic", "5star", "maxis", "celkon", "xtra", "hallo", "doogee", "ulefone", "leica", "acer", "gdl"]  # List of brand names
-    result = scraper.scrape_multiple_brands_separate_files(
-        brand_inputs=brand_list,
-        # max_brands=5,  # Limit to first 5 brands from the list
-        max_pages=1,  # Limit to 2 pages per brand
-        # max_products=20,  # Limit to 10 products per brand
-        max_workers=15  # Use 3 concurrent workers for faster processing
-    )
+    # result = scraper.scrape_multiple_brands_separate_files(
+    #     brand_inputs=brand_list,
+    #     # max_brands=5,  # Limit to first 5 brands from the list
+    #     max_pages=1,  # Limit to 2 pages per brand
+    #     # max_products=20,  # Limit to 10 products per brand
+    #     max_workers=15  # Use 3 concurrent workers for faster processing
+    # )
 
 
 
     # Test
-    # result = scraper.scrape_multiple_brands_separate_files(
-    #     brand_inputs=brand_list,
-    #     # max_brands=3,  # Limit to first 5 brands from the list
-    #     # max_pages=1,  # Limit to 2 pages per brand
-    #     # max_products=10,  # Limit to 10 products per brand
-    #     max_workers=15  # Use 3 concurrent workers for faster processing
-    # )
+    result = scraper.scrape_multiple_brands_separate_files(
+        brand_inputs=["zte"],
+        # max_brands=3,  # Limit to first 5 brands from the list
+        max_pages=1,  # Limit to 2 pages per brand
+        max_products=10,  # Limit to 10 products per brand
+        max_workers=15  # Use 3 concurrent workers for faster processing
+    )
 
 
 

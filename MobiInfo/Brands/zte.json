@@ -4,7 +4,7 @@
     "name": "zte",
     "url": "https://www.mobiledokan.com/mobile-brand/zte",
     "image_url": null,
-    "last_updated": "2025-09-14 06:31:44",
+    "last_updated": "2025-09-14 17:51:51",
     "total_phones": 71,
     "first_scraped": "2025-09-11 09:19:19",
     "new_phones_this_run": 0,
@@ -18,8 +18,8 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-a36",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-a36-aqua-green-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 14:23:27",
+      "first_scraped": "2025-09-14 14:23:27",
       "updated_on": "August 25, 2025",
       "variants": [],
       "specifications": {
@@ -54,6 +54,10 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, Primary Camera, 0.08 MP, Auxiliary lens Camera",
@@ -66,10 +70,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
           }
         },
         "Design": {
@@ -140,7 +140,6 @@
     {
       "id": "zte_nubia_a56",
       "name": "ZTE nubia A56",
-      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-a56",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-a56-celestial-black-official-image.webp",
       "serial_number": 2,
@@ -274,8 +273,8 @@
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a35e",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a35e-mint-green-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 14:23:27",
+      "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [],
       "specifications": {
@@ -928,8 +927,8 @@
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v70-design-256gb",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-v70-design-jade-green-official-color-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 14:30:24",
+      "first_scraped": null,
       "updated_on": "June 11, 2025",
       "variants": [
         {
@@ -1071,8 +1070,8 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z70s-ultra",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z70s-ultra-orange-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 14:30:24",
+      "first_scraped": null,
       "updated_on": "May 31, 2025",
       "variants": [],
       "specifications": {
@@ -1109,6 +1108,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.7, Standard Camera, 64 MP, f/2.5, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -1123,13 +1129,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1209,8 +1208,8 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-redmagic-10-air",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-redmagic-10-air-flare-orange-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-11 09:19:19",
-      "first_scraped": "2025-09-11 09:19:19",
+      "last_updated": "2025-09-14 14:30:24",
+      "first_scraped": null,
       "updated_on": "June 14, 2025",
       "variants": [],
       "specifications": {
