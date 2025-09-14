@@ -73,70 +73,50 @@ jobs:
               
               # Process detailed changes with clean formatting
               if [ ! -z "$detailed_section" ]; then
-                details_clean=$(echo "$detailed_section" | \
-                  sed 's/#### \([^#]*\)/\1/g' | \
+                # Clean the detailed section and process it
+                details_processed=$(echo "$detailed_section" | \
+                  sed 's/### Detailed Changes//g' | \
+                  sed 's/#### /# /g' | \
+                  sed 's/\*\*Updated phone\*\*: /- /g' | \
+                  sed 's/\*\*Added new phone\*\*: /- /g' | \
                   sed 's/\*\*\([^*]*\)\*\*/\1/g' | \
-                  sed 's/\*\([^*]*\)\*/\1/g' | \
-                  sed '/^### Detailed Changes/d' | \
-                  sed 's/^  - /- /g' | \
-                  sed 's/^    - /  - /g' | \
                   sed '/^[[:space:]]*$/d')
-               
                 
-                # Format the output with proper structure
-                details_clean=$(echo "$details_clean" | \
-                  awk '
-                  BEGIN { 
-                    new_phones_section = ""
-                    updates_section = ""
-                    visited_section = ""
-                    current_section = ""
-                  }
-                  /^New phones added:/ {
-                    current_section = "new"
-                    next
-                  }
-                  /^Updated phones:/ {
-                    current_section = "updates"
-                    next
-                  }
-                  /^Visited phones:/ {
-                    current_section = "visited"
-                    next
-                  }
-                  /^Added new phone:/ {
-                    phone_name = substr($0, 18)
-                    new_phones_section = new_phones_section "- " phone_name "\n"
-                    next
-                  }
-                  /^Updated phone:/ {
-                    phone_info = substr($0, 16)
-                    updates_section = updates_section "- " phone_info "\n"
-                    next
-                  }
-                  /^Visited brand:/ {
-                    brand_info = substr($0, 16)
-                    visited_section = visited_section "# " brand_info "\n"
-                    next
-                  }
-                  END {
-                    if (new_phones_section != "") {
-                      print "## New phones added"
-                      printf "%s", new_phones_section
-                      print ""
-                    }
-                    if (updates_section != "") {
-                      print "## Updates"
-                      printf "%s", updates_section
-                      print ""
-                    }
-                    if (visited_section != "") {
-                      print "## Visited"
-                      printf "%s", visited_section
-                    }
-                  }')
+                # Extract sections and format them
+                new_phones=$(echo "$details_processed" | \
+                  sed -n '/^## New phones added/,/^## /p' | \
+                  sed '/^## New phones added/d' | \
+                  sed '/^## /d' | \
+                  sed 's/^# //g' | \
+                  awk '/^[a-zA-Z]/ { brand=$0; next } /^- / { print "- " substr($0,3) }')
                 
-                formatted_message="${formatted_message}${details_clean}-----------------------"
+                updates=$(echo "$details_processed" | \
+                  sed -n '/^## Updates/,/^## /p' | \
+                  sed '/^## Updates/d' | \
+                  sed '/^## /d' | \
+                  sed 's/^# //g' | \
+                  awk '/^[a-zA-Z]/ { brand=$0; next } /^- / { print $0 }')
+                
+                visited=$(echo "$details_processed" | \
+                  sed -n '/^## Visited/,/^## /p' | \
+                  sed '/^## Visited/d' | \
+                  sed '/^## /d' | \
+                  sed 's/^# //g' | \
+                  awk '/^[a-zA-Z]/ { print "# " $0 }')
+                
+                # Build the final details section
+                details_final=""
+                if [ ! -z "$new_phones" ]; then
+                  details_final="${details_final}\n## New phones added\n${new_phones}\n"
+                fi
+                if [ ! -z "$updates" ]; then
+                  details_final="${details_final}\n## Updates\n${updates}\n"
+                fi
+                if [ ! -z "$visited" ]; then
+                  details_final="${details_final}\n## Visited\n${visited}\n"
+                fi
+                
+                formatted_message="${formatted_message}${details_final}-----------------------"
               fi
             fi
             
