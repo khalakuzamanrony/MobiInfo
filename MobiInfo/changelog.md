@@ -2,12 +2,401 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-14 22:53:24
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5275
+- **New brands**: 0
+- **Updated brands**: 75
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 137
+- **Visited phones**: 5130
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### infinix
+- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
+Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Network & Connectivity.Speed: HSPA, LTE → HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, specifications.More.Features: Accelerometer, gyro, proximity, compass → Accelerometer, Compass, Gyroscope, gallery_images[0]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[1]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[2]: https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-front-image_1.webp, gallery_images[3]: https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image_1.webp, gallery_images[4]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[5]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[6]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[7]: https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-image_1.webp, gallery_images[8]: https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-black-image.webp)
+
+#### maximus
+- **Updated phone**: Maximus M-23I (name: Maximus M23I → Maximus M-23I, url: https://www.mobiledokan.com/mobile/maximus-m23i → https://www.mobiledokan.com/mobile/maximus-m-23i, image_url: https://www.mobiledokan.com/media/maximus-m23i-official-image.webp → https://www.mobiledokan.com/media/maximus-m-23i-black-image.webp, serial_number: 145 → 113, updated_on: November 14, 2024 → December 26, 2024, specifications.General.Model: M23I → M-23I, specifications.General.Device Type: Feature phone → FeaturePhone, specifications.General.Release Date: 11 July 2011 → 15 August 2012, Added new field: specifications.Hardware & Software, specifications.Display.Display Type: TFT → LCD, specifications.Display.Screen Size: 1.8 inches → 1.8 inches (4.57 cm), specifications.Display.Resolution: 220x176 px → 128x128 px, specifications.Cameras.Primary Camera.Resolution: 0.3 MP Primary Camera → 0.3 MP, Primary Camera, Added new field: specifications.Cameras.Primary Camera.Shooting Modes, Added new field: specifications.Cameras.Primary Camera.Camera Features, Removed field: specifications.Cameras.Primary Camera.Flash, Removed field: specifications.Cameras.Primary Camera.Image Resolution, specifications.Battery.Battery type: Li-Ion (Lithium Ion) → Li-Ion (Lithium-Ion), specifications.Network & Connectivity.SIM Size: Mini-SIM → Mini-SIM, dual stand-by, Removed field: specifications.Network & Connectivity.USB, Added new field: specifications.Multimedia.Document Reader, Removed field: specifications.Multimedia.Video, gallery_images: List length changed from 3 to 6)
+- **Updated phone**: Maximus M-15I (name: Maximus M15I → Maximus M-15I, url: https://www.mobiledokan.com/mobile/maximus-m15i → https://www.mobiledokan.com/mobile/maximus-m-15i, image_url: https://www.mobiledokan.com/media/maximus-m15i-image.webp → https://www.mobiledokan.com/media/maximus-m-15i-black-image.webp, serial_number: 152 → 114, updated_on: November 9, 2024 → December 26, 2024, specifications.General.Device Type: Feature phone → FeaturePhone, specifications.General.Release Date: 10 July 2011 → 15 August 2012, Added new field: specifications.Hardware & Software, specifications.Display.Screen Size: 2.0 inches → 2 inches (5.08 cm), specifications.Cameras.Primary Camera.Resolution: 0.3 MP Primary Camera → 0.3 MP, Primary Camera, Removed field: specifications.Cameras.Primary Camera.Flash, specifications.Design.Colors: Grey → Black, specifications.Battery.Battery type: Li-Ion (Lithium Ion) → Li-Ion (Lithium-Ion), specifications.Network & Connectivity.SIM Size: Mini-SIM → Mini-SIM, dual stand-by, specifications.Network & Connectivity.Bluetooth: v2.0 → v2.1, Removed field: specifications.Network & Connectivity.GPRS, Removed field: specifications.Network & Connectivity.USB, Added new field: specifications.Multimedia.Document Reader, Removed field: specifications.Multimedia.Video, gallery_images: List length changed from 3 to 6)
+- **Updated phone**: Maximus M15 (name: Maximus M-15 → Maximus M15, url: https://www.mobiledokan.com/mobile/maximus-m-15 → https://www.mobiledokan.com/mobile/maximus-m15, image_url: https://www.mobiledokan.com/media/maximus-m-15-official-image.webp → https://www.mobiledokan.com/media/maximus-m15-image.webp, serial_number: 146 → 124, specifications.General.Model: M-15 → M15, specifications.General.Release Date: 11 July 2011 → 10 May 2012, specifications.Cameras.Primary Camera.Resolution: 0.3 MP, Primary Camera → VGA Camera, Added new field: specifications.Cameras.Primary Camera.Flash, Removed field: specifications.Cameras.Primary Camera.Zoom, Removed field: specifications.Cameras.Primary Camera.Video Recording, specifications.Design.Colors: Grey → Gray, specifications.Memory.Expandable Memory: Up to 8 GB → Up to 32 GB, specifications.Network & Connectivity.SIM Size: Mini-SIM, dual stand-by → Mini-SIM, Removed field: specifications.Network & Connectivity.Speed, Removed field: specifications.Network & Connectivity.USB, specifications.Multimedia.Video: MP4, 3GP, AVI → MP3, MP4, specifications.More.Made By: China → India, Removed field: specifications.More.Features, gallery_images[0]: https://www.mobiledokan.com/media/maximus-m-15-official-image.webp → https://www.mobiledokan.com/media/maximus-m15-image.webp, gallery_images[1]: https://www.mobiledokan.com/media/maximus-m-15-official-image.webp → https://www.mobiledokan.com/media/maximus-m15-image.webp, gallery_images[2]: https://www.mobiledokan.com/media/maximus-m-15-official-image.webp → https://www.mobiledokan.com/media/maximus-m15-image.webp)
+
+#### nokia
+- **Updated phone**: Nokia 105 (2022) (price: 2099 → 2299, url: https://www.mobiledokan.com/mobile/nokia-105-2022- → https://www.mobiledokan.com/mobile/nokia-105-2022, image_url: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, serial_number: 40 → 33, updated_on: October 27, 2024 → October 25, 2024, specifications.General.Release Date: 04 April 2023 → 15 August 2022, Added new field: specifications.Hardware & Software.Chipset, specifications.Display.Screen Size: 1.77 inches (4.5 cm) → 1.77 inches (9.7 cm2), specifications.Display.Resolution: 128x160 px → 120x160 px, Added new field: specifications.Display.Aspect Ratio, specifications.Display.Pixel Density: 116 ppi → 113 ppi, specifications.Display.Screen to Body Ratio: 17.15 % → 16.9 %, specifications.Design.Colors: Blue, Charcoal → Charcoal, Blue, Removed field: specifications.Design.Weight, Removed field: specifications.Battery.Standby, Removed field: specifications.Battery.Talk Time, specifications.Network & Connectivity.SIM Size: SIM1: Mini → Mini-SIM, dual stand-by, specifications.Network & Connectivity.USB: MicroUSB 2.0 → microUSB 1.1, Removed field: specifications.Multimedia.Audio Jack, gallery_images[0]: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, gallery_images[1]: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, gallery_images[2]: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, gallery_images[3]: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, gallery_images[4]: https://www.mobiledokan.com/media/nokia-105-2022-blue-image_2.webp → https://www.mobiledokan.com/media/nokia-105-2022-blue-image_1.webp, gallery_images[5]: https://www.mobiledokan.com/media/nokia-105-2022-charcoal-image.webp → https://www.mobiledokan.com/media/nokia-105-2022-chaecoal-image_1.webp)
+- **Updated phone**: Nokia C100 (name: Nokia C1-00 → Nokia C100, price: 2490 → 10000, url: https://www.mobiledokan.com/mobile/nokia-c1-00 → https://www.mobiledokan.com/mobile/nokia-c100, image_url: https://www.mobiledokan.com/media/nokia-c1-00-front-image.webp → https://www.mobiledokan.com/media/nokia-c100-blue-image.webp, serial_number: 174 → 44, updated_on: February 27, 2025 → October 27, 2024, specifications.General.Model: C1-00 → C100, specifications.General.Device Type: FeaturePhone → SmartPhone, specifications.General.Release Date: 01 September 2010 → 20 January 2022, specifications.Hardware & Software.Operating System: FeaturePhone → Android, Added new field: specifications.Hardware & Software.OS Version, Added new field: specifications.Hardware & Software.Chipset, Added new field: specifications.Hardware & Software.CPU, Added new field: specifications.Hardware & Software.CPU Cores, Added new field: specifications.Hardware & Software.Architecture, Added new field: specifications.Hardware & Software.Fabrication, Added new field: specifications.Hardware & Software.GPU, specifications.Display.Display Type: TFT → IPS LCD, specifications.Display.Screen Size: 1.8 inches (10.2 cm2) → 5.45 inches (13.84 cm), specifications.Display.Resolution: 128x160 px → 720x1440 px (HD+), Added new field: specifications.Display.Aspect Ratio, specifications.Display.Pixel Density: 114 ppi → 295 ppi, Added new field: specifications.Display.Screen Protection, Added new field: specifications.Display.Bezel-less Display, Added new field: specifications.Display.Touch Screen, Removed field: specifications.Display.Screen to Body Ratio, Added new field: specifications.Cameras, specifications.Design.Colors: Medium Blue, Red, Light Gray, Sea Green → Blue, Added new field: specifications.Design.Waterproof, Added new field: specifications.Design.IP Rating, Removed field: specifications.Design.Height, Removed field: specifications.Design.Width, Removed field: specifications.Design.Thickness, Removed field: specifications.Design.Weight, specifications.Battery.Battery type: Li-Ion (Lithium-Ion) → Li-Poly (Lithium Polymer), specifications.Battery.Capacity: 1020 mAh → 4000 mAh, Removed field: specifications.Battery.Standby, Removed field: specifications.Battery.Talk Time, Added new field: specifications.Memory, specifications.Network & Connectivity.Network: 2G → 2G, 3G, 4G, specifications.Network & Connectivity.SIM Size: Mini → SIM1: Nano, SIM2: Nano, Added new field: specifications.Network & Connectivity.EDGE, Added new field: specifications.Network & Connectivity.GPRS, Added new field: specifications.Network & Connectivity.VoLTE, Added new field: specifications.Network & Connectivity.Speed, Added new field: specifications.Network & Connectivity.WLAN, Added new field: specifications.Network & Connectivity.Bluetooth, Added new field: specifications.Network & Connectivity.GPS, Added new field: specifications.Network & Connectivity.Wi-fi Hotspot, Added new field: specifications.Network & Connectivity.USB, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia.Document Reader, Added new field: specifications.More.Features, gallery_images: List length changed from 7 to 9)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy Z Flip7 (512GB) (price: 120000 → 108000, updated_on: August 2, 2025 → September 14, 2025)
+
+#### vivo
+- **Updated phone**: Vivo X200s (512GB) (serial_number: 35 → 33)
+- **Updated phone**: Vivo X200s (16GB+512GB) (serial_number: 36 → 34)
+- **Updated phone**: Vivo V50 Lite 5G (256GB) (serial_number: 37 → 35)
+- **Updated phone**: Vivo V50 Lite 4G (256GB) (serial_number: 38 → 36)
+- **Updated phone**: Vivo V50 Lite 4G (serial_number: 39 → 37)
+- **Updated phone**: Vivo V50e (serial_number: 40 → 38)
+- **Updated phone**: Vivo V50e (256GB) (serial_number: 41 → 39)
+- **Updated phone**: Vivo Y300 Pro Plus (serial_number: 42 → 40)
+- **Updated phone**: Vivo Y300t (serial_number: 43 → 41)
+- **Updated phone**: Vivo Y39 (serial_number: 44 → 42)
+- **Updated phone**: Vivo Y29s (serial_number: 45 → 43)
+- **Updated phone**: Vivo Y04 (256GB) (serial_number: 46 → 44)
+- **Updated phone**: Vivo Y04 (serial_number: 47 → 45)
+- **Updated phone**: Vivo Y04 (128GB) (serial_number: 48 → 46)
+- **Updated phone**: Vivo T4x (8GB RAM) (serial_number: 49 → 47)
+- **Updated phone**: Vivo T4x (8GB+256GB) (serial_number: 50 → 48)
+- **Updated phone**: Vivo T4x (serial_number: 51 → 49)
+- **Updated phone**: Vivo V50 (serial_number: 52 → 50)
+- **Updated phone**: Vivo V50 (128GB ROM) (serial_number: 53 → 51)
+- **Updated phone**: Vivo V50 (256GB ROM) (serial_number: 54 → 52)
+- **Updated phone**: Vivo V50 (12GB+512GB) (serial_number: 55 → 53)
+- **Updated phone**: Vivo Y29 (serial_number: 56 → 54)
+- **Updated phone**: Vivo Y29 (8GB RAM) (serial_number: 57 → 55)
+- **Updated phone**: Vivo Y29 (8GB+256GB) (serial_number: 58 → 56)
+- **Updated phone**: Vivo Y29 4G (serial_number: 59 → 57)
+- **Updated phone**: Vivo Y200 Plus (serial_number: 60 → 58)
+- **Updated phone**: Vivo X200 (serial_number: 61 → 59)
+- **Updated phone**: Vivo Y29 5G (serial_number: 62 → 60)
+- **Updated phone**: Vivo Y300 (China) (serial_number: 63 → 61)
+- **Updated phone**: Vivo S20 Pro (serial_number: 64 → 62)
+- **Updated phone**: Vivo S20 (serial_number: 65 → 63)
+- **Updated phone**: Vivo Y18t (serial_number: 66 → 64)
+- **Updated phone**: Vivo Y28 4G (128GB) (serial_number: 99 → 97)
+- **Updated phone**: Vivo Y58 (serial_number: 100 → 98)
+- **Updated phone**: Vivo Y18 (6GB RAM) (serial_number: 101 → 99)
+- **Updated phone**: Vivo Y18 (serial_number: 102 → 100)
+- **Updated phone**: Vivo S19 Pro (serial_number: 103 → 101)
+- **Updated phone**: Vivo S19 (serial_number: 104 → 102)
+- **Updated phone**: Vivo X100 Ultra (16GB+512GB) (serial_number: 105 → 103)
+- **Updated phone**: Vivo X100 Ultra (serial_number: 106 → 104)
+- **Updated phone**: Vivo Y200 Pro (serial_number: 107 → 105)
+- **Updated phone**: Vivo X100s Pro (serial_number: 108 → 106)
+- **Updated phone**: Vivo X100s (serial_number: 109 → 107)
+- **Updated phone**: Vivo V30e (serial_number: 110 → 108)
+- **Updated phone**: Vivo V30 Lite 4G (128GB) (serial_number: 111 → 109)
+- **Updated phone**: Vivo V30 Lite 4G (serial_number: 112 → 110)
+- **Updated phone**: Vivo G2 (serial_number: 113 → 111)
+- **Updated phone**: Vivo T3x (serial_number: 114 → 112)
+- **Updated phone**: Vivo T3x (8GB RAM) (serial_number: 115 → 113)
+- **Updated phone**: Vivo X Fold3 Pro (serial_number: 116 → 114)
+- **Updated phone**: Realme Narzo 70 Turbo (12GB+256GB) (serial_number: 117 → 115)
+- **Updated phone**: Vivo T3 (serial_number: 118 → 116)
+- **Updated phone**: Vivo Y03 (serial_number: 119 → 117)
+- **Updated phone**: Vivo V30 Pro (serial_number: 120 → 118)
+- **Updated phone**: Vivo V30 Pro (12GB+512GB) (serial_number: 121 → 119)
+- **Updated phone**: Vivo V30 (serial_number: 122 → 120)
+- **Updated phone**: Vivo Y100t (serial_number: 123 → 121)
+- **Updated phone**: Vivo Y200e (serial_number: 124 → 122)
+- **Updated phone**: Vivo Y28 5G (serial_number: 125 → 123)
+- **Updated phone**: Vivo S18 (serial_number: 126 → 124)
+- **Updated phone**: Vivo X100 (16GB/512GB) (serial_number: 127 → 125)
+- **Updated phone**: Vivo X100 (serial_number: 128 → 126)
+- **Updated phone**: Vivo X100 Pro (serial_number: 129 → 127)
+- **Updated phone**: Vivo X100 Pro (16GB+512GB) (serial_number: 130 → 128)
+- **Updated phone**: Vivo X90 (8GB RAM) (serial_number: 163 → 161)
+- **Updated phone**: Vivo X90 (12GB/256GB) (serial_number: 164 → 162)
+- **Updated phone**: Vivo Y02 (serial_number: 165 → 163)
+- **Updated phone**: Vivo V25 5G (serial_number: 166 → 164)
+- **Updated phone**: Vivo V25e (serial_number: 167 → 165)
+- **Updated phone**: Vivo Y22 (serial_number: 168 → 166)
+- **Updated phone**: Vivo Y16 (serial_number: 169 → 167)
+- **Updated phone**: Vivo V25 Pro (serial_number: 170 → 168)
+- **Updated phone**: Vivo Y22s (serial_number: 171 → 169)
+- **Updated phone**: Vivo Y35 (serial_number: 172 → 170)
+- **Updated phone**: Vivo Y02s (serial_number: 173 → 171)
+- **Updated phone**: Vivo X80 (serial_number: 174 → 172)
+- **Updated phone**: Vivo X Note (serial_number: 175 → 173)
+- **Updated phone**: Vivo Y01 (serial_number: 176 → 174)
+- **Updated phone**: Vivo V23 5G (serial_number: 177 → 175)
+- **Updated phone**: Vivo V23 Pro (serial_number: 178 → 176)
+- **Updated phone**: Vivo Y21T (serial_number: 179 → 177)
+- **Updated phone**: Vivo V23e (serial_number: 180 → 178)
+- **Updated phone**: Vivo Y15s (serial_number: 181 → 179)
+- **Updated phone**: Vivo X70 Pro 5G (serial_number: 182 → 180)
+- **Updated phone**: Vivo Y33s (serial_number: 183 → 181)
+- **Updated phone**: Vivo Y21 (serial_number: 184 → 182)
+- **Updated phone**: Vivo Y53s (serial_number: 185 → 183)
+- **Updated phone**: Vivo Y12A (serial_number: 186 → 184)
+- **Updated phone**: Vivo V21e (serial_number: 187 → 185)
+- **Updated phone**: Vivo V21 (serial_number: 188 → 186)
+- **Updated phone**: Vivo X60 Pro 5G (serial_number: 189 → 187)
+- **Updated phone**: Vivo Y20G (serial_number: 190 → 188)
+- **Updated phone**: vivo iQOO 7 (12GB) (serial_number: 191 → 189)
+- **Updated phone**: Vivo Y20 2021 (serial_number: 192 → 190)
+- **Updated phone**: Vivo Y51 (serial_number: 193 → 191)
+- **Updated phone**: Vivo Y12s (serial_number: 194 → 192)
+- **Updated phone**: Vivo NEX 3 5G (serial_number: 227 → 225)
+- **Updated phone**: Vivo NEX 3 5G (256GB) (serial_number: 228 → 226)
+- **Updated phone**: Vivo U10 (serial_number: 229 → 227)
+- **Updated phone**: Vivo Z1 Pro (serial_number: 230 → 228)
+- **Updated phone**: Vivo Y90 (serial_number: 231 → 229)
+- **Updated phone**: Vivo S1 (serial_number: 232 → 230)
+- **Updated phone**: Vivo S1 (6GB RAM) (serial_number: 233 → 231)
+- **Updated phone**: Vivo Y12 (serial_number: 234 → 232)
+- **Updated phone**: Vivo Y15 (serial_number: 235 → 233)
+- **Updated phone**: Vivo Y17 (serial_number: 236 → 234)
+- **Updated phone**: Vivo Y91c (serial_number: 237 → 235)
+- **Updated phone**: Vivo V15 (serial_number: 238 → 236)
+- **Updated phone**: Vivo V15 Pro (serial_number: 239 → 237)
+- **Updated phone**: Vivo Y91 (2018) (serial_number: 240 → 238)
+- **Updated phone**: Vivo Y93 (serial_number: 241 → 239)
+- **Updated phone**: Vivo Y91 (serial_number: 242 → 240)
+- **Updated phone**: Vivo Y95 (serial_number: 243 → 241)
+- **Updated phone**: Vivo Y91i (serial_number: 244 → 242)
+- **Updated phone**: Vivo Y81i (serial_number: 245 → 243)
+- **Updated phone**: Vivo V11 (serial_number: 246 → 244)
+- **Updated phone**: Vivo V11 Pro (serial_number: 247 → 245)
+- **Updated phone**: Vivo Y85 (serial_number: 248 → 246)
+- **Updated phone**: Vivo Y81 (serial_number: 249 → 247)
+- **Updated phone**: Vivo Z1 (serial_number: 250 → 248)
+- **Updated phone**: Vivo V9 Youth (serial_number: 251 → 249)
+- **Updated phone**: Vivo Y71 (serial_number: 252 → 250)
+- **Updated phone**: Vivo V9 (serial_number: 253 → 251)
+- **Updated phone**: Vivo Y53 (serial_number: 254 → 252)
+- **Updated phone**: Vivo Y300 (serial_number: 255 → 253)
+- **Updated phone**: Vivo Y37 5G (serial_number: 256 → 254)
+- **Updated phone**: Vivo Y18i (serial_number: 257 → 255)
+- **Updated phone**: Vivo Y36c (serial_number: 258 → 256)
+
+#### xiaomi
+- **Updated phone**: Xiaomi Poco M7 (8GB RAM) (variants[0]: {name: 8GB+128GB, price: ৳.17,500, url: https://www.mobiledokan.com/mobile/xiaomi-poco-m7-8gb-ram} → {name: 8GB+128GB, price: ৳.16,000, url: https://www.mobiledokan.com/mobile/xiaomi-poco-m7-8gb-ram}, variants[1]: {name: 6GB+128GB, price: ৳.16,000, url: https://www.mobiledokan.com/mobile/xiaomi-poco-m7} → {name: 6GB+128GB, price: ৳.14,600, url: https://www.mobiledokan.com/mobile/xiaomi-poco-m7})
+- **Updated phone**: Xiaomi Redmi Turbo 4 (16GB+512GB) (variants[1]: {name: 12GB+256GB, price: ৳.32,000, url: https://www.mobiledokan.com/mobile/xiaomi-redmi-turbo-4} → {name: 12GB+256GB, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/xiaomi-redmi-turbo-4})
+
+## Visited
+
+#### 5star
+- 17 phones visited from first 1 page
+
+#### acer
+- 2 phones visited from first 1 page
+
+#### alcatel
+- 54 phones visited from first 1 page
+
+#### allview
+- 3 phones visited from first 1 page
+
+#### apple
+- 104 phones visited from first 1 page
+
+#### asus
+- 50 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### bengal
+- 6 phones visited from first 1 page
+
+#### blackberry
+- 1 phones visited from first 1 page
+
+#### blackview
+- 5 phones visited from first 1 page
+
+#### cat
+- 1 phones visited from first 1 page
+
+#### celkon
+- 3 phones visited from first 1 page
+
+#### coolpad
+- 13 phones visited from first 1 page
+
+#### cubot
+- 7 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### energizer
+- 15 phones visited from first 1 page
+
+#### freeyond
+- 1 phones visited from first 1 page
+
+#### gdl
+- 10 phones visited from first 1 page
+
+#### geo
+- 8 phones visited from first 1 page
+
+#### gionee
+- 7 phones visited from first 1 page
+
+#### google
+- 53 phones visited from first 1 page
+
+#### hallo
+- 3 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### hmd
+- 11 phones visited from first 1 page
+
+#### honor
+- 99 phones visited from first 1 page
+
+#### htc
+- 63 phones visited from first 1 page
+
+#### huawei
+- 141 phones visited from first 1 page
+
+#### infinix
+- 113 phones visited from first 1 page
+
+#### iqoo
+- 86 phones visited from first 1 page
+
+#### itel
+- 106 phones visited from first 1 page
+
+#### kingstar
+- 35 phones visited from first 1 page
+
+#### lava
+- 99 phones visited from first 1 page
+
+#### leica
+- 1 phones visited from first 1 page
+
+#### leitz
+- 1 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### lg
+- 73 phones visited from first 1 page
+
+#### maximus
+- 164 phones visited from first 1 page
+
+#### maxis
+- 1 phones visited from first 1 page
+
+#### meizu
+- 40 phones visited from first 1 page
+
+#### micromax
+- 83 phones visited from first 1 page
+
+#### microsoft
+- 8 phones visited from first 1 page
+
+#### motorola
+- 151 phones visited from first 1 page
+
+#### mycell
+- 49 phones visited from first 1 page
+
+#### nio
+- 1 phones visited from first 1 page
+
+#### nokia
+- 281 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### okapia
+- 60 phones visited from first 1 page
+
+#### oneplus
+- 116 phones visited from first 1 page
+
+#### oppo
+- 226 phones visited from first 1 page
+
+#### oscal
+- 7 phones visited from first 1 page
+
+#### oukitel
+- 11 phones visited from first 1 page
+
+#### panasonic
+- 6 phones visited from first 1 page
+
+#### philips
+- 4 phones visited from first 1 page
+
+#### proton
+- 17 phones visited from first 1 page
+
+#### realme
+- 286 phones visited from first 1 page
+
+#### samsung
+- 449 phones visited from first 1 page
+
+#### sharp
+- 5 phones visited from first 1 page
+
+#### sonim
+- 4 phones visited from first 1 page
+
+#### sony
+- 85 phones visited from first 1 page
+
+#### symphony
+- 498 phones visited from first 1 page
+
+#### tcl
+- 19 phones visited from first 1 page
+
+#### tecno
+- 141 phones visited from first 1 page
+
+#### thuraya
+- 1 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 133 phones visited from first 1 page
+
+#### walton
+- 336 phones visited from first 1 page
+
+#### we
+- 35 phones visited from first 1 page
+
+#### wiko
+- 1 phones visited from first 1 page
+
+#### xiaomi
+- 528 phones visited from first 1 page
+
+#### xtra
+- 1 phones visited from first 1 page
+
+#### zte
+- 71 phones visited from first 1 page
+
+---
+
 ## 2025-09-14 21:36:10
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -36,7 +425,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -89,7 +478,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -971,8 +1360,8 @@ This document tracks all changes to the MobiInfo phone database.
 - **Updated phone**: Infinix Note 12 2023 (256GB) (price: None → 20999)
 - **Updated phone**: Infinix Hot 20i (price: None → 11499)
 - **Updated phone**: Infinix Note 12 Pro (price: None → 22999)
-- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), price: None → 19999, url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
-Face detection,
+- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), price: None → 19999, url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
 Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Network & Connectivity.Speed: HSPA, LTE → HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, specifications.More.Features: Accelerometer, gyro, proximity, compass → Accelerometer, Compass, Gyroscope, gallery_images: List length changed from 0 to 9)
 - **Updated phone**: Infinix Note 12 G96 (price: None → 19999, gallery_images: List length changed from 0 to 9)
 - **Updated phone**: Infinix Hot 12 (price: None → 16299)
@@ -5521,7 +5910,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5549,7 +5938,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5581,7 +5970,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5604,7 +5993,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5636,7 +6025,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5659,7 +6048,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5682,7 +6071,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5705,7 +6094,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5733,7 +6122,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5761,7 +6150,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -5792,7 +6181,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -5823,7 +6212,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -5862,7 +6251,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 1
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5902,7 +6291,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5936,7 +6325,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -5969,7 +6358,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -6175,7 +6564,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -6321,7 +6710,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -6431,7 +6820,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -6451,8 +6840,8 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 - **Updated phone**: Apple iPhone 17 Air (updated_on: September 10, 2025 → September 12, 2025, gallery_images: List length changed from 16 to 17)
 
 #### infinix
-- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
-Face detection,
+- **Updated phone**: Infinix Note 12 (G96) (name: Infinix Note 12 G96 → Infinix Note 12 (G96), url: https://www.mobiledokan.com/mobile/infinix-note-12-g96 → https://www.mobiledokan.com/mobile/infinix-note-12-g96-, image_url: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, serial_number: 69 → 68, updated_on: August 23, 2024 → October 25, 2024, variants: List length changed from 1 to 0, specifications.General.Model: Note 12 G96 → Note 12 (G96), specifications.General.Release Date: 11 May 2022 → 16 May 2022, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with notch, specifications.Display.Notch: waterdrop → Yes, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
 Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Network & Connectivity.Speed: HSPA, LTE → HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, specifications.More.Features: Accelerometer, gyro, proximity, compass → Accelerometer, Compass, Gyroscope, gallery_images[0]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[1]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[2]: https://www.mobiledokan.com/media/infinix-note-12-g96-front-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-front-image_1.webp, gallery_images[3]: https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-back-side-image_1.webp, gallery_images[4]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[5]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[6]: https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-blue-officila-image_1.webp, gallery_images[7]: https://www.mobiledokan.com/media/infinix-note-12-g96-force-black-official-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-image_1.webp, gallery_images[8]: https://www.mobiledokan.com/media/infinix-note-12-g96-image.webp → https://www.mobiledokan.com/media/infinix-note-12-g96-black-image.webp)
 - **Updated phone**: Infinix Note 12 G96 (gallery_images: List length changed from 9 to 0)
 
@@ -6700,7 +7089,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 74
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6947,7 +7336,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 1
 - **Updated brands**: 0
 - **Failed brands**: 0
@@ -6970,7 +7359,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5267
+- **Total Phones Available**: 5275
 - **New brands**: 1
 - **Updated brands**: 0
 - **Failed brands**: 0

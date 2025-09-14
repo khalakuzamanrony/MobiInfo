@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-14 14:19:54",
+    "last_updated": "2025-09-14 16:51:47",
     "total_phones": 530,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 530
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -4964,18 +4964,18 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-m7-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-poco-m7-ocean-blue-official-color-image.webp",
       "serial_number": 35,
-      "last_updated": "2025-09-14 14:19:54",
+      "last_updated": "2025-09-14 16:51:47",
       "first_scraped": null,
       "updated_on": "September 14, 2025",
       "variants": [
         {
           "name": "8GB+128GB",
-          "price": "৳.17,500",
+          "price": "৳.16,000",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-m7-8gb-ram"
         },
         {
           "name": "6GB+128GB",
-          "price": "৳.16,000",
+          "price": "৳.14,600",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-m7"
         }
       ],
@@ -8620,7 +8620,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-turbo-4-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-turbo-4-blue-official-image_1.webp",
       "serial_number": 59,
-      "last_updated": "2025-09-14 14:19:54",
+      "last_updated": "2025-09-14 16:51:47",
       "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
@@ -8631,7 +8631,7 @@
         },
         {
           "name": "12GB+256GB",
-          "price": "৳.32,000",
+          "price": "৳.29,000",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-turbo-4"
         }
       ],
@@ -8670,6 +8670,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.5, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -8684,13 +8691,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
