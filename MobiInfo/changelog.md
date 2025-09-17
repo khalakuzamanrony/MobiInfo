@@ -2,12 +2,162 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-17 12:38:47
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5277
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 1
+- **Updated phones**: 32
+- **Visited phones**: 824
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### vivo
+- Vivo Y21d (8GB RAM)
+
+## Updates
+
+#### realme
+- **Updated phone**: Realme 15T (updated_on: September 2, 2025 → September 16, 2025, gallery_images: List length changed from 10 to 16)
+
+#### vivo
+- **Updated phone**: Vivo Y21d (price: 15000 → 18999, image_url: https://www.mobiledokan.com/media/vivo-y21d-green-official-image.webp → https://www.mobiledokan.com/media/vivo-y21d-jade-green-official-image.webp, updated_on: September 13, 2025 → September 17, 2025, variants: List length changed from 0 to 2, specifications.General.Release Date: Not announced yet → 15 September 2025, specifications.General.Status: Rumored → Available, Added new field: specifications.Hardware & Software.User Interface, specifications.Hardware & Software.CPU: Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55) → Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55), specifications.Display.Screen Size: 6.64 inches (16.87 cm) → 6.68 inches (16.97 cm), specifications.Display.Pixel Density: 300 ppi → 264 ppi, specifications.Display.Brightness: 1800 nits → 1000 nits, specifications.Display.Refresh Rate: 120 Hz → 90 Hz, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera → 50 MP, f/1.8, Wide Angle, Primary Camera, 0.08 MP, f/3.0, Camera, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Photo, Night, Portrait, Video, Live Photo, Slo-mo, Time-lapse, Pro, Pano, Documents, Underwater Photography, specifications.Cameras.Selfie Camera.Resolution: 8 MP, f/2.05, Wide Angle, Primary Camera → 5 MP, f/2.2, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Aperture: f/2.05 → f/2.2, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Thickness, Added new field: specifications.Design.Weight, Added new field: specifications.Design.Build, specifications.Design.Colors: Purple, Green → Jade Green, Coral Red, specifications.Battery.Battery type: Li-Poly (Lithium Polymer) → Li-Ion (Lithium Ion), Added new field: specifications.Memory.Storage Type, Added new field: specifications.Memory.Expandable Memory, Added new field: specifications.Memory.RAM Type, specifications.Network & Connectivity.Bluetooth: v5.0 → v5.2, Added new field: specifications.Multimedia.FM Radio, Added new field: specifications.Multimedia.Document Reader, specifications.More.Made By: Bangladesh → China, gallery_images: List length changed from 2 to 15)
+- **Updated phone**: Vivo Y31 (serial_number: 2 → 3)
+- **Updated phone**: Vivo Y31 Pro (serial_number: 3 → 4)
+- **Updated phone**: Vivo V60 (serial_number: 4 → 5)
+- **Updated phone**: Vivo V60 (12GB RAM) (serial_number: 5 → 6)
+- **Updated phone**: Vivo V60 (16GB+512GB) (serial_number: 6 → 7)
+- **Updated phone**: Vivo T4 Pro (serial_number: 7 → 8)
+- **Updated phone**: Vivo Y29t (serial_number: 8 → 9)
+- **Updated phone**: Vivo T4R (serial_number: 9 → 10)
+- **Updated phone**: Vivo Y400 5G (serial_number: 10 → 11)
+- **Updated phone**: Vivo Y400 (serial_number: 11 → 12)
+- **Updated phone**: Vivo Y400 (256GB) (serial_number: 12 → 13)
+- **Updated phone**: Vivo X200 FE (serial_number: 13 → 14)
+- **Updated phone**: Vivo X Fold5 (serial_number: 14 → 15)
+- **Updated phone**: Vivo X Fold5 (512GB) (serial_number: 15 → 16)
+- **Updated phone**: Vivo X Fold5 (16GB+512GB) (serial_number: 16 → 17)
+- **Updated phone**: Vivo Y400 Pro (serial_number: 17 → 18)
+- **Updated phone**: Vivo T4 Ultra (serial_number: 18 → 19)
+- **Updated phone**: Vivo T4 Ultra (12GB RAM) (serial_number: 19 → 20)
+- **Updated phone**: Vivo S30 Pro Mini (serial_number: 20 → 21)
+- **Updated phone**: Vivo S30 Pro Mini (512GB) (serial_number: 21 → 22)
+- **Updated phone**: Vivo S30 Pro Mini (16GB+512GB) (serial_number: 22 → 23)
+- **Updated phone**: Vivo S30 (serial_number: 23 → 24)
+- **Updated phone**: Vivo Y19s Pro (serial_number: 24 → 25)
+- **Updated phone**: Vivo Y19s Pro (6GB RAM) (serial_number: 25 → 26)
+- **Updated phone**: Vivo Y300 GT (serial_number: 26 → 27)
+- **Updated phone**: Vivo Y19 5G (serial_number: 27 → 28)
+- **Updated phone**: Vivo T4 (serial_number: 28 → 29)
+- **Updated phone**: Vivo X200 Ultra (serial_number: 29 → 30)
+- **Updated phone**: Vivo Y37c (serial_number: 30 → 31)
+- **Updated phone**: Vivo T4 (256GB) (serial_number: 31 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 31 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-16 12:34:51
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -154,7 +304,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -264,7 +414,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -374,7 +524,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -763,7 +913,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -792,7 +942,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -845,7 +995,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -6277,7 +6427,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6305,7 +6455,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6337,7 +6487,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6360,7 +6510,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6392,7 +6542,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6415,7 +6565,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6438,7 +6588,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6461,7 +6611,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6489,7 +6639,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6517,7 +6667,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -6548,7 +6698,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -6579,7 +6729,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -6618,7 +6768,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 1
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6658,7 +6808,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6692,7 +6842,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -6725,7 +6875,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -6931,7 +7081,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -7077,7 +7227,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -7187,7 +7337,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -7456,7 +7606,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 74
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7703,7 +7853,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 1
 - **Updated brands**: 0
 - **Failed brands**: 0
@@ -7726,7 +7876,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5276
+- **Total Phones Available**: 5277
 - **New brands**: 1
 - **Updated brands**: 0
 - **Failed brands**: 0

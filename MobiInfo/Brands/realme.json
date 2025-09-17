@@ -4,11 +4,11 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2025-09-16 06:30:16",
+    "last_updated": "2025-09-17 06:31:16",
     "total_phones": 286,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -148,9 +148,9 @@
       "url": "https://www.mobiledokan.com/mobile/realme-15t",
       "image_url": "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-14 13:49:11",
+      "last_updated": "2025-09-17 06:31:16",
       "first_scraped": null,
-      "updated_on": "September 2, 2025",
+      "updated_on": "September 16, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -186,13 +186,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.2 Depth Camera",
@@ -206,6 +199,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -272,6 +272,12 @@
         "https://www.mobiledokan.com/media/realme-15t-full-display-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-full-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
         "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
         "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
