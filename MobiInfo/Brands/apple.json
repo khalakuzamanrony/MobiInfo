@@ -4,23 +4,23 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-09-17 06:31:40",
+    "last_updated": "2025-09-18 06:29:30",
     "total_phones": 104,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 5
   },
   "phones": [
     {
       "id": "apple_iphone_17",
       "name": "Apple iPhone 17",
-      "price": "100000",
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-lavender-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-14 13:13:11",
+      "last_updated": "2025-09-18 06:29:30",
       "first_scraped": null,
-      "updated_on": "September 12, 2025",
+      "updated_on": "September 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -165,13 +165,13 @@
     {
       "id": "apple_iphone_17_pro",
       "name": "Apple iPhone 17 Pro",
-      "price": "135000",
+      "price": "160000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-deep-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-14 13:13:11",
+      "last_updated": "2025-09-18 06:29:30",
       "first_scraped": null,
-      "updated_on": "September 12, 2025",
+      "updated_on": "September 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -311,13 +311,13 @@
     {
       "id": "apple_iphone_17_pro_max",
       "name": "Apple iPhone 17 Pro Max",
-      "price": "165000",
+      "price": "170000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-pro-max-cosmic-orange-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-14 13:13:11",
+      "last_updated": "2025-09-18 06:29:30",
       "first_scraped": null,
-      "updated_on": "September 12, 2025",
+      "updated_on": "September 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -457,13 +457,13 @@
     {
       "id": "apple_iphone_17_air",
       "name": "Apple iPhone 17 Air",
-      "price": "120000",
+      "price": "132000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-17-air",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-17-air-sky-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-14 13:13:11",
+      "last_updated": "2025-09-18 06:29:30",
       "first_scraped": null,
-      "updated_on": "September 12, 2025",
+      "updated_on": "September 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -606,13 +606,13 @@
     {
       "id": "apple_iphone_air",
       "name": "Apple iPhone Air",
-      "price": "120000",
+      "price": "132000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-air",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-air-sky-blue-offiicial-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-14 13:13:11",
+      "last_updated": "2025-09-18 06:29:30",
       "first_scraped": null,
-      "updated_on": "September 12, 2025",
+      "updated_on": "September 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -648,15 +648,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 120 fps",
-            "Aperture": "f/1.9"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera",
@@ -671,6 +662,15 @@
             "Camera Features": "Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "18 MP, f/1.9, Wide-Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps, 120 fps",
+            "Aperture": "f/1.9"
           }
         },
         "Design": {

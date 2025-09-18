@@ -2,6 +2,157 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-18 12:33:23
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5277
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 33
+- **Visited phones**: 824
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 17 (price: 100000 → 120000, updated_on: September 12, 2025 → September 17, 2025)
+- **Updated phone**: Apple iPhone 17 Pro (price: 135000 → 160000, updated_on: September 12, 2025 → September 17, 2025)
+- **Updated phone**: Apple iPhone 17 Pro Max (price: 165000 → 170000, updated_on: September 12, 2025 → September 17, 2025)
+- **Updated phone**: Apple iPhone 17 Air (price: 120000 → 132000, updated_on: September 12, 2025 → September 17, 2025)
+- **Updated phone**: Apple iPhone Air (price: 120000 → 132000, updated_on: September 12, 2025 → September 17, 2025)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy A07 (price: 24000 → 19500, image_url: https://www.mobiledokan.com/media/samsung-galaxy-a07-white-image.webp → https://www.mobiledokan.com/media/samsung-galaxy-a07-dark-green-official-image.webp, serial_number: 449 → 5, updated_on: October 23, 2024 → September 17, 2025, specifications.General.Release Date: Not Announced yet → 25 August 2025, specifications.General.Status: Rumored → Available, specifications.Hardware & Software.OS Version: v14 → v15, specifications.Hardware & Software.User Interface: Samsung One UI → One UI 7, specifications.Hardware & Software.Chipset: Mediatek Helio G85 → Mediatek Helio G99, specifications.Hardware & Software.CPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) → Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55), specifications.Hardware & Software.GPU: Mali-G52 MC2 → Mali-G57 MC2, specifications.Display.Screen to Body Ratio: 82.1% → 83.6%, specifications.Display.Refresh Rate: 60 Hz → 90 Hz, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle Camera, 8 MP, f/2.4, Depth Camera → 50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, Added new field: specifications.Cameras.Primary Camera.Image Resolution, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
+Face detection,
+Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Cameras.Selfie Camera.Resolution: 13 MP, f/2.0, Primary Camera → 8 MP, f/2.0, Wide Angle, Primary Camera, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Thickness, Added new field: specifications.Design.Weight, specifications.Design.Colors: Blue, Gold, White → Gray, Light Violet, Dark Green, Added new field: specifications.Design.Waterproof, Added new field: specifications.Design.IP Rating, Added new field: specifications.Design.Ruggedness, specifications.Memory.Internal Storage: 64 GB → 256 GB, specifications.Memory.RAM: 4 GB → 8 GB, Removed field: specifications.Memory.RAM Type, Added new field: specifications.Multimedia.FM Radio, Removed field: specifications.Multimedia.Alert Types, specifications.More.Made By: Korea → South Korea, specifications.More.Features: Accelerometer, proximity, compass → Accelerometer, proximity, gallery_images: List length changed from 2 to 10)
+- **Updated phone**: Samsung Galaxy A17 (serial_number: 5 → 6)
+- **Updated phone**: Samsung Galaxy F36 (serial_number: 6 → 7)
+- **Updated phone**: Samsung Galaxy Z Flip7 FE (serial_number: 7 → 8)
+- **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB) (serial_number: 8 → 9)
+- **Updated phone**: Samsung Galaxy Z Flip7 (serial_number: 9 → 10)
+- **Updated phone**: Samsung Galaxy M36 (serial_number: 10 → 11)
+- **Updated phone**: Samsung Galaxy Z Fold7 (512GB) (serial_number: 11 → 12)
+- **Updated phone**: Samsung Galaxy Z Fold7 (1TB) (serial_number: 12 → 13)
+- **Updated phone**: Samsung Galaxy Z Fold7 (serial_number: 13 → 14)
+- **Updated phone**: Samsung Galaxy M56 (256GB) (serial_number: 14 → 15)
+- **Updated phone**: Samsung Galaxy S25 Edge (serial_number: 15 → 16)
+- **Updated phone**: Samsung Galaxy S25 Edge (512GB) (serial_number: 16 → 17)
+- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (serial_number: 17 → 18)
+- **Updated phone**: Samsung Galaxy A26 (serial_number: 18 → 19)
+- **Updated phone**: Samsung Galaxy A36 (serial_number: 19 → 20)
+- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (serial_number: 20 → 21)
+- **Updated phone**: Samsung Galaxy A36 (8GB RAM) (serial_number: 21 → 22)
+- **Updated phone**: Samsung Galaxy A36 (8GB+256GB) (serial_number: 22 → 23)
+- **Updated phone**: Samsung Galaxy F56 (serial_number: 23 → 24)
+- **Updated phone**: Samsung Galaxy F56 (256GB) (serial_number: 24 → 25)
+- **Updated phone**: Samsung Galaxy XCover7 Pro (serial_number: 25 → 26)
+- **Updated phone**: Samsung Galaxy M56 (serial_number: 26 → 27)
+- **Updated phone**: Samsung Galaxy F16 (8GB RAM) (serial_number: 27 → 28)
+- **Updated phone**: Samsung Galaxy F16 (serial_number: 28 → 29)
+- **Updated phone**: Samsung Galaxy A56 (serial_number: 29 → 30)
+- **Updated phone**: Samsung Galaxy A56 (256GB) (serial_number: 30 → 31)
+- **Updated phone**: Samsung Galaxy A56 (12GB+256GB) (serial_number: 31 → 32)
+
+## Visited
+
+#### apple
+- 27 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 4 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-17 12:38:47
 
 ### Summary
