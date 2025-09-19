@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-18 06:29:19",
+    "last_updated": "2025-09-19 06:29:36",
     "total_phones": 530,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -1891,13 +1891,13 @@
     {
       "id": "xiaomi_redmi_k80_ultra",
       "name": "Xiaomi Redmi K80 Ultra",
-      "price": "49500",
+      "price": "46500",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k80-ultra",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-k80-ultra-green-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-14 14:19:54",
+      "last_updated": "2025-09-19 06:29:36",
       "first_scraped": null,
-      "updated_on": "September 8, 2025",
+      "updated_on": "September 18, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -1934,12 +1934,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera",
@@ -1954,6 +1948,12 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 960 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps"
           }
         },
         "Design": {
