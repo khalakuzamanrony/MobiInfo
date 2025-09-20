@@ -2,6 +2,122 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-20 12:31:08
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5277
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 2
+- **Visited phones**: 855
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### realme
+- **Updated phone**: Realme 15 (price: 33000 → 31500, updated_on: August 25, 2025 → September 19, 2025, variants[0]: {name: 8GB+128GB IND, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/realme-15} → {name: 8GB+128GB IND, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/realme-15}, variants[1]: {name: 8GB+256GB IND, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/realme-15-256gb} → {name: 8GB+256GB IND, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/realme-15-256gb})
+- **Updated phone**: Realme 15 (256GB) (price: 35500 → 34000, updated_on: August 25, 2025 → September 19, 2025, variants[0]: {name: 8GB+256GB IND, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/realme-15-256gb} → {name: 8GB+256GB IND, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/realme-15-256gb}, variants[1]: {name: 8GB+128GB IND, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/realme-15} → {name: 8GB+128GB IND, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/realme-15})
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 30 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-19 12:34:26
 
 ### Summary
