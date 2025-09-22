@@ -2,12 +2,201 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-22 12:35:49
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5281
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 2
+- **Updated phones**: 65
+- **Visited phones**: 790
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### honor
+- Honor X5c Plus
+
+#### xiaomi
+- Xiaomi Redmi 15 (8GB+256GB)
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor 400 Lite (serial_number: 1 → 2)
+- **Updated phone**: Honor Magic V5 (serial_number: 2 → 3)
+- **Updated phone**: Honor Play10C (serial_number: 3 → 4)
+- **Updated phone**: Honor X6c (serial_number: 4 → 5)
+- **Updated phone**: Honor 400 Pro (China) (serial_number: 5 → 6)
+- **Updated phone**: Honor 400 (China) (serial_number: 6 → 7)
+- **Updated phone**: Honor 400 (serial_number: 7 → 8)
+- **Updated phone**: Honor 400 Pro (serial_number: 8 → 9)
+- **Updated phone**: Honor 400 (512GB) (serial_number: 9 → 10)
+- **Updated phone**: Honor Power (512GB) (serial_number: 10 → 11)
+- **Updated phone**: Honor X70i (serial_number: 11 → 12)
+- **Updated phone**: Honor X8c (serial_number: 12 → 13)
+- **Updated phone**: Honor GT Pro (serial_number: 13 → 14)
+- **Updated phone**: Honor GT Pro (512GB) (serial_number: 14 → 15)
+- **Updated phone**: Honor GT Pro (16GB+512GB) (serial_number: 15 → 16)
+- **Updated phone**: Honor X60 GT (serial_number: 16 → 17)
+- **Updated phone**: Honor Power (serial_number: 17 → 18)
+- **Updated phone**: Honor Play 60 (serial_number: 18 → 19)
+- **Updated phone**: Honor X9c (512GB) (serial_number: 19 → 20)
+- **Updated phone**: Honor X9c (serial_number: 20 → 21)
+- **Updated phone**: Honor Magic V3 (serial_number: 21 → 22)
+- **Updated phone**: Honor X5b Plus (serial_number: 22 → 23)
+- **Updated phone**: Honor X5b (serial_number: 23 → 24)
+- **Updated phone**: Honor Magic7 Lite (serial_number: 24 → 25)
+- **Updated phone**: Honor X9c Smart (serial_number: 25 → 26)
+- **Updated phone**: Honor Magic7 RSR Porsche Design (serial_number: 26 → 27)
+- **Updated phone**: Honor GT (serial_number: 27 → 28)
+- **Updated phone**: Honor 300 Pro (serial_number: 28 → 29)
+- **Updated phone**: Honor 300 Ultra (serial_number: 29 → 30)
+- **Updated phone**: Honor 300 (serial_number: 30 → 31)
+- **Updated phone**: Honor X7c (serial_number: 31 → 32)
+
+#### motorola
+- **Updated phone**: Motorola Moto G45 (price: 17999 → 17500, updated_on: December 29, 2024 → September 21, 2025)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy M36 (price: 23300 → 23100, updated_on: September 14, 2025 → September 22, 2025)
+
+#### vivo
+- **Updated phone**: Vivo X200 FE (price: 86000 → 75000, updated_on: July 31, 2025 → September 22, 2025)
+
+#### xiaomi
+- **Updated phone**: Xiaomi Redmi 15 (serial_number: 14 → 1, variants: List length changed from 0 to 3, specifications.Battery.Battery type: Li-Poly (Lithium Polymer) → Li-Ion (Lithium Ion))
+- **Updated phone**: Xiaomi Redmi 15c 5G (serial_number: 1 → 3)
+- **Updated phone**: Xiaomi Poco C85 (serial_number: 2 → 4)
+- **Updated phone**: Xiaomi Redmi 15c (serial_number: 3 → 5)
+- **Updated phone**: Xiaomi Redmi 15c (8GB+256GB) (serial_number: 4 → 6)
+- **Updated phone**: Xiaomi Redmi Note 15 Pro (serial_number: 5 → 7)
+- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (serial_number: 6 → 8)
+- **Updated phone**: Xiaomi Redmi Note 15 (serial_number: 7 → 9)
+- **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM) (serial_number: 8 → 10)
+- **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM) (serial_number: 9 → 11)
+- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB) (serial_number: 10 → 12)
+- **Updated phone**: Xiaomi Poco M7 Plus (serial_number: 11 → 13)
+- **Updated phone**: Xiaomi Poco M7 4G (serial_number: 12 → 14)
+- **Updated phone**: Xiaomi Redmi 15 5G (serial_number: 13 → 15, variants: List length changed from 0 to 2)
+- **Updated phone**: Xiaomi Redmi K80 Ultra (serial_number: 15 → 16)
+- **Updated phone**: Xiaomi Poco F7 (512GB) (serial_number: 16 → 17)
+- **Updated phone**: Xiaomi Poco F7 (serial_number: 17 → 18)
+- **Updated phone**: Xiaomi Civi 5 Pro (serial_number: 18 → 19)
+- **Updated phone**: Xiaomi 15S Pro (serial_number: 19 → 20)
+- **Updated phone**: Xiaomi Civi 5 Pro (512GB) (serial_number: 20 → 21)
+- **Updated phone**: Xiaomi Civi 5 Pro (16GB+512GB) (serial_number: 21 → 22)
+- **Updated phone**: Xiaomi 15S Pro (1TB) (serial_number: 22 → 23)
+- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (serial_number: 23 → 24)
+- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (512GB) (serial_number: 24 → 25)
+- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB) (serial_number: 25 → 26)
+- **Updated phone**: Xiaomi Poco C71 (serial_number: 26 → 27)
+- **Updated phone**: Xiaomi Redmi 13x (serial_number: 27 → 28)
+- **Updated phone**: Xiaomi Poco F7 Pro (serial_number: 28 → 29)
+- **Updated phone**: Xiaomi Poco F7 Ultra (serial_number: 29 → 30)
+- **Updated phone**: Xiaomi Redmi A5 (serial_number: 30 → 31)
+- **Updated phone**: Xiaomi Redmi Note 14 Pro 4G (serial_number: 31 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 31 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 31 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 31 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-21 12:32:48
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -189,7 +378,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -305,7 +494,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -420,7 +609,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -571,7 +760,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -721,7 +910,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -868,7 +1057,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -978,7 +1167,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1088,7 +1277,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -1477,7 +1666,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -1506,7 +1695,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 3
 - **Failed brands**: 0
@@ -1559,7 +1748,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -6991,7 +7180,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7019,7 +7208,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7051,7 +7240,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7074,7 +7263,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7106,7 +7295,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7129,7 +7318,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7152,7 +7341,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7175,7 +7364,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7203,7 +7392,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7231,7 +7420,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -7262,7 +7451,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -7293,7 +7482,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 2
 - **Failed brands**: 0
@@ -7332,7 +7521,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 1
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7372,7 +7561,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7406,7 +7595,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 1
 - **Failed brands**: 0
@@ -7439,7 +7628,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -7645,7 +7834,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -7791,7 +7980,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -7901,7 +8090,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5279
+- **Total Phones Available**: 5281
 - **New brands**: 0
 - **Updated brands**: 75
 - **Failed brands**: 0
@@ -8162,299 +8351,6 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ne
 
 #### zte
 - 71 phones visited from first 1 page
-
----
-
-## 2025-09-11 15:56:53
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5279
-- **New brands**: 74
-- **Updated brands**: 1
-- **Failed brands**: 0
-- **New phones**: 5241
-- **Updated phones**: 18
-- **Visited phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### google
-- **New brand added**
-
-#### honor
-- **New brand added**
-
-#### apple
-- **New brand added**
-
-#### lava
-- **New brand added**
-
-#### itel
-- **New brand added**
-
-#### infinix
-- **New brand added**
-
-#### oneplus
-- **New brand added**
-
-#### helio
-- **New brand added**
-
-#### benco
-- **New brand added**
-
-#### tecno
-- **New brand added**
-
-#### asus
-- **New brand added**
-
-#### meizu
-- **New brand added**
-
-#### iqoo
-- **New brand added**
-
-#### sony
-- **New brand added**
-
-#### coolpad
-- **New brand added**
-
-#### oppo
-- **New brand added**
-
-#### kyocera
-- **New brand added**
-
-#### cat
-- **New brand added**
-
-#### blu
-- **New brand added**
-
-#### blackview
-- **New brand added**
-
-#### lg
-- **New brand added**
-
-#### umidigi
-- **New brand added**
-
-#### leitz
-- **New brand added**
-
-#### nio
-- **New brand added**
-
-#### zte
-- **New brand added**
-
-#### huawei
-- **New brand added**
-
-#### gionee
-- **New brand added**
-
-#### microsoft
-- **New brand added**
-
-#### fairphone
-- **New brand added**
-
-#### cubot
-- **New brand added**
-
-#### freeyond
-- **New brand added**
-
-#### vivo
-- **New brand added**
-
-#### blackberry
-- **New brand added**
-
-#### allview
-- **New brand added**
-
-#### lenovo
-- **New brand added**
-
-#### hmd
-- **New brand added**
-
-#### maxis
-- **New brand added**
-
-#### panasonic
-- **New brand added**
-
-#### xtra
-- **New brand added**
-
-#### celkon
-- **New brand added**
-
-#### hallo
-- **New brand added**
-
-#### htc
-- **New brand added**
-
-#### motorola
-- **New brand added**
-
-#### leica
-- **New brand added**
-
-#### acer
-- **New brand added**
-
-#### 5star
-- **New brand added**
-
-#### ulefone
-- **New brand added**
-
-#### gdl
-- **New brand added**
-
-#### sonim
-- **New brand added**
-
-#### thuraya
-- **New brand added**
-
-#### we
-- **New brand added**
-
-#### nokia
-- **New brand added**
-
-#### sharp
-- **New brand added**
-
-#### realme
-- **New brand added**
-
-#### proton
-- **New brand added**
-
-#### wiko
-- **New brand added**
-
-#### geo
-- **New brand added**
-
-#### oscal
-- **New brand added**
-
-#### doogee
-- **New brand added**
-
-#### bengal
-- **New brand added**
-
-#### oukitel
-- **New brand added**
-
-#### philips
-- **New brand added**
-
-#### tcl
-- **New brand added**
-
-#### alcatel
-- **New brand added**
-
-#### energizer
-- **New brand added**
-
-#### maximus
-- **New brand added**
-
-#### micromax
-- **New brand added**
-
-#### kingstar
-- **New brand added**
-
-#### mycell
-- **New brand added**
-
-#### walton
-- **New brand added**
-
-#### okapia
-- **New brand added**
-
-#### samsung
-- **New brand added**
-
-#### xiaomi
-- **New brand added**
-
-#### symphony
-- **New brand added**
-
-## Visited
-
-#### nothing
-- 18 phones visited from first 1 page
-
----
-
-## 2025-09-11 14:41:08
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5279
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 18
-- **Updated phones**: 0
-- **Visited phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### nothing
-- **New brand added**
-
----
-
-## 2025-09-11 14:39:43
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5279
-- **New brands**: 1
-- **Updated brands**: 0
-- **Failed brands**: 0
-- **New phones**: 10
-- **Updated phones**: 0
-- **Visited phones**: 0
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### nothing
-- **New brand added**
 
 ---
 
