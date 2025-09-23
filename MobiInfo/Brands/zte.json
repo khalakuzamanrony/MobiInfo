@@ -4,11 +4,11 @@
     "name": "zte",
     "url": "https://www.mobiledokan.com/mobile-brand/zte",
     "image_url": null,
-    "last_updated": "2025-09-22 06:35:36",
+    "last_updated": "2025-09-23 06:36:20",
     "total_phones": 71,
     "first_scraped": "2025-09-11 09:19:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -2845,13 +2845,13 @@
     {
       "id": "zte_blade_a75_5g",
       "name": "ZTE Blade A75 5G",
-      "price": "20000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a75-5g",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a75-5g-black-official-image_1.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-14 13:43:46",
+      "last_updated": "2025-09-23 06:36:20",
       "first_scraped": null,
-      "updated_on": "October 7, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -3526,7 +3526,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a55",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a54-water-blue-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-09-14 13:43:46",
+      "last_updated": "2025-09-23 06:36:20",
       "first_scraped": null,
       "updated_on": "March 10, 2025",
       "variants": [],
@@ -3631,20 +3631,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-a54-water-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-water-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a55-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a55-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a55-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a55-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a55-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-sunset-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-sunset-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-sunset-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a54-water-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_blade_a75",

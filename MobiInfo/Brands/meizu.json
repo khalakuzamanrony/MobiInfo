@@ -4,11 +4,11 @@
     "name": "meizu",
     "url": "https://www.mobiledokan.com/mobile-brand/meizu",
     "image_url": null,
-    "last_updated": "2025-09-22 06:35:49",
+    "last_updated": "2025-09-23 06:36:21",
     "total_phones": 40,
     "first_scraped": "2025-09-11 09:09:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
@@ -3197,13 +3197,13 @@
     {
       "id": "meizu_16_plus",
       "name": "Meizu 16 Plus",
-      "price": "45990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/meizu-16-plus",
       "image_url": "https://www.mobiledokan.com/media/meizu-16-plus-white-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-09-23 06:36:21",
       "first_scraped": null,
-      "updated_on": "October 30, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -3871,122 +3871,11 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-15-plus",
       "image_url": "https://www.mobiledokan.com/media/meizu-15-plus-black-color-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-09-23 06:36:21",
       "first_scraped": null,
       "updated_on": "September 1, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Meizu",
-          "Model": "15 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "01 April 2018",
-          "Status": "Status"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.1.2 (Nougat)",
-          "User Interface": "Flyme",
-          "Chipset": "Samsung Exynos 9 Octa 8895",
-          "CPU": "Octa core (2.3 GHz, Quad core, M2 Mongoose + 1.7 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Mali-G71 MP20"
-        },
-        "Display": {
-          "Display Type": "Super AMOLED",
-          "Screen Size": "5.95 inches (15.11 cm)",
-          "Resolution": "1440x2560 px (QHD (2k))",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "494 ppi",
-          "Screen to Body Ratio": "80.96 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "12 MP f/1.8, Primary Camera, 20 MP f/2.0, Camera",
-            "Sensor": "Exmor-RS CMOS Sensor",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "153.8 mm",
-          "Width": "78.2 mm",
-          "Thickness": "7.2 mm",
-          "Weight": "177 grams",
-          "Colors": "Gray, Yakin, Ink",
-          "Waterproof": "Waterproof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "3500 mAh",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.1",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Front-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes, with stereo speakers",
-          "Alert Types": "Vibration; MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/meizu-15-plus-black-color-official-image.webp",
         "https://www.mobiledokan.com/media/meizu-15-plus-black-color-official-image.webp",
@@ -4007,7 +3896,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-m6s",
       "image_url": "https://www.mobiledokan.com/media/meizu-m6s-gold-color-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-09-23 06:36:21",
       "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
@@ -4017,128 +3906,8 @@
           "url": "https://www.mobiledokan.com/mobile/meizu-m6s"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Meizu",
-          "Model": "M6s",
-          "Device Type": "Smartphone",
-          "Release Date": "02 January 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v7.0 (Nougat)",
-          "User Interface": "Flyme",
-          "Chipset": "Samsung Exynos 5 Hexa 7872",
-          "CPU": "Hexa Core (2 GHz, Dual core, Cortex A73 + 1.6 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Mali-G71 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.7 inches (14.48 cm)",
-          "Resolution": "1080x2160 px (FHD+)",
-          "Aspect Ratio": "18:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "76.04 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "4920 x 3264 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "152 mm",
-          "Width": "72.54 mm",
-          "Thickness": "8 mm",
-          "Weight": "160 grams",
-          "Build": "Glass front, aluminum back, aluminum frame",
-          "Colors": "Champagne Gold, Matte Black, Moonlight Silver, Cobalt Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "3000 mAh",
-          "Quick Charging": "18W wired, QC2",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 128 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration; MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-m6s-gold-color-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-gold-color-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-front-side.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-back-side.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-left-side.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-right-side.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-blackcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-blackcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-blackcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-gold-color-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-m6s-silver-color-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "meizu_m6",
