@@ -4,7 +4,7 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2025-09-23 06:35:40",
+    "last_updated": "2025-09-24 06:33:21",
     "total_phones": 141,
     "first_scraped": "2025-09-11 09:19:22",
     "new_phones_this_run": 0,
@@ -3011,7 +3011,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate-1tb",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-09-23 06:35:40",
+      "last_updated": "2025-09-24 06:33:21",
       "first_scraped": null,
       "updated_on": "September 8, 2025",
       "variants": [
@@ -3031,7 +3031,114 @@
           "url": "https://www.mobiledokan.com/mobile/huawei-mate-xt-ultimate"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Mate XT Ultimate (1TB)",
+          "Device Type": "Smartphone",
+          "Release Date": "20 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "HarmonyOS",
+          "OS Version": "v4.2",
+          "User Interface": "Kirin 9010",
+          "Chipset": "Octa-core (1x2.3 GHz Taishan Big & 3x2.18 GHz Taishan Mid & 4x1.55 GHz Cortex-A510)",
+          "CPU": "8 Cores",
+          "CPU Cores": "64 bit",
+          "Architecture": "7 nm",
+          "GPU": "Maleoon 910"
+        },
+        "Display": {
+          "Display Type": "Tri-foldable LTPO OLED",
+          "Screen Size": "10.2 inches (315.5 cm2)",
+          "Resolution": "2232x3184 px (FHD+)",
+          "Pixel Density": "381 ppi",
+          "Screen to Body Ratio": "91.9%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Cover display (1/3 of the main display):\r\nLTPO OLED, 120Hz, 6.4 inches, 1008 x 2232 pixels\r\nDual display (2/3 of the main display):\r\nLTPO OLED, 120Hz, 7.9 inches, 2048 x 2232 pixels"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.4-f/4.0, Wide Angle, Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "5.5x optical zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.4-f/4.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "156.7 mm",
+          "Width": "73.5 mm",
+          "Thickness": "12.8 mm",
+          "Weight": "298 grams",
+          "Colors": "Red, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5600 mAh",
+          "Wireless Charging": "50W wireless",
+          "Quick Charging": "66W wired",
+          "Reverse Charging": "7.5W reverse wireless",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1, DisplayPort 1.2"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "USB OTG": "Yes",
+          "RAM": "16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K, 1080p, gyro-EIS, OIS, HDR"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer, color spectrum, BDS Satellite Calling and Message"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-image.webp",
         "https://www.mobiledokan.com/media/huawei-mate-xt-ultimate-red-image.webp",
@@ -3460,9 +3567,9 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-blue-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-09-23 06:35:40",
+      "last_updated": "2025-09-24 06:33:21",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 26, 2024",
       "variants": [
         {
           "name": "12GB+256GB",
