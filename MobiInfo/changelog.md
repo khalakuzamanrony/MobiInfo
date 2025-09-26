@@ -2,12 +2,198 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-26 12:34:08
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5288
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 2
+- **Updated phones**: 63
+- **Visited phones**: 792
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### honor
+- Honor X7d
+
+#### tecno
+- Tecno Pova 7 Pro
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor X9d (serial_number: 2 → 3)
+- **Updated phone**: Honor 400 Lite (serial_number: 3 → 4)
+- **Updated phone**: Honor Magic V5 (serial_number: 4 → 5)
+- **Updated phone**: Honor Play10C (serial_number: 5 → 6)
+- **Updated phone**: Honor X6c (serial_number: 6 → 7)
+- **Updated phone**: Honor 400 Pro (China) (serial_number: 7 → 8)
+- **Updated phone**: Honor 400 (China) (serial_number: 8 → 9)
+- **Updated phone**: Honor 400 (serial_number: 9 → 10)
+- **Updated phone**: Honor 400 Pro (serial_number: 10 → 11)
+- **Updated phone**: Honor 400 (512GB) (serial_number: 11 → 12)
+- **Updated phone**: Honor Power (512GB) (serial_number: 12 → 13)
+- **Updated phone**: Honor X70i (serial_number: 13 → 14)
+- **Updated phone**: Honor X8c (serial_number: 14 → 15)
+- **Updated phone**: Honor GT Pro (serial_number: 15 → 16)
+- **Updated phone**: Honor GT Pro (512GB) (serial_number: 16 → 17)
+- **Updated phone**: Honor GT Pro (16GB+512GB) (serial_number: 17 → 18)
+- **Updated phone**: Honor X60 GT (serial_number: 18 → 19)
+- **Updated phone**: Honor Power (serial_number: 19 → 20)
+- **Updated phone**: Honor Play 60 (serial_number: 20 → 21)
+- **Updated phone**: Honor X9c (512GB) (serial_number: 21 → 22)
+- **Updated phone**: Honor X9c (serial_number: 22 → 23)
+- **Updated phone**: Honor Magic V3 (serial_number: 23 → 24)
+- **Updated phone**: Honor X5b Plus (serial_number: 24 → 25)
+- **Updated phone**: Honor X5b (serial_number: 25 → 26)
+- **Updated phone**: Honor Magic7 Lite (serial_number: 26 → 27)
+- **Updated phone**: Honor X9c Smart (serial_number: 27 → 28)
+- **Updated phone**: Honor Magic7 RSR Porsche Design (serial_number: 28 → 29)
+- **Updated phone**: Honor GT (serial_number: 29 → 30)
+- **Updated phone**: Honor 300 Pro (serial_number: 30 → 31)
+- **Updated phone**: Honor 300 Ultra (serial_number: 31 → 32)
+
+#### tecno
+- **Updated phone**: Tecno Pova Slim (Removed field: specifications.Display.HDR 10 / HDR + support, specifications.Cameras.Primary Camera.Resolution: 50 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera → 50 MP, f/1.79, Wide Angle, Primary Camera, 2 MP, Depth Camera, Added new field: specifications.Cameras.Primary Camera.Aperture, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Vlog Mode, specifications.Cameras.Selfie Camera.Resolution: 13 MP, Wide Angle, Primary Camera → 13 MP, f/2.0, Wide Angle, Primary Camera, Added new field: specifications.Cameras.Selfie Camera.Aperture, Added new field: specifications.Memory.Storage Type, specifications.Network & Connectivity.WLAN: Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz → Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO, specifications.More.Features: Ambient light sensor, Proximity sensor, G-Sensor, E-compass, Gyroscope, Infrared Remote Control → Accelerometer, gyro, proximity, compass)
+- **Updated phone**: Tecno Pova Curve (serial_number: 12 → 3, updated_on: June 6, 2025 → September 25, 2025, specifications.General.Release Date: Exp. 05 June 2025 → Exp. 30 September 2025, Added new field: specifications.Display.Screen to Body Ratio, specifications.Display.Screen Protection: Corning Gorilla Glass v5 → Corning Gorilla Glass 7i, specifications.Cameras.Primary Camera.Image Resolution: 9248 x 6944 pixels → 9000 x 7000 Pixels, specifications.Cameras.Primary Camera.Zoom: Digital Zoom → 15 x Digital Zoom, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Bokeh portrait video, Vlog Mode, specifications.Cameras.Selfie Camera.Resolution: 13 MP, Primary Camera → 13 MP, f/2.2, Wide Angle, Primary Camera, Added new field: specifications.Cameras.Selfie Camera.Aperture, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, specifications.Design.Thickness: 7.5 mm → 7.45 mm, Added new field: specifications.Memory.RAM Type, Added new field: specifications.Network & Connectivity.SAR Value, Removed field: specifications.Network & Connectivity.Infrared, Added new field: specifications.Multimedia.Audio Features)
+- **Updated phone**: Tecno Spark Go 5G (serial_number: 2 → 4)
+- **Updated phone**: Tecno Spark 40 Pro Plus (serial_number: 3 → 5)
+- **Updated phone**: Tecno Spark 40C (serial_number: 4 → 6)
+- **Updated phone**: Tecno POP 10 (serial_number: 5 → 7)
+- **Updated phone**: Tecno Spark 40 Pro (serial_number: 6 → 8)
+- **Updated phone**: Tecno Spark 40 (8GB+256GB) (serial_number: 7 → 9)
+- **Updated phone**: Tecno Spark 40 (serial_number: 8 → 10)
+- **Updated phone**: Tecno Camon 40 Pro 5G (serial_number: 9 → 11)
+- **Updated phone**: Tecno Pova 7 (serial_number: 10 → 12)
+- **Updated phone**: Tecno Pova 7 Ultra (serial_number: 11 → 13)
+- **Updated phone**: Tecno Spark Go 2 (4GB RAM) (serial_number: 13 → 14)
+- **Updated phone**: Tecno Spark Go 2 (serial_number: 14 → 15)
+- **Updated phone**: Tecno Camon 40 (serial_number: 15 → 16)
+- **Updated phone**: Tecno Camon 40 Pro (serial_number: 16 → 17)
+- **Updated phone**: Tecno Camon 40 (256GB) (serial_number: 17 → 18)
+- **Updated phone**: Tecno Camon 40 Premier (serial_number: 18 → 19)
+- **Updated phone**: Tecno Spark Slim (serial_number: 19 → 20)
+- **Updated phone**: Tecno Phantom V Fold2 (serial_number: 20 → 21)
+- **Updated phone**: Tecno Spark Go 1S (serial_number: 21 → 22)
+- **Updated phone**: Tecno Phantom V Fold2 Pro (serial_number: 22 → 23)
+- **Updated phone**: Tecno Spark 30 (serial_number: 23 → 24)
+- **Updated phone**: Tecno Spark 30 Pro (serial_number: 24 → 25)
+- **Updated phone**: Tecno Camon 30S (serial_number: 25 → 26)
+- **Updated phone**: Tecno Spark 30C 5G (serial_number: 26 → 27)
+- **Updated phone**: Tecno Spark 30 5G (serial_number: 27 → 28)
+- **Updated phone**: Tecno Pop 9 (serial_number: 28 → 29)
+- **Updated phone**: Tecno Pop 9 5G (serial_number: 29 → 30)
+- **Updated phone**: Tecno Phantom V Flip2 (serial_number: 30 → 31)
+- **Updated phone**: Tecno Spark 30C (8GB+256GB) (serial_number: 31 → 32)
+
+#### xiaomi
+- **Updated phone**: Xiaomi 15T (image_url: https://www.mobiledokan.com/media/xiaomi-15t-titan-gray-official-image.webp → https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp, updated_on: September 24, 2025 → September 25, 2025, specifications.General.Release Date: Not announced yet → Exp. 24 September 2025, specifications.General.Status: Rumored → Upcoming, specifications.Hardware & Software.Chipset: Mediatek Dimensity 8400 → Mediatek Dimensity 8400 Ultra, specifications.Hardware & Software.CPU: Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53) → Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725), specifications.Hardware & Software.GPU: Mali-G720 MP7 → Mali-G720 MC7, specifications.Display.Display Type: OLED → AMOLED, specifications.Display.Screen Size: 6.67 inches (16.94 cm) → 6.83 inches (17.35 cm), specifications.Display.Resolution: 1220x2712 px (FHD+) → 1280x2772 px (FHD+), specifications.Display.Aspect Ratio: 20:9 → 19.5:9, specifications.Display.Pixel Density: 446 ppi → 447 ppi, specifications.Display.Screen to Body Ratio: 89.1% → 90.0%, specifications.Display.Screen Protection: Gorilla Glass → Corning Gorilla Glass 7i, specifications.Display.Brightness: 4000 nits → 3200 nits, specifications.Display.Refresh Rate: 144 Hz → 120 Hz, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera → 50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Zoom: Digital Zoom → 60x Digital Zoom, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Vlog Mode, Kaleidoscope, Short Video Mode, specifications.Cameras.Primary Camera.Video Recording: 7680x4320, 3840x2160, 1920x1080 → 3840x2160, 1920x1080, 1280x720, specifications.Cameras.Primary Camera.Video FPS: 24 fps, 30 fps, 60 fps → 60 fps, 960 fps, specifications.Cameras.Selfie Camera.Resolution: 32 MP, f/2.0, Wide Angle, Primary Camera → 32 MP, f/2.2, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Video Recording: 1920x1080, 1280x720 → 3840x2160, 1920x1080, 1280x720, specifications.Cameras.Selfie Camera.Video FPS: 30 fps → 30 fps, 60 fps, specifications.Cameras.Selfie Camera.Aperture: f/2.0 → f/2.2, specifications.Design.Height: 160.5 mm → 163.2 mm, specifications.Design.Width: 75.1 mm → 78 mm, specifications.Design.Thickness: 7.8 mm → 7.5 mm, specifications.Design.Weight: 195 grams → 194 grams, specifications.Design.Build: Glass front, aluminum frame → Glass front (Gorilla Glass 7i), plastic frame, glass fiber back, specifications.Design.Colors: Titan Gray, Titan Blue, Titan Black, Lemon Green → Black, Gray, Rose Gold, specifications.Design.Waterproof: Water resistant (up to 2m for 30 min) → Water resistant (up to 3m for 30 min), specifications.Design.IP Rating: IP69 → IP68, specifications.Battery.Quick Charging: 67W wired, PD3.0, 100% in 45 min → 67W wired, PD3.0, 100% in 50 min, specifications.Memory.Storage Type: UFS 4.0 → UFS 4.1, Added new field: specifications.Memory.RAM Type, specifications.Network & Connectivity.Bluetooth: v5.4 → v6.0, specifications.Multimedia.Video: 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+ → 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+, gallery_images: List length changed from 2 to 19)
+- **Updated phone**: Xiaomi 15T Pro (price: 115000 → 130000, image_url: https://www.mobiledokan.com/media/xiaomi-15t-pro-titanium-black-official-image.webp → https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp, updated_on: September 24, 2025 → September 25, 2025, specifications.General.Release Date: Not announced yet → Exp. 24 September 2025, specifications.General.Status: Rumored → Upcoming, specifications.Hardware & Software.CPU: Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55) → Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720), specifications.Hardware & Software.GPU: Mali-G925 Immortalis MP12 → Immortalis-G925, specifications.Display.Display Type: OLED → AMOLED, specifications.Display.Screen Size: 6.67 inches (16.94 cm) → 6.83 inches (17.35 cm), specifications.Display.Resolution: 1220x2712 px (FHD+) → 1280x2772 px (FHD+), specifications.Display.Aspect Ratio: 20:9 → 19.5:9, specifications.Display.Pixel Density: 446 ppi → 447 ppi, specifications.Display.Screen to Body Ratio: 89.1% → 90.4%, specifications.Display.Screen Protection: Scratch/drop-resistant glass → Corning Gorilla Glass 7i, specifications.Display.Brightness: 4000 nits → 3200 nits, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera → 50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/3.0, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Zoom: Digital Zoom → 100x Digital Zoom, specifications.Cameras.Primary Camera.Aperture: f/1.7 → f/1.6, specifications.Cameras.Primary Camera.Video FPS: 24 fps, 30 fps, 60 fps → 30 fps, 120 fps, 960 fps, specifications.Cameras.Selfie Camera.Resolution: 32 MP, f/2.0, Wide Angle, Primary Camera → 32 MP, f/2.2, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Video Recording: 1920x1080, 1280x720 → 3840x2160, 1920x1080, 1280x720, specifications.Cameras.Selfie Camera.Video FPS: 30 fps → 30 fps, 60 fps, specifications.Cameras.Selfie Camera.Aperture: f/2.0 → f/2.2, specifications.Design.Height: 160.4 mm → 162.7 mm, specifications.Design.Width: 75.1 mm → 77.9 mm, specifications.Design.Thickness: 8.4 mm → 8 mm, specifications.Design.Weight: 209 grams → 210 grams, Added new field: specifications.Design.Build, specifications.Design.Colors: Titanium Black, Titanium Grey, Titanium Blue → Black, Gray, Mocha Gold, specifications.Design.Waterproof: Water resistant (up to 2m for 30 min) → Water resistant (up to 3m for 30 min), specifications.Design.IP Rating: IP69 → IP68, Added new field: specifications.Battery.Wireless Charging, specifications.Battery.Quick Charging: 90W wired, PD → 90W wired, PD3.0, QC4, 100% in 36 min, specifications.Memory.Storage Type: UFS 4.0 → UFS 4.1, Added new field: specifications.Memory.RAM Type, specifications.Network & Connectivity.Bluetooth: v5.4 → v6.0, specifications.Multimedia.Video: 8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+ → 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+, gallery_images: List length changed from 2 to 19)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 1 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 30 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-25 12:34:58
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -192,7 +378,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -398,7 +584,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -599,7 +785,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -788,7 +974,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -970,7 +1156,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1086,7 +1272,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1201,7 +1387,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1352,7 +1538,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1502,7 +1688,7 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5286
+- **Total Phones Available**: 5288
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1595,116 +1781,6 @@ Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Ca
 - 19 phones visited from first 1 page
 
 #### meizu
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-09-15 12:35:26
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5286
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 0
-- **Visited phones**: 857
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
 - 32 phones visited from first 1 page
 
 #### nokia

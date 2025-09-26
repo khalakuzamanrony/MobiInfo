@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-25 06:30:24",
+    "last_updated": "2025-09-26 06:29:23",
     "total_phones": 534,
     "first_scraped": "2025-09-11 09:52:42",
-    "new_phones_this_run": 2,
-    "updated_phones_this_run": 30
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -16,93 +16,94 @@
       "name": "Xiaomi 15T",
       "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-15t",
-      "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-titan-gray-official-image.webp",
+      "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-25 06:30:24",
-      "first_scraped": "2025-09-25 06:30:24",
-      "updated_on": "September 24, 2025",
+      "last_updated": "2025-09-26 06:29:23",
+      "first_scraped": null,
+      "updated_on": "September 25, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "15T",
           "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
+          "Release Date": "Exp. 24 September 2025",
+          "Status": "Upcoming"
         },
         "Hardware & Software": {
           "Operating System": "Android",
           "OS Version": "v15",
           "User Interface": "HyperOS 2",
-          "Chipset": "Mediatek Dimensity 8400",
-          "CPU": "Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53)",
+          "Chipset": "Mediatek Dimensity 8400 Ultra",
+          "CPU": "Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)",
           "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
           "Fabrication": "4 nm",
-          "GPU": "Mali-G720 MP7"
+          "GPU": "Mali-G720 MC7"
         },
         "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1220x2712 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "446 ppi",
-          "Screen to Body Ratio": "89.1%",
-          "Screen Protection": "Gorilla Glass",
+          "Display Type": "AMOLED",
+          "Screen Size": "6.83 inches (17.35 cm)",
+          "Resolution": "1280x2772 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "447 ppi",
+          "Screen to Body Ratio": "90.0%",
+          "Screen Protection": "Corning Gorilla Glass 7i",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "4000 nits",
+          "Brightness": "3200 nits",
           "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "144 Hz",
+          "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
         },
         "Cameras": {
           "Primary Camera": {
             "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
             "Autofocus": "Yes",
             "OIS": "Yes",
             "Flash": "LED Flash",
             "Image Resolution": "8150 x 6150 Pixels",
             "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
+            "Zoom": "60x Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps, 60 fps"
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Vlog Mode, Kaleidoscope, Short Video Mode",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps, 960 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
-          "Height": "160.5 mm",
-          "Width": "75.1 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "195 grams",
-          "Build": "Glass front, aluminum frame",
-          "Colors": "Titan Gray, Titan Blue, Titan Black, Lemon Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP69",
+          "Height": "163.2 mm",
+          "Width": "78 mm",
+          "Thickness": "7.5 mm",
+          "Weight": "194 grams",
+          "Build": "Glass front (Gorilla Glass 7i), plastic frame, glass fiber back",
+          "Colors": "Black, Gray, Rose Gold",
+          "Waterproof": "Water resistant (up to 3m for 30 min)",
+          "IP Rating": "IP68",
           "Ruggedness": "Dust proof"
         },
         "Battery": {
           "Battery type": "Li-Poly (Lithium Polymer)",
           "Capacity": "5500 mAh",
-          "Quick Charging": "67W wired, PD3.0, 100% in 45 min",
+          "Quick Charging": "67W wired, PD3.0, 100% in 50 min",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
           "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
+          "Storage Type": "UFS 4.1",
           "USB OTG": "Yes",
-          "RAM": "12 GB"
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -113,7 +114,7 @@
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G",
           "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz",
-          "Bluetooth": "v5.4",
+          "Bluetooth": "v6.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Infrared": "Yes",
           "Wi-fi Hotspot": "Yes",
@@ -130,7 +131,7 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+          "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
         },
         "More": {
           "Made By": "China",
@@ -138,51 +139,68 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-15t-titan-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-15t-titan-gray-official-image.webp"
+        "https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-rose-gold-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-rose-gold-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-rose-gold-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-rose-gold-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-rose-gold-official-image.webp"
       ]
     },
     {
       "id": "xiaomi_15t_pro",
       "name": "Xiaomi 15T Pro",
-      "price": "115000",
+      "price": "130000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-15t-pro",
-      "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-pro-titanium-black-official-image.webp",
+      "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-25 06:30:24",
-      "first_scraped": "2025-09-25 06:30:24",
-      "updated_on": "September 24, 2025",
+      "last_updated": "2025-09-26 06:29:23",
+      "first_scraped": null,
+      "updated_on": "September 25, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "15T Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
+          "Release Date": "Exp. 24 September 2025",
+          "Status": "Upcoming"
         },
         "Hardware & Software": {
           "Operating System": "Android",
           "OS Version": "v15",
           "User Interface": "HyperOS 2",
           "Chipset": "Mediatek Dimensity 9400 Plus",
-          "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+          "CPU": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
           "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
           "Fabrication": "3 nm",
-          "GPU": "Mali-G925 Immortalis MP12"
+          "GPU": "Immortalis-G925"
         },
         "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1220x2712 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "446 ppi",
-          "Screen to Body Ratio": "89.1%",
-          "Screen Protection": "Scratch/drop-resistant glass",
+          "Display Type": "AMOLED",
+          "Screen Size": "6.83 inches (17.35 cm)",
+          "Resolution": "1280x2772 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "447 ppi",
+          "Screen to Body Ratio": "90.4%",
+          "Screen Protection": "Corning Gorilla Glass 7i",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "4000 nits",
+          "Brightness": "3200 nits",
           "HDR 10 / HDR + support": "HDR 10+",
           "Refresh Rate": "144 Hz",
           "Notch": "Punch-hole"
@@ -190,49 +208,52 @@
         "Cameras": {
           "Primary Camera": {
             "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.7, Wide Angle, Primary Camera, 50 MP, f/1.9, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/3.0, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
             "Autofocus": "Yes",
             "OIS": "Yes",
             "Flash": "LED Flash",
             "Image Resolution": "8150 x 6150 Pixels",
             "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
+            "Zoom": "100x Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
+            "Aperture": "f/1.6",
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Vlog Mode, Kaleidoscope, Short Video Mode",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps, 60 fps"
+            "Video FPS": "30 fps, 120 fps, 960 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
-          "Height": "160.4 mm",
-          "Width": "75.1 mm",
-          "Thickness": "8.4 mm",
-          "Weight": "209 grams",
-          "Colors": "Titanium Black, Titanium Grey, Titanium Blue",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP69",
+          "Height": "162.7 mm",
+          "Width": "77.9 mm",
+          "Thickness": "8 mm",
+          "Weight": "210 grams",
+          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass fiber back",
+          "Colors": "Black, Gray, Mocha Gold",
+          "Waterproof": "Water resistant (up to 3m for 30 min)",
+          "IP Rating": "IP68",
           "Ruggedness": "Dust proof"
         },
         "Battery": {
           "Battery type": "Li-Poly (Lithium Polymer)",
           "Capacity": "5500 mAh",
-          "Quick Charging": "90W wired, PD",
+          "Wireless Charging": "50W wireless, 100% in 56 min",
+          "Quick Charging": "90W wired, PD3.0, QC4, 100% in 36 min",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
           "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
+          "Storage Type": "UFS 4.1",
           "USB OTG": "Yes",
-          "RAM": "12 GB"
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -243,7 +264,7 @@
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G",
           "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.4",
+          "Bluetooth": "v6.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Infrared": "Yes",
           "Wi-fi Hotspot": "Yes",
@@ -260,7 +281,7 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "8K@24/30fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+"
         },
         "More": {
           "Made By": "China",
@@ -268,8 +289,25 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-15t-pro-titanium-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-15t-pro-titanium-black-official-image.webp"
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-gray-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-gray-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-gray-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-gray-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp"
       ]
     },
     {
