@@ -4,11 +4,11 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2025-09-26 06:29:22",
+    "last_updated": "2025-09-28 06:27:21",
     "total_phones": 286,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -731,13 +731,13 @@
     {
       "id": "realme_p4_pro",
       "name": "Realme P4 Pro",
-      "price": "38500",
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/realme-p4-pro",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-pro-birch-wood-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-14 13:49:11",
+      "last_updated": "2025-09-28 06:27:21",
       "first_scraped": null,
-      "updated_on": "September 14, 2025",
+      "updated_on": "September 28, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -774,13 +774,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -796,6 +789,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -870,17 +870,17 @@
     {
       "id": "realme_p4_256gb",
       "name": "Realme P4 (256GB)",
-      "price": "30500",
+      "price": "28500",
       "url": "https://www.mobiledokan.com/mobile/realme-p4-256gb",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-engine-blue-official-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-14 13:49:11",
+      "last_updated": "2025-09-28 06:27:21",
       "first_scraped": null,
-      "updated_on": "August 31, 2025",
+      "updated_on": "September 28, 2025",
       "variants": [
         {
           "name": "8GB+256GB IND",
-          "price": "৳.30,500",
+          "price": "৳.28,500",
           "url": "https://www.mobiledokan.com/mobile/realme-p4-256gb"
         },
         {
