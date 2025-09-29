@@ -4,7 +4,7 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2025-09-28 06:27:21",
+    "last_updated": "2025-09-29 06:34:24",
     "total_phones": 286,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
@@ -580,22 +580,22 @@
     {
       "id": "realme_p4",
       "name": "Realme P4",
-      "price": "25500",
+      "price": "26000",
       "url": "https://www.mobiledokan.com/mobile/realme-p4",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-engine-blue-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-14 13:49:11",
+      "last_updated": "2025-09-29 06:34:24",
       "first_scraped": null,
-      "updated_on": "September 1, 2025",
+      "updated_on": "September 28, 2025",
       "variants": [
         {
           "name": "8GB+128GB IND",
-          "price": "৳.25,500",
+          "price": "৳.26,000",
           "url": "https://www.mobiledokan.com/mobile/realme-p4"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.30,500",
+          "price": "৳.28,500",
           "url": "https://www.mobiledokan.com/mobile/realme-p4-256gb"
         }
       ],
@@ -634,13 +634,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle(76° field-of-view), Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -654,6 +647,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -874,7 +874,7 @@
       "url": "https://www.mobiledokan.com/mobile/realme-p4-256gb",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-engine-blue-official-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-09-28 06:27:21",
+      "last_updated": "2025-09-29 06:34:24",
       "first_scraped": null,
       "updated_on": "September 28, 2025",
       "variants": [
@@ -885,7 +885,7 @@
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.25,500",
+          "price": "৳.26,000",
           "url": "https://www.mobiledokan.com/mobile/realme-p4"
         }
       ],

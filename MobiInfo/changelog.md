@@ -2,12 +2,163 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-29 12:39:08
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5295
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 2
+- **Updated phones**: 32
+- **Visited phones**: 823
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### vivo
+- Vivo V60 Lite
+- Vivo V60 Lite 5G
+
+## Updates
+
+#### realme
+- **Updated phone**: Realme P4 (price: 25500 → 26000, updated_on: September 1, 2025 → September 28, 2025, variants[0]: {name: 8GB+128GB IND, price: ৳.25,500, url: https://www.mobiledokan.com/mobile/realme-p4} → {name: 8GB+128GB IND, price: ৳.26,000, url: https://www.mobiledokan.com/mobile/realme-p4}, variants[1]: {name: 8GB+256GB IND, price: ৳.30,500, url: https://www.mobiledokan.com/mobile/realme-p4-256gb} → {name: 8GB+256GB IND, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/realme-p4-256gb})
+- **Updated phone**: Realme P4 (256GB) (variants[1]: {name: 8GB+128GB IND, price: ৳.25,500, url: https://www.mobiledokan.com/mobile/realme-p4} → {name: 8GB+128GB IND, price: ৳.26,000, url: https://www.mobiledokan.com/mobile/realme-p4})
+
+#### vivo
+- **Updated phone**: Vivo Y21d (serial_number: 1 → 3)
+- **Updated phone**: Vivo Y21d (8GB RAM) (serial_number: 2 → 4)
+- **Updated phone**: Vivo Y31 (serial_number: 3 → 5)
+- **Updated phone**: Vivo Y31 Pro (serial_number: 4 → 6)
+- **Updated phone**: Vivo V60 (serial_number: 5 → 7)
+- **Updated phone**: Vivo V60 (12GB RAM) (serial_number: 6 → 8)
+- **Updated phone**: Vivo V60 (16GB+512GB) (serial_number: 7 → 9)
+- **Updated phone**: Vivo T4 Pro (serial_number: 8 → 10)
+- **Updated phone**: Vivo Y29t (serial_number: 9 → 11)
+- **Updated phone**: Vivo T4R (serial_number: 10 → 12)
+- **Updated phone**: Vivo Y400 5G (serial_number: 11 → 13)
+- **Updated phone**: Vivo Y400 (serial_number: 12 → 14)
+- **Updated phone**: Vivo Y400 (256GB) (serial_number: 13 → 15)
+- **Updated phone**: Vivo X200 FE (serial_number: 14 → 16)
+- **Updated phone**: Vivo X Fold5 (serial_number: 15 → 17)
+- **Updated phone**: Vivo X Fold5 (512GB) (serial_number: 16 → 18)
+- **Updated phone**: Vivo X Fold5 (16GB+512GB) (serial_number: 17 → 19)
+- **Updated phone**: Vivo Y400 Pro (serial_number: 18 → 20)
+- **Updated phone**: Vivo T4 Ultra (serial_number: 19 → 21)
+- **Updated phone**: Vivo T4 Ultra (12GB RAM) (serial_number: 20 → 22)
+- **Updated phone**: Vivo S30 Pro Mini (serial_number: 21 → 23)
+- **Updated phone**: Vivo S30 Pro Mini (512GB) (serial_number: 22 → 24)
+- **Updated phone**: Vivo S30 Pro Mini (16GB+512GB) (serial_number: 23 → 25)
+- **Updated phone**: Vivo S30 (serial_number: 24 → 26)
+- **Updated phone**: Vivo Y19s Pro (serial_number: 25 → 27)
+- **Updated phone**: Vivo Y19s Pro (6GB RAM) (serial_number: 26 → 28)
+- **Updated phone**: Vivo Y300 GT (serial_number: 27 → 29)
+- **Updated phone**: Vivo Y19 5G (serial_number: 28 → 30)
+- **Updated phone**: Vivo T4 (serial_number: 29 → 31)
+- **Updated phone**: Vivo X200 Ultra (serial_number: 30 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 30 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-28 12:31:12
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -193,7 +344,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -379,7 +530,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -564,7 +715,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -770,7 +921,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -971,7 +1122,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1160,7 +1311,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1342,7 +1493,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1458,7 +1609,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5293
+- **Total Phones Available**: 5295
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1562,157 +1713,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 31 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-09-18 12:33:23
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5293
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 33
-- **Visited phones**: 824
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 17 (price: 100000 → 120000, updated_on: September 12, 2025 → September 17, 2025)
-- **Updated phone**: Apple iPhone 17 Pro (price: 135000 → 160000, updated_on: September 12, 2025 → September 17, 2025)
-- **Updated phone**: Apple iPhone 17 Pro Max (price: 165000 → 170000, updated_on: September 12, 2025 → September 17, 2025)
-- **Updated phone**: Apple iPhone 17 Air (price: 120000 → 132000, updated_on: September 12, 2025 → September 17, 2025)
-- **Updated phone**: Apple iPhone Air (price: 120000 → 132000, updated_on: September 12, 2025 → September 17, 2025)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy A07 (price: 24000 → 19500, image_url: https://www.mobiledokan.com/media/samsung-galaxy-a07-white-image.webp → https://www.mobiledokan.com/media/samsung-galaxy-a07-dark-green-official-image.webp, serial_number: 449 → 5, updated_on: October 23, 2024 → September 17, 2025, specifications.General.Release Date: Not Announced yet → 25 August 2025, specifications.General.Status: Rumored → Available, specifications.Hardware & Software.OS Version: v14 → v15, specifications.Hardware & Software.User Interface: Samsung One UI → One UI 7, specifications.Hardware & Software.Chipset: Mediatek Helio G85 → Mediatek Helio G99, specifications.Hardware & Software.CPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) → Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55), specifications.Hardware & Software.GPU: Mali-G52 MC2 → Mali-G57 MC2, specifications.Display.Screen to Body Ratio: 82.1% → 83.6%, specifications.Display.Refresh Rate: 60 Hz → 90 Hz, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle Camera, 8 MP, f/2.4, Depth Camera → 50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, Added new field: specifications.Cameras.Primary Camera.Image Resolution, specifications.Cameras.Primary Camera.Camera Features: Auto Flash,
-Face detection,
-Touch to focus → Auto Flash, Face detection, Touch to focus, specifications.Cameras.Selfie Camera.Resolution: 13 MP, f/2.0, Primary Camera → 8 MP, f/2.0, Wide Angle, Primary Camera, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Thickness, Added new field: specifications.Design.Weight, specifications.Design.Colors: Blue, Gold, White → Gray, Light Violet, Dark Green, Added new field: specifications.Design.Waterproof, Added new field: specifications.Design.IP Rating, Added new field: specifications.Design.Ruggedness, specifications.Memory.Internal Storage: 64 GB → 256 GB, specifications.Memory.RAM: 4 GB → 8 GB, Removed field: specifications.Memory.RAM Type, Added new field: specifications.Multimedia.FM Radio, Removed field: specifications.Multimedia.Alert Types, specifications.More.Made By: Korea → South Korea, specifications.More.Features: Accelerometer, proximity, compass → Accelerometer, proximity, gallery_images: List length changed from 2 to 10)
-- **Updated phone**: Samsung Galaxy A17 (serial_number: 5 → 6)
-- **Updated phone**: Samsung Galaxy F36 (serial_number: 6 → 7)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (serial_number: 7 → 8)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB) (serial_number: 8 → 9)
-- **Updated phone**: Samsung Galaxy Z Flip7 (serial_number: 9 → 10)
-- **Updated phone**: Samsung Galaxy M36 (serial_number: 10 → 11)
-- **Updated phone**: Samsung Galaxy Z Fold7 (512GB) (serial_number: 11 → 12)
-- **Updated phone**: Samsung Galaxy Z Fold7 (1TB) (serial_number: 12 → 13)
-- **Updated phone**: Samsung Galaxy Z Fold7 (serial_number: 13 → 14)
-- **Updated phone**: Samsung Galaxy M56 (256GB) (serial_number: 14 → 15)
-- **Updated phone**: Samsung Galaxy S25 Edge (serial_number: 15 → 16)
-- **Updated phone**: Samsung Galaxy S25 Edge (512GB) (serial_number: 16 → 17)
-- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (serial_number: 17 → 18)
-- **Updated phone**: Samsung Galaxy A26 (serial_number: 18 → 19)
-- **Updated phone**: Samsung Galaxy A36 (serial_number: 19 → 20)
-- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (serial_number: 20 → 21)
-- **Updated phone**: Samsung Galaxy A36 (8GB RAM) (serial_number: 21 → 22)
-- **Updated phone**: Samsung Galaxy A36 (8GB+256GB) (serial_number: 22 → 23)
-- **Updated phone**: Samsung Galaxy F56 (serial_number: 23 → 24)
-- **Updated phone**: Samsung Galaxy F56 (256GB) (serial_number: 24 → 25)
-- **Updated phone**: Samsung Galaxy XCover7 Pro (serial_number: 25 → 26)
-- **Updated phone**: Samsung Galaxy M56 (serial_number: 26 → 27)
-- **Updated phone**: Samsung Galaxy F16 (8GB RAM) (serial_number: 27 → 28)
-- **Updated phone**: Samsung Galaxy F16 (serial_number: 28 → 29)
-- **Updated phone**: Samsung Galaxy A56 (serial_number: 29 → 30)
-- **Updated phone**: Samsung Galaxy A56 (256GB) (serial_number: 30 → 31)
-- **Updated phone**: Samsung Galaxy A56 (12GB+256GB) (serial_number: 31 → 32)
-
-## Visited
-
-#### apple
-- 27 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 4 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
