@@ -4,31 +4,31 @@
     "name": "tecno",
     "url": "https://www.mobiledokan.com/mobile-brand/tecno",
     "image_url": null,
-    "last_updated": "2025-09-29 06:34:43",
+    "last_updated": "2025-09-30 06:30:20",
     "total_phones": 142,
     "first_scraped": "2025-09-11 09:05:28",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
       "id": "tecno_pova_slim",
       "name": "Tecno Pova Slim",
-      "price": "25000",
+      "price": "29999",
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-slim",
       "image_url": "https://www.mobiledokan.com/media/tecno-pova-slim-sky-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-26 06:29:28",
+      "last_updated": "2025-09-30 06:30:20",
       "first_scraped": null,
-      "updated_on": "September 23, 2025",
+      "updated_on": "September 29, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Tecno",
           "Model": "Pova Slim",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 30 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "30 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -98,7 +98,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
           "RAM": "8 GB",
@@ -131,7 +131,8 @@
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
           "Audio Features": "Dolby Atmos",
-          "Video": "1440p@30fps, 1080p@30fps"
+          "Video": "1440p@30fps, 1080p@30fps",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
@@ -163,21 +164,21 @@
     {
       "id": "tecno_pova_7_pro",
       "name": "Tecno Pova 7 Pro",
-      "price": "28000",
+      "price": "34999",
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-7-pro",
       "image_url": "https://www.mobiledokan.com/media/tecno-pova-7-pro-neon-cyan-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-26 06:29:28",
-      "first_scraped": "2025-09-26 06:29:28",
-      "updated_on": "September 25, 2025",
+      "last_updated": "2025-09-30 06:30:20",
+      "first_scraped": null,
+      "updated_on": "September 29, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Tecno",
           "Model": "Pova 7 Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 30 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "30 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -247,7 +248,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
           "RAM": "8 GB",
@@ -261,7 +262,7 @@
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
           "Bluetooth": "v5.4",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
@@ -279,7 +280,8 @@
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
           "Audio Features": "Dolby Atmos",
-          "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+          "Video": "4K@30fps, 1080p@30fps, gyro-EIS",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
@@ -311,21 +313,21 @@
     {
       "id": "tecno_pova_curve",
       "name": "Tecno Pova Curve",
-      "price": "25000",
+      "price": "32999",
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-curve",
       "image_url": "https://www.mobiledokan.com/media/tecno-pova-curve-neon-cyan-official-color-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-09-26 06:29:28",
+      "last_updated": "2025-09-30 06:30:20",
       "first_scraped": null,
-      "updated_on": "September 25, 2025",
+      "updated_on": "September 29, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Tecno",
           "Model": "Pova Curve",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 30 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "30 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -392,10 +394,10 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
-          "RAM": "6 GB",
+          "RAM": "8 GB",
           "RAM Type": "LPDDR5"
         },
         "Network & Connectivity": {
@@ -425,7 +427,8 @@
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
           "Audio Features": "Dolby Atmos",
-          "Video": "4K@30fps, 1080p@30fps"
+          "Video": "4K@30fps, 1080p@30fps",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",

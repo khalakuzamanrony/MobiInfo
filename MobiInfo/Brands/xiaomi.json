@@ -4,31 +4,47 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-09-29 06:33:59",
+    "last_updated": "2025-09-30 06:30:12",
     "total_phones": 537,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
       "id": "xiaomi_17",
       "name": "Xiaomi 17",
-      "price": "90000",
+      "price": "102000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-17",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-17-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-28 06:27:15",
-      "first_scraped": "2025-09-28 06:27:15",
-      "updated_on": "September 27, 2025",
-      "variants": [],
+      "last_updated": "2025-09-30 06:30:12",
+      "first_scraped": null,
+      "updated_on": "September 30, 2025",
+      "variants": [
+        {
+          "name": "12GB+256GB CN",
+          "price": "৳.102,000",
+          "url": "https://www.mobiledokan.com/mobile/xiaomi-17"
+        },
+        {
+          "name": "12GB+512GB CN",
+          "price": "৳.109,500",
+          "url": "https://www.mobiledokan.com/mobile/xiaomi-17-512gb"
+        },
+        {
+          "name": "16GB+512GB CN",
+          "price": "৳.114,500",
+          "url": "https://www.mobiledokan.com/mobile/xiaomi-17-16gb-512gb"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "17",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 25 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "27 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -155,21 +171,21 @@
     {
       "id": "xiaomi_17_pro",
       "name": "Xiaomi 17 Pro",
-      "price": "100000",
+      "price": "109500",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-17-pro",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-17-pro-green-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-28 06:27:15",
-      "first_scraped": "2025-09-28 06:27:15",
-      "updated_on": "September 27, 2025",
+      "last_updated": "2025-09-30 06:30:12",
+      "first_scraped": null,
+      "updated_on": "September 30, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "17 Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 25 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "25 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -1051,9 +1067,9 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15c-5g",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-dusk-purple-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-28 06:27:15",
+      "last_updated": "2025-09-30 06:30:12",
       "first_scraped": null,
-      "updated_on": "September 20, 2025",
+      "updated_on": "September 29, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -1144,7 +1160,8 @@
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac), MIMO",
+          "SAR Value": "Head: 0.994 W/kg, Body: 0.948 W/kg",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
           "Bluetooth": "v5.4",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
@@ -1170,6 +1187,10 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-dusk-purple-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-dusk-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-charging-port-side-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-midnight-black-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-midnight-black-official-image.webp",
         "https://www.mobiledokan.com/media/xiaomi-redmi-15c-5g-midnight-black-official-image.webp",

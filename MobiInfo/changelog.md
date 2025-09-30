@@ -2,6 +2,131 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-09-30 12:36:20
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5295
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 7
+- **Visited phones**: 850
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor X7d (updated_on: September 25, 2025 → September 29, 2025, gallery_images: List length changed from 12 to 24)
+
+#### tecno
+- **Updated phone**: Tecno Pova Slim (price: 25000 → 29999, updated_on: September 23, 2025 → September 29, 2025, specifications.General.Release Date: Exp. 30 September 2025 → 30 September 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 256 GB, Added new field: specifications.Multimedia.Document Reader)
+- **Updated phone**: Tecno Pova 7 Pro (price: 28000 → 34999, updated_on: September 25, 2025 → September 29, 2025, specifications.General.Release Date: Exp. 30 September 2025 → 30 September 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 256 GB, specifications.Network & Connectivity.WLAN: Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO → Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO, Added new field: specifications.Multimedia.Document Reader)
+- **Updated phone**: Tecno Pova Curve (price: 25000 → 32999, updated_on: September 25, 2025 → September 29, 2025, specifications.General.Release Date: Exp. 30 September 2025 → 30 September 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 256 GB, specifications.Memory.RAM: 6 GB → 8 GB, Added new field: specifications.Multimedia.Document Reader)
+
+#### xiaomi
+- **Updated phone**: Xiaomi 17 (price: 90000 → 102000, updated_on: September 27, 2025 → September 30, 2025, variants: List length changed from 0 to 3, specifications.General.Release Date: Exp. 25 September 2025 → 27 September 2025, specifications.General.Status: Upcoming → Available)
+- **Updated phone**: Xiaomi 17 Pro (price: 100000 → 109500, updated_on: September 27, 2025 → September 30, 2025, specifications.General.Release Date: Exp. 25 September 2025 → 25 September 2025, specifications.General.Status: Upcoming → Available)
+- **Updated phone**: Xiaomi Redmi 15c 5G (updated_on: September 20, 2025 → September 29, 2025, Added new field: specifications.Network & Connectivity.SAR Value, specifications.Network & Connectivity.WLAN: Wi-Fi 5 (802.11 a/b/g/n/ac), MIMO → Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, gallery_images: List length changed from 7 to 11)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 31 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 29 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 29 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-09-29 12:39:08
 
 ### Summary
@@ -1598,121 +1723,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-09-19 12:34:26
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5295
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 1
-- **Visited phones**: 856
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi K80 Ultra (price: 49500 → 46500, updated_on: September 8, 2025 → September 18, 2025)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 31 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
