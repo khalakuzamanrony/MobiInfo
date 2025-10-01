@@ -4,11 +4,11 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2025-09-30 06:30:46",
+    "last_updated": "2025-10-01 06:34:31",
     "total_phones": 229,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -133,21 +133,21 @@
     {
       "id": "oppo_a6_pro",
       "name": "Oppo A6 Pro",
-      "price": "30000",
+      "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a6-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-28 06:27:06",
+      "last_updated": "2025-10-01 06:34:31",
       "first_scraped": null,
-      "updated_on": "September 27, 2025",
+      "updated_on": "October 1, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Oppo",
           "Model": "A6 Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 30 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "30 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -214,7 +214,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
           "RAM": "8 GB",
@@ -256,10 +256,22 @@
       "gallery_images": [
         "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-official-image.webp",
         "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a6-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a6-pro-full-back-camea-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a6-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a6-pro-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-charging-port-side.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-stellar-blue-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-stellar-blue-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-stellar-blue-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-stellar-blue-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-coral-pink-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-coral-pink-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-coral-pink-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-coral-pink-charging-port-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-charging-port-side-image.webp",
         "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-official-image.webp",
         "https://www.mobiledokan.com/media/oppo-a6-pro-lunar-titanium-official-image.webp",
@@ -4010,7 +4022,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x8s-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x8s-plus-purple-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-09-28 06:27:06",
+      "last_updated": "2025-10-01 06:34:31",
       "first_scraped": null,
       "updated_on": "April 12, 2025",
       "variants": [],
@@ -4048,6 +4060,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -4062,13 +4081,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4131,19 +4143,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-white-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x8s-plus-purple-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_find_x8_ultra_16gb512gb",
