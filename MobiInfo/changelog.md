@@ -2,12 +2,195 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-03 12:33:41
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5305
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 3
+- **Updated phones**: 62
+- **Visited phones**: 792
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### apple
+- Apple iPhone 17 Pro (512GB)
+- Apple iPhone 17 Pro Max (512GB HK/AUS)
+
+#### symphony
+- Symphony Max 60
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 17 (price: 115000 → 125000, updated_on: September 23, 2025 → October 2, 2025, variants: List length changed from 0 to 1)
+- **Updated phone**: Apple iPhone 17 Pro (price: 190000 → 180000, updated_on: September 23, 2025 → October 2, 2025, variants: List length changed from 0 to 2)
+- **Updated phone**: Apple iPhone 17 Pro Max (variants: List length changed from 0 to 2)
+- **Updated phone**: Apple iPhone 17 Air (price: 176000 → 153000, updated_on: September 23, 2025 → October 2, 2025, variants: List length changed from 0 to 1)
+- **Updated phone**: Apple iPhone Air (price: 176000 → 153000, updated_on: September 23, 2025 → October 2, 2025, variants: List length changed from 0 to 1)
+- **Updated phone**: Apple iPhone SE 4 (serial_number: 6 → 8)
+- **Updated phone**: Apple iPhone 16e (serial_number: 7 → 9)
+- **Updated phone**: Apple iPhone 16e (256GB) (serial_number: 8 → 10)
+- **Updated phone**: Apple iPhone 16 Pro Max (serial_number: 9 → 11)
+- **Updated phone**: Apple iPhone 16 (serial_number: 10 → 12)
+- **Updated phone**: Apple iPhone 16 Pro (serial_number: 11 → 13, specifications.Hardware & Software.Chipset: Apple A18 → Apple A18 Pro)
+- **Updated phone**: Apple iPhone 16 Pro Max (512GB SG) (serial_number: 12 → 14)
+- **Updated phone**: Apple iPhone 16 Pro Max (1TB SG) (serial_number: 13 → 15)
+- **Updated phone**: Apple iPhone 16 Pro (256GB SG) (serial_number: 14 → 16, specifications.Hardware & Software.Chipset: Apple A18 → Apple A18 Pro)
+- **Updated phone**: Apple iPhone 16 Pro (512GB SG) (serial_number: 15 → 17)
+- **Updated phone**: Apple iPhone 16 Pro (1TB SG) (serial_number: 16 → 18)
+- **Updated phone**: Apple iPhone 16 (256GB SG) (serial_number: 17 → 19, specifications.Display.Refresh Rate: 120 Hz → 60 Hz)
+- **Updated phone**: Apple iPhone 16 Plus (256GB SG) (serial_number: 18 → 20)
+- **Updated phone**: Apple iPhone 16 (256GB USA) (serial_number: 19 → 21)
+- **Updated phone**: Apple iPhone 16 (512GB USA) (serial_number: 20 → 22, specifications.Display.Refresh Rate: 120 Hz → 60 Hz)
+- **Updated phone**: Apple iPhone 16 Pro (256GB USA) (serial_number: 21 → 23)
+- **Updated phone**: Apple iPhone 16 Pro (512GB USA) (serial_number: 22 → 24, specifications.Hardware & Software.Chipset: Apple A18 → Apple A18 Pro)
+- **Updated phone**: Apple iPhone 16 Pro (1TB USA) (serial_number: 23 → 25)
+- **Updated phone**: Apple iPhone 16 Pro Max (512GB USA) (serial_number: 24 → 26)
+- **Updated phone**: Apple iPhone 16 Pro Max (1TB USA) (serial_number: 25 → 27)
+- **Updated phone**: Apple iPhone 16 Plus (256GB USA) (serial_number: 26 → 28)
+- **Updated phone**: Apple iPhone 16 Plus (512GB USA) (serial_number: 27 → 29)
+- **Updated phone**: Apple iPhone 16 Plus (serial_number: 28 → 30)
+- **Updated phone**: Apple iPhone 15 Pro Max (serial_number: 29 → 31)
+- **Updated phone**: Apple iPhone 15 Pro Max (512GB) (serial_number: 30 → 32)
+
+#### symphony
+- **Updated phone**: Symphony Innova 40 (serial_number: 1 → 2)
+- **Updated phone**: Symphony Innova 40 (8GB RAM) (serial_number: 2 → 3)
+- **Updated phone**: Symphony L256 (serial_number: 3 → 4)
+- **Updated phone**: Symphony Z72 (serial_number: 4 → 5)
+- **Updated phone**: Symphony Z72 (128GB) (serial_number: 5 → 6)
+- **Updated phone**: Symphony Hero 30 (serial_number: 6 → 7)
+- **Updated phone**: Symphony L137 (serial_number: 7 → 8)
+- **Updated phone**: Symphony MAX 10 (3GB RAM) (serial_number: 8 → 9)
+- **Updated phone**: Symphony MAX 10 (serial_number: 9 → 10)
+- **Updated phone**: Symphony S72 (serial_number: 10 → 11)
+- **Updated phone**: Symphony S75 (serial_number: 11 → 12)
+- **Updated phone**: Symphony T94 (serial_number: 12 → 13)
+- **Updated phone**: Symphony BL125 (serial_number: 13 → 14)
+- **Updated phone**: Symphony ATOM 5 (serial_number: 14 → 15)
+- **Updated phone**: Symphony G27 Lite (serial_number: 15 → 16)
+- **Updated phone**: Symphony G27 (serial_number: 16 → 17)
+- **Updated phone**: Symphony D54Pro (serial_number: 17 → 18)
+- **Updated phone**: Symphony B80 (serial_number: 18 → 19)
+- **Updated phone**: Symphony S80 (serial_number: 19 → 20)
+- **Updated phone**: Symphony B100 (serial_number: 20 → 21)
+- **Updated phone**: Symphony Innova 20 (serial_number: 21 → 22)
+- **Updated phone**: Symphony Innova 30 (6GB RAM) (serial_number: 22 → 23)
+- **Updated phone**: Symphony Innova 30 (serial_number: 23 → 24)
+- **Updated phone**: Symphony Innova 30 (8GB+128GB) (serial_number: 24 → 25)
+- **Updated phone**: Symphony Z70 (serial_number: 25 → 26)
+- **Updated phone**: Symphony BL102 (serial_number: 26 → 27)
+- **Updated phone**: Symphony BL98 (serial_number: 27 → 28)
+- **Updated phone**: Symphony FiRE 30 (serial_number: 28 → 29)
+- **Updated phone**: Symphony L280 (serial_number: 29 → 30)
+- **Updated phone**: Symphony L34 (serial_number: 30 → 31)
+- **Updated phone**: Symphony Hero 20 (serial_number: 31 → 32)
+
+#### zte
+- **Updated phone**: ZTE nubia A56 (price: 9499 → 9999, updated_on: August 7, 2025 → October 3, 2025)
+
+## Visited
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 31 phones visited from first 1 page
+
+---
+
 ## 2025-10-02 12:34:58
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -138,7 +321,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -289,7 +472,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -414,7 +597,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -565,7 +748,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -751,7 +934,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -937,7 +1120,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1122,7 +1305,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1328,7 +1511,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5302
+- **Total Phones Available**: 5305
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1521,195 +1704,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### zte
 - 30 phones visited from first 1 page
-
----
-
-## 2025-09-22 12:35:49
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5302
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 2
-- **Updated phones**: 65
-- **Visited phones**: 790
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### honor
-- Honor X5c Plus
-
-#### xiaomi
-- Xiaomi Redmi 15 (8GB+256GB)
-
-## Updates
-
-#### honor
-- **Updated phone**: Honor 400 Lite (serial_number: 1 → 2)
-- **Updated phone**: Honor Magic V5 (serial_number: 2 → 3)
-- **Updated phone**: Honor Play10C (serial_number: 3 → 4)
-- **Updated phone**: Honor X6c (serial_number: 4 → 5)
-- **Updated phone**: Honor 400 Pro (China) (serial_number: 5 → 6)
-- **Updated phone**: Honor 400 (China) (serial_number: 6 → 7)
-- **Updated phone**: Honor 400 (serial_number: 7 → 8)
-- **Updated phone**: Honor 400 Pro (serial_number: 8 → 9)
-- **Updated phone**: Honor 400 (512GB) (serial_number: 9 → 10)
-- **Updated phone**: Honor Power (512GB) (serial_number: 10 → 11)
-- **Updated phone**: Honor X70i (serial_number: 11 → 12)
-- **Updated phone**: Honor X8c (serial_number: 12 → 13)
-- **Updated phone**: Honor GT Pro (serial_number: 13 → 14)
-- **Updated phone**: Honor GT Pro (512GB) (serial_number: 14 → 15)
-- **Updated phone**: Honor GT Pro (16GB+512GB) (serial_number: 15 → 16)
-- **Updated phone**: Honor X60 GT (serial_number: 16 → 17)
-- **Updated phone**: Honor Power (serial_number: 17 → 18)
-- **Updated phone**: Honor Play 60 (serial_number: 18 → 19)
-- **Updated phone**: Honor X9c (512GB) (serial_number: 19 → 20)
-- **Updated phone**: Honor X9c (serial_number: 20 → 21)
-- **Updated phone**: Honor Magic V3 (serial_number: 21 → 22)
-- **Updated phone**: Honor X5b Plus (serial_number: 22 → 23)
-- **Updated phone**: Honor X5b (serial_number: 23 → 24)
-- **Updated phone**: Honor Magic7 Lite (serial_number: 24 → 25)
-- **Updated phone**: Honor X9c Smart (serial_number: 25 → 26)
-- **Updated phone**: Honor Magic7 RSR Porsche Design (serial_number: 26 → 27)
-- **Updated phone**: Honor GT (serial_number: 27 → 28)
-- **Updated phone**: Honor 300 Pro (serial_number: 28 → 29)
-- **Updated phone**: Honor 300 Ultra (serial_number: 29 → 30)
-- **Updated phone**: Honor 300 (serial_number: 30 → 31)
-- **Updated phone**: Honor X7c (serial_number: 31 → 32)
-
-#### motorola
-- **Updated phone**: Motorola Moto G45 (price: 17999 → 17500, updated_on: December 29, 2024 → September 21, 2025)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy M36 (price: 23300 → 23100, updated_on: September 14, 2025 → September 22, 2025)
-
-#### vivo
-- **Updated phone**: Vivo X200 FE (price: 86000 → 75000, updated_on: July 31, 2025 → September 22, 2025)
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi 15 (serial_number: 14 → 1, variants: List length changed from 0 to 3, specifications.Battery.Battery type: Li-Poly (Lithium Polymer) → Li-Ion (Lithium Ion))
-- **Updated phone**: Xiaomi Redmi 15c 5G (serial_number: 1 → 3)
-- **Updated phone**: Xiaomi Poco C85 (serial_number: 2 → 4)
-- **Updated phone**: Xiaomi Redmi 15c (serial_number: 3 → 5)
-- **Updated phone**: Xiaomi Redmi 15c (8GB+256GB) (serial_number: 4 → 6)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro (serial_number: 5 → 7)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (serial_number: 6 → 8)
-- **Updated phone**: Xiaomi Redmi Note 15 (serial_number: 7 → 9)
-- **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM) (serial_number: 8 → 10)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM) (serial_number: 9 → 11)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB) (serial_number: 10 → 12)
-- **Updated phone**: Xiaomi Poco M7 Plus (serial_number: 11 → 13)
-- **Updated phone**: Xiaomi Poco M7 4G (serial_number: 12 → 14)
-- **Updated phone**: Xiaomi Redmi 15 5G (serial_number: 13 → 15, variants: List length changed from 0 to 2)
-- **Updated phone**: Xiaomi Redmi K80 Ultra (serial_number: 15 → 16)
-- **Updated phone**: Xiaomi Poco F7 (512GB) (serial_number: 16 → 17)
-- **Updated phone**: Xiaomi Poco F7 (serial_number: 17 → 18)
-- **Updated phone**: Xiaomi Civi 5 Pro (serial_number: 18 → 19)
-- **Updated phone**: Xiaomi 15S Pro (serial_number: 19 → 20)
-- **Updated phone**: Xiaomi Civi 5 Pro (512GB) (serial_number: 20 → 21)
-- **Updated phone**: Xiaomi Civi 5 Pro (16GB+512GB) (serial_number: 21 → 22)
-- **Updated phone**: Xiaomi 15S Pro (1TB) (serial_number: 22 → 23)
-- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (serial_number: 23 → 24)
-- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (512GB) (serial_number: 24 → 25)
-- **Updated phone**: Xiaomi Redmi Turbo 4 Pro (16GB+512GB) (serial_number: 25 → 26)
-- **Updated phone**: Xiaomi Poco C71 (serial_number: 26 → 27)
-- **Updated phone**: Xiaomi Redmi 13x (serial_number: 27 → 28)
-- **Updated phone**: Xiaomi Poco F7 Pro (serial_number: 28 → 29)
-- **Updated phone**: Xiaomi Poco F7 Ultra (serial_number: 29 → 30)
-- **Updated phone**: Xiaomi Redmi A5 (serial_number: 30 → 31)
-- **Updated phone**: Xiaomi Redmi Note 14 Pro 4G (serial_number: 31 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 31 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 31 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 31 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
 
 ---
 
