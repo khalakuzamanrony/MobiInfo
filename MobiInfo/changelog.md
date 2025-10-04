@@ -2,6 +2,122 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-04 12:30:43
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5305
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 2
+- **Visited phones**: 855
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor X7d (price: 20000 → 22999, serial_number: 2 → 1, updated_on: September 29, 2025 → October 4, 2025, specifications.General.Release Date: Exp. 28 September 2025 → 04 October 2025, specifications.General.Status: Upcoming → Available)
+- **Updated phone**: Honor X5c Plus (serial_number: 1 → 2)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 30 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-03 12:33:41
 
 ### Summary
@@ -1485,207 +1601,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### tecno
 - 31 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 30 phones visited from first 1 page
-
----
-
-## 2025-09-23 12:36:26
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5305
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 65
-- **Visited phones**: 791
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### infinix
-- Infinix GT 30
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 17 (price: 120000 → 115000, updated_on: September 17, 2025 → September 23, 2025, specifications.General.Release Date: Exp. 09 September 2025 → 09 September 2025, specifications.General.Status: Upcoming → Available)
-- **Updated phone**: Apple iPhone 17 Pro (price: 160000 → 190000, updated_on: September 17, 2025 → September 23, 2025, specifications.General.Release Date: Exp. 09 September 2025 → 09 September 2025, specifications.General.Status: Upcoming → Available)
-- **Updated phone**: Apple iPhone 17 Pro Max (price: 170000 → 210000, updated_on: September 17, 2025 → September 23, 2025, specifications.General.Release Date: Exp. 09 September 2025 → 09 September 2025, specifications.General.Status: Upcoming → Available)
-- **Updated phone**: Apple iPhone 17 Air (price: 132000 → 176000, updated_on: September 17, 2025 → September 23, 2025, specifications.General.Release Date: Exp. 09 September 2025 → 09 September 2025, specifications.General.Status: Upcoming → Available)
-- **Updated phone**: Apple iPhone Air (price: 132000 → 176000, updated_on: September 17, 2025 → September 23, 2025, specifications.General.Release Date: Exp. 09 September 2025 → 09 September 2025, specifications.General.Status: Upcoming → Available)
-
-#### asus
-- **Updated phone**: Asus Zenfone 9 (variants: List length changed from 1 to 0)
-- **Updated phone**: Asus ROG Phone 2 (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Asus ROG Phone 2 (12GB/512GB) (variants: List length changed from 2 to 0)
-- **Updated phone**: Asus Zenfone 6z (updated_on: May 11, 2024 → None, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 5 to 0)
-
-#### huawei
-- **Updated phone**: Huawei Mate XT Ultimate (1TB) (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Huawei Pura 70 (updated_on: August 26, 2024 → None)
-
-#### infinix
-- **Updated phone**: Infinix Hot 60i 5G (serial_number: 1 → 2)
-- **Updated phone**: Infinix Hot 60 Pro (price: 18999 → None, serial_number: 2 → 3, updated_on: July 25, 2025 → None)
-- **Updated phone**: Infinix Hot 60 Pro Plus (serial_number: 3 → 4)
-- **Updated phone**: Infinix Hot 60 Pro Plus (256GB) (serial_number: 4 → 5)
-- **Updated phone**: Infinix Hot 60 (serial_number: 5 → 6)
-- **Updated phone**: Infinix Hot 60i (8GB+256GB) (serial_number: 6 → 7)
-- **Updated phone**: Infinix Hot 60i (serial_number: 7 → 8)
-- **Updated phone**: Infinix Smart 10 (serial_number: 8 → 9)
-- **Updated phone**: Infinix Smart 10 Plus (serial_number: 9 → 10)
-- **Updated phone**: Infinix Smart 10 HD (serial_number: 10 → 11)
-- **Updated phone**: Infinix GT 30 Pro (12GB RAM) (serial_number: 11 → 12)
-- **Updated phone**: Infinix GT 30 Pro (serial_number: 12 → 13)
-- **Updated phone**: Infinix Note 50s (serial_number: 13 → 14)
-- **Updated phone**: Infinix Note 50 Pro Plus (serial_number: 14 → 15)
-- **Updated phone**: Infinix Note 50 (serial_number: 15 → 16)
-- **Updated phone**: Infinix Note 50 Pro (serial_number: 16 → 17)
-- **Updated phone**: Infinix Note 50x (serial_number: 17 → 18)
-- **Updated phone**: Infinix Smart 9 HD (4GB RAM) (serial_number: 18 → 19)
-- **Updated phone**: Infinix Smart 9 HD (serial_number: 19 → 20)
-- **Updated phone**: Infinix Hot 50 Pro Plus (serial_number: 20 → 21)
-- **Updated phone**: Infinix Hot 50 Pro Plus 4G (serial_number: 21 → 22)
-- **Updated phone**: Infinix Hot 50 4G (serial_number: 22 → 23)
-- **Updated phone**: Infinix Hot 50 (serial_number: 23 → 24)
-- **Updated phone**: Infinix Hot 50 Pro (serial_number: 24 → 25)
-- **Updated phone**: Infinix Hot 50 Pro 4G (serial_number: 25 → 26)
-- **Updated phone**: Infinix HOT 50 5G (serial_number: 26 → 27)
-- **Updated phone**: Infinix Zero Flip (serial_number: 27 → 28)
-- **Updated phone**: Infinix Hot 50i (serial_number: 28 → 29)
-- **Updated phone**: Infinix Smart 9 (serial_number: 29 → 30)
-- **Updated phone**: Infinix Smart 9 (4GB+128GB) (serial_number: 30 → 31)
-- **Updated phone**: Infinix Zero 40 (serial_number: 31 → 32)
-
-#### iqoo
-- **Updated phone**: Vivo iQOO Neo 10R (12GB+256GB) (updated_on: May 27, 2025 → None)
-- **Updated phone**: Vivo iQOO Neo10 (China) (updated_on: September 1, 2025 → None)
-- **Updated phone**: Vivo iQOO 13 (updated_on: May 10, 2025 → None)
-- **Updated phone**: Vivo iQOO 13 (512GB) (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Vivo iQOO Z9 Turbo Plus (variants: List length changed from 2 to 0)
-- **Updated phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM) (updated_on: December 12, 2024 → None, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Vivo iQOO Z9s Pro (variants: List length changed from 3 to 0)
-
-#### lenovo
-- **Updated phone**: Lenovo S5 Pro GT (gallery_images: List length changed from 10 to 0)
-
-#### meizu
-- **Updated phone**: Meizu 16 Plus (price: 45990 → None, updated_on: October 30, 2024 → None)
-- **Updated phone**: Meizu 15 Plus (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Meizu M6s (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 12 to 0)
-
-#### motorola
-- **Updated phone**: Motorola Moto G05 (price: 12190 → 12000, updated_on: January 27, 2025 → September 22, 2025)
-- **Updated phone**: Motorola ThinkPhone 25 (price: 115000 → None, updated_on: October 4, 2024 → None)
-
-#### sony
-- **Updated phone**: Sony Xperia XZ2 Premium (price: 84500 → None, updated_on: November 3, 2024 → None)
-- **Updated phone**: Sony Xperia XZ1 (gallery_images: List length changed from 12 to 0)
-- **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB) (gallery_images: List length changed from 11 to 0)
-
-#### symphony
-- **Updated phone**: Symphony BL102 (gallery_images: List length changed from 8 to 0)
-- **Updated phone**: Symphony FiRE 30 (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Symphony L280 (price: 1599 → None, updated_on: October 27, 2024 → None)
-- **Updated phone**: Symphony Hero 20 (gallery_images: List length changed from 8 to 0)
-- **Updated phone**: Symphony Helio 80 (price: 16999 → None, updated_on: March 21, 2025 → None, variants: List length changed from 1 to 0)
-
-#### zte
-- **Updated phone**: ZTE Blade A75 5G (price: 20000 → None, updated_on: October 7, 2024 → None)
-- **Updated phone**: ZTE Blade A55 (gallery_images: List length changed from 12 to 0)
-
-## Visited
-
-#### apple
-- 27 phones visited from first 1 page
-
-#### asus
-- 28 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 30 phones visited from first 1 page
-
-#### iqoo
-- 25 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 18 phones visited from first 1 page
-
-#### meizu
-- 29 phones visited from first 1 page
-
-#### motorola
-- 30 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 29 phones visited from first 1 page
-
-#### symphony
-- 27 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
 
 #### ulefone
 - 11 phones visited from first 1 page
