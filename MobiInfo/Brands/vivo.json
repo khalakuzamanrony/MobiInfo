@@ -4,36 +4,36 @@
     "name": "vivo",
     "url": "https://www.mobiledokan.com/mobile-brand/vivo",
     "image_url": null,
-    "last_updated": "2025-10-05 06:26:58",
+    "last_updated": "2025-10-06 06:30:10",
     "total_phones": 272,
     "first_scraped": "2025-09-11 09:20:44",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
       "id": "vivo_v60_lite",
       "name": "Vivo V60 Lite",
-      "price": "30000",
+      "price": "34999",
       "url": "https://www.mobiledokan.com/mobile/vivo-v60-lite",
-      "image_url": "https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp",
+      "image_url": "https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-29 06:34:35",
-      "first_scraped": "2025-09-29 06:34:35",
-      "updated_on": "September 28, 2025",
+      "last_updated": "2025-10-06 06:30:10",
+      "first_scraped": null,
+      "updated_on": "October 6, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Vivo",
           "Model": "V60 Lite",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 25 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "05 October 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
           "OS Version": "v15",
-          "User Interface": "Funtouch 15",
+          "User Interface": "Funtouch OS 15",
           "Chipset": "Qualcomm SM6225 Snapdragon 685",
           "CPU": "Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)",
           "CPU Cores": "8 Cores",
@@ -45,43 +45,44 @@
           "Display Type": "AMOLED",
           "Screen Size": "6.77 inches (17.2 cm)",
           "Resolution": "1080x2392 px (FHD+)",
-          "Pixel Density": "388 ppi",
+          "Pixel Density": "387 ppi",
           "Screen to Body Ratio": "88.7%",
           "Screen Protection": "Gorilla Glass",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1800 nits",
           "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
         },
         "Cameras": {
           "Primary Camera": {
             "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Resolution": "50 MP, f/1.79, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
             "Autofocus": "Yes",
             "Flash": "Ring-LED flash",
             "Image Resolution": "8150 x 6150 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Aperture": "f/1.79",
+            "Camera Features": "Night, Portrait, Photo, Video, Pano, Documents, Slo-mo, Time-lapse, Supermoon, Pro, Dual View, Live Photo",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Resolution": "32 MP, f/2.45, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
+            "Aperture": "f/2.45"
           }
         },
         "Design": {
-          "Height": "163.8 mm",
-          "Width": "76.3 mm",
-          "Thickness": "7.6 mm",
+          "Height": "163.77 mm",
+          "Width": "76.28 mm",
+          "Thickness": "7.59 mm",
           "Weight": "194 grams",
-          "Build": "Glass front, plastic back, plastic frame",
+          "Build": "Plastic composite sheet",
           "Colors": "Black, Blue",
           "Waterproof": "Splash proof",
           "IP Rating": "IP65",
@@ -99,7 +100,8 @@
           "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
-          "RAM": "8 GB"
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
@@ -113,7 +115,6 @@
           "Bluetooth": "v5.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
           "USB": "Mass storage device, USB charging"
         },
         "Sensors & security": {
@@ -126,7 +127,8 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "1080p@30fps"
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
@@ -134,8 +136,8 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp",
         "https://www.mobiledokan.com/media/vivo-v60-lite-full-display-side-image.webp",
         "https://www.mobiledokan.com/media/vivo-v60-lite-full-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/vivo-v60-lite-power-button-side-image.webp",
@@ -149,26 +151,26 @@
     {
       "id": "vivo_v60_lite_5g",
       "name": "Vivo V60 Lite 5G",
-      "price": "35000",
+      "price": "43999",
       "url": "https://www.mobiledokan.com/mobile/vivo-v60-lite-5g",
       "image_url": "https://www.mobiledokan.com/media/vivo-v60-lite-5g-vitality-pink-official-lmage.webp",
       "serial_number": 2,
-      "last_updated": "2025-09-29 06:34:35",
-      "first_scraped": "2025-09-29 06:34:35",
-      "updated_on": "September 28, 2025",
+      "last_updated": "2025-10-06 06:30:10",
+      "first_scraped": null,
+      "updated_on": "October 6, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Vivo",
           "Model": "V60 Lite 5G",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 24 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "05 October 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
           "OS Version": "v15",
-          "User Interface": "Funtouch 15",
+          "User Interface": "Funtouch OS 15",
           "Chipset": "Mediatek Dimensity 7360 Turbo",
           "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
           "CPU Cores": "8 Cores",
@@ -180,44 +182,44 @@
           "Display Type": "AMOLED",
           "Screen Size": "6.77 inches (17.2 cm)",
           "Resolution": "1080x2392 px (FHD+)",
-          "Pixel Density": "388 ppi",
+          "Pixel Density": "387 ppi",
           "Screen to Body Ratio": "88.7%",
           "Screen Protection": "Gorilla Glass",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR 10+",
+          "Brightness": "3000 nits",
           "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Resolution": "50 MP, f/1.79, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
             "Autofocus": "Yes",
             "Flash": "Ring-LED flash",
             "Image Resolution": "8150 x 6150 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
+            "Aperture": "f/1.79",
+            "Camera Features": "Night, Portrait, Photo, Video, Micro Movie, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Dual View",
+            "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
           }
         },
         "Design": {
-          "Height": "163.8 mm",
-          "Width": "76.3 mm",
-          "Thickness": "7.6 mm",
+          "Height": "163.77 mm",
+          "Width": "76.28 mm",
+          "Thickness": "7.59 mm",
           "Weight": "194 grams",
-          "Build": "Glass front, plastic back, plastic frame",
+          "Build": "Plastic composite sheet",
           "Colors": "Vitality Pink, Titanium Mist Blue, Ocean Night Black",
           "Waterproof": "Splash proof",
           "IP Rating": "IP65",
@@ -235,7 +237,8 @@
           "Internal Storage": "256 GB",
           "Storage Type": "UFS 3.1",
           "USB OTG": "Yes",
-          "RAM": "8 GB"
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -249,7 +252,6 @@
           "Bluetooth": "v5.4",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
           "USB": "Mass storage device, USB charging"
         },
         "Sensors & security": {
@@ -262,7 +264,8 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "1080p@30fps"
+          "Video": "4K@30fps, 1080p@30fps",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
