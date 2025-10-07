@@ -4,22 +4,165 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2025-10-06 06:30:12",
+    "last_updated": "2025-10-07 06:29:47",
     "total_phones": 287,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
+    {
+      "id": "realme_15t",
+      "name": "Realme 15T",
+      "price": "30000",
+      "url": "https://www.mobiledokan.com/mobile/realme-15t",
+      "image_url": "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+      "serial_number": 1,
+      "last_updated": "2025-10-07 06:29:47",
+      "first_scraped": null,
+      "updated_on": "October 6, 2025",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15T",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 12 October 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Mediatek Dimensity 6400 Max",
+          "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "Mali-G57 MC2"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.57 inches (16.69 cm)",
+          "Resolution": "1080x2372 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "86.4%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "4000 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.2 Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "60 fps, 30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "158.36 mm",
+          "Width": "75.19 mm",
+          "Thickness": "7.79 mm",
+          "Weight": "181 grams (Titanium & Blue), 183 grams (Silver)",
+          "Build": "Glass front, plastic frame, plastic back",
+          "Colors": "Silk Blue, Suit Titanium, Flowing Silver",
+          "Waterproof": "Water resistant (up to 2.5m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "60W Fast Charging, 50% in 31 minutes",
+          "Reverse Charging": "10W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 2.2",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30/60, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15t-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-official-image.webp"
+      ]
+    },
     {
       "id": "realme_15x",
       "name": "Realme 15x",
       "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/realme-15x",
       "image_url": "https://www.mobiledokan.com/media/realme-15x-maroon-red-official-image.webp",
-      "serial_number": 1,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": "2025-10-05 06:27:04",
+      "serial_number": 2,
+      "last_updated": "2025-10-07 06:29:47",
+      "first_scraped": null,
       "updated_on": "October 5, 2025",
       "variants": [],
       "specifications": {
@@ -151,8 +294,8 @@
       "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/realme-p3-lite",
       "image_url": "https://www.mobiledokan.com/media/realme-p3-lite-purple-blossom-official-image.webp",
-      "serial_number": 2,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 3,
+      "last_updated": "2025-10-07 06:29:47",
       "first_scraped": null,
       "updated_on": "September 14, 2025",
       "variants": [],
@@ -273,150 +416,6 @@
         "https://www.mobiledokan.com/media/realme-p3-lite-lily-white-official-image.webp",
         "https://www.mobiledokan.com/media/realme-p3-lite-purple-blossom-official-image.webp",
         "https://www.mobiledokan.com/media/realme-p3-lite-midnight-lily-official-image.webp"
-      ]
-    },
-    {
-      "id": "realme_15t",
-      "name": "Realme 15T",
-      "price": "30000",
-      "url": "https://www.mobiledokan.com/mobile/realme-15t",
-      "image_url": "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-      "serial_number": 3,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 16, 2025",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15T",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 02 September 2025",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Mediatek Dimensity 6400 Max",
-          "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.57 inches (16.69 cm)",
-          "Resolution": "1080x2372 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "86.4%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "4000 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.2 Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "158.4 mm",
-          "Width": "75.2 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "181 grams",
-          "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Silk Blue, Suit Titanium, Flowing Silver",
-          "Waterproof": "Water resistant (up to 2.5m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "60W wired",
-          "Reverse Charging": "10W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "1080p@30/60, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-flowing-silver-official-image.webp"
       ]
     },
     {
