@@ -2,12 +2,195 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-08 12:35:07
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5311
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 2
+- **Updated phones**: 63
+- **Visited phones**: 792
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### oneplus
+- OnePlus 15
+
+#### vivo
+- Vivo V60e
+
+## Updates
+
+#### oneplus
+- **Updated phone**: OnePlus Nord 5 (serial_number: 1 → 2)
+- **Updated phone**: OnePlus Nord CE5 (serial_number: 2 → 3)
+- **Updated phone**: OnePlus 13s (512GB) (serial_number: 3 → 4)
+- **Updated phone**: OnePlus 13s (serial_number: 4 → 5)
+- **Updated phone**: OnePlus 13s (16GB+512GB) (serial_number: 5 → 6)
+- **Updated phone**: OnePlus Ace 5 Racing (serial_number: 6 → 7)
+- **Updated phone**: OnePlus Ace 5 Ultra (serial_number: 7 → 8)
+- **Updated phone**: OnePlus Ace 5 Ultra (512GB) (serial_number: 8 → 9)
+- **Updated phone**: OnePlus Ace 5 Ultra (16GB+512GB) (serial_number: 9 → 10)
+- **Updated phone**: OnePlus Ace 5 Racing (512GB) (serial_number: 10 → 11)
+- **Updated phone**: OnePlus Ace 5 Racing (16GB+512GB) (serial_number: 11 → 12)
+- **Updated phone**: OnePlus 13T (serial_number: 12 → 13)
+- **Updated phone**: OnePlus 13T (512GB) (serial_number: 13 → 14)
+- **Updated phone**: OnePlus 13T (16GB+512GB) (serial_number: 14 → 15)
+- **Updated phone**: OnePlus 13R (serial_number: 15 → 16)
+- **Updated phone**: OnePlus 13R (16GB+512GB) (serial_number: 16 → 17)
+- **Updated phone**: OnePlus Open 2 (serial_number: 17 → 18)
+- **Updated phone**: OnePlus Ace 5 Pro (512GB) (serial_number: 18 → 19)
+- **Updated phone**: OnePlus Ace 5 Pro (serial_number: 19 → 20)
+- **Updated phone**: OnePlus Ace 5 (serial_number: 20 → 21)
+- **Updated phone**: OnePlus 13 (serial_number: 21 → 22)
+- **Updated phone**: OnePlus 13 (16GB+512GB) (serial_number: 22 → 23)
+- **Updated phone**: OnePlus Nord 4 (12GB+256GB) (serial_number: 23 → 24)
+- **Updated phone**: OnePlus Nord 4 (12GB+512GB) (serial_number: 24 → 25)
+- **Updated phone**: OnePlus Nord 4 (serial_number: 25 → 26)
+- **Updated phone**: OnePlus Nord 4 (256GB) (serial_number: 26 → 27)
+- **Updated phone**: OnePlus Ace 3 Pro (serial_number: 27 → 28)
+- **Updated phone**: OnePlus Nord CE4 Lite (serial_number: 28 → 29)
+- **Updated phone**: OnePlus Nord CE4 (serial_number: 29 → 30)
+- **Updated phone**: OnePlus Nord CE4 (256GB) (serial_number: 30 → 31)
+- **Updated phone**: OnePlus Ace 3V (serial_number: 31 → 32)
+
+#### oppo
+- **Updated phone**: Oppo F31 Pro (price: 34000 → 35500, updated_on: October 2, 2025 → October 8, 2025)
+
+#### vivo
+- **Updated phone**: Vivo V60 Lite (serial_number: 1 → 2)
+- **Updated phone**: Vivo V60 Lite 5G (serial_number: 2 → 3, updated_on: October 6, 2025 → October 8, 2025, specifications.Memory.RAM: 8 GB → 12 GB)
+- **Updated phone**: Vivo Y21d (serial_number: 3 → 4)
+- **Updated phone**: Vivo Y21d (8GB RAM) (serial_number: 4 → 5)
+- **Updated phone**: Vivo Y31 (serial_number: 5 → 6)
+- **Updated phone**: Vivo Y31 Pro (serial_number: 6 → 7)
+- **Updated phone**: Vivo V60 (serial_number: 7 → 8)
+- **Updated phone**: Vivo V60 (12GB RAM) (serial_number: 8 → 9)
+- **Updated phone**: Vivo V60 (16GB+512GB) (serial_number: 9 → 10)
+- **Updated phone**: Vivo T4 Pro (serial_number: 10 → 11)
+- **Updated phone**: Vivo Y29t (serial_number: 11 → 12)
+- **Updated phone**: Vivo T4R (serial_number: 12 → 13)
+- **Updated phone**: Vivo Y400 5G (serial_number: 13 → 14)
+- **Updated phone**: Vivo Y400 (serial_number: 14 → 15)
+- **Updated phone**: Vivo Y400 (256GB) (serial_number: 15 → 16)
+- **Updated phone**: Vivo X200 FE (serial_number: 16 → 17)
+- **Updated phone**: Vivo X Fold5 (serial_number: 17 → 18)
+- **Updated phone**: Vivo X Fold5 (512GB) (serial_number: 18 → 19)
+- **Updated phone**: Vivo X Fold5 (16GB+512GB) (serial_number: 19 → 20)
+- **Updated phone**: Vivo Y400 Pro (serial_number: 20 → 21)
+- **Updated phone**: Vivo T4 Ultra (serial_number: 21 → 22)
+- **Updated phone**: Vivo T4 Ultra (12GB RAM) (serial_number: 22 → 23)
+- **Updated phone**: Vivo S30 Pro Mini (serial_number: 23 → 24)
+- **Updated phone**: Vivo S30 Pro Mini (512GB) (serial_number: 24 → 25)
+- **Updated phone**: Vivo S30 Pro Mini (16GB+512GB) (serial_number: 25 → 26)
+- **Updated phone**: Vivo S30 (serial_number: 26 → 27)
+- **Updated phone**: Vivo Y19s Pro (serial_number: 27 → 28)
+- **Updated phone**: Vivo Y19s Pro (6GB RAM) (serial_number: 28 → 29)
+- **Updated phone**: Vivo Y300 GT (serial_number: 29 → 30)
+- **Updated phone**: Vivo Y19 5G (serial_number: 30 → 31)
+- **Updated phone**: Vivo T4 (serial_number: 31 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oppo
+- 31 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-07 12:34:01
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -168,7 +351,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -358,7 +541,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -517,7 +700,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -633,7 +816,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -816,7 +999,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -947,7 +1130,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1098,7 +1281,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1223,7 +1406,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1374,7 +1557,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5309
+- **Total Phones Available**: 5311
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
