@@ -4,11 +4,11 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2025-10-08 06:34:35",
+    "last_updated": "2025-10-09 06:34:54",
     "total_phones": 87,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 5
   },
   "phones": [
     {
@@ -713,27 +713,27 @@
     {
       "id": "iqoo_neo_10",
       "name": "iQOO Neo 10",
-      "price": "48000",
+      "price": "50500",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-color-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-10-06 06:34:39",
+      "last_updated": "2025-10-09 06:34:54",
       "first_scraped": null,
-      "updated_on": "August 5, 2025",
+      "updated_on": "October 8, 2025",
       "variants": [
         {
           "name": "8GB+128GB IND",
-          "price": "৳.48,000",
+          "price": "৳.50,500",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.51,000",
+          "price": "৳.53,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb"
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.60,000",
+          "price": "৳.58,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb"
         },
         {
@@ -879,27 +879,27 @@
     {
       "id": "iqoo_neo_10_256gb",
       "name": "iQOO Neo 10 (256GB)",
-      "price": "51000",
+      "price": "53900",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-10-06 06:34:39",
+      "last_updated": "2025-10-09 06:34:54",
       "first_scraped": null,
-      "updated_on": "August 5, 2025",
+      "updated_on": "October 8, 2025",
       "variants": [
         {
           "name": "8GB+256GB IND",
-          "price": "৳.51,000",
+          "price": "৳.53,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.48,000",
+          "price": "৳.50,500",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10"
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.60,000",
+          "price": "৳.58,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb"
         },
         {
@@ -1040,27 +1040,27 @@
     {
       "id": "iqoo_neo_10_12gb256gb",
       "name": "iQOO Neo 10 (12GB+256GB)",
-      "price": "60000",
+      "price": "58900",
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-10-06 06:34:39",
+      "last_updated": "2025-10-09 06:34:54",
       "first_scraped": null,
-      "updated_on": "June 15, 2025",
+      "updated_on": "October 8, 2025",
       "variants": [
         {
           "name": "12GB+256GB IND",
-          "price": "৳.60,000",
+          "price": "৳.58,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.51,000",
+          "price": "৳.53,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.48,000",
+          "price": "৳.50,500",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10"
         },
         {
@@ -1104,6 +1104,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -1118,13 +1125,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -1205,7 +1205,7 @@
       "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-16gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/iqoo-neo-10-inferno-red-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-10-06 06:34:39",
+      "last_updated": "2025-10-09 06:34:54",
       "first_scraped": null,
       "updated_on": "June 15, 2025",
       "variants": [
@@ -1216,17 +1216,17 @@
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.60,000",
+          "price": "৳.58,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.51,000",
+          "price": "৳.53,900",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.48,000",
+          "price": "৳.50,500",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10"
         }
       ],
@@ -3909,7 +3909,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo10-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo10-china-white-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-10-06 06:34:39",
+      "last_updated": "2025-10-09 06:34:54",
       "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [
@@ -3920,7 +3920,7 @@
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.48,000",
+          "price": "৳.50,500",
           "url": "https://www.mobiledokan.com/mobile/iqoo-neo-10"
         }
       ],
