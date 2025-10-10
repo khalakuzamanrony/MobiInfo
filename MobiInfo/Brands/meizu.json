@@ -4,11 +4,11 @@
     "name": "meizu",
     "url": "https://www.mobiledokan.com/mobile-brand/meizu",
     "image_url": null,
-    "last_updated": "2025-10-09 06:35:31",
+    "last_updated": "2025-10-10 06:30:08",
     "total_phones": 40,
     "first_scraped": "2025-09-11 09:09:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 11
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-note-22",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
       "serial_number": 1,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "June 7, 2025",
       "variants": [],
@@ -128,18 +128,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-full-display-side.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-full-back-camera-side.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-back-side.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-pure-flame-official-color-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-stonehold-black-official-color-image.webp",
-        "https://www.mobiledokan.com/media/meizu-note-22-snow-white-official-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_note_22_pro",
@@ -659,108 +648,11 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-note-21",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-21-gulf-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Meizu",
-          "Model": "Note 21",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 08 October 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "Flyme OS",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.74 inches (17.12 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "260 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "450 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, Primary Camera, 2 MP Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Colors": "Ivory, Diamond Black, Gulf Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/meizu-note-21-gulf-blue-official-image.webp",
         "https://www.mobiledokan.com/media/meizu-note-21-gulf-blue-official-image.webp",
@@ -900,7 +792,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image_1.webp",
       "serial_number": 8,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "January 1, 2025",
       "variants": [
@@ -1020,40 +912,19 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image_1.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-full-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_lucky_08",
       "name": "Meizu Lucky 08",
-      "price": "40000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08",
       "image_url": "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
-      "updated_on": "December 30, 2024",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.40,000",
-          "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08"
-        },
-        {
-          "name": "12GB+256GB",
-          "price": "৳.42,000",
-          "url": "https://www.mobiledokan.com/mobile/meizu-lucky-08-12gb-ram"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Meizu",
@@ -1159,17 +1030,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-full-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-lucky-08-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_21_pro",
@@ -1178,7 +1039,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-21-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [],
@@ -1218,13 +1079,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "HDR",
-            "Video Recording": "Yes",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 10 MP f/2.0, Periscope Camera",
@@ -1239,6 +1093,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "HDR",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1300,19 +1161,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-back-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-green-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-pro-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_21",
@@ -1321,7 +1170,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-21",
       "image_url": "https://www.mobiledokan.com/media/meizu-21-white-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
@@ -1444,19 +1293,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-21-white-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-white-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-front-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-back-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-front-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-green-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-21-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_20_pro",
@@ -1465,7 +1302,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-20-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-20-pro-gold-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "December 8, 2024",
       "variants": [],
@@ -1581,18 +1418,7 @@
           "Features": "Accelerometer, gyro, proximity, compass\r\nUltra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-20-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-20-pro-silver-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_20",
@@ -1741,7 +1567,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-16t",
       "image_url": "https://www.mobiledokan.com/media/meizu-16t-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "April 7, 2025",
       "variants": [],
@@ -1853,16 +1679,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-16t-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-front-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-blue-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-blue-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-blue-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-green-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_16t_pro",
@@ -1871,7 +1688,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-16t-pro",
       "image_url": "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
@@ -1976,17 +1793,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-white-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-carbon-black-image.webp",
-        "https://www.mobiledokan.com/media/meizu-16t-pro-blue-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_note_9",
@@ -1995,9 +1802,9 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-note-9",
       "image_url": "https://www.mobiledokan.com/media/meizu-note-9-blue-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
-      "updated_on": "August 7, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "4GB+64GB",
@@ -2131,7 +1938,7 @@
       "url": "https://www.mobiledokan.com/mobile/meizu-c9",
       "image_url": "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-09-14 13:26:43",
+      "last_updated": "2025-10-10 06:30:08",
       "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [],
@@ -2237,18 +2044,7 @@
           "Features": "Accelerometer, Compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-front-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-back-side-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-side-imge.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-side-view.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-black-official-image.webp",
-        "https://www.mobiledokan.com/media/meizu-c9-blue-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "meizu_c9_pro",
