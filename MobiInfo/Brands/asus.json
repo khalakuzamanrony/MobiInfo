@@ -4,7 +4,7 @@
     "name": "asus",
     "url": "https://www.mobiledokan.com/mobile-brand/asus",
     "image_url": null,
-    "last_updated": "2025-10-10 06:30:08",
+    "last_updated": "2025-10-11 06:35:56",
     "total_phones": 50,
     "first_scraped": "2025-09-11 09:07:08",
     "new_phones_this_run": 0,
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-12-ultra",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-green-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
       "updated_on": "February 10, 2025",
       "variants": [],
@@ -138,7 +138,18 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-green-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-green-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-green-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-12-ultra-pink-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_9_fe",
@@ -279,7 +290,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-9-pro",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
       "updated_on": "April 8, 2025",
       "variants": [],
@@ -399,18 +410,28 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-9-pro-phantom-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_9",
       "name": "Asus ROG Phone 9",
-      "price": null,
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-9",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-9-phantom-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "January 8, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -544,16 +565,144 @@
     {
       "id": "asus_zenfone_11_ultra",
       "name": "Asus Zenfone 11 Ultra",
-      "price": null,
+      "price": "79900",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-11-ultra",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-desert-sand-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "January 1, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 11 Ultra",
+          "Device Type": "Smartphone",
+          "Release Date": "14 April 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3",
+          "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "LTPO AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "388 ppi",
+          "Screen to Body Ratio": "88.2%",
+          "Screen Protection": "Gorilla Glass Victus 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2500 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 32 MP, f/2.4, Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "163.8 mm",
+          "Width": "76.8 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "224 grams",
+          "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back",
+          "Colors": "Eternal Black, Skyline Blue, Misty Gray, Desert Sand",
+          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5500 mAh",
+          "Wireless Charging": "15W wireless (Qi)",
+          "Quick Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min",
+          "Reverse Charging": "10W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-desert-sand-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-desert-sand-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-eternal-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-eternal-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-eternal-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-skyline-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-misty-gray-official-image_1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-11-ultra-desert-sand-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_8_pro_24gb1tb",
@@ -562,12 +711,147 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro-24gb-1tb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
       "updated_on": "May 27, 2025",
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "variants": [
+        {
+          "name": "24GB+1TB",
+          "price": "৳.170,999",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro-24gb-1tb"
+        },
+        {
+          "name": "16GB+512GB",
+          "price": "৳.151,999",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 8 Pro (24GB+1TB)",
+          "Device Type": "Smartphone",
+          "Release Date": "18 January 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3",
+          "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "LTPO AMOLED",
+          "Screen Size": "6.78 inches, 111.0 cm2",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "388 ppi",
+          "Screen to Body Ratio": "88.22 %",
+          "Screen Protection": "Corning Gorilla Glass Victus 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2500 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "165 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide-Angle Camera, 32 MP f/2.4, Telephoto Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "163.8 mm",
+          "Width": "76.8 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "225 grams",
+          "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+          "Colors": "Phantom Black",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5500 mAh",
+          "Wireless Charging": "15W wireless (Qi)",
+          "Quick Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min - International",
+          "Reverse Charging": "10W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "1 TB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "24 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (Up to 7CA), 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_8_pro",
@@ -726,9 +1010,9 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-8-rebel-grey-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 23, 2025",
       "variants": [
         {
           "name": "12GB+256GB",
@@ -1029,9 +1313,9 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-18gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "May 5, 2024",
       "variants": [
         {
           "name": "18GB+512GB",
@@ -1320,9 +1604,9 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-10-256gb-rom",
       "image_url": "https://www.mobiledokan.com/media/17136098752EOCR.webp",
       "serial_number": 12,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "April 24, 2024",
       "variants": [
         {
           "name": "8GB+256GB",
@@ -1369,6 +1653,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera",
@@ -1384,13 +1675,6 @@
             "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
             "Video Recording": "7680x4320 ,3840x2160, 1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.45, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -1616,9 +1900,9 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-7",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-7-phantom-black-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-10-10 06:30:08",
+      "last_updated": "2025-10-11 06:35:56",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "November 6, 2024",
       "variants": [
         {
           "name": "12GB+256GB",

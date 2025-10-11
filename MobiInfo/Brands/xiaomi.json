@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-10-09 06:30:32",
+    "last_updated": "2025-10-11 06:28:27",
     "total_phones": 544,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -1660,21 +1660,27 @@
     {
       "id": "xiaomi_15t",
       "name": "Xiaomi 15T",
-      "price": "90000",
+      "price": "61000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-15t",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-gray-official-color-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-10-01 06:31:33",
+      "last_updated": "2025-10-11 06:28:27",
       "first_scraped": null,
-      "updated_on": "September 25, 2025",
-      "variants": [],
+      "updated_on": "October 9, 2025",
+      "variants": [
+        {
+          "name": "12GB+256GB INT",
+          "price": "৳.61,000",
+          "url": "https://www.mobiledokan.com/mobile/xiaomi-15t"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "15T",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 24 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "24 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -1809,21 +1815,27 @@
     {
       "id": "xiaomi_15t_pro",
       "name": "Xiaomi 15T Pro",
-      "price": "130000",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-15t-pro",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-15t-pro-mocha-gold-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-10-01 06:31:33",
+      "last_updated": "2025-10-11 06:28:27",
       "first_scraped": null,
-      "updated_on": "September 25, 2025",
-      "variants": [],
+      "updated_on": "October 9, 2025",
+      "variants": [
+        {
+          "name": "12GB+512GB INT",
+          "price": "৳.90,000",
+          "url": "https://www.mobiledokan.com/mobile/xiaomi-15t-pro"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",
           "Model": "15T Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 24 September 2025",
-          "Status": "Upcoming"
+          "Release Date": "24 September 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -1895,7 +1907,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "256 GB",
+          "Internal Storage": "512 GB",
           "Storage Type": "UFS 4.1",
           "USB OTG": "Yes",
           "RAM": "12 GB",
