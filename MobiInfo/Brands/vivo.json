@@ -4,11 +4,11 @@
     "name": "vivo",
     "url": "https://www.mobiledokan.com/mobile-brand/vivo",
     "image_url": null,
-    "last_updated": "2025-10-11 06:28:41",
+    "last_updated": "2025-10-12 06:26:49",
     "total_phones": 273,
     "first_scraped": "2025-09-11 09:20:44",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 3
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -162,7 +162,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-v60-lite",
       "image_url": "https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp",
       "serial_number": 2,
-      "last_updated": "2025-10-08 06:29:48",
+      "last_updated": "2025-10-12 06:26:49",
       "first_scraped": null,
       "updated_on": "October 6, 2025",
       "variants": [],
@@ -202,6 +202,7 @@
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.79, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX882",
             "Autofocus": "Yes",
             "Flash": "Ring-LED flash",
             "Image Resolution": "8150 x 6150 Pixels",

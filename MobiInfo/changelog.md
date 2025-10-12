@@ -2,6 +2,130 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-12 12:31:10
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5316
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 6
+- **Visited phones**: 851
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### motorola
+- **Updated phone**: Motorola Moto G86 Power (price: 28000 → 24000, updated_on: August 25, 2025 → October 11, 2025)
+- **Updated phone**: Motorola Edge 60 Pro (12GB+512GB) (price: 55500 → 53500, updated_on: August 30, 2025 → October 12, 2025, variants[0]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb}, variants[1]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[2]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro})
+- **Updated phone**: Motorola Edge 60 Pro (price: 41000 → 37500, updated_on: August 30, 2025 → October 12, 2025, variants[0]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro}, variants[1]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[2]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb})
+- **Updated phone**: Motorola Edge 60 Pro (12GB RAM) (variants[0]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[1]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro}, variants[2]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb})
+
+#### samsung
+- **Updated phone**: Samsung Galaxy S25 FE (updated_on: October 10, 2025 → October 11, 2025, gallery_images: List length changed from 12 to 24)
+
+#### vivo
+- **Updated phone**: Vivo V60 Lite (Added new field: specifications.Cameras.Primary Camera.Sensor)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 28 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 31 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 31 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-11 12:36:43
 
 ### Summary
@@ -1747,157 +1871,6 @@ This document tracks all changes to the MobiInfo phone database.
 - 32 phones visited from first 1 page
 
 #### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-01 12:38:36
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5316
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 7
-- **Updated phones**: 27
-- **Visited phones**: 823
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### xiaomi
-- Xiaomi 17 (512GB)
-- Xiaomi 17 (16GB RAM)
-- Xiaomi 17 Pro (512GB)
-- Xiaomi 17 Pro (16GB RAM)
-- Xiaomi 17 Pro (16GB+1TB)
-- Xiaomi 17 Pro Max (16GB+512GB)
-- Xiaomi 17 Pro Max (16GB+1TB)
-
-## Updates
-
-#### oppo
-- **Updated phone**: Oppo A6 Pro (price: 30000 → 34990, updated_on: September 27, 2025 → October 1, 2025, specifications.General.Release Date: Exp. 30 September 2025 → 30 September 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 256 GB, gallery_images: List length changed from 12 to 24)
-- **Updated phone**: Oppo Find X8s Plus (gallery_images: List length changed from 11 to 0)
-
-#### xiaomi
-- **Updated phone**: Xiaomi 17 (variants[2]: {name: 16GB+512GB CN, price: ৳.114,500, url: https://www.mobiledokan.com/mobile/xiaomi-17-16gb-512gb} → {name: 16GB+512GB CN, price: ৳.114,500, url: https://www.mobiledokan.com/mobile/xiaomi-17-16gb-ram}, specifications.General.Release Date: 27 September 2025 → 25 September 2025, gallery_images: List length changed from 8 to 13)
-- **Updated phone**: Xiaomi 17 Pro (variants: List length changed from 0 to 4, gallery_images: List length changed from 8 to 13)
-- **Updated phone**: Xiaomi 17 Pro Max (price: 120000 → 129500, updated_on: September 27, 2025 → September 30, 2025, variants: List length changed from 0 to 3, specifications.General.Release Date: Exp. 25 September 2025 → 25 September 2025, specifications.General.Status: Upcoming → Available, gallery_images: List length changed from 8 to 13)
-- **Updated phone**: Xiaomi 15T (serial_number: 4 → 11)
-- **Updated phone**: Xiaomi 15T Pro (serial_number: 5 → 12)
-- **Updated phone**: Xiaomi Redmi 15 (serial_number: 6 → 13)
-- **Updated phone**: Xiaomi Redmi 15 (8GB+256GB) (serial_number: 7 → 14)
-- **Updated phone**: Xiaomi Redmi 15c 5G (serial_number: 8 → 15)
-- **Updated phone**: Xiaomi Poco C85 (serial_number: 9 → 16)
-- **Updated phone**: Xiaomi Redmi 15c (serial_number: 10 → 17)
-- **Updated phone**: Xiaomi Redmi 15c (8GB+256GB) (serial_number: 11 → 18)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro (serial_number: 12 → 19)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (serial_number: 13 → 20)
-- **Updated phone**: Xiaomi Redmi Note 15 (serial_number: 14 → 21)
-- **Updated phone**: Xiaomi Redmi Note 15 (12GB RAM) (serial_number: 15 → 22)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro (12GB RAM) (serial_number: 16 → 23)
-- **Updated phone**: Xiaomi Redmi Note 15 Pro Plus (512GB) (serial_number: 17 → 24)
-- **Updated phone**: Xiaomi Poco M7 Plus (serial_number: 18 → 25)
-- **Updated phone**: Xiaomi Poco M7 4G (serial_number: 19 → 26)
-- **Updated phone**: Xiaomi Redmi 15 5G (serial_number: 20 → 27)
-- **Updated phone**: Xiaomi Redmi K80 Ultra (serial_number: 21 → 28)
-- **Updated phone**: Xiaomi Poco F7 (512GB) (serial_number: 22 → 29)
-- **Updated phone**: Xiaomi Poco F7 (serial_number: 23 → 30)
-- **Updated phone**: Xiaomi Civi 5 Pro (serial_number: 24 → 31)
-- **Updated phone**: Xiaomi 15S Pro (serial_number: 25 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 30 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
 - 32 phones visited from first 1 page
 
 #### zte

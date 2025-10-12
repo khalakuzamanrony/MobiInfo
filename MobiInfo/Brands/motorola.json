@@ -4,11 +4,11 @@
     "name": "motorola",
     "url": "https://www.mobiledokan.com/mobile-brand/motorola",
     "image_url": null,
-    "last_updated": "2025-10-11 06:35:30",
+    "last_updated": "2025-10-12 06:30:34",
     "total_phones": 153,
     "first_scraped": "2025-09-11 09:23:16",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 2
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
@@ -263,13 +263,13 @@
     {
       "id": "motorola_moto_g86_power",
       "name": "Motorola Moto G86 Power",
-      "price": "28000",
+      "price": "24000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g86-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g86-power-pantone-spellbound-official-color-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-07 06:33:23",
+      "last_updated": "2025-10-12 06:30:34",
       "first_scraped": null,
-      "updated_on": "August 25, 2025",
+      "updated_on": "October 11, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -1098,27 +1098,27 @@
     {
       "id": "motorola_edge_60_pro_12gb512gb",
       "name": "Motorola Edge 60 Pro (12GB+512GB)",
-      "price": "55500",
+      "price": "53500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-color-image_1.webp",
       "serial_number": 9,
-      "last_updated": "2025-10-07 06:33:23",
+      "last_updated": "2025-10-12 06:30:34",
       "first_scraped": null,
-      "updated_on": "August 30, 2025",
+      "updated_on": "October 12, 2025",
       "variants": [
         {
           "name": "12GB+512GB",
-          "price": "৳.55,500",
+          "price": "৳.53,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb"
         },
         {
           "name": "12GB+256GB",
-          "price": "৳.45,500",
+          "price": "৳.43,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram"
         },
         {
           "name": "8GB+256GB",
-          "price": "৳.41,000",
+          "price": "৳.37,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro"
         }
       ],
@@ -1156,6 +1156,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 120 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 10 MP, f2.0, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -1170,13 +1177,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 120 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1255,27 +1255,27 @@
     {
       "id": "motorola_edge_60_pro",
       "name": "Motorola Edge 60 Pro",
-      "price": "41000",
+      "price": "37500",
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-07 06:33:23",
+      "last_updated": "2025-10-12 06:30:34",
       "first_scraped": null,
-      "updated_on": "August 30, 2025",
+      "updated_on": "October 12, 2025",
       "variants": [
         {
           "name": "8GB+256GB",
-          "price": "৳.41,000",
+          "price": "৳.37,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro"
         },
         {
           "name": "12GB+256GB",
-          "price": "৳.45,500",
+          "price": "৳.43,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram"
         },
         {
           "name": "12GB+512GB",
-          "price": "৳.55,500",
+          "price": "৳.53,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb"
         }
       ],
@@ -1416,23 +1416,23 @@
       "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/motorola-edge-60-pro-pantone-sparkling-grape-official-color-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-10-07 06:33:23",
+      "last_updated": "2025-10-12 06:30:34",
       "first_scraped": null,
       "updated_on": "August 30, 2025",
       "variants": [
         {
           "name": "12GB+256GB",
-          "price": "৳.45,500",
+          "price": "৳.43,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram"
         },
         {
           "name": "8GB+256GB",
-          "price": "৳.41,000",
+          "price": "৳.37,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro"
         },
         {
           "name": "12GB+512GB",
-          "price": "৳.55,500",
+          "price": "৳.53,500",
           "url": "https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb"
         }
       ],
