@@ -4,31 +4,480 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2025-10-12 06:27:17",
+    "last_updated": "2025-10-13 06:31:15",
     "total_phones": 287,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 14
   },
   "phones": [
     {
+      "id": "realme_15",
+      "name": "Realme 15",
+      "price": "36500",
+      "url": "https://www.mobiledokan.com/mobile/realme-15",
+      "image_url": "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+      "serial_number": 1,
+      "last_updated": "2025-10-13 06:31:15",
+      "first_scraped": null,
+      "updated_on": "October 12, 2025",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.44,999",
+          "url": "https://www.mobiledokan.com/mobile/realme-15"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15",
+          "Device Type": "Smartphone",
+          "Release Date": "12 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Mediatek Dimensity 7300 Plus",
+          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G615 MC2"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.77 inches (17.2 cm)",
+          "Resolution": "1280x2392 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "94%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "4500 nits",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX882",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163.34 mm",
+          "Width": "75.88 mm",
+          "Thickness": "7.66 mm",
+          "Weight": "185 grams",
+          "Colors": "Silk Pink, Suit Titanium",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "80W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-official-color-image.webp"
+      ]
+    },
+    {
+      "id": "realme_15_pro",
+      "name": "Realme 15 Pro",
+      "price": "43500",
+      "url": "https://www.mobiledokan.com/mobile/realme-15-pro",
+      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+      "serial_number": 2,
+      "last_updated": "2025-10-13 06:31:15",
+      "first_scraped": null,
+      "updated_on": "October 12, 2025",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.59,999",
+          "url": "https://www.mobiledokan.com/mobile/realme-15-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "12 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
+          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 722"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1280x2800 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "91.2%",
+          "Screen Protection": "Corning Gorilla Glass 7i",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "6500 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX896",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.26 mm",
+          "Width": "76.15 mm",
+          "Thickness": "7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green)",
+          "Weight": "187 grams",
+          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
+          "Colors": "Flowing Silver, Velvet Green",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "80W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
+      ]
+    },
+    {
+      "id": "realme_15_256gb",
+      "name": "Realme 15 (256GB)",
+      "price": "36500",
+      "url": "https://www.mobiledokan.com/mobile/realme-15-256gb",
+      "image_url": "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+      "serial_number": 3,
+      "last_updated": "2025-10-13 06:31:15",
+      "first_scraped": null,
+      "updated_on": "October 12, 2025",
+      "variants": [
+        {
+          "name": "12GB+256GB GB",
+          "price": "৳.44,999",
+          "url": "https://www.mobiledokan.com/mobile/realme-15-256gb"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.44,999",
+          "url": "https://www.mobiledokan.com/mobile/realme-15"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15 (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "12 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Mediatek Dimensity 7300 Plus",
+          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G615 MC2"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.77 inches (17.2 cm)",
+          "Resolution": "1280x2392 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "94%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "4500 nits",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX882",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163.34 mm",
+          "Width": "75.88 mm",
+          "Thickness": "7.66 mm",
+          "Weight": "187 grams",
+          "Colors": "Silk Pink, Suit Titanium",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "80W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-suit-titanium-official-color-image.webp"
+      ]
+    },
+    {
       "id": "realme_15t",
       "name": "Realme 15T",
-      "price": "30000",
+      "price": "32999",
       "url": "https://www.mobiledokan.com/mobile/realme-15t",
-      "image_url": "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-      "serial_number": 1,
-      "last_updated": "2025-10-07 06:29:47",
+      "image_url": "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
+      "serial_number": 4,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
-      "updated_on": "October 6, 2025",
+      "updated_on": "October 12, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Realme",
           "Model": "15T",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 12 October 2025",
-          "Status": "Upcoming"
+          "Release Date": "12 October 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -47,7 +496,7 @@
           "Resolution": "1080x2372 px (FHD+)",
           "Aspect Ratio": "20:9",
           "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "86.4%",
+          "Screen to Body Ratio": "93%",
           "Screen Protection": "Gorilla Glass",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
@@ -66,7 +515,7 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "60 fps"
           },
@@ -81,10 +530,10 @@
         "Design": {
           "Height": "158.36 mm",
           "Width": "75.19 mm",
-          "Thickness": "7.79 mm",
-          "Weight": "181 grams (Titanium & Blue), 183 grams (Silver)",
+          "Thickness": "7.79 mm (Titanium version) & 7.89 mm (Sliver version)",
+          "Weight": "181 grams (Titanium version), 183 grams (Silver version)",
           "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Silk Blue, Suit Titanium, Flowing Silver",
+          "Colors": "Suit Titanium, Flowing Silver",
           "Waterproof": "Water resistant (up to 2.5m for 30 min)",
           "IP Rating": "IP68/IP69",
           "Ruggedness": "Dust proof"
@@ -98,7 +547,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "256 GB",
           "Storage Type": "UFS 2.2",
           "USB OTG": "Yes",
           "RAM": "8 GB",
@@ -128,7 +577,8 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "1080p@30/60, gyro-EIS"
+          "Video": "1080p@30/60, gyro-EIS",
+          "Document Reader": "Yes"
         },
         "More": {
           "Made By": "China",
@@ -136,22 +586,312 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
         "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-display-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-suit-titanium-full-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-suit-titanium-power-button-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-display-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-flowing-silver-full-back-camera-side-image.webp",
         "https://www.mobiledokan.com/media/realme-15t-flowing-silver-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
+        "https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp",
         "https://www.mobiledokan.com/media/realme-15t-flowing-silver-official-image.webp"
+      ]
+    },
+    {
+      "id": "realme_15_pro_256gb",
+      "name": "Realme 15 Pro (256GB)",
+      "price": "40500",
+      "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb",
+      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+      "serial_number": 5,
+      "last_updated": "2025-10-13 06:31:15",
+      "first_scraped": null,
+      "updated_on": "October 12, 2025",
+      "variants": [
+        {
+          "name": "8GB+256GB IND",
+          "price": "৳.40,500",
+          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15 Pro (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "12 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
+          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 722"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1280x2800 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "91.2%",
+          "Screen Protection": "Corning Gorilla Glass 7i",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "6500 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX896",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.26 mm",
+          "Width": "76.15 mm",
+          "Thickness": "7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green)",
+          "Weight": "187 grams",
+          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
+          "Colors": "Flowing Silver, Velvet Green",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "80W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
+      ]
+    },
+    {
+      "id": "realme_15_pro_12gb256gb",
+      "name": "Realme 15 Pro (12GB+256GB)",
+      "price": "43500",
+      "url": "https://www.mobiledokan.com/mobile/realme-15-pro-12gb-256gb",
+      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+      "serial_number": 6,
+      "last_updated": "2025-10-13 06:31:15",
+      "first_scraped": null,
+      "updated_on": "October 12, 2025",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Realme",
+          "Model": "15 Pro (12GB+256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "12 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Realme UI 6.0",
+          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
+          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 722"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1280x2800 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "91.2%",
+          "Screen Protection": "Corning Gorilla Glass 7i",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "6500 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Sensor": "Sony IMX896",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps, 120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.26 mm",
+          "Width": "76.15 mm",
+          "Thickness": "7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green)",
+          "Weight": "187 grams",
+          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
+          "Colors": "Flowing Silver, Velvet Green",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7000 mAh",
+          "Quick Charging": "80W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
+        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
       ]
     },
     {
@@ -160,8 +900,8 @@
       "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/realme-15x",
       "image_url": "https://www.mobiledokan.com/media/realme-15x-maroon-red-official-image.webp",
-      "serial_number": 2,
-      "last_updated": "2025-10-07 06:29:47",
+      "serial_number": 7,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "October 5, 2025",
       "variants": [],
@@ -294,8 +1034,8 @@
       "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/realme-p3-lite",
       "image_url": "https://www.mobiledokan.com/media/realme-p3-lite-purple-blossom-official-image.webp",
-      "serial_number": 3,
-      "last_updated": "2025-10-07 06:29:47",
+      "serial_number": 8,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "September 14, 2025",
       "variants": [],
@@ -424,8 +1164,8 @@
       "price": "11999",
       "url": "https://www.mobiledokan.com/mobile/realme-note-70",
       "image_url": "https://www.mobiledokan.com/media/realme-note-70-beach-gold-official-image.webp",
-      "serial_number": 4,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 9,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [
@@ -570,8 +1310,8 @@
       "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/realme-note-70-128gb",
       "image_url": "https://www.mobiledokan.com/media/realme-note-70-beach-gold-official-image.webp",
-      "serial_number": 5,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 10,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "August 25, 2025",
       "variants": [
@@ -716,8 +1456,8 @@
       "price": "26000",
       "url": "https://www.mobiledokan.com/mobile/realme-p4",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-engine-blue-official-image.webp",
-      "serial_number": 6,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 11,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "September 28, 2025",
       "variants": [
@@ -867,8 +1607,8 @@
       "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/realme-p4-pro",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-pro-birch-wood-official-image.webp",
-      "serial_number": 7,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 12,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "September 28, 2025",
       "variants": [],
@@ -1006,8 +1746,8 @@
       "price": "28500",
       "url": "https://www.mobiledokan.com/mobile/realme-p4-256gb",
       "image_url": "https://www.mobiledokan.com/media/realme-p4-engine-blue-official-image_1.webp",
-      "serial_number": 8,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 13,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "September 28, 2025",
       "variants": [
@@ -1157,8 +1897,8 @@
       "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/realme-note-70t",
       "image_url": "https://www.mobiledokan.com/media/realme-note-70t-gold-official-image.webp",
-      "serial_number": 9,
-      "last_updated": "2025-10-05 06:27:04",
+      "serial_number": 14,
+      "last_updated": "2025-10-13 06:31:15",
       "first_scraped": null,
       "updated_on": "July 24, 2025",
       "variants": [],
@@ -1278,772 +2018,6 @@
         "https://www.mobiledokan.com/media/realme-note-70t-gold-official-image.webp",
         "https://www.mobiledokan.com/media/realme-note-70t-gold-official-image.webp",
         "https://www.mobiledokan.com/media/realme-note-70t-black-official-image.webp"
-      ]
-    },
-    {
-      "id": "realme_15",
-      "name": "Realme 15",
-      "price": "31500",
-      "url": "https://www.mobiledokan.com/mobile/realme-15",
-      "image_url": "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp",
-      "serial_number": 10,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 19, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB IND",
-          "price": "৳.31,500",
-          "url": "https://www.mobiledokan.com/mobile/realme-15"
-        },
-        {
-          "name": "8GB+256GB IND",
-          "price": "৳.34,000",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15",
-          "Device Type": "Smartphone",
-          "Release Date": "30 July 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Mediatek Dimensity 7300 Plus",
-          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G615 MC2"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1280x2800 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "453 ppi",
-          "Screen to Body Ratio": "91.2%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "6500 nits",
-          "Refresh Rate": "144 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8192 x 6144 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "20 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.66 mm",
-          "Weight": "187 grams",
-          "Colors": "Flowing Silver, Silk Pink, Velvet Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "80W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "SAR Value": "Head: 1.106 W/kg, Body: 0.812 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp"
-      ]
-    },
-    {
-      "id": "realme_15_256gb",
-      "name": "Realme 15 (256GB)",
-      "price": "34000",
-      "url": "https://www.mobiledokan.com/mobile/realme-15-256gb",
-      "image_url": "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image_1.webp",
-      "serial_number": 11,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 19, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB IND",
-          "price": "৳.34,000",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-256gb"
-        },
-        {
-          "name": "8GB+128GB IND",
-          "price": "৳.31,500",
-          "url": "https://www.mobiledokan.com/mobile/realme-15"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15 (256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "30 July 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Mediatek Dimensity 7300 Plus",
-          "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G615 MC2"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1280x2800 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "453 ppi",
-          "Screen to Body Ratio": "91.2%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "6500 nits",
-          "Refresh Rate": "144 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8192 x 6144 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "20 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.66 mm",
-          "Weight": "187 grams",
-          "Colors": "Flowing Silver, Silk Pink, Velvet Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "80W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "SAR Value": "Head: 1.106 W/kg, Body: 0.812 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-flowing-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-silk-pink-official-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp"
-      ]
-    },
-    {
-      "id": "realme_15_pro",
-      "name": "Realme 15 Pro",
-      "price": "37600",
-      "url": "https://www.mobiledokan.com/mobile/realme-15-pro",
-      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-      "serial_number": 12,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 7, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.37,600",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.40,500",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb"
-        },
-        {
-          "name": "12GB+256GB",
-          "price": "৳.46,000",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-12gb-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "24 July 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
-          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 722"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1280x2800 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "453 ppi",
-          "Screen to Body Ratio": "91.2%",
-          "Screen Protection": "Corning Gorilla Glass 7i",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "6500 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "144 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8192 x 6144 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "20 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.69 mm",
-          "Weight": "187 grams",
-          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
-          "Colors": "Flowing Silver, Silk Purple, Velvet Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "80W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
-      ]
-    },
-    {
-      "id": "realme_15_pro_256gb",
-      "name": "Realme 15 Pro (256GB)",
-      "price": "40500",
-      "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb",
-      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-      "serial_number": 13,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 7, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.40,500",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.37,600",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro"
-        },
-        {
-          "name": "12GB+256GB",
-          "price": "৳.46,000",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-12gb-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15 Pro (256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "24 July 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
-          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 722"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1280x2800 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "453 ppi",
-          "Screen to Body Ratio": "91.2%",
-          "Screen Protection": "Corning Gorilla Glass 7i",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "6500 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "144 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8192 x 6144 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "20 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.69 mm",
-          "Weight": "187 grams",
-          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
-          "Colors": "Flowing Silver, Silk Purple, Velvet Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "80W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
-      ]
-    },
-    {
-      "id": "realme_15_pro_12gb256gb",
-      "name": "Realme 15 Pro (12GB+256GB)",
-      "price": "46000",
-      "url": "https://www.mobiledokan.com/mobile/realme-15-pro-12gb-256gb",
-      "image_url": "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-      "serial_number": 14,
-      "last_updated": "2025-10-05 06:27:04",
-      "first_scraped": null,
-      "updated_on": "September 7, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.46,000",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-12gb-256gb"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.40,500",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro-256gb"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.37,600",
-          "url": "https://www.mobiledokan.com/mobile/realme-15-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Realme",
-          "Model": "15 Pro (12GB+256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "24 July 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v15",
-          "User Interface": "Realme UI 6.0",
-          "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4",
-          "CPU": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 722"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1280x2800 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "453 ppi",
-          "Screen to Body Ratio": "91.2%",
-          "Screen Protection": "Corning Gorilla Glass 7i",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "6500 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8192 x 6144 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "20 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Video Pro Mode",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 120 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.69 mm",
-          "Weight": "187 grams",
-          "Build": "Glass front (Gorilla Glass 7i), aluminum frame, fiberglass back or silicone polymer (eco leather) back",
-          "Colors": "Flowing Silver, Silk Purple, Velvet Green",
-          "Waterproof": "Water resistant (up to 2m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7000 mAh",
-          "Quick Charging": "80W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "SAR Value": "Head: 1.186 W/kg, Body: 0.464 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-flowing-silver-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp",
-        "https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official.webp"
       ]
     },
     {
