@@ -2,6 +2,129 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-16 12:34:17
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 5
+- **Visited phones**: 852
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### samsung
+- **Updated phone**: Samsung Galaxy M17 (image_url: https://www.mobiledokan.com/media/samsung-galaxy-m17-black-official-image.webp → https://www.mobiledokan.com/media/samsung-galaxy-m17-sapphire-black-official-image.webp, serial_number: 3 → 2, updated_on: October 8, 2025 → October 15, 2025, specifications.General.Release Date: Not announced yet → Exp. 13 October 2025, specifications.General.Status: Rumored → Upcoming, Added new field: specifications.Hardware & Software.User Interface, specifications.Hardware & Software.CPU: Octa core (2.4 GHz, Dual core, Cortex A78 + 2 GHz, Hexa Core, Cortex A55) → Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55), specifications.Display.Pixel Density: 387 ppi → 385 ppi, specifications.Display.Screen to Body Ratio: 85.86% → 86.0%, Added new field: specifications.Cameras.Primary Camera.OIS, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Weight, Added new field: specifications.Design.Build, specifications.Design.Colors: Black; other colors → Moonlight Silver, Sapphire Black, Added new field: specifications.Memory.Storage Type, Added new field: specifications.Memory.Expandable Memory, Added new field: specifications.Memory.RAM Type, Added new field: specifications.Network & Connectivity.SAR Value, specifications.Network & Connectivity.WLAN: Wi-Fi 5 (802.11 a/b/g/n/ac) → Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, specifications.Multimedia.Video: 1080p@30fps, 720p@30fps → 1080p@30fps, gyro-EIS, specifications.More.Features: Accelerometer, Gyroscope → Accelerometer, gyro, proximity, compass, gallery_images: List length changed from 2 to 9)
+- **Updated phone**: Samsung Galaxy S25 FE (serial_number: 2 → 3)
+- **Updated phone**: Samsung Galaxy F17 (price: 22000 → 22500, updated_on: September 13, 2025 → October 15, 2025, specifications.General.Release Date: Exp. 11 September 2025 → 11 September 2025, specifications.General.Status: Upcoming → Available)
+
+#### vivo
+- **Updated phone**: Vivo X300 Pro (updated_on: October 14, 2025 → October 15, 2025)
+
+#### xiaomi
+- **Updated phone**: Xiaomi 15T Pro (price: 90000 → 87000, updated_on: October 9, 2025 → October 15, 2025, variants[0]: {name: 12GB+512GB INT, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/xiaomi-15t-pro} → {name: 12GB+512GB INT, price: ৳.87,000, url: https://www.mobiledokan.com/mobile/xiaomi-15t-pro})
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 29 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 31 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 31 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-15 12:34:17
 
 ### Summary
@@ -1805,165 +1928,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### vivo
 - 30 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-05 12:31:34
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 39
-- **Visited phones**: 817
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### realme
-- Realme 15x
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 17 Pro (price: 180000 → 170000, updated_on: October 2, 2025 → October 4, 2025, variants[0]: {name: 256GB HK/AUS, price: ৳.180,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro} → {name: 256GB HK/AUS, price: ৳.170,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro}, variants[1]: {name: 512GB HK/AUS, price: ৳.223,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-512gb} → {name: 512GB HK/AUS, price: ৳.205,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-512gb})
-- **Updated phone**: Apple iPhone 17 Pro Max (price: 210000 → 200000, updated_on: September 23, 2025 → October 4, 2025, variants[0]: {name: 256GB HK/AUS, price: ৳.210,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max} → {name: 256GB HK/AUS, price: ৳.200,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max}, variants[1]: {name: 512GB HK/AUS, price: ৳.244,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max-512gb-hk-aus} → {name: 512GB HK/AUS, price: ৳.232,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max-512gb-hk-aus})
-- **Updated phone**: Apple iPhone 17 Air (price: 153000 → 135000, updated_on: October 2, 2025 → October 4, 2025, variants[0]: {name: 256GB AUS/SG, price: ৳.153,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-air} → {name: 256GB AUS/SG, price: ৳.135,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-air})
-- **Updated phone**: Apple iPhone Air (price: 153000 → 135000, updated_on: October 2, 2025 → October 4, 2025, variants[0]: {name: 256GB AUS/SG, price: ৳.153,000, url: https://www.mobiledokan.com/mobile/apple-iphone-air} → {name: 256GB AUS/SG, price: ৳.135,000, url: https://www.mobiledokan.com/mobile/apple-iphone-air})
-- **Updated phone**: Apple iPhone 17 Pro (512GB) (price: 223000 → 205000, updated_on: October 2, 2025 → October 4, 2025, variants[0]: {name: 512GB HK/AUS, price: ৳.223,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-512gb} → {name: 512GB HK/AUS, price: ৳.205,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-512gb}, variants[1]: {name: 256GB HK/AUS, price: ৳.180,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro} → {name: 256GB HK/AUS, price: ৳.170,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro})
-- **Updated phone**: Apple iPhone 17 Pro Max (512GB HK/AUS) (price: 244000 → 232000, updated_on: October 2, 2025 → October 4, 2025, variants[0]: {name: 512GB HK/AUS, price: ৳.244,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max-512gb-hk-aus} → {name: 512GB HK/AUS, price: ৳.232,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max-512gb-hk-aus}, variants[1]: {name: 256GB HK/AUS, price: ৳.210,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max} → {name: 256GB HK/AUS, price: ৳.200,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-pro-max})
-
-#### motorola
-- **Updated phone**: Motorola Moto G96 (price: 25500 → 24500, updated_on: September 4, 2025 → October 5, 2025)
-- **Updated phone**: Motorola Moto G96 (256GB) (price: 28500 → 28000, updated_on: September 4, 2025 → October 5, 2025)
-
-#### realme
-- **Updated phone**: Realme P3 Lite (serial_number: 1 → 2)
-- **Updated phone**: Realme 15T (serial_number: 2 → 3)
-- **Updated phone**: Realme Note 70 (serial_number: 3 → 4)
-- **Updated phone**: Realme Note 70 (128GB) (serial_number: 4 → 5)
-- **Updated phone**: Realme P4 (serial_number: 5 → 6)
-- **Updated phone**: Realme P4 Pro (serial_number: 6 → 7)
-- **Updated phone**: Realme P4 (256GB) (serial_number: 7 → 8)
-- **Updated phone**: Realme Note 70T (serial_number: 8 → 9)
-- **Updated phone**: Realme 15 (serial_number: 9 → 10)
-- **Updated phone**: Realme 15 (256GB) (serial_number: 10 → 11)
-- **Updated phone**: Realme 15 Pro (serial_number: 11 → 12)
-- **Updated phone**: Realme 15 Pro (256GB) (serial_number: 12 → 13)
-- **Updated phone**: Realme 15 Pro (12GB+256GB) (serial_number: 13 → 14)
-- **Updated phone**: Realme Narzo 80 Lite (serial_number: 14 → 15)
-- **Updated phone**: Realme GT7 Dream Edition (serial_number: 15 → 16)
-- **Updated phone**: Realme C73 (serial_number: 16 → 17)
-- **Updated phone**: Realme Neo7 Turbo (512GB) (serial_number: 17 → 18)
-- **Updated phone**: Realme Neo7 Turbo (16GB+512GB) (serial_number: 18 → 19)
-- **Updated phone**: Realme Neo7 Turbo (serial_number: 19 → 20)
-- **Updated phone**: Realme GT 7T (serial_number: 20 → 21)
-- **Updated phone**: Realme GT 7 (serial_number: 21 → 22)
-- **Updated phone**: Realme C71 (serial_number: 22 → 23)
-- **Updated phone**: Realme C71 (6GB RAM) (serial_number: 23 → 24)
-- **Updated phone**: Realme 14T (serial_number: 24 → 25)
-- **Updated phone**: Realme 14 (serial_number: 25 → 26)
-- **Updated phone**: Realme C75 5G (serial_number: 26 → 27)
-- **Updated phone**: Realme GT7 (China) (512GB) (serial_number: 27 → 28)
-- **Updated phone**: Realme GT7 (China) (serial_number: 28 → 29)
-- **Updated phone**: Realme C75x (serial_number: 29 → 30)
-- **Updated phone**: Realme Narzo 80x (serial_number: 30 → 31)
-- **Updated phone**: Realme Narzo 80x (8GB RAM) (serial_number: 31 → 32)
-
-## Visited
-
-#### apple
-- 26 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 30 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
 
 #### walton
 - 32 phones visited from first 1 page
