@@ -4,50 +4,62 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2025-10-16 06:29:54",
+    "last_updated": "2025-10-17 06:29:09",
     "total_phones": 230,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 8
   },
   "phones": [
     {
-      "id": "oppo_find_x9",
-      "name": "Oppo Find X9",
-      "price": "80000",
-      "url": "https://www.mobiledokan.com/mobile/oppo-find-x9",
-      "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-chasing-light-red-official-image.webp",
+      "id": "oppo_find_x9_pro",
+      "name": "Oppo Find X9 Pro",
+      "price": "100000",
+      "url": "https://www.mobiledokan.com/mobile/oppo-find-x9-pro",
+      "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-10-11 06:28:43",
-      "first_scraped": "2025-10-11 06:28:43",
-      "updated_on": "October 10, 2025",
+      "last_updated": "2025-10-17 06:29:09",
+      "first_scraped": null,
+      "updated_on": "October 17, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Oppo",
-          "Model": "Find X9",
+          "Model": "Find X9 Pro",
           "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
+          "Release Date": "Exp. 16 October 2025",
+          "Status": "Upcoming"
         },
         "Hardware & Software": {
           "Operating System": "Android",
           "OS Version": "v16",
-          "Chipset": "MediaTek Dimensity 9500 SoC"
+          "User Interface": "ColorOS 16",
+          "Chipset": "Mediatek Dimensity 9500",
+          "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Arm G1-Ultra"
         },
         "Display": {
           "Display Type": "LTPO AMOLED",
-          "Screen Size": "6.59 inches (16.74 cm)",
-          "Resolution": "1256x2760 px (FHD+)",
+          "Screen Size": "6.78 inches (109.9 cm)",
+          "Resolution": "1272x2772 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "450 ppi",
+          "Screen to Body Ratio": "91.1%",
           "Screen Protection": "Gorilla Glass",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3600 nits",
+          "HDR 10 / HDR + support": "HDR10+",
+          "Refresh Rate": "120 Hz",
           "Notch": "Punch-hole"
         },
         "Cameras": {
           "Primary Camera": {
             "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Resolution": "50 MP, f/1.5, Wide Angle, Primary Camera, 200 MP, f/2.1, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
             "Autofocus": "Yes",
             "OIS": "Yes",
             "Flash": "LED Flash",
@@ -55,38 +67,186 @@
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
+            "Aperture": "f/1.5",
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR",
-            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "60 fps, 240 fps, 480 fps"
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "7680x4320, 3840x2160",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
-          "Colors": "Chasing Light Red, Velvet Titanium, Frosty White, Fog Black",
+          "Height": "161.3 mm",
+          "Width": "76.5 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "224 grams",
+          "Build": "Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
+          "Colors": "Silk White, Titanium Charcoal, Velvet Red",
           "Waterproof": "Water resistant (up to 1.5m for 30 min)",
           "IP Rating": "IP68/IP69",
           "Ruggedness": "Dust proof"
         },
         "Battery": {
           "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7020 mAh",
+          "Capacity": "7500 mAh",
           "Wireless Charging": "50W wireless",
-          "Quick Charging": "80W wired",
+          "Quick Charging": "80W wired, 55W PD, 55W PPS, 80W UFCS",
+          "Reverse Charging": "10W reverse wireless",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 3.2"
         },
         "Memory": {
           "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
+          "Storage Type": "UFS 4.1",
           "USB OTG": "Yes",
-          "RAM": "12 GB"
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v6.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Ultrasonic",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-silk-white-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-silk-white-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-silk-white-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-titanium-charcoal-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp"
+      ]
+    },
+    {
+      "id": "oppo_find_x9",
+      "name": "Oppo Find X9",
+      "price": "50000",
+      "url": "https://www.mobiledokan.com/mobile/oppo-find-x9",
+      "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp",
+      "serial_number": 2,
+      "last_updated": "2025-10-17 06:29:09",
+      "first_scraped": null,
+      "updated_on": "October 16, 2025",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Oppo",
+          "Model": "Find X9",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 16 October 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v16",
+          "User Interface": "ColorOS 16",
+          "Chipset": "Mediatek Dimensity 9500",
+          "CPU": "Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "3 nm",
+          "GPU": "Arm G1-Ultra"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.59 inches (16.74 cm)",
+          "Resolution": "1256x2760 px (FHD+)",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "91.0%",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3600 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "120 fps, 240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "157 mm",
+          "Width": "73.9 mm",
+          "Thickness": "8 mm",
+          "Weight": "203 grams",
+          "Build": "Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
+          "Colors": "Space Black, Titanium Grey, Velvet Red, White",
+          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
+          "IP Rating": "IP68/IP69",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "7025 mAh",
+          "Wireless Charging": "50W wireless",
+          "Quick Charging": "80W wired, PD 55W, PPS, UFCS",
+          "Reverse Charging": "10W reverse wireless",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
@@ -114,7 +274,7 @@
         "Multimedia": {
           "Loudspeaker": "Yes",
           "Audio Jack": "USB Type-C",
-          "Video": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+          "Video": "4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
         },
         "More": {
           "Made By": "China",
@@ -122,8 +282,17 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-find-x9-chasing-light-red-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x9-chasing-light-red-official-image.webp"
+        "https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-space-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-velvet-red-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-find-x9-white-official-image.webp"
       ]
     },
     {
@@ -132,8 +301,8 @@
       "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/oppo-find-x9-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-plus-black-official-image.webp",
-      "serial_number": 2,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 3,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "September 1, 2025",
       "variants": [],
@@ -251,8 +420,8 @@
       "price": "34990",
       "url": "https://www.mobiledokan.com/mobile/oppo-a6-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-a6-pro-rosewood-red-official-image.webp",
-      "serial_number": 3,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 4,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "October 1, 2025",
       "variants": [],
@@ -401,8 +570,8 @@
       "price": "35000",
       "url": "https://www.mobiledokan.com/mobile/oppo-a6-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-a6-pro-5g-coral-pink-official-image.webp",
-      "serial_number": 4,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 5,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "September 27, 2025",
       "variants": [],
@@ -539,8 +708,8 @@
       "price": "35500",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31-pro",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-pro-gold-official-image.webp",
-      "serial_number": 5,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 6,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "October 8, 2025",
       "variants": [],
@@ -685,8 +854,8 @@
       "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-green-official-image.webp",
-      "serial_number": 6,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 7,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [],
@@ -823,8 +992,8 @@
       "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oppo-f31-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/oppo-f31-pro-plus-white-official-image.webp",
-      "serial_number": 7,
-      "last_updated": "2025-10-11 06:28:43",
+      "serial_number": 8,
+      "last_updated": "2025-10-17 06:29:09",
       "first_scraped": null,
       "updated_on": "September 9, 2025",
       "variants": [],
@@ -965,128 +1134,6 @@
         "https://www.mobiledokan.com/media/oppo-f31-pro-plus-blue-official-image.webp",
         "https://www.mobiledokan.com/media/oppo-f31-pro-plus-white-official-image.webp",
         "https://www.mobiledokan.com/media/oppo-f31-pro-plus-pink-official-image.webp"
-      ]
-    },
-    {
-      "id": "oppo_find_x9_pro",
-      "name": "Oppo Find X9 Pro",
-      "price": "90000",
-      "url": "https://www.mobiledokan.com/mobile/oppo-find-x9-pro",
-      "image_url": "https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp",
-      "serial_number": 8,
-      "last_updated": "2025-10-11 06:28:43",
-      "first_scraped": null,
-      "updated_on": "August 28, 2025",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "Find X9 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "Not announced yet",
-          "Status": "Rumored"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v16",
-          "User Interface": "ColorOS 16",
-          "Chipset": "Mediatek Dimensity 9500",
-          "Fabrication": "3 nm"
-        },
-        "Display": {
-          "Display Type": "LTPO AMOLED",
-          "Screen Size": "6.78 inches (109.9 cm)",
-          "Resolution": "1264x2780 px (FHD+)",
-          "Pixel Density": "450 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 200 MP, f/2.2, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 60 fps, 240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Build": "Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
-          "Colors": "Black; other colors",
-          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
-          "IP Rating": "IP68/IP69",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "7550 mAh",
-          "Wireless Charging": "50W wireless",
-          "Quick Charging": "80W wired, PD 55W, PPS, UFCS",
-          "Reverse Charging": "10W reverse wireless",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
-          "USB OTG": "Yes",
-          "RAM": "12 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v6.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Ultrasonic",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp"
       ]
     },
     {

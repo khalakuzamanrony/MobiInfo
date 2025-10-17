@@ -2,12 +2,199 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-17 12:33:30
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 3
+- **Updated phones**: 63
+- **Visited phones**: 791
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## New phones added
+
+#### honor
+- Honor Magic8
+- Honor Magic8 Pro
+
+#### samsung
+- Samsung Galaxy F17 (8GB RAM)
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor X7d (serial_number: 1 → 3)
+- **Updated phone**: Honor X5c Plus (serial_number: 2 → 4)
+- **Updated phone**: Honor X9d (serial_number: 3 → 5)
+- **Updated phone**: Honor Play10 (serial_number: 4 → 6)
+- **Updated phone**: Honor 400 Lite (serial_number: 5 → 7)
+- **Updated phone**: Honor Magic V5 (serial_number: 6 → 8)
+- **Updated phone**: Honor Play10C (serial_number: 7 → 9)
+- **Updated phone**: Honor X6c (serial_number: 8 → 10)
+- **Updated phone**: Honor 400 Pro (China) (serial_number: 9 → 11)
+- **Updated phone**: Honor 400 (China) (serial_number: 10 → 12)
+- **Updated phone**: Honor 400 (serial_number: 11 → 13)
+- **Updated phone**: Honor 400 Pro (serial_number: 12 → 14)
+- **Updated phone**: Honor 400 (512GB) (serial_number: 13 → 15)
+- **Updated phone**: Honor Power (512GB) (serial_number: 14 → 16)
+- **Updated phone**: Honor X70i (serial_number: 15 → 17)
+- **Updated phone**: Honor X8c (serial_number: 16 → 18)
+- **Updated phone**: Honor GT Pro (serial_number: 17 → 19)
+- **Updated phone**: Honor GT Pro (512GB) (serial_number: 18 → 20)
+- **Updated phone**: Honor GT Pro (16GB+512GB) (serial_number: 19 → 21)
+- **Updated phone**: Honor X60 GT (serial_number: 20 → 22)
+- **Updated phone**: Honor Power (serial_number: 21 → 23)
+- **Updated phone**: Honor Play 60 (serial_number: 22 → 24)
+- **Updated phone**: Honor X9c (512GB) (serial_number: 23 → 25)
+- **Updated phone**: Honor X9c (serial_number: 24 → 26)
+- **Updated phone**: Honor Magic V3 (serial_number: 25 → 27)
+- **Updated phone**: Honor X5b Plus (serial_number: 26 → 28)
+- **Updated phone**: Honor X5b (serial_number: 27 → 29)
+- **Updated phone**: Honor Magic7 Lite (serial_number: 28 → 30)
+- **Updated phone**: Honor X9c Smart (serial_number: 29 → 31)
+- **Updated phone**: Honor Magic7 RSR Porsche Design (serial_number: 30 → 32)
+
+#### oppo
+- **Updated phone**: Oppo Find X9 Pro (price: 90000 → 100000, image_url: https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp → https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp, serial_number: 8 → 1, updated_on: August 28, 2025 → October 17, 2025, specifications.General.Release Date: Not announced yet → Exp. 16 October 2025, specifications.General.Status: Rumored → Upcoming, Added new field: specifications.Hardware & Software.CPU, Added new field: specifications.Hardware & Software.CPU Cores, Added new field: specifications.Hardware & Software.Architecture, Added new field: specifications.Hardware & Software.GPU, specifications.Display.Resolution: 1264x2780 px (FHD+) → 1272x2772 px (FHD+), Added new field: specifications.Display.Aspect Ratio, Added new field: specifications.Display.Screen to Body Ratio, specifications.Display.Bezel-less Display: Yes with waterdrop notch → Yes with punch-hole display, Added new field: specifications.Display.Brightness, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.6, Wide Angle, Primary Camera, 200 MP, f/2.2, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera → 50 MP, f/1.5, Wide Angle, Primary Camera, 200 MP, f/2.1, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Aperture: f/1.6 → f/1.5, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR, specifications.Cameras.Primary Camera.Video Recording: 3840x2160, 1920x1080, 1280x720 → 3840x2160, 1920x1080, specifications.Cameras.Primary Camera.Video FPS: 30 fps, 60 fps, 240 fps → 120 fps, 240 fps, specifications.Cameras.Selfie Camera.Resolution: 32 MP, f/2.4, Wide Angle, Primary Camera → 50 MP, f/2.0, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Aperture: f/2.4 → f/2.0, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Thickness, Added new field: specifications.Design.Weight, specifications.Design.Colors: Black; other colors → Silk White, Titanium Charcoal, Velvet Red, specifications.Battery.Capacity: 7550 mAh → 7500 mAh, specifications.Battery.Quick Charging: 80W wired, PD 55W, PPS, UFCS → 80W wired, 55W PD, 55W PPS, 80W UFCS, specifications.Memory.Storage Type: UFS 4.0 → UFS 4.1, Added new field: specifications.Memory.RAM Type, specifications.Multimedia.Video: 4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision → 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG, gallery_images: List length changed from 2 to 10)
+- **Updated phone**: Oppo Find X9 (price: 80000 → 50000, image_url: https://www.mobiledokan.com/media/oppo-find-x9-chasing-light-red-official-image.webp → https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp, serial_number: 1 → 2, updated_on: October 10, 2025 → October 16, 2025, specifications.General.Release Date: Not announced yet → Exp. 16 October 2025, specifications.General.Status: Rumored → Upcoming, Added new field: specifications.Hardware & Software.User Interface, specifications.Hardware & Software.Chipset: MediaTek Dimensity 9500 SoC → Mediatek Dimensity 9500, Added new field: specifications.Hardware & Software.CPU, Added new field: specifications.Hardware & Software.CPU Cores, Added new field: specifications.Hardware & Software.Architecture, Added new field: specifications.Hardware & Software.Fabrication, Added new field: specifications.Hardware & Software.GPU, specifications.Display.Display Type: LTPO AMOLED → AMOLED, Added new field: specifications.Display.Pixel Density, Added new field: specifications.Display.Screen to Body Ratio, specifications.Display.Screen Protection: Gorilla Glass → Corning Gorilla Glass, Added new field: specifications.Display.Brightness, Added new field: specifications.Display.HDR 10 / HDR + support, Added new field: specifications.Display.Refresh Rate, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera → 50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Aperture: f/1.8 → f/1.6, specifications.Cameras.Primary Camera.Video FPS: 60 fps, 240 fps, 480 fps → 120 fps, 240 fps, specifications.Cameras.Selfie Camera.Resolution: 50 MP, f/2.4, Wide Angle, Primary Camera → 32 MP, f/2.4, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Video Recording: 7680x4320, 3840x2160 → 3840x2160, 1920x1080, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Thickness, Added new field: specifications.Design.Weight, Added new field: specifications.Design.Build, specifications.Design.Colors: Chasing Light Red, Velvet Titanium, Frosty White, Fog Black → Space Black, Titanium Grey, Velvet Red, White, specifications.Battery.Capacity: 7020 mAh → 7025 mAh, specifications.Battery.Quick Charging: 80W wired → 80W wired, PD 55W, PPS, UFCS, Added new field: specifications.Battery.Reverse Charging, specifications.Battery.USB Type-C: USB Type-C 3.2 → USB Type-C 2.0, specifications.Memory.Storage Type: UFS 4.0 → UFS 4.1, Added new field: specifications.Memory.RAM Type, specifications.Multimedia.Video: 8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS → 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG, gallery_images: List length changed from 2 to 11)
+- **Updated phone**: Oppo Find X9 Plus (serial_number: 2 → 3)
+- **Updated phone**: Oppo A6 Pro (serial_number: 3 → 4)
+- **Updated phone**: Oppo A6 Pro 5G (serial_number: 4 → 5)
+- **Updated phone**: Oppo F31 Pro (serial_number: 5 → 6)
+- **Updated phone**: Oppo F31 (serial_number: 6 → 7)
+- **Updated phone**: Oppo F31 Pro Plus (serial_number: 7 → 8)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy F17 (variants: List length changed from 0 to 2)
+- **Updated phone**: Samsung Galaxy Z Flip7 (512GB) (serial_number: 8 → 9)
+- **Updated phone**: Samsung Galaxy A17 (serial_number: 9 → 10)
+- **Updated phone**: Samsung Galaxy A17 (8GB RAM) (serial_number: 10 → 11)
+- **Updated phone**: Samsung Galaxy A17 (8GB+256GB) (serial_number: 11 → 12)
+- **Updated phone**: Samsung Galaxy F36 (serial_number: 12 → 13)
+- **Updated phone**: Samsung Galaxy Z Flip7 FE (serial_number: 13 → 14)
+- **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB) (serial_number: 14 → 15)
+- **Updated phone**: Samsung Galaxy Z Flip7 (serial_number: 15 → 16)
+- **Updated phone**: Samsung Galaxy M36 (serial_number: 16 → 17)
+- **Updated phone**: Samsung Galaxy Z Fold7 (512GB) (serial_number: 17 → 18)
+- **Updated phone**: Samsung Galaxy Z Fold7 (1TB) (serial_number: 18 → 19)
+- **Updated phone**: Samsung Galaxy Z Fold7 (serial_number: 19 → 20)
+- **Updated phone**: Samsung Galaxy M56 (256GB) (serial_number: 20 → 21)
+- **Updated phone**: Samsung Galaxy S25 Edge (serial_number: 21 → 22)
+- **Updated phone**: Samsung Galaxy S25 Edge (512GB) (serial_number: 22 → 23)
+- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (serial_number: 23 → 24)
+- **Updated phone**: Samsung Galaxy A26 (serial_number: 24 → 25)
+- **Updated phone**: Samsung Galaxy A36 (serial_number: 25 → 26)
+- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (serial_number: 26 → 27)
+- **Updated phone**: Samsung Galaxy A36 (8GB RAM) (serial_number: 27 → 28)
+- **Updated phone**: Samsung Galaxy A36 (8GB+256GB) (serial_number: 28 → 29)
+- **Updated phone**: Samsung Galaxy F56 (serial_number: 29 → 30)
+- **Updated phone**: Samsung Galaxy F56 (256GB) (serial_number: 30 → 31)
+- **Updated phone**: Samsung Galaxy XCover7 Pro (serial_number: 31 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 24 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 6 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-16 12:34:17
 
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -130,7 +317,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -310,7 +497,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -493,7 +680,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -658,7 +845,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -782,7 +969,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1048,7 +1235,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 10
 - **Failed brands**: 20
@@ -1222,7 +1409,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1411,7 +1598,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1594,7 +1781,7 @@ This document tracks all changes to the MobiInfo phone database.
 ### Summary
 
 - **Total Brands**: 75
-- **Total Phones Available**: 5322
+- **Total Phones Available**: 5325
 - **New brands**: 0
 - **Updated brands**: 30
 - **Failed brands**: 0
@@ -1735,196 +1922,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### umidigi
 - 13 phones visited from first 1 page
-
-#### vivo
-- 30 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-06 12:35:13
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 2
-- **Updated phones**: 65
-- **Visited phones**: 790
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### iqoo
-- iQOO 15
-
-#### samsung
-- Samsung Galaxy A07 (6GB+128GB)
-
-## Updates
-
-#### iqoo
-- **Updated phone**: iQOO Z10 Turbo Plus (serial_number: 1 → 2)
-- **Updated phone**: iQOO Z10 Turbo Plus (512GB) (serial_number: 2 → 3)
-- **Updated phone**: iQOO Z10R (serial_number: 3 → 4)
-- **Updated phone**: iQOO Z10 Lite (serial_number: 4 → 5)
-- **Updated phone**: iQOO Neo 10 (serial_number: 5 → 6)
-- **Updated phone**: iQOO Neo 10 (256GB) (serial_number: 6 → 7)
-- **Updated phone**: iQOO Neo 10 (12GB+256GB) (serial_number: 7 → 8)
-- **Updated phone**: iQOO Neo 10 (16GB+512GB) (serial_number: 8 → 9)
-- **Updated phone**: iQOO Neo10 Pro Plus (China) (512GB) (serial_number: 9 → 10)
-- **Updated phone**: iQOO Neo10 Pro Plus (China) (16GB+512GB) (serial_number: 10 → 11)
-- **Updated phone**: iQOO Neo10 Pro Plus (China) (serial_number: 11 → 12)
-- **Updated phone**: iQOO Z10 Turbo (serial_number: 12 → 13)
-- **Updated phone**: iQOO Z10 Turbo Pro (serial_number: 13 → 14)
-- **Updated phone**: iQOO Z10 Turbo (512GB) (serial_number: 14 → 15)
-- **Updated phone**: iQOO Z10 Turbo Pro (512GB) (serial_number: 15 → 16)
-- **Updated phone**: iQOO Z10x (serial_number: 16 → 17)
-- **Updated phone**: iQOO Z10x (8GB RAM) (serial_number: 17 → 18)
-- **Updated phone**: iQOO Z10x (8GB+256GB) (serial_number: 18 → 19)
-- **Updated phone**: iQOO Z10 (serial_number: 19 → 20)
-- **Updated phone**: iQOO Z10 (256GB) (serial_number: 20 → 21)
-- **Updated phone**: Vivo iQOO Neo 10R (serial_number: 21 → 22)
-- **Updated phone**: Vivo iQOO Neo 10R (256GB) (serial_number: 22 → 23)
-- **Updated phone**: Vivo iQOO Neo 10R (12GB+256GB) (serial_number: 23 → 24)
-- **Updated phone**: Vivo iQOO Z9 Turbo Endurance (serial_number: 24 → 25)
-- **Updated phone**: Vivo iQOO Neo10 Pro (China) (serial_number: 25 → 26)
-- **Updated phone**: Vivo iQOO Neo10 (China) (serial_number: 26 → 27)
-- **Updated phone**: Vivo iQOO 13 (serial_number: 27 → 28)
-- **Updated phone**: Vivo iQOO 13 (512GB) (serial_number: 28 → 29)
-- **Updated phone**: Vivo iQOO Z9 Turbo Plus (serial_number: 29 → 30)
-- **Updated phone**: Vivo iQOO Z9 Turbo Plus (16GB RAM) (serial_number: 30 → 31)
-- **Updated phone**: Vivo iQOO Z9s Pro (serial_number: 31 → 32)
-
-#### motorola
-- **Updated phone**: Motorola Moto G96 (variants[0]: {name: 128GB, price: ৳.25,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96} → {name: 128GB, price: ৳.24,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96}, variants[1]: {name: 256GB, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96-256gb} → {name: 256GB, price: ৳.28,000, url: https://www.mobiledokan.com/mobile/motorola-moto-g96-256gb})
-- **Updated phone**: Motorola Moto G96 (256GB) (variants[0]: {name: 256GB, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96-256gb} → {name: 256GB, price: ৳.28,000, url: https://www.mobiledokan.com/mobile/motorola-moto-g96-256gb}, variants[1]: {name: 128GB, price: ৳.25,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96} → {name: 128GB, price: ৳.24,500, url: https://www.mobiledokan.com/mobile/motorola-moto-g96})
-
-#### samsung
-- **Updated phone**: Samsung Galaxy A07 (price: 19500 → 13999, serial_number: 6 → 2, updated_on: September 17, 2025 → October 5, 2025, variants: List length changed from 0 to 2, specifications.General.Release Date: 25 August 2025 → 05 October 2025, specifications.Memory.Internal Storage: 256 GB → 64 GB, specifications.Memory.RAM: 8 GB → 4 GB, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 16)
-- **Updated phone**: Samsung Galaxy A17 4G (serial_number: 2 → 4)
-- **Updated phone**: Samsung Galaxy F17 (serial_number: 3 → 5)
-- **Updated phone**: Samsung Galaxy S25 FE (serial_number: 4 → 6)
-- **Updated phone**: Samsung Galaxy Z Flip7 (512GB) (serial_number: 5 → 7)
-- **Updated phone**: Samsung Galaxy A17 (serial_number: 7 → 8)
-- **Updated phone**: Samsung Galaxy F36 (serial_number: 8 → 9)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (serial_number: 9 → 10)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB) (serial_number: 10 → 11)
-- **Updated phone**: Samsung Galaxy Z Flip7 (serial_number: 11 → 12)
-- **Updated phone**: Samsung Galaxy M36 (serial_number: 12 → 13)
-- **Updated phone**: Samsung Galaxy Z Fold7 (512GB) (serial_number: 13 → 14)
-- **Updated phone**: Samsung Galaxy Z Fold7 (1TB) (serial_number: 14 → 15)
-- **Updated phone**: Samsung Galaxy Z Fold7 (serial_number: 15 → 16)
-- **Updated phone**: Samsung Galaxy M56 (256GB) (serial_number: 16 → 17)
-- **Updated phone**: Samsung Galaxy S25 Edge (serial_number: 17 → 18)
-- **Updated phone**: Samsung Galaxy S25 Edge (512GB) (serial_number: 18 → 19)
-- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (serial_number: 19 → 20)
-- **Updated phone**: Samsung Galaxy A26 (serial_number: 20 → 21)
-- **Updated phone**: Samsung Galaxy A36 (serial_number: 21 → 22)
-- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (serial_number: 22 → 23)
-- **Updated phone**: Samsung Galaxy A36 (8GB RAM) (serial_number: 23 → 24)
-- **Updated phone**: Samsung Galaxy A36 (8GB+256GB) (serial_number: 24 → 25)
-- **Updated phone**: Samsung Galaxy F56 (serial_number: 25 → 26)
-- **Updated phone**: Samsung Galaxy F56 (256GB) (serial_number: 26 → 27)
-- **Updated phone**: Samsung Galaxy XCover7 Pro (serial_number: 27 → 28)
-- **Updated phone**: Samsung Galaxy M56 (serial_number: 28 → 29)
-- **Updated phone**: Samsung Galaxy F16 (8GB RAM) (serial_number: 29 → 30)
-- **Updated phone**: Samsung Galaxy F16 (serial_number: 30 → 31)
-- **Updated phone**: Samsung Galaxy A56 (serial_number: 31 → 32)
-
-#### vivo
-- **Updated phone**: Vivo V60 Lite (price: 30000 → 34999, image_url: https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp → https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp, updated_on: September 28, 2025 → October 6, 2025, specifications.General.Release Date: Exp. 25 September 2025 → 05 October 2025, specifications.General.Status: Upcoming → Available, specifications.Hardware & Software.User Interface: Funtouch 15 → Funtouch OS 15, specifications.Display.Pixel Density: 388 ppi → 387 ppi, Added new field: specifications.Display.Brightness, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera → 50 MP, f/1.79, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Aperture: f/1.8 → f/1.79, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Night, Portrait, Photo, Video, Pano, Documents, Slo-mo, Time-lapse, Supermoon, Pro, Dual View, Live Photo, specifications.Cameras.Selfie Camera.Resolution: 32 MP, f/2.5, Wide Angle, Primary Camera → 32 MP, f/2.45, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Aperture: f/2.5 → f/2.45, specifications.Design.Height: 163.8 mm → 163.77 mm, specifications.Design.Width: 76.3 mm → 76.28 mm, specifications.Design.Thickness: 7.6 mm → 7.59 mm, specifications.Design.Build: Glass front, plastic back, plastic frame → Plastic composite sheet, Added new field: specifications.Memory.RAM Type, Removed field: specifications.Network & Connectivity.NFC, Added new field: specifications.Multimedia.Document Reader, gallery_images[0]: https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp → https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp, gallery_images[1]: https://www.mobiledokan.com/media/vivo-v60-lite-blue-official-image.webp → https://www.mobiledokan.com/media/vivo-v60-lite-black-official-image_1.webp)
-- **Updated phone**: Vivo V60 Lite 5G (price: 35000 → 43999, updated_on: September 28, 2025 → October 6, 2025, specifications.General.Release Date: Exp. 24 September 2025 → 05 October 2025, specifications.General.Status: Upcoming → Available, specifications.Hardware & Software.User Interface: Funtouch 15 → Funtouch OS 15, specifications.Display.Pixel Density: 388 ppi → 387 ppi, Added new field: specifications.Display.Brightness, Removed field: specifications.Display.HDR 10 / HDR + support, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera → 50 MP, f/1.79, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, specifications.Cameras.Primary Camera.Aperture: f/1.8 → f/1.79, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Night, Portrait, Photo, Video, Micro Movie, Pano, Ultra HD Document, Slo-mo, Time-lapse, Supermoon, Pro, Food, Dual View, specifications.Cameras.Primary Camera.Video Recording: 1920x1080 → 3840x2160, 1920x1080, specifications.Cameras.Selfie Camera.Resolution: 32 MP, f/2.5, Wide Angle, Primary Camera → 32 MP, f/2.45, Wide Angle, Primary Camera, specifications.Cameras.Selfie Camera.Aperture: f/2.5 → f/2.45, specifications.Design.Height: 163.8 mm → 163.77 mm, specifications.Design.Width: 76.3 mm → 76.28 mm, specifications.Design.Thickness: 7.6 mm → 7.59 mm, specifications.Design.Build: Glass front, plastic back, plastic frame → Plastic composite sheet, Added new field: specifications.Memory.RAM Type, Removed field: specifications.Network & Connectivity.NFC, specifications.Multimedia.Video: 1080p@30fps → 4K@30fps, 1080p@30fps, Added new field: specifications.Multimedia.Document Reader)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 30 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 1 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
 
 #### vivo
 - 30 phones visited from first 1 page
