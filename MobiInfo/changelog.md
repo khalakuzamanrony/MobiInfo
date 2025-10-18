@@ -2,6 +2,125 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-18 12:33:35
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 3
+- **Visited phones**: 854
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 17 Air (price: 135000 → 122000, updated_on: October 4, 2025 → October 17, 2025, variants[0]: {name: 256GB AUS/SG, price: ৳.135,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-air} → {name: 256GB AUS/USA, price: ৳.122,000, url: https://www.mobiledokan.com/mobile/apple-iphone-17-air})
+- **Updated phone**: Apple iPhone Air (price: 135000 → 122000, updated_on: October 4, 2025 → October 17, 2025, variants[0]: {name: 256GB AUS/SG, price: ৳.135,000, url: https://www.mobiledokan.com/mobile/apple-iphone-air} → {name: 256GB AUS/USA, price: ৳.122,000, url: https://www.mobiledokan.com/mobile/apple-iphone-air})
+
+#### motorola
+- **Updated phone**: Motorola Moto G06 Power (price: 18000 → 13000, updated_on: October 6, 2025 → October 18, 2025, specifications.General.Release Date: Exp. 07 October 2025 → 07 October 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 64 GB)
+
+## Visited
+
+#### apple
+- 30 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 31 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-17 12:33:30
 
 ### Summary
@@ -1764,167 +1883,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### umidigi
 - 14 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-07 12:34:01
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 36
-- **Visited phones**: 820
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### motorola
-- Motorola Moto G06 Power
-
-## Updates
-
-#### motorola
-- **Updated phone**: Motorola Moto G86 Power (serial_number: 2 → 3)
-- **Updated phone**: Motorola Moto G96 (serial_number: 3 → 4)
-- **Updated phone**: Motorola Moto G96 (256GB) (serial_number: 4 → 5)
-- **Updated phone**: Motorola Moto G86 (serial_number: 5 → 6)
-- **Updated phone**: Motorola Moto G56 (serial_number: 6 → 7)
-- **Updated phone**: Motorola Edge 60s (serial_number: 7 → 8)
-- **Updated phone**: Motorola Edge 60 Pro (12GB+512GB) (serial_number: 8 → 9)
-- **Updated phone**: Motorola Edge 60 Pro (serial_number: 9 → 10)
-- **Updated phone**: Motorola Edge 60 Pro (12GB RAM) (serial_number: 10 → 11)
-- **Updated phone**: Motorola Edge 60 (serial_number: 11 → 12)
-- **Updated phone**: Motorola Razr 60 Ultra (serial_number: 12 → 13)
-- **Updated phone**: Motorola Edge 60 Stylus (serial_number: 13 → 14)
-- **Updated phone**: Motorola Edge 60 Fusion (serial_number: 14 → 15)
-- **Updated phone**: Motorola Edge 60 Fusion (12GB RAM) (serial_number: 15 → 16)
-- **Updated phone**: Motorola Moto G Power (2025) (serial_number: 16 → 17)
-- **Updated phone**: Motorola Moto G 5G (2025) (serial_number: 17 → 18)
-- **Updated phone**: Motorola Moto G05 (serial_number: 18 → 19)
-- **Updated phone**: Motorola Moto G15 (serial_number: 19 → 20)
-- **Updated phone**: Motorola Moto E15 (serial_number: 20 → 21)
-- **Updated phone**: Motorola Moto G15 Power (serial_number: 21 → 22)
-- **Updated phone**: Motorola Moto G75 (serial_number: 22 → 23)
-- **Updated phone**: Motorola ThinkPhone 25 (serial_number: 23 → 24)
-- **Updated phone**: Motorola Moto G35 (serial_number: 24 → 25)
-- **Updated phone**: Motorola Moto S50 (serial_number: 25 → 26)
-- **Updated phone**: Motorola Edge 50 Neo (serial_number: 26 → 27)
-- **Updated phone**: Motorola Moto G45 (serial_number: 27 → 28)
-- **Updated phone**: Motorola Edge 50 (serial_number: 28 → 29)
-- **Updated phone**: Motorola S50 Neo (12GB RAM) (serial_number: 29 → 30)
-- **Updated phone**: Motorola S50 Neo (12GB+512GB) (serial_number: 30 → 31)
-- **Updated phone**: Motorola S50 Neo (serial_number: 31 → 32)
-
-#### realme
-- **Updated phone**: Realme 15T (serial_number: 3 → 1, updated_on: September 16, 2025 → October 6, 2025, specifications.General.Release Date: Exp. 02 September 2025 → Exp. 12 October 2025, specifications.Cameras.Selfie Camera.Video FPS: 60 fps → 60 fps, 30 fps, specifications.Design.Height: 158.4 mm → 158.36 mm, specifications.Design.Width: 75.2 mm → 75.19 mm, specifications.Design.Thickness: 7.8 mm → 7.79 mm, specifications.Design.Weight: 181 grams → 181 grams (Titanium & Blue), 183 grams (Silver), specifications.Battery.Quick Charging: 60W wired → 60W Fast Charging, 50% in 31 minutes, Removed field: specifications.Network & Connectivity.Infrared)
-- **Updated phone**: Realme 15x (serial_number: 1 → 2)
-- **Updated phone**: Realme P3 Lite (serial_number: 2 → 3)
-
-#### umidigi
-- **Updated phone**: Umidigi G9 5G (price: 14990 → 13990, updated_on: January 26, 2025 → October 7, 2025)
-
-#### vivo
-- **Updated phone**: Vivo V60 Lite (gallery_images: List length changed from 10 to 14)
-- **Updated phone**: Vivo V60 Lite 5G (image_url: https://www.mobiledokan.com/media/vivo-v60-lite-5g-vitality-pink-official-lmage.webp → https://www.mobiledokan.com/media/vivo-v60-lite-5g-titanium-mist-blue-official-image.webp, gallery_images: List length changed from 9 to 16)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 1 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 29 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 13 phones visited from first 1 page
-
-#### vivo
-- 30 phones visited from first 1 page
 
 #### walton
 - 32 phones visited from first 1 page

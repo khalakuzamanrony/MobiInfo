@@ -4,11 +4,11 @@
     "name": "motorola",
     "url": "https://www.mobiledokan.com/mobile-brand/motorola",
     "image_url": null,
-    "last_updated": "2025-10-17 06:32:56",
+    "last_updated": "2025-10-18 06:32:50",
     "total_phones": 154,
     "first_scraped": "2025-09-11 09:23:16",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -264,21 +264,21 @@
     {
       "id": "motorola_moto_g06_power",
       "name": "Motorola Moto G06 Power",
-      "price": "18000",
+      "price": "13000",
       "url": "https://www.mobiledokan.com/mobile/motorola-moto-g06-power",
       "image_url": "https://www.mobiledokan.com/media/motorola-moto-g06-power-pantone-laurel-oak-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-13 06:35:06",
+      "last_updated": "2025-10-18 06:32:50",
       "first_scraped": null,
-      "updated_on": "October 6, 2025",
+      "updated_on": "October 18, 2025",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Motorola",
           "Model": "Moto G06 Power",
           "Device Type": "Smartphone",
-          "Release Date": "Exp. 07 October 2025",
-          "Status": "Upcoming"
+          "Release Date": "07 October 2025",
+          "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
@@ -344,7 +344,7 @@
           "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "64 GB",
           "USB OTG": "Yes",
           "RAM": "4 GB"
         },
