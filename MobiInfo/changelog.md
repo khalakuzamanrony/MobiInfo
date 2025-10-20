@@ -2,6 +2,121 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-20 12:35:52
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Visited phones**: 856
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### honor
+- **Updated phone**: Honor 200 Pro (price: 71500 → 55000, updated_on: May 11, 2025 → October 19, 2025)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 31 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-19 12:35:15
 
 ### Summary
@@ -2464,195 +2579,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### zte
 - 26 phones visited from first 1 page
-
----
-
-## 2025-10-09 12:35:31
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 2
-- **Updated phones**: 66
-- **Visited phones**: 789
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### itel
-- itel A100C
-
-#### samsung
-- Samsung Galaxy M17
-
-## Updates
-
-#### iqoo
-- **Updated phone**: iQOO Neo 10 (price: 48000 → 50500, updated_on: August 5, 2025 → October 8, 2025, variants[0]: {name: 8GB+128GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10} → {name: 8GB+128GB IND, price: ৳.50,500, url: https://www.mobiledokan.com/mobile/iqoo-neo-10}, variants[1]: {name: 8GB+256GB IND, price: ৳.51,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb} → {name: 8GB+256GB IND, price: ৳.53,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb}, variants[2]: {name: 12GB+256GB IND, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.58,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb})
-- **Updated phone**: iQOO Neo 10 (256GB) (price: 51000 → 53900, updated_on: August 5, 2025 → October 8, 2025, variants[0]: {name: 8GB+256GB IND, price: ৳.51,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb} → {name: 8GB+256GB IND, price: ৳.53,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb}, variants[1]: {name: 8GB+128GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10} → {name: 8GB+128GB IND, price: ৳.50,500, url: https://www.mobiledokan.com/mobile/iqoo-neo-10}, variants[2]: {name: 12GB+256GB IND, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.58,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb})
-- **Updated phone**: iQOO Neo 10 (12GB+256GB) (price: 60000 → 58900, updated_on: June 15, 2025 → October 8, 2025, variants[0]: {name: 12GB+256GB IND, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.58,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb}, variants[1]: {name: 8GB+256GB IND, price: ৳.51,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb} → {name: 8GB+256GB IND, price: ৳.53,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb}, variants[2]: {name: 8GB+128GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10} → {name: 8GB+128GB IND, price: ৳.50,500, url: https://www.mobiledokan.com/mobile/iqoo-neo-10})
-- **Updated phone**: iQOO Neo 10 (16GB+512GB) (variants[1]: {name: 12GB+256GB IND, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.58,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-12gb-256gb}, variants[2]: {name: 8GB+256GB IND, price: ৳.51,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb} → {name: 8GB+256GB IND, price: ৳.53,900, url: https://www.mobiledokan.com/mobile/iqoo-neo-10-256gb}, variants[3]: {name: 8GB+128GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10} → {name: 8GB+128GB IND, price: ৳.50,500, url: https://www.mobiledokan.com/mobile/iqoo-neo-10})
-- **Updated phone**: Vivo iQOO Neo10 (China) (variants[1]: {name: 8GB+128GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/iqoo-neo-10} → {name: 8GB+128GB IND, price: ৳.50,500, url: https://www.mobiledokan.com/mobile/iqoo-neo-10})
-
-#### itel
-- **Updated phone**: Itel Super 26 Ultra (serial_number: 1 → 2)
-- **Updated phone**: Itel Super 26 Ultra (256GB) (serial_number: 2 → 3)
-- **Updated phone**: Itel A100 (serial_number: 3 → 4)
-- **Updated phone**: Itel Zeno 20 (serial_number: 4 → 5)
-- **Updated phone**: Itel s1 Pro (serial_number: 5 → 6)
-- **Updated phone**: Itel A90 (128GB) (serial_number: 6 → 7)
-- **Updated phone**: Itel A90 (serial_number: 7 → 8)
-- **Updated phone**: Itel City 100 (serial_number: 8 → 9)
-- **Updated phone**: Itel Power 70 (serial_number: 9 → 10)
-- **Updated phone**: Itel S25 Ultra (256GB) (serial_number: 10 → 11)
-- **Updated phone**: Itel S25 Ultra (serial_number: 11 → 12)
-- **Updated phone**: Itel S25 (serial_number: 12 → 13)
-- **Updated phone**: Itel Flip 1 (serial_number: 13 → 14)
-- **Updated phone**: Itel A80 (serial_number: 14 → 15)
-- **Updated phone**: Itel Zeno 10 (serial_number: 15 → 16)
-- **Updated phone**: Itel P65C (serial_number: 16 → 17)
-- **Updated phone**: Itel Vision 2S (serial_number: 17 → 18)
-- **Updated phone**: Itel A50C (serial_number: 18 → 19)
-- **Updated phone**: Itel P65 (serial_number: 19 → 20)
-- **Updated phone**: Itel Color Pro (serial_number: 20 → 21)
-- **Updated phone**: Itel A06 (serial_number: 21 → 22)
-- **Updated phone**: Itel A50 (3GB RAM) (serial_number: 22 → 23)
-- **Updated phone**: Itel A50 (4GB RAM) (serial_number: 23 → 24)
-- **Updated phone**: Itel A50 (serial_number: 24 → 25)
-- **Updated phone**: Itel S24 (serial_number: 25 → 26)
-- **Updated phone**: Itel RS4 (serial_number: 26 → 27)
-- **Updated phone**: Itel P55T (serial_number: 27 → 28)
-- **Updated phone**: Itel P55 Plus (serial_number: 28 → 29)
-- **Updated phone**: Itel P55 (8GB RAM) (serial_number: 29 → 30)
-- **Updated phone**: Itel P55 (serial_number: 30 → 31)
-- **Updated phone**: Itel 5262 Dual SIM (serial_number: 31 → 32)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy A07 (serial_number: 2 → 3)
-- **Updated phone**: Samsung Galaxy A07 (6GB+128GB) (serial_number: 3 → 4)
-- **Updated phone**: Samsung Galaxy A17 4G (serial_number: 4 → 5)
-- **Updated phone**: Samsung Galaxy F17 (serial_number: 5 → 6)
-- **Updated phone**: Samsung Galaxy S25 FE (serial_number: 6 → 7)
-- **Updated phone**: Samsung Galaxy Z Flip7 (512GB) (serial_number: 7 → 8)
-- **Updated phone**: Samsung Galaxy A17 (serial_number: 8 → 9)
-- **Updated phone**: Samsung Galaxy F36 (serial_number: 9 → 10)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (serial_number: 10 → 11)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (256GB) (serial_number: 11 → 12)
-- **Updated phone**: Samsung Galaxy Z Flip7 (serial_number: 12 → 13)
-- **Updated phone**: Samsung Galaxy M36 (serial_number: 13 → 14)
-- **Updated phone**: Samsung Galaxy Z Fold7 (512GB) (serial_number: 14 → 15)
-- **Updated phone**: Samsung Galaxy Z Fold7 (1TB) (serial_number: 15 → 16)
-- **Updated phone**: Samsung Galaxy Z Fold7 (serial_number: 16 → 17)
-- **Updated phone**: Samsung Galaxy M56 (256GB) (serial_number: 17 → 18)
-- **Updated phone**: Samsung Galaxy S25 Edge (serial_number: 18 → 19)
-- **Updated phone**: Samsung Galaxy S25 Edge (512GB) (serial_number: 19 → 20)
-- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (serial_number: 20 → 21)
-- **Updated phone**: Samsung Galaxy A26 (serial_number: 21 → 22)
-- **Updated phone**: Samsung Galaxy A36 (serial_number: 22 → 23)
-- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (serial_number: 23 → 24)
-- **Updated phone**: Samsung Galaxy A36 (8GB RAM) (serial_number: 24 → 25)
-- **Updated phone**: Samsung Galaxy A36 (8GB+256GB) (serial_number: 25 → 26)
-- **Updated phone**: Samsung Galaxy F56 (serial_number: 26 → 27)
-- **Updated phone**: Samsung Galaxy F56 (256GB) (serial_number: 27 → 28)
-- **Updated phone**: Samsung Galaxy XCover7 Pro (serial_number: 28 → 29)
-- **Updated phone**: Samsung Galaxy M56 (serial_number: 29 → 30)
-- **Updated phone**: Samsung Galaxy F16 (8GB RAM) (serial_number: 30 → 31)
-- **Updated phone**: Samsung Galaxy F16 (serial_number: 31 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 27 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 1 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
 
 ---
 
