@@ -2,6 +2,156 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-22 12:35:47
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 35
+- **Visited phones**: 822
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### google
+- **Updated phone**: Google Pixel 6A (price: 38000 → 31000, updated_on: August 8, 2024 → October 14, 2025)
+
+#### nokia
+- **Updated phone**: Nokia 110 (2023) (serial_number: 21 → 1)
+- **Updated phone**: Nokia C22 (serial_number: 30 → 2)
+- **Updated phone**: Nokia C2 2nd edition (serial_number: 33 → 3)
+- **Updated phone**: Nokia G21 (serial_number: 34 → 4)
+- **Updated phone**: Nokia C32 (serial_number: 29 → 5)
+- **Updated phone**: Nokia 8 V 5G UW (serial_number: 35 → 6)
+- **Updated phone**: Nokia G10 (serial_number: 36 → 7)
+- **Updated phone**: Nokia G10 (4GB/64GB) (serial_number: 37 → 8)
+- **Updated phone**: Nokia G20 (serial_number: 38 → 9)
+- **Updated phone**: Nokia 150 (serial_number: 39 → 10)
+- **Updated phone**: Nokia 800 Tough (serial_number: 40 → 11)
+- **Updated phone**: Nokia 105 (2019) (serial_number: 41 → 12)
+- **Updated phone**: Nokia 105 (serial_number: 42 → 13)
+- **Updated phone**: Nokia 5310 (2020) (serial_number: 43 → 14)
+- **Updated phone**: Nokia 220 4G (serial_number: 44 → 15)
+- **Updated phone**: Nokia 225 (serial_number: 45 → 16)
+- **Updated phone**: Nokia 2720 Flip (serial_number: 46 → 17)
+- **Updated phone**: Nokia 6300 4G (serial_number: 47 → 18)
+- **Updated phone**: Nokia 210 (serial_number: 48 → 19)
+- **Updated phone**: Nokia 8000 4G (serial_number: 49 → 20)
+- **Updated phone**: Nokia 3.4 (serial_number: 50 → 21)
+- **Updated phone**: Nokia 3.4 (4GB RAM) (serial_number: 51 → 22)
+- **Updated phone**: Nokia 6.2 (serial_number: 52 → 23)
+- **Updated phone**: Nokia 7.2 (serial_number: 53 → 24)
+- **Updated phone**: Nokia 4.2 (serial_number: 54 → 25)
+- **Updated phone**: Nokia 2.2 (serial_number: 55 → 26)
+- **Updated phone**: Nokia 2.2 (3GB/32GB) (serial_number: 56 → 27)
+- **Updated phone**: Nokia X71 (serial_number: 57 → 28)
+- **Updated phone**: Nokia 1 Plus (serial_number: 58 → 29)
+- **Updated phone**: Nokia 7 Plus (serial_number: 59 → 30)
+- **Updated phone**: Nokia 6.1 (serial_number: 60 → 31)
+- **Updated phone**: Nokia 6.1 Plus (serial_number: 61 → 32)
+
+#### nothing
+- **Updated phone**: Nothing Phone 3a (price: 32500 → 31000, updated_on: September 4, 2025 → October 21, 2025, variants[0]: {name: 8GB+128GB, price: ৳.32,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a} → {name: 8GB+128GB, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a}, variants[1]: {name: 8GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb} → {name: 8GB+256GB, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb})
+- **Updated phone**: Nothing Phone 3a (256GB) (variants[0]: {name: 8GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb} → {name: 8GB+256GB, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb}, variants[1]: {name: 8GB+128GB, price: ৳.32,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a} → {name: 8GB+128GB, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a})
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 31 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nothing
+- 16 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-21 12:35:49
 
 ### Summary
@@ -2288,272 +2438,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### zte
 - 32 phones visited from first 1 page
-
----
-
-## 2025-10-11 12:36:43
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 122
-- **Visited phones**: 734
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### oppo
-- Oppo Find X9
-
-## Updates
-
-#### asus
-- **Updated phone**: Asus Zenfone 12 Ultra (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Asus ROG Phone 9 Pro (gallery_images: List length changed from 0 to 9)
-- **Updated phone**: Asus ROG Phone 9 (price: None → 140000, updated_on: None → January 8, 2025)
-- **Updated phone**: Asus Zenfone 11 Ultra (price: None → 79900, updated_on: None → January 1, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More, gallery_images: List length changed from 0 to 12)
-- **Updated phone**: Asus ROG Phone 8 Pro (24GB+1TB) (variants: List length changed from 0 to 2, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More, gallery_images: List length changed from 0 to 7)
-- **Updated phone**: Asus ROG Phone 8 (updated_on: None → March 23, 2025)
-- **Updated phone**: Asus ROG Phone 5s (18GB/512GB) (updated_on: None → May 5, 2024)
-- **Updated phone**: Asus Zenfone 10 (256GB ROM) (updated_on: None → April 24, 2024)
-- **Updated phone**: Asus Rog Phone 7 (updated_on: None → November 6, 2024)
-
-#### google
-- **Updated phone**: Google Pixel 10 (price: None → 105000, updated_on: None → September 1, 2025, variants: List length changed from 0 to 2, gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Google Pixel 10 Pro (512GB) (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Google Pixel 10 Pro (updated_on: None → September 2, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More, gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Google Pixel 10 Pro Fold (gallery_images: List length changed from 0 to 2)
-- **Updated phone**: Google Pixel 9 Pro Fold (512GB) (variants: List length changed from 0 to 2)
-- **Updated phone**: Google Pixel 9 (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Google Pixel 9 Pro XL (256GB) (price: None → 115000, updated_on: None → December 16, 2024, variants: List length changed from 0 to 3, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Google Pixel 8 Pro (512GB) (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-
-#### helio
-- **Updated phone**: Helio 100 (12GB RAM) (price: None → 21999, updated_on: None → April 1, 2025, variants: List length changed from 0 to 2)
-- **Updated phone**: Symphony Helio 50 (price: None → 13499, updated_on: None → December 2, 2024, variants: List length changed from 0 to 2)
-- **Updated phone**: Helio S5 (gallery_images: List length changed from 0 to 5)
-- **Updated phone**: Helio S60 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Helio S25 (gallery_images: List length changed from 0 to 2)
-- **Updated phone**: Helio S20 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-
-#### honor
-- **Updated phone**: Honor 400 Lite (price: None → 26000, updated_on: None → August 28, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Honor X6c (gallery_images: List length changed from 0 to 19)
-- **Updated phone**: Honor 400 (China) (price: None → 52000, updated_on: None → October 1, 2025)
-- **Updated phone**: Honor Power (512GB) (variants: List length changed from 0 to 2, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Honor GT Pro (16GB+512GB) (variants: List length changed from 0 to 3)
-- **Updated phone**: Honor X9c (512GB) (variants: List length changed from 0 to 2)
-
-#### infinix
-- **Updated phone**: Infinix Hot 60i (8GB+256GB) (variants[1]: {name: 6GB+128GB, price: ৳.13,999, url: https://www.mobiledokan.com/mobile/infinix-hot-60i} → {name: 6GB+128GB, price: ৳.14,999, url: https://www.mobiledokan.com/mobile/infinix-hot-60i})
-- **Updated phone**: Infinix Hot 60i (price: 13999 → 14999, updated_on: July 3, 2025 → October 11, 2025, variants[0]: {name: 6GB+128GB, price: ৳.13,999, url: https://www.mobiledokan.com/mobile/infinix-hot-60i} → {name: 6GB+128GB, price: ৳.14,999, url: https://www.mobiledokan.com/mobile/infinix-hot-60i})
-
-#### lava
-- **Updated phone**: Lava Storm Lite (gallery_images: List length changed from 0 to 6)
-- **Updated phone**: Lava Bold N1 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Lava Bold N1 Pro (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Lava Shark (gallery_images: List length changed from 0 to 8)
-- **Updated phone**: Lava Bold (gallery_images: List length changed from 0 to 2)
-- **Updated phone**: Lava Hero Glow (price: None → 1130, updated_on: None → May 17, 2025)
-- **Updated phone**: Lava Yuva Smart (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Lava Yuva 4 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-
-#### meizu
-- **Updated phone**: Meizu Note 22 (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Meizu Note 21 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Meizu Lucky 08 (12GB RAM) (gallery_images: List length changed from 0 to 9)
-- **Updated phone**: Meizu Lucky 08 (price: None → 40000, updated_on: None → December 30, 2024, variants: List length changed from 0 to 2, gallery_images: List length changed from 0 to 9)
-- **Updated phone**: Meizu 21 Pro (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Meizu 21 (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Meizu 20 Pro (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Meizu 16T (gallery_images: List length changed from 0 to 8)
-- **Updated phone**: Meizu 16T Pro (gallery_images: List length changed from 0 to 9)
-- **Updated phone**: Meizu Note 9 (updated_on: None → August 7, 2024)
-- **Updated phone**: Meizu C9 (gallery_images: List length changed from 0 to 10)
-
-#### motorola
-- **Updated phone**: Motorola Edge 60 Fusion (price: 32500 → 29000, updated_on: July 22, 2025 → October 9, 2025, variants[0]: {name: 8GB+256GB, price: ৳.32,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion} → {name: 8GB+256GB, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion}, variants[1]: {name: 12GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion-12gb-ram} → {name: 12GB+256GB, price: ৳.33,700, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion-12gb-ram})
-- **Updated phone**: Motorola Edge 60 Fusion (12GB RAM) (price: 35500 → 33700, updated_on: July 22, 2025 → October 9, 2025, variants[0]: {name: 12GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion-12gb-ram} → {name: 12GB+256GB, price: ৳.33,700, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion-12gb-ram}, variants[1]: {name: 8GB+256GB, price: ৳.32,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion} → {name: 8GB+256GB, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-fusion})
-
-#### oppo
-- **Updated phone**: Oppo Find X9 Plus (serial_number: 1 → 2)
-- **Updated phone**: Oppo A6 Pro (serial_number: 2 → 3)
-- **Updated phone**: Oppo A6 Pro 5G (serial_number: 3 → 4)
-- **Updated phone**: Oppo F31 Pro (serial_number: 4 → 5)
-- **Updated phone**: Oppo F31 (serial_number: 5 → 6)
-- **Updated phone**: Oppo F31 Pro Plus (serial_number: 6 → 7)
-- **Updated phone**: Oppo Find X9 Pro (serial_number: 7 → 8)
-- **Updated phone**: Oppo A5i Pro (serial_number: 8 → 9)
-- **Updated phone**: Oppo A6 Max (serial_number: 9 → 10)
-- **Updated phone**: Oppo A5 4G (serial_number: 10 → 11)
-- **Updated phone**: Oppo A5 4G (8GB RAM) (serial_number: 11 → 12)
-- **Updated phone**: Oppo Reno14 F (serial_number: 12 → 13)
-- **Updated phone**: Oppo Reno14 (serial_number: 13 → 14)
-- **Updated phone**: Oppo K13 Turbo (serial_number: 14 → 15)
-- **Updated phone**: Oppo K13 Turbo Pro (serial_number: 15 → 16)
-- **Updated phone**: Oppo K13 Turbo (512GB) (serial_number: 16 → 17)
-- **Updated phone**: Oppo K13 Turbo Pro (512GB) (serial_number: 17 → 18)
-- **Updated phone**: Oppo K13x (serial_number: 18 → 19)
-- **Updated phone**: Oppo A5i (serial_number: 19 → 20)
-- **Updated phone**: Oppo Reno14 Pro (serial_number: 20 → 21)
-- **Updated phone**: Oppo Reno14 (512GB) (serial_number: 21 → 22)
-- **Updated phone**: Oppo Reno14 Pro (512GB) (serial_number: 22 → 23)
-- **Updated phone**: Oppo A5x (serial_number: 23 → 24)
-- **Updated phone**: Oppo A5x (128GB) (serial_number: 24 → 25)
-- **Updated phone**: Oppo A5 5G (serial_number: 25 → 26)
-- **Updated phone**: Oppo K13 (serial_number: 26 → 27)
-- **Updated phone**: Oppo K13 (256GB) (serial_number: 27 → 28)
-- **Updated phone**: Oppo Find X8s (serial_number: 28 → 29)
-- **Updated phone**: Oppo Find X8s Plus (serial_number: 29 → 30)
-- **Updated phone**: Oppo Find X8 Ultra (16GB+512GB) (serial_number: 30 → 31)
-- **Updated phone**: Oppo Find X8 Ultra (serial_number: 31 → 32)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy S25 FE (price: 80000 → 89999, serial_number: 7 → 2, updated_on: September 4, 2025 → October 10, 2025, specifications.General.Release Date: Exp. 04 September 2025 → 10 October 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 128 GB → 256 GB)
-- **Updated phone**: Samsung Galaxy M17 (serial_number: 2 → 3, gallery_images: List length changed from 0 to 2)
-- **Updated phone**: Samsung Galaxy A07 (serial_number: 3 → 4, updated_on: None → October 5, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Samsung Galaxy A07 (6GB+128GB) (serial_number: 4 → 5)
-- **Updated phone**: Samsung Galaxy A17 4G (price: None → 20000, serial_number: 5 → 6, updated_on: None → September 20, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More, gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Samsung Galaxy F17 (serial_number: 6 → 7)
-- **Updated phone**: Samsung Galaxy Z Flip7 FE (updated_on: None → August 2, 2025)
-- **Updated phone**: Samsung Galaxy M36 (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Samsung Galaxy Z Fold7 (updated_on: None → August 4, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Samsung Galaxy A26 (8GB+256GB) (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Samsung Galaxy A36 (12GB+256GB) (variants: List length changed from 0 to 4)
-
-#### sony
-- **Updated phone**: Sony Xperia 1 VII (updated_on: None → June 29, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Sony Xperia 5 IV (updated_on: None → May 13, 2025)
-- **Updated phone**: Sony Xperia 1 III (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Sony Xperia 10 III (variants: List length changed from 0 to 1, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Sony Xperia 1 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Sony Xperia 10 Plus (price: None → 41490, updated_on: None → November 2, 2024)
-- **Updated phone**: Sony Xperia L3 (gallery_images: List length changed from 0 to 11)
-- **Updated phone**: Sony Xperia XZ2 (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Sony Xperia XZ2 Compact (variants: List length changed from 0 to 1)
-
-#### tecno
-- **Updated phone**: Tecno Pova 7 Pro (gallery_images: List length changed from 0 to 19)
-- **Updated phone**: Tecno POP 10 (gallery_images: List length changed from 0 to 2)
-- **Updated phone**: Tecno Pova 7 Ultra (gallery_images: List length changed from 0 to 6)
-- **Updated phone**: Tecno Spark Go 2 (gallery_images: List length changed from 0 to 12)
-- **Updated phone**: Tecno Camon 40 (gallery_images: List length changed from 0 to 13)
-- **Updated phone**: Tecno Camon 40 Premier (gallery_images: List length changed from 0 to 10)
-- **Updated phone**: Tecno Phantom V Fold2 (price: None → 139999, updated_on: None → March 4, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: Tecno Camon 30S (gallery_images: List length changed from 0 to 12)
-
-#### vivo
-- **Updated phone**: Vivo S30 Pro Mini (price: 72000 → 60000, updated_on: June 7, 2025 → October 9, 2025, variants[0]: {name: 12GB+256GB CN, price: ৳.72,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini} → {name: 12GB+256GB CN, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini}, variants[1]: {name: 12GB+512GB CN, price: ৳.78,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb} → {name: 12GB+512GB CN, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb}, variants[2]: {name: 16GB+512GB CN, price: ৳.86,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb} → {name: 16GB+512GB CN, price: ৳.75,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb})
-- **Updated phone**: Vivo S30 Pro Mini (512GB) (price: 78000 → 70000, updated_on: June 7, 2025 → October 9, 2025, variants[0]: {name: 12GB+512GB CN, price: ৳.78,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb} → {name: 12GB+512GB CN, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb}, variants[1]: {name: 12GB+256GB CN, price: ৳.72,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini} → {name: 12GB+256GB CN, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini}, variants[2]: {name: 16GB+512GB CN, price: ৳.86,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb} → {name: 16GB+512GB CN, price: ৳.75,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb})
-- **Updated phone**: Vivo S30 Pro Mini (16GB+512GB) (price: 86000 → 75000, updated_on: June 7, 2025 → October 9, 2025, variants[0]: {name: 16GB+512GB CN, price: ৳.86,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb} → {name: 16GB+512GB CN, price: ৳.75,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-16gb-512gb}, variants[1]: {name: 12GB+512GB CN, price: ৳.78,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb} → {name: 12GB+512GB CN, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini-512gb}, variants[2]: {name: 12GB+256GB CN, price: ৳.72,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini} → {name: 12GB+256GB CN, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/vivo-s30-pro-mini})
-
-#### xiaomi
-- **Updated phone**: Xiaomi 15T (price: 90000 → 61000, updated_on: September 25, 2025 → October 9, 2025, variants: List length changed from 0 to 1, specifications.General.Release Date: Exp. 24 September 2025 → 24 September 2025, specifications.General.Status: Upcoming → Available)
-- **Updated phone**: Xiaomi 15T Pro (price: 130000 → 90000, updated_on: September 25, 2025 → October 9, 2025, variants: List length changed from 0 to 1, specifications.General.Release Date: Exp. 24 September 2025 → 24 September 2025, specifications.General.Status: Upcoming → Available, specifications.Memory.Internal Storage: 256 GB → 512 GB)
-
-#### zte
-- **Updated phone**: ZTE Blade A76 (price: None → 15000, updated_on: None → June 6, 2025, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: ZTE Blade V70 Design (price: None → 11999, updated_on: None → June 11, 2025, variants: List length changed from 0 to 2, Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: ZTE nubia RedMagic 10 Air (price: None → 88000, updated_on: None → June 14, 2025)
-- **Updated phone**: ZTE nubia Flip2 (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-- **Updated phone**: ZTE Blade V70 (gallery_images: List length changed from 0 to 2)
-- **Updated phone**: ZTE nubia Z70 Ultra (Added new field: specifications.General, Added new field: specifications.Hardware & Software, Added new field: specifications.Display, Added new field: specifications.Cameras, Added new field: specifications.Design, Added new field: specifications.Battery, Added new field: specifications.Memory, Added new field: specifications.Network & Connectivity, Added new field: specifications.Sensors & security, Added new field: specifications.Multimedia, Added new field: specifications.More)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 23 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 24 phones visited from first 1 page
-
-#### helio
-- 8 phones visited from first 1 page
-
-#### honor
-- 26 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 30 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 24 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 21 phones visited from first 1 page
-
-#### motorola
-- 30 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 21 phones visited from first 1 page
-
-#### sony
-- 23 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 24 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 29 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 30 phones visited from first 1 page
-
-#### zte
-- 26 phones visited from first 1 page
 
 ---
 
