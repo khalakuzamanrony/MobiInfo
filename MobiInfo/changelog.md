@@ -2,6 +2,116 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-23 12:33:21
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 857
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-22 12:35:47
 
 ### Summary
@@ -2305,130 +2415,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### vivo
 - 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-12 12:31:10
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 6
-- **Visited phones**: 851
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### motorola
-- **Updated phone**: Motorola Moto G86 Power (price: 28000 → 24000, updated_on: August 25, 2025 → October 11, 2025)
-- **Updated phone**: Motorola Edge 60 Pro (12GB+512GB) (price: 55500 → 53500, updated_on: August 30, 2025 → October 12, 2025, variants[0]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb}, variants[1]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[2]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro})
-- **Updated phone**: Motorola Edge 60 Pro (price: 41000 → 37500, updated_on: August 30, 2025 → October 12, 2025, variants[0]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro}, variants[1]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[2]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb})
-- **Updated phone**: Motorola Edge 60 Pro (12GB RAM) (variants[0]: {name: 12GB+256GB, price: ৳.45,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram} → {name: 12GB+256GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-ram}, variants[1]: {name: 8GB+256GB, price: ৳.41,000, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro} → {name: 8GB+256GB, price: ৳.37,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro}, variants[2]: {name: 12GB+512GB, price: ৳.55,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb} → {name: 12GB+512GB, price: ৳.53,500, url: https://www.mobiledokan.com/mobile/motorola-edge-60-pro-12gb-512gb})
-
-#### samsung
-- **Updated phone**: Samsung Galaxy S25 FE (updated_on: October 10, 2025 → October 11, 2025, gallery_images: List length changed from 12 to 24)
-
-#### vivo
-- **Updated phone**: Vivo V60 Lite (Added new field: specifications.Cameras.Primary Camera.Sensor)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 28 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 31 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 31 phones visited from first 1 page
 
 #### walton
 - 32 phones visited from first 1 page
