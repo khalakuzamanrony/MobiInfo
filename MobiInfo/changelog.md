@@ -2,6 +2,116 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-24 12:32:59
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 857
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-23 12:33:21
 
 ### Summary
@@ -2240,171 +2350,6 @@ This document tracks all changes to the MobiInfo phone database.
 - 32 phones visited from first 1 page
 
 #### symphony
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-13 12:35:48
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 44
-- **Visited phones**: 812
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### motorola
-- Motorola Edge 70
-
-## Updates
-
-#### motorola
-- **Updated phone**: Motorola Moto G06 Power (serial_number: 2 → 3)
-- **Updated phone**: Motorola Moto G86 Power (serial_number: 3 → 4)
-- **Updated phone**: Motorola Moto G96 (serial_number: 4 → 5)
-- **Updated phone**: Motorola Moto G96 (256GB) (serial_number: 5 → 6)
-- **Updated phone**: Motorola Moto G86 (serial_number: 6 → 7)
-- **Updated phone**: Motorola Moto G56 (serial_number: 7 → 8)
-- **Updated phone**: Motorola Edge 60s (serial_number: 8 → 9)
-- **Updated phone**: Motorola Edge 60 Pro (12GB+512GB) (serial_number: 9 → 10)
-- **Updated phone**: Motorola Edge 60 Pro (serial_number: 10 → 11)
-- **Updated phone**: Motorola Edge 60 Pro (12GB RAM) (price: 45500 → 43500, serial_number: 11 → 12, updated_on: August 30, 2025 → October 12, 2025)
-- **Updated phone**: Motorola Edge 60 (serial_number: 12 → 13)
-- **Updated phone**: Motorola Razr 60 Ultra (serial_number: 13 → 14)
-- **Updated phone**: Motorola Edge 60 Stylus (serial_number: 14 → 15)
-- **Updated phone**: Motorola Edge 60 Fusion (serial_number: 15 → 16)
-- **Updated phone**: Motorola Edge 60 Fusion (12GB RAM) (serial_number: 16 → 17)
-- **Updated phone**: Motorola Moto G Power (2025) (serial_number: 17 → 18)
-- **Updated phone**: Motorola Moto G 5G (2025) (serial_number: 18 → 19)
-- **Updated phone**: Motorola Moto G05 (serial_number: 19 → 20)
-- **Updated phone**: Motorola Moto G15 (serial_number: 20 → 21)
-- **Updated phone**: Motorola Moto E15 (serial_number: 21 → 22)
-- **Updated phone**: Motorola Moto G15 Power (serial_number: 22 → 23)
-- **Updated phone**: Motorola Moto G75 (serial_number: 23 → 24)
-- **Updated phone**: Motorola ThinkPhone 25 (serial_number: 24 → 25)
-- **Updated phone**: Motorola Moto G35 (serial_number: 25 → 26)
-- **Updated phone**: Motorola Moto S50 (serial_number: 26 → 27)
-- **Updated phone**: Motorola Edge 50 Neo (serial_number: 27 → 28)
-- **Updated phone**: Motorola Moto G45 (serial_number: 28 → 29)
-- **Updated phone**: Motorola Edge 50 (serial_number: 29 → 30)
-- **Updated phone**: Motorola S50 Neo (12GB RAM) (serial_number: 30 → 31)
-- **Updated phone**: Motorola S50 Neo (12GB+512GB) (serial_number: 31 → 32)
-
-#### realme
-- **Updated phone**: Realme 15 (price: 31500 → 36500, image_url: https://www.mobiledokan.com/media/realme-15-velvet-green-official-image.webp → https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp, serial_number: 10 → 1, updated_on: September 19, 2025 → October 12, 2025, variants: List length changed from 2 to 1, specifications.General.Release Date: 30 July 2025 → 12 October 2025, specifications.Display.Display Type: OLED → AMOLED, specifications.Display.Screen Size: 6.8 inches (17.27 cm) → 6.77 inches (17.2 cm), specifications.Display.Resolution: 1280x2800 px (FHD+) → 1280x2392 px (FHD+), specifications.Display.Screen to Body Ratio: 91.2% → 94%, specifications.Display.Brightness: 6500 nits → 4500 nits, Added new field: specifications.Cameras.Primary Camera.Sensor, specifications.Cameras.Primary Camera.Zoom: 20 x Digital Zoom → Digital Zoom, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape, specifications.Design.Height: 162.3 mm → 163.34 mm, specifications.Design.Width: 76.2 mm → 75.88 mm, specifications.Design.Weight: 187 grams → 185 grams, specifications.Design.Colors: Flowing Silver, Silk Pink, Velvet Green → Silk Pink, Suit Titanium, specifications.Memory.Internal Storage: 128 GB → 256 GB, specifications.Memory.RAM: 8 GB → 12 GB, Removed field: specifications.Network & Connectivity.SAR Value, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 12)
-- **Updated phone**: Realme 15 Pro (price: 37600 → 43500, image_url: https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official.webp → https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp, serial_number: 12 → 2, updated_on: September 7, 2025 → October 12, 2025, variants: List length changed from 3 to 1, specifications.General.Release Date: 24 July 2025 → 12 October 2025, Added new field: specifications.Cameras.Primary Camera.Sensor, specifications.Cameras.Primary Camera.Zoom: 20 x Digital Zoom → Digital Zoom, specifications.Design.Height: 162.3 mm → 162.26 mm, specifications.Design.Width: 76.2 mm → 76.15 mm, specifications.Design.Thickness: 7.69 mm → 7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green), specifications.Design.Colors: Flowing Silver, Silk Purple, Velvet Green → Flowing Silver, Velvet Green, specifications.Memory.Internal Storage: 128 GB → 256 GB, specifications.Memory.RAM: 8 GB → 12 GB, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 12)
-- **Updated phone**: Realme 15 (256GB) (price: 34000 → 36500, image_url: https://www.mobiledokan.com/media/realme-15-velvet-green-official-image_1.webp → https://www.mobiledokan.com/media/realme-15-silk-pink-official-color-image.webp, serial_number: 11 → 3, updated_on: September 19, 2025 → October 12, 2025, variants[0]: {name: 8GB+256GB IND, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/realme-15-256gb} → {name: 12GB+256GB GB, price: ৳.44,999, url: https://www.mobiledokan.com/mobile/realme-15-256gb}, variants[1]: {name: 8GB+128GB IND, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/realme-15} → {name: 12GB+256GB, price: ৳.44,999, url: https://www.mobiledokan.com/mobile/realme-15}, specifications.General.Release Date: 30 July 2025 → 12 October 2025, specifications.Display.Display Type: OLED → AMOLED, specifications.Display.Screen Size: 6.8 inches (17.27 cm) → 6.77 inches (17.2 cm), specifications.Display.Resolution: 1280x2800 px (FHD+) → 1280x2392 px (FHD+), specifications.Display.Screen to Body Ratio: 91.2% → 94%, specifications.Display.Brightness: 6500 nits → 4500 nits, Added new field: specifications.Cameras.Primary Camera.Sensor, specifications.Cameras.Primary Camera.Zoom: 20 x Digital Zoom → Digital Zoom, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape, specifications.Design.Height: 162.3 mm → 163.34 mm, specifications.Design.Width: 76.2 mm → 75.88 mm, specifications.Design.Colors: Flowing Silver, Silk Pink, Velvet Green → Silk Pink, Suit Titanium, specifications.Memory.RAM: 8 GB → 12 GB, Removed field: specifications.Network & Connectivity.SAR Value, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 12)
-- **Updated phone**: Realme 15T (price: 30000 → 32999, image_url: https://www.mobiledokan.com/media/realme-15t-silk-blue-official-image_1.webp → https://www.mobiledokan.com/media/realme-15t-suit-titanium-official-image_2.webp, serial_number: 1 → 4, updated_on: October 6, 2025 → October 12, 2025, specifications.General.Release Date: Exp. 12 October 2025 → 12 October 2025, specifications.General.Status: Upcoming → Available, specifications.Display.Screen to Body Ratio: 86.4% → 93%, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, AI Landscape, specifications.Design.Thickness: 7.79 mm → 7.79 mm (Titanium version) & 7.89 mm (Sliver version), specifications.Design.Weight: 181 grams (Titanium & Blue), 183 grams (Silver) → 181 grams (Titanium version), 183 grams (Silver version), specifications.Design.Colors: Silk Blue, Suit Titanium, Flowing Silver → Suit Titanium, Flowing Silver, specifications.Memory.Internal Storage: 128 GB → 256 GB, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 16 to 12)
-- **Updated phone**: Realme 15 Pro (256GB) (image_url: https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp → https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp, serial_number: 13 → 5, updated_on: September 7, 2025 → October 12, 2025, variants: List length changed from 3 to 1, specifications.General.Release Date: 24 July 2025 → 12 October 2025, Added new field: specifications.Cameras.Primary Camera.Sensor, specifications.Cameras.Primary Camera.Zoom: 20 x Digital Zoom → Digital Zoom, specifications.Design.Height: 162.3 mm → 162.26 mm, specifications.Design.Width: 76.2 mm → 76.15 mm, specifications.Design.Thickness: 7.69 mm → 7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green), specifications.Design.Colors: Flowing Silver, Silk Purple, Velvet Green → Flowing Silver, Velvet Green, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 12)
-- **Updated phone**: Realme 15 Pro (12GB+256GB) (price: 46000 → 43500, image_url: https://www.mobiledokan.com/media/realme-15-pro-silk-purple-official-image_1.webp → https://www.mobiledokan.com/media/realme-15-pro-velvet-green-official-image.webp, serial_number: 14 → 6, updated_on: September 7, 2025 → October 12, 2025, variants: List length changed from 3 to 0, specifications.General.Release Date: 24 July 2025 → 12 October 2025, Added new field: specifications.Cameras.Primary Camera.Sensor, specifications.Cameras.Primary Camera.Zoom: 20 x Digital Zoom → Digital Zoom, specifications.Design.Height: 162.3 mm → 162.26 mm, specifications.Design.Width: 76.2 mm → 76.15 mm, specifications.Design.Thickness: 7.69 mm → 7.79 mm (Flowing Silver) & 7.84 mm (Velvet Green), specifications.Design.Colors: Flowing Silver, Silk Purple, Velvet Green → Flowing Silver, Velvet Green, Added new field: specifications.Multimedia.Document Reader, gallery_images: List length changed from 10 to 12)
-- **Updated phone**: Realme 15x (serial_number: 2 → 7)
-- **Updated phone**: Realme P3 Lite (serial_number: 3 → 8)
-- **Updated phone**: Realme Note 70 (serial_number: 4 → 9)
-- **Updated phone**: Realme Note 70 (128GB) (serial_number: 5 → 10)
-- **Updated phone**: Realme P4 (serial_number: 6 → 11)
-- **Updated phone**: Realme P4 Pro (serial_number: 7 → 12)
-- **Updated phone**: Realme P4 (256GB) (serial_number: 8 → 13)
-- **Updated phone**: Realme Note 70T (serial_number: 9 → 14)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 1 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 18 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
 - 32 phones visited from first 1 page
 
 #### ulefone
