@@ -2,6 +2,116 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-25 12:31:59
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 857
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-24 12:32:59
 
 ### Summary
@@ -2177,189 +2287,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### umidigi
 - 14 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-14 12:34:12
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 2
-- **Updated phones**: 60
-- **Visited phones**: 795
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### honor
-- Honor Play10
-
-#### tecno
-- Tecno Spark 40 5G
-
-## Updates
-
-#### google
-- **Updated phone**: Google Pixel 6A (price: 38000 → 31000, updated_on: August 8, 2024 → October 14, 2025)
-
-#### honor
-- **Updated phone**: Honor 400 Lite (serial_number: 4 → 5)
-- **Updated phone**: Honor Magic V5 (serial_number: 5 → 6)
-- **Updated phone**: Honor Play10C (serial_number: 6 → 7)
-- **Updated phone**: Honor X6c (serial_number: 7 → 8)
-- **Updated phone**: Honor 400 Pro (China) (serial_number: 8 → 9)
-- **Updated phone**: Honor 400 (China) (serial_number: 9 → 10)
-- **Updated phone**: Honor 400 (serial_number: 10 → 11)
-- **Updated phone**: Honor 400 Pro (serial_number: 11 → 12)
-- **Updated phone**: Honor 400 (512GB) (serial_number: 12 → 13)
-- **Updated phone**: Honor Power (512GB) (serial_number: 13 → 14)
-- **Updated phone**: Honor X70i (serial_number: 14 → 15)
-- **Updated phone**: Honor X8c (serial_number: 15 → 16)
-- **Updated phone**: Honor GT Pro (serial_number: 16 → 17)
-- **Updated phone**: Honor GT Pro (512GB) (serial_number: 17 → 18)
-- **Updated phone**: Honor GT Pro (16GB+512GB) (serial_number: 18 → 19)
-- **Updated phone**: Honor X60 GT (serial_number: 19 → 20)
-- **Updated phone**: Honor Power (serial_number: 20 → 21)
-- **Updated phone**: Honor Play 60 (serial_number: 21 → 22)
-- **Updated phone**: Honor X9c (512GB) (serial_number: 22 → 23)
-- **Updated phone**: Honor X9c (serial_number: 23 → 24)
-- **Updated phone**: Honor Magic V3 (serial_number: 24 → 25)
-- **Updated phone**: Honor X5b Plus (serial_number: 25 → 26)
-- **Updated phone**: Honor X5b (serial_number: 26 → 27)
-- **Updated phone**: Honor Magic7 Lite (serial_number: 27 → 28)
-- **Updated phone**: Honor X9c Smart (serial_number: 28 → 29)
-- **Updated phone**: Honor Magic7 RSR Porsche Design (serial_number: 29 → 30)
-- **Updated phone**: Honor GT (serial_number: 30 → 31)
-- **Updated phone**: Honor 300 Pro (serial_number: 31 → 32)
-
-#### tecno
-- **Updated phone**: Tecno Pova Slim (serial_number: 1 → 2)
-- **Updated phone**: Tecno Pova 7 Pro (serial_number: 2 → 3)
-- **Updated phone**: Tecno Pova Curve (serial_number: 3 → 4)
-- **Updated phone**: Tecno Spark Go 5G (serial_number: 4 → 5)
-- **Updated phone**: Tecno Spark 40 Pro Plus (serial_number: 5 → 6)
-- **Updated phone**: Tecno Spark 40C (serial_number: 6 → 7)
-- **Updated phone**: Tecno POP 10 (serial_number: 7 → 8)
-- **Updated phone**: Tecno Spark 40 Pro (serial_number: 8 → 9)
-- **Updated phone**: Tecno Spark 40 (8GB+256GB) (serial_number: 9 → 10, variants: List length changed from 2 to 3)
-- **Updated phone**: Tecno Spark 40 (serial_number: 10 → 11, variants: List length changed from 2 to 3)
-- **Updated phone**: Tecno Camon 40 Pro 5G (serial_number: 11 → 12)
-- **Updated phone**: Tecno Pova 7 (serial_number: 12 → 13)
-- **Updated phone**: Tecno Pova 7 Ultra (serial_number: 13 → 14)
-- **Updated phone**: Tecno Spark Go 2 (4GB RAM) (serial_number: 14 → 15)
-- **Updated phone**: Tecno Spark Go 2 (serial_number: 15 → 16)
-- **Updated phone**: Tecno Camon 40 (serial_number: 16 → 17)
-- **Updated phone**: Tecno Camon 40 Pro (serial_number: 17 → 18)
-- **Updated phone**: Tecno Camon 40 (256GB) (serial_number: 18 → 19)
-- **Updated phone**: Tecno Camon 40 Premier (serial_number: 19 → 20)
-- **Updated phone**: Tecno Spark Slim (serial_number: 20 → 21)
-- **Updated phone**: Tecno Phantom V Fold2 (serial_number: 21 → 22)
-- **Updated phone**: Tecno Spark Go 1S (serial_number: 22 → 23)
-- **Updated phone**: Tecno Phantom V Fold2 Pro (serial_number: 23 → 24)
-- **Updated phone**: Tecno Spark 30 (serial_number: 24 → 25)
-- **Updated phone**: Tecno Spark 30 Pro (serial_number: 25 → 26)
-- **Updated phone**: Tecno Camon 30S (serial_number: 26 → 27)
-- **Updated phone**: Tecno Spark 30C 5G (serial_number: 27 → 28)
-- **Updated phone**: Tecno Spark 30 5G (serial_number: 28 → 29)
-- **Updated phone**: Tecno Pop 9 (serial_number: 29 → 30)
-- **Updated phone**: Tecno Pop 9 5G (serial_number: 30 → 31)
-- **Updated phone**: Tecno Phantom V Flip2 (serial_number: 31 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 31 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 3 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
 
 #### walton
 - 32 phones visited from first 1 page
