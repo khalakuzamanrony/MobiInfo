@@ -2,6 +2,116 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-26 12:32:25
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 857
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-25 12:31:59
 
 ### Summary
@@ -2113,186 +2223,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 31 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-15 12:34:17
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 3
-- **Updated phones**: 56
-- **Visited phones**: 798
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### realme
-- Realme 15 Pro Game of Thrones Limited Edition
-
-#### vivo
-- Vivo X300
-- Vivo X300 Pro
-
-## Updates
-
-#### google
-- **Updated phone**: Google Pixel 6A (variants[0]: {name: 6GB+128GB, price: ৳.38,000, url: https://www.mobiledokan.com/mobile/google-pixel-6a} → {name: 6GB+128GB, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/google-pixel-6a})
-
-#### realme
-- **Updated phone**: Realme 15x (serial_number: 7 → 8)
-- **Updated phone**: Realme P3 Lite (serial_number: 8 → 9)
-- **Updated phone**: Realme Note 70 (serial_number: 9 → 10)
-- **Updated phone**: Realme Note 70 (128GB) (serial_number: 10 → 11)
-- **Updated phone**: Realme P4 (serial_number: 11 → 12)
-- **Updated phone**: Realme P4 Pro (serial_number: 12 → 13)
-- **Updated phone**: Realme P4 (256GB) (serial_number: 13 → 14)
-- **Updated phone**: Realme Note 70T (serial_number: 14 → 15)
-- **Updated phone**: Realme Narzo 80 Lite (serial_number: 15 → 16)
-- **Updated phone**: Realme GT7 Dream Edition (serial_number: 16 → 17)
-- **Updated phone**: Realme C73 (serial_number: 17 → 18)
-- **Updated phone**: Realme Neo7 Turbo (512GB) (serial_number: 18 → 19)
-- **Updated phone**: Realme Neo7 Turbo (16GB+512GB) (serial_number: 19 → 20)
-- **Updated phone**: Realme Neo7 Turbo (serial_number: 20 → 21)
-- **Updated phone**: Realme GT 7T (serial_number: 21 → 22)
-- **Updated phone**: Realme GT 7 (serial_number: 22 → 23)
-- **Updated phone**: Realme C71 (serial_number: 23 → 24)
-- **Updated phone**: Realme C71 (6GB RAM) (serial_number: 24 → 25)
-- **Updated phone**: Realme 14T (serial_number: 25 → 26)
-- **Updated phone**: Realme 14 (serial_number: 26 → 27)
-- **Updated phone**: Realme C75 5G (serial_number: 27 → 28)
-- **Updated phone**: Realme GT7 (China) (512GB) (serial_number: 28 → 29)
-- **Updated phone**: Realme GT7 (China) (serial_number: 29 → 30)
-- **Updated phone**: Realme C75x (serial_number: 30 → 31)
-- **Updated phone**: Realme Narzo 80x (serial_number: 31 → 32)
-
-#### vivo
-- **Updated phone**: Vivo V60e (serial_number: 1 → 3)
-- **Updated phone**: Vivo V60 Lite (serial_number: 2 → 4)
-- **Updated phone**: Vivo V60 Lite 5G (serial_number: 3 → 5)
-- **Updated phone**: Vivo Y21d (serial_number: 4 → 6)
-- **Updated phone**: Vivo Y21d (8GB RAM) (serial_number: 5 → 7)
-- **Updated phone**: Vivo Y31 (serial_number: 6 → 8)
-- **Updated phone**: Vivo Y31 Pro (serial_number: 7 → 9)
-- **Updated phone**: Vivo V60 (serial_number: 8 → 10)
-- **Updated phone**: Vivo V60 (12GB RAM) (serial_number: 9 → 11)
-- **Updated phone**: Vivo V60 (16GB+512GB) (serial_number: 10 → 12)
-- **Updated phone**: Vivo T4 Pro (serial_number: 11 → 13)
-- **Updated phone**: Vivo Y29t (serial_number: 12 → 14)
-- **Updated phone**: Vivo T4R (serial_number: 13 → 15)
-- **Updated phone**: Vivo Y400 5G (serial_number: 14 → 16)
-- **Updated phone**: Vivo Y400 (serial_number: 15 → 17)
-- **Updated phone**: Vivo Y400 (256GB) (serial_number: 16 → 18)
-- **Updated phone**: Vivo X200 FE (serial_number: 17 → 19)
-- **Updated phone**: Vivo X Fold5 (serial_number: 18 → 20)
-- **Updated phone**: Vivo X Fold5 (512GB) (serial_number: 19 → 21)
-- **Updated phone**: Vivo X Fold5 (16GB+512GB) (serial_number: 20 → 22)
-- **Updated phone**: Vivo Y400 Pro (serial_number: 21 → 23)
-- **Updated phone**: Vivo T4 Ultra (serial_number: 22 → 24)
-- **Updated phone**: Vivo T4 Ultra (12GB RAM) (serial_number: 23 → 25)
-- **Updated phone**: Vivo S30 Pro Mini (serial_number: 24 → 26)
-- **Updated phone**: Vivo S30 Pro Mini (512GB) (serial_number: 25 → 27)
-- **Updated phone**: Vivo S30 Pro Mini (16GB+512GB) (serial_number: 26 → 28)
-- **Updated phone**: Vivo S30 (serial_number: 27 → 29)
-- **Updated phone**: Vivo Y19s Pro (serial_number: 28 → 30)
-- **Updated phone**: Vivo Y19s Pro (6GB RAM) (serial_number: 29 → 31)
-- **Updated phone**: Vivo Y300 GT (serial_number: 30 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 31 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 6 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
