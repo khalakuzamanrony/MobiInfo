@@ -2,6 +2,116 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-10-27 12:37:09
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5322
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 0
+- **Visited phones**: 857
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-10-26 12:32:25
 
 ### Summary
@@ -2100,129 +2210,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-16 12:34:17
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5322
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 5
-- **Visited phones**: 852
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### samsung
-- **Updated phone**: Samsung Galaxy M17 (image_url: https://www.mobiledokan.com/media/samsung-galaxy-m17-black-official-image.webp → https://www.mobiledokan.com/media/samsung-galaxy-m17-sapphire-black-official-image.webp, serial_number: 3 → 2, updated_on: October 8, 2025 → October 15, 2025, specifications.General.Release Date: Not announced yet → Exp. 13 October 2025, specifications.General.Status: Rumored → Upcoming, Added new field: specifications.Hardware & Software.User Interface, specifications.Hardware & Software.CPU: Octa core (2.4 GHz, Dual core, Cortex A78 + 2 GHz, Hexa Core, Cortex A55) → Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55), specifications.Display.Pixel Density: 387 ppi → 385 ppi, specifications.Display.Screen to Body Ratio: 85.86% → 86.0%, Added new field: specifications.Cameras.Primary Camera.OIS, Added new field: specifications.Design.Height, Added new field: specifications.Design.Width, Added new field: specifications.Design.Weight, Added new field: specifications.Design.Build, specifications.Design.Colors: Black; other colors → Moonlight Silver, Sapphire Black, Added new field: specifications.Memory.Storage Type, Added new field: specifications.Memory.Expandable Memory, Added new field: specifications.Memory.RAM Type, Added new field: specifications.Network & Connectivity.SAR Value, specifications.Network & Connectivity.WLAN: Wi-Fi 5 (802.11 a/b/g/n/ac) → Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, specifications.Multimedia.Video: 1080p@30fps, 720p@30fps → 1080p@30fps, gyro-EIS, specifications.More.Features: Accelerometer, Gyroscope → Accelerometer, gyro, proximity, compass, gallery_images: List length changed from 2 to 9)
-- **Updated phone**: Samsung Galaxy S25 FE (serial_number: 2 → 3)
-- **Updated phone**: Samsung Galaxy F17 (price: 22000 → 22500, updated_on: September 13, 2025 → October 15, 2025, specifications.General.Release Date: Exp. 11 September 2025 → 11 September 2025, specifications.General.Status: Upcoming → Available)
-
-#### vivo
-- **Updated phone**: Vivo X300 Pro (updated_on: October 14, 2025 → October 15, 2025)
-
-#### xiaomi
-- **Updated phone**: Xiaomi 15T Pro (price: 90000 → 87000, updated_on: October 9, 2025 → October 15, 2025, variants[0]: {name: 12GB+512GB INT, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/xiaomi-15t-pro} → {name: 12GB+512GB INT, price: ৳.87,000, url: https://www.mobiledokan.com/mobile/xiaomi-15t-pro})
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 29 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 31 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 31 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
