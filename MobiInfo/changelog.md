@@ -2,6 +2,121 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-11-10 12:36:51
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Visited phones**: 858
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 15 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-11-09 12:33:04
 
 ### Summary
@@ -1140,137 +1255,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### nothing
 - 5 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-10-30 12:35:02
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 12
-- **Visited phones**: 845
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### nothing
-- Nothing Phone 3a lite
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone 2a (specifications.General.Model: Phone 2a → Phone (2a))
-- **Updated phone**: Nothing Phone 1 (updated_on: August 7, 2025 → October 30, 2025, specifications.General.Model: Phone 1 → Phone (1))
-- **Updated phone**: Nothing Phone 2 (updated_on: September 9, 2024 → October 30, 2025, specifications.General.Model: Phone 2 → Phone (2))
-- **Updated phone**: Nothing Phone 2a Plus (updated_on: March 11, 2025 → October 30, 2025, variants[1]: {name: 12GB+256GB, price: ৳.39,000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram} → {name: 12GB+256GB, price: ৳.39,000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-}, specifications.General.Model: Phone 2a Plus → Phone (2a) Plus)
-- **Updated phone**: Nothing Phone 2 (512GB) (updated_on: September 16, 2024 → October 30, 2025)
-- **Updated phone**: Nothing Phone 2 (12GB RAM) (updated_on: September 17, 2024 → October 30, 2025)
-- **Updated phone**: Nothing Phone 2a (12GB+256GB) (updated_on: May 27, 2025 → October 30, 2025)
-- **Updated phone**: Nothing Phone 2a (256GB) (updated_on: March 19, 2025 → October 30, 2025, specifications.General.Model: Phone 2a (256GB) → Phone (2a) (256GB))
-- **Updated phone**: Nothing Phone 2a Plus (12GB RAM) (price: 39000 → None, updated_on: March 11, 2025 → None, variants: List length changed from 2 to 0, gallery_images: List length changed from 8 to 68)
-- **Updated phone**: Nothing Phone 3a (updated_on: October 21, 2025 → October 30, 2025, specifications.General.Model: Phone 3a → Phone (3a))
-- **Updated phone**: Nothing Phone 3a (256GB) (specifications.General.Model: Phone 3a (256GB) → Phone (3a) (256GB))
-- **Updated phone**: Nothing Phone 3a Pro (12GB RAM) (updated_on: August 14, 2025 → October 30, 2025)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 14 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 6 phones visited from first 1 page
 
 #### oneplus
 - 32 phones visited from first 1 page
