@@ -4,7 +4,7 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2025-11-18 06:35:07",
+    "last_updated": "2025-11-19 06:35:03",
     "total_phones": 87,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
@@ -4316,7 +4316,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
       "serial_number": 30,
-      "last_updated": "2025-11-18 06:35:07",
+      "last_updated": "2025-11-19 06:35:03",
       "first_scraped": null,
       "updated_on": "July 26, 2024",
       "variants": [
@@ -4450,7 +4450,18 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-back-side-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-power-baton-side-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image_1.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-graphene-blue-official-image_1.webp"
+      ]
     },
     {
       "id": "vivo_iqoo_neo9s_pro",
@@ -4459,7 +4470,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-9s-pro-red-offiicial-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-11-18 06:35:07",
+      "last_updated": "2025-11-19 06:35:03",
       "first_scraped": null,
       "updated_on": "December 16, 2024",
       "variants": [
@@ -4479,7 +4490,118 @@
           "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9s-pro-12gb-256gb"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Vivo",
+          "Model": "iQOO Neo9s Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "20 May 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "Origin OS",
+          "Chipset": "MediaTek Dimensity 9300 Plus",
+          "CPU": "Octa core (3.4 GHz, Single core, Cortex X4 + 2.85 GHz, Tri core, Cortex X4 + 2 GHz, Quad core, Cortex A720)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Immortalis-G720 MC12"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1260x2800 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "89.68 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1400 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.0, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), SuperMoon",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "163.5 mm",
+          "Width": "75.7 mm",
+          "Thickness": "8 mm",
+          "Weight": "190 grams",
+          "Colors": "Black, White, Red"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5160 mAh",
+          "Quick Charging": "Flash, 120W: 40 % in 9 minutes",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "8K, 4K, 1080p, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/vivo-iqoo-neo-9s-pro-red-offiicial-image.webp",
         "https://www.mobiledokan.com/media/vivo-iqoo-neo-9s-pro-red-offiicial-image.webp",
