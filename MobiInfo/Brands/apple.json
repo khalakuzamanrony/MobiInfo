@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-11-19 06:31:09",
+    "last_updated": "2025-11-20 06:30:18",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 9
   },
   "phones": [
     {
@@ -493,22 +493,22 @@
     {
       "id": "apple_iphone_13",
       "name": "Apple iPhone 13",
-      "price": "64500",
+      "price": "60000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "May 23, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "4GB+128GB",
-          "price": "৳.87,000",
+          "price": "৳.84,999",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-13"
         },
         {
           "name": "4GB+256GB",
-          "price": "৳.81,000",
+          "price": "৳.66,500",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-256gb"
         }
       ],
@@ -646,13 +646,13 @@
     {
       "id": "apple_iphone_14_pro",
       "name": "Apple iPhone 14 Pro",
-      "price": "121000",
+      "price": "100000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro",
       "image_url": "https://www.mobiledokan.com/media/171074490670V5y.webp",
       "serial_number": 5,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "6GB+128GB",
@@ -2484,13 +2484,13 @@
     {
       "id": "apple_iphone_12_pro",
       "name": "Apple iPhone 12 Pro",
-      "price": "44000",
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "May 24, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -2517,12 +2517,11 @@
           "Aspect Ratio": "19.5:9",
           "Pixel Density": "457 ppi",
           "Screen to Body Ratio": "86.89 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
+          "Screen Protection": "Ceramic Shield Glass",
+          "Bezel-less Display": "Yes",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
           "Brightness": "800 nits",
           "HDR 10 / HDR + support": "HDR10",
-          "Notch": "Yes",
           "Features": "Dolby Vision"
         },
         "Cameras": {
@@ -2593,7 +2592,7 @@
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+          "Face Unlock": "Face ID"
         },
         "Multimedia": {
           "Loudspeaker": "Yes",
@@ -3075,13 +3074,13 @@
     {
       "id": "apple_iphone_14_pro_max",
       "name": "Apple iPhone 14 Pro Max",
-      "price": "127999",
+      "price": "115000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "6GB+128GB",
@@ -3400,13 +3399,13 @@
     {
       "id": "apple_iphone_15_pro",
       "name": "Apple iPhone 15 Pro",
-      "price": "126000",
+      "price": "120000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "8GB+128GB",
@@ -3569,17 +3568,17 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
       "serial_number": 24,
-      "last_updated": "2025-11-02 06:28:59",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
       "updated_on": "November 1, 2025",
       "variants": [
         {
-          "name": "128GB IND",
+          "name": "6GB+128GB",
           "price": "৳.112,999",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-15"
         },
         {
-          "name": "256GB IND",
+          "name": "6GB+256GB",
           "price": "৳.171,999",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-256gb"
         }
@@ -3881,13 +3880,13 @@
     {
       "id": "apple_iphone_15_pro_256gb",
       "name": "Apple iPhone 15 Pro (256GB)",
-      "price": "136000",
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "8GB+256GB",
@@ -4046,13 +4045,13 @@
     {
       "id": "apple_iphone_15_pro_512gb",
       "name": "Apple iPhone 15 Pro (512GB)",
-      "price": "155000",
+      "price": "142000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "8GB+512GB",
@@ -4211,13 +4210,13 @@
     {
       "id": "apple_iphone_15_pro_1tb",
       "name": "Apple iPhone 15 Pro (1TB)",
-      "price": "165000",
+      "price": "155000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-1tb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2025-11-20 06:30:18",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": "November 19, 2025",
       "variants": [
         {
           "name": "8GB+1 TB",
