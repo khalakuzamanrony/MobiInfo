@@ -2,6 +2,206 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-11-21 12:35:28
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 80
+- **Visited phones**: 778
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 15 (variants[0]: {name: 6GB+128GB, price: ৳.112,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15} → {name: 128GB IND, price: ৳.112,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15}, variants[1]: {name: 6GB+256GB, price: ৳.171,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-256gb} → {name: 256GB IND, price: ৳.171,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-256gb})
+
+#### helio
+- **Updated phone**: Helio 100 (12GB RAM) (serial_number: 14 → 1)
+- **Updated phone**: Helio 100 (serial_number: 13 → 2)
+- **Updated phone**: Helio 90 (serial_number: 10 → 3)
+- **Updated phone**: Symphony Helio 50 (serial_number: 3 → 6)
+- **Updated phone**: Symphony Helio 50 (8GB RAM) (serial_number: 12 → 7)
+- **Updated phone**: Helio S5 (serial_number: 1 → 8)
+- **Updated phone**: Helio S60 (serial_number: 2 → 9)
+- **Updated phone**: Helio S10 (serial_number: 6 → 10)
+- **Updated phone**: Helio S2 (serial_number: 8 → 12)
+- **Updated phone**: Helio S20 (serial_number: 9 → 13)
+- **Updated phone**: Helio S1 (serial_number: 7 → 14)
+
+#### honor
+- **Updated phone**: Honor 200 (variants[1]: {name: 12GB+256GB, price: ৳.34,500, url: https://www.mobiledokan.com/mobile/honor-200-12gb-ram} → {name: 12GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/honor-200-12gb-ram})
+
+#### huawei
+- **Updated phone**: Huawei Pura 80 (serial_number: 33 → 1)
+- **Updated phone**: Huawei Pura 80 Pro (serial_number: 34 → 2)
+- **Updated phone**: Huawei Pura 80 Ultra (1TB) (serial_number: 35 → 3, variants[1]: {name: 16GB+512GB CN, price: ৳.132,000, url: https://www.mobiledokan.com/mobile/huawei-pura-80-ultra} → {name: 16GB+512GB CN, price: ৳.106,000, url: https://www.mobiledokan.com/mobile/huawei-pura-80-ultra})
+- **Updated phone**: Huawei Pura 80 Ultra (price: 132000 → 106000, serial_number: 36 → 4, updated_on: August 16, 2025 → October 25, 2025, variants[0]: {name: 16GB+512GB CN, price: ৳.132,000, url: https://www.mobiledokan.com/mobile/huawei-pura-80-ultra} → {name: 16GB+512GB CN, price: ৳.106,000, url: https://www.mobiledokan.com/mobile/huawei-pura-80-ultra})
+- **Updated phone**: Huawei Pura 80 Pro Plus (serial_number: 37 → 5)
+- **Updated phone**: Huawei Nova 14 (serial_number: 38 → 6)
+- **Updated phone**: Huawei Nova 14 Pro (serial_number: 39 → 7)
+- **Updated phone**: Huawei Nova Y73 (serial_number: 40 → 8)
+- **Updated phone**: Huawei Nova Y63 (serial_number: 41 → 9)
+- **Updated phone**: Huawei Enjoy 80 (serial_number: 42 → 10)
+- **Updated phone**: Huawei Nova Y72S (serial_number: 43 → 11)
+- **Updated phone**: Huawei Pura X (serial_number: 44 → 12)
+- **Updated phone**: Huawei Enjoy 70X (serial_number: 45 → 13)
+- **Updated phone**: Huawei Mate X6 (serial_number: 46 → 14)
+- **Updated phone**: Huawei Mate 70 RS Ultimate (serial_number: 47 → 15)
+- **Updated phone**: Huawei Mate 70 (serial_number: 48 → 16)
+- **Updated phone**: Huawei Mate 70 Pro (serial_number: 49 → 17)
+- **Updated phone**: Huawei Mate 70 Pro Plus (serial_number: 50 → 18)
+- **Updated phone**: Huawei Nova 13 (serial_number: 51 → 19)
+- **Updated phone**: Huawei Nova 13 Pro (serial_number: 52 → 20)
+- **Updated phone**: Huawei Mate XT Ultimate (serial_number: 53 → 21)
+- **Updated phone**: Huawei Mate XT Ultimate (512GB) (serial_number: 54 → 22)
+- **Updated phone**: Huawei Mate XT Ultimate (1TB) (serial_number: 55 → 23)
+- **Updated phone**: Huawei Mate X5 (serial_number: 56 → 24)
+- **Updated phone**: Huawei Mate 60 (serial_number: 57 → 25)
+- **Updated phone**: Huawei nova Flip (serial_number: 58 → 26)
+- **Updated phone**: Huawei Pura 70 (serial_number: 59 → 27)
+- **Updated phone**: Huawei Pura 70 (512GB) (serial_number: 60 → 28)
+- **Updated phone**: Huawei Pura 70 Pro Plus (serial_number: 23 → 29)
+- **Updated phone**: Huawei Pura 70 Ultra (serial_number: 24 → 30)
+- **Updated phone**: Huawei Mate 60 Pro Plus (serial_number: 9 → 31)
+- **Updated phone**: Huawei Mate 60 Pro (serial_number: 7 → 32)
+
+#### iqoo
+- **Updated phone**: Vivo iQOO Neo9 (price: 34500 → 31500, updated_on: June 14, 2025 → November 20, 2025, variants[0]: {name: 12GB+256GB, price: ৳.34,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9} → {name: 12GB+256GB, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9}, variants[1]: {name: 16GB+256GB, price: ৳.36,000, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-16gb-ram} → {name: 16GB+256GB, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-16gb-ram}, variants[2]: {name: 16GB+512GB, price: ৳.38,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-512gb} → {name: 16GB+512GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-512gb})
+- **Updated phone**: Vivo iQOO Neo9 (16GB RAM) (price: 36000 → 34000, updated_on: June 14, 2025 → November 20, 2025, variants[0]: {name: 16GB+256GB, price: ৳.36,000, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-16gb-ram} → {name: 16GB+256GB, price: ৳.34,000, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-16gb-ram}, variants[1]: {name: 12GB+256GB, price: ৳.34,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9} → {name: 12GB+256GB, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9}, variants[2]: {name: 16GB+512GB, price: ৳.38,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-512gb} → {name: 16GB+512GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-512gb})
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### tecno
+- **Updated phone**: Tecno Spark 20 Pro (serial_number: 33 → 1)
+- **Updated phone**: Tecno Pova 5G (serial_number: 34 → 2)
+- **Updated phone**: Tecno Spark 5 Pro (serial_number: 35 → 3)
+- **Updated phone**: Tecno Spark 20C (8GB RAM) (serial_number: 36 → 4)
+- **Updated phone**: Tecno Spark 6 (serial_number: 37 → 5)
+- **Updated phone**: Tecno Pop 7 (serial_number: 38 → 6)
+- **Updated phone**: Tecno Spark Go 2024 (serial_number: 39 → 7)
+- **Updated phone**: Tecno Spark 10 Pro (serial_number: 40 → 8)
+- **Updated phone**: Tecno Camon 20 (serial_number: 41 → 9)
+- **Updated phone**: Tecno Pova 4 (serial_number: 42 → 10)
+- **Updated phone**: Tecno Spark 20 Pro Plus (serial_number: 43 → 11)
+- **Updated phone**: Tecno Phantom V Flip 5G (serial_number: 44 → 12)
+- **Updated phone**: Tecno Pova 5 Pro (serial_number: 45 → 13)
+- **Updated phone**: Tecno Spark 10C (serial_number: 46 → 14)
+- **Updated phone**: Tecno Spark Go 2023 (serial_number: 47 → 15)
+- **Updated phone**: Tecno Camon 20 Pro (serial_number: 48 → 16)
+- **Updated phone**: Tecno Spark 6 Go (serial_number: 49 → 17)
+- **Updated phone**: Tecno Spark 20 (serial_number: 50 → 18)
+- **Updated phone**: Tecno Spark 10C (8GB RAM) (serial_number: 51 → 19)
+- **Updated phone**: Tecno Spark 10 Pro (8GB+128GB) (serial_number: 52 → 20)
+- **Updated phone**: Tecno Spark 20C (serial_number: 53 → 21)
+- **Updated phone**: Tecno Pova 4 Pro (serial_number: 54 → 22)
+- **Updated phone**: Tecno Camon 20 Pro 5G Mr Doodle Edition (serial_number: 55 → 23)
+- **Updated phone**: Tecno Spark 8 Pro (serial_number: 56 → 24)
+- **Updated phone**: Tecno Spark 8 Pro (6GB RAM) (serial_number: 57 → 25)
+- **Updated phone**: Tecno Camon 19 Neo (serial_number: 58 → 26)
+- **Updated phone**: Tecno Phantom X (serial_number: 59 → 27)
+- **Updated phone**: Tecno Pop 5 LTE (serial_number: 60 → 28)
+- **Updated phone**: Tecno Pop 5 LTE (3GB RAM) (serial_number: 61 → 29)
+- **Updated phone**: Tecno Pop 6 Pro (serial_number: 62 → 30)
+- **Updated phone**: Tecno Spark 8C (serial_number: 63 → 31)
+- **Updated phone**: Tecno Phantom V Fold (serial_number: 64 → 32)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 3 phones visited from first 1 page
+
+#### honor
+- 31 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 30 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-11-20 12:34:08
 
 ### Summary
@@ -1197,121 +1397,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### nothing
 - 16 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-11-10 12:36:51
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 1
-- **Visited phones**: 858
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
 
 #### oneplus
 - 32 phones visited from first 1 page

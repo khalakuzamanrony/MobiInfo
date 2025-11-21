@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-11-20 06:30:18",
+    "last_updated": "2025-11-21 06:31:29",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 9
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -3568,17 +3568,17 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
       "serial_number": 24,
-      "last_updated": "2025-11-20 06:30:18",
+      "last_updated": "2025-11-21 06:31:29",
       "first_scraped": null,
       "updated_on": "November 1, 2025",
       "variants": [
         {
-          "name": "6GB+128GB",
+          "name": "128GB IND",
           "price": "৳.112,999",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-15"
         },
         {
-          "name": "6GB+256GB",
+          "name": "256GB IND",
           "price": "৳.171,999",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-256gb"
         }
@@ -3618,6 +3618,15 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/1.9"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "48 MP, f/1.6, Wide Angle, Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
@@ -3633,15 +3642,6 @@
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
           }
         },
         "Design": {
