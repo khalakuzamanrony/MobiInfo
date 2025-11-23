@@ -4,7 +4,7 @@
     "name": "lenovo",
     "url": "https://www.mobiledokan.com/mobile-brand/lenovo",
     "image_url": null,
-    "last_updated": "2025-11-22 06:30:16",
+    "last_updated": "2025-11-23 06:31:56",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:21:36",
     "new_phones_this_run": 0,
@@ -424,233 +424,105 @@
       ]
     },
     {
-      "id": "lenovo_k6_enjoy",
-      "name": "Lenovo K6 Enjoy",
-      "price": "17990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-k6-enjoy",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+      "id": "lenovo_k5_play",
+      "name": "Lenovo K5 Play",
+      "price": "11990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-k5-play",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-11-22 06:30:16",
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
-      "updated_on": "October 25, 2024",
-      "variants": [],
+      "updated_on": "April 11, 2025",
+      "variants": [
+        {
+          "name": "2GB+16GB",
+          "price": "৳.11,990",
+          "url": "https://www.mobiledokan.com/mobile/lenovo-k5-play"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
-          "Model": "K6 Enjoy",
+          "Model": "K5 Play",
           "Device Type": "Smartphone",
-          "Release Date": "10 April 2019",
+          "Release Date": "04 April 2018",
           "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "Chipset": "Mediatek MT6762 Helio P22",
-          "CPU": "Octa-core 2.0 GHz Cortex-A53",
+          "OS Version": "v8.0",
+          "User Interface": "ZUI",
+          "Chipset": "Qualcomm Snapdragon 430 MSM8937",
+          "CPU": "Octa core, 1.4 GHz, Cortex A53",
           "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 505"
         },
         "Display": {
           "Display Type": "IPS LCD",
-          "Screen Size": "6.22 inches (15.8 cm)",
-          "Resolution": "720x1520 px (FHD+)",
-          "Aspect Ratio": "19:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "82.3%",
+          "Screen Size": "5.7 inches (14.48 cm)",
+          "Resolution": "720x1440 px (HD+)",
+          "Aspect Ratio": "18:9",
+          "Pixel Density": "282 ppi",
+          "Screen to Body Ratio": "75.14 %",
           "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
+          "Bezel-less Display": "Yes with notch",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
+          "Refresh Rate": "60 Hz"
         },
         "Cameras": {
           "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "12 MP f/2.0, Primary Camera, 8 MP, Telephoto Camera, 5 MP, Depth Camera",
-            "Autofocus": "Phase Detection autofocus",
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, f/2.4 Camera",
+            "Autofocus": "Yes",
             "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
+            "Image Resolution": "4128 x 3096 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
             "Camera Features": "Fixed Focus",
             "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
-          "Height": "156.4 mm",
-          "Width": "75 mm",
-          "Thickness": "7.9 mm",
-          "Weight": "161 grams",
-          "Colors": "Phantom Blue"
+          "Height": "153.7 mm",
+          "Width": "72.6 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "155 grams",
+          "Colors": "Black, Blue, Grey"
         },
         "Battery": {
           "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3300 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
+          "Capacity": "3000 mAh",
+          "Placement": "Non-removable"
         },
         "Memory": {
-          "Internal Storage": "128 GB",
+          "Internal Storage": "16 GB",
           "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
+          "Expandable Memory": "Up to 128 GB",
+          "RAM": "2 GB"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
           "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
           "EDGE": "Available",
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp"
-      ]
-    },
-    {
-      "id": "lenovo_z5_pro_gt",
-      "name": "Lenovo Z5 Pro GT",
-      "price": "38990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-z5-pro-gt",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
-      "serial_number": 5,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "October 25, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "Z5 Pro GT",
-          "Device Type": "Smartphone",
-          "Release Date": "16 January 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.1 (Oreo)",
-          "User Interface": "ZUI 11.5",
-          "Chipset": "Qualcomm SDM855 Snapdragon 855",
-          "CPU": "Octa-core (1x2.84 GHz Kryo 485 § 3x2.42 GHz Kryo 485 § 4x1.8 GHz Kryo 485)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "7 nm",
-          "GPU": "Adreno 640"
-        },
-        "Display": {
-          "Display Type": "Super AMOLED",
-          "Screen Size": "6.39 inches (16.23 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "403 ppi",
-          "Screen to Body Ratio": "88.34 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16 MP f/1.8, Primary Camera, 24 MP f/1.8 Wide Angle camera",
-            "Sensor": "IMX519, Exmor-RS CMOS Sensor",
-            "Autofocus": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "4616 x 3464 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16 MP f/2.2, Primary Camera, 8 MP Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "155.1 mm",
-          "Width": "73 mm",
-          "Thickness": "9.3 mm",
-          "Weight": "210 grams",
-          "Colors": "Black, Red"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3350 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 2.1",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
           "USB": "Mass storage device, USB charging, microUSB 2.0"
@@ -658,137 +530,6 @@
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
           "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos",
-          "Video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp"
-      ]
-    },
-    {
-      "id": "lenovo_z5s",
-      "name": "Lenovo Z5s",
-      "price": "19990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-z5s",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-      "serial_number": 6,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "April 12, 2025",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "Z5s",
-          "Device Type": "Smartphone",
-          "Release Date": "24 December 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "User Interface": "ZUI 10",
-          "Chipset": "Qualcomm SDM710 Snapdragon 710",
-          "CPU": "Octa-core 2.2 GHz Kryo 260",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 616"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.3 inches (16 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "409 ppi",
-          "Screen to Body Ratio": "83.5 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "16 MP, f/1.8, Primary Camera, 8 MP, f/2.4, Telephoto Camera, 5 MP, f/2.4, Depth Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "4616 x 3464 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "156.7 mm",
-          "Width": "74.5 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "172 grams",
-          "Colors": "Honey Orange, Gray, Titanium Crystal Blue",
-          "Waterproof": "Splash proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3300 mAh",
-          "Quick Charging": "15W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
           "Finger Sensor Position": "Rear-mounted",
           "Face Unlock": "Yes"
         },
@@ -801,154 +542,20 @@
         },
         "More": {
           "Made By": "China",
-          "Features": "Proximity sensor, Accelerometer"
+          "Features": "Accelerometer, proximity, compass"
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-orange-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5s-grey-image.webp"
-      ]
-    },
-    {
-      "id": "lenovo_s5_pro_gt",
-      "name": "Lenovo S5 Pro GT",
-      "price": "18990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-s5-pro-gt",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-      "serial_number": 7,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "October 25, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "S5 Pro GT",
-          "Device Type": "Smartphone",
-          "Release Date": "20 December 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.1 (Oreo)",
-          "User Interface": "ZUI 10",
-          "Chipset": "Qualcomm SDM660 Snapdragon 660",
-          "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Adreno 512"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.2 inches (15.75 cm)",
-          "Resolution": "1080x2246 px (FHD+)",
-          "Aspect Ratio": "18.7:9",
-          "Pixel Density": "402 ppi",
-          "Screen to Body Ratio": "83.05 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "20 MP f/2.6, Wide Angle Camera, 12 MP f/1.8, Primary Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "20 MP f/2.2, Primary Camera, 8 MP Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "154.5 mm",
-          "Width": "75.4 mm",
-          "Thickness": "7.7 mm",
-          "Weight": "170 grams",
-          "Colors": "Black, Blue, Gold"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3500 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-blue-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-gold-image.webp"
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-front-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-play-black-official-image.webp"
       ]
     },
     {
@@ -957,8 +564,8 @@
       "price": "12500",
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-      "serial_number": 8,
-      "last_updated": "2025-11-22 06:30:16",
+      "serial_number": 5,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
@@ -1090,13 +697,1017 @@
       ]
     },
     {
+      "id": "lenovo_zuk_z1",
+      "name": "Lenovo ZUK Z1",
+      "price": "21890",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-zuk-z1",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+      "serial_number": 6,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "ZUK Z1",
+          "Device Type": "Smartphone",
+          "Release Date": "01 September 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1.1 (Lollipop)",
+          "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
+          "CPU": "Quad-core 2.5 GHz Krait 400",
+          "CPU Cores": "4 Cores",
+          "Architecture": "32 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 330"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "1080x1920 px (FULL HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "69.13 %",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.2, Primary Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "155.7 mm",
+          "Width": "77.3 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "175 grams",
+          "Build": "Frame: Aluminium",
+          "Colors": "White, Dark Gray"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4100 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 526 Hours(3G)",
+          "Talk Time": "Up to 38 Hours(3G)",
+          "USB Type-C": "USB Type-C 3.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR3"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Front-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps, 1080p@60fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-side.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1.webp"
+      ]
+    },
+    {
+      "id": "lenovo_a2010",
+      "name": "Lenovo A2010",
+      "price": "6499",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-a2010",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+      "serial_number": 7,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "A2010",
+          "Device Type": "Smartphone",
+          "Release Date": "01 September 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1 (Lollipop)",
+          "Chipset": "MediaTek MT6735M",
+          "CPU": "Quad core, 1 GHz, Cortex A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T720 MP2"
+        },
+        "Display": {
+          "Display Type": "TFT",
+          "Screen Size": "4.5 inches (11.43 cm)",
+          "Resolution": "480x854 px",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "218 ppi",
+          "Screen to Body Ratio": "63.69 %",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "2592 x 1944 Pixels",
+            "Zoom": "Digital Zoom",
+            "Camera Features": "Auto Flash",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Camera Features": "Fixed Focus"
+          }
+        },
+        "Design": {
+          "Height": "131.5 mm",
+          "Width": "66.5 mm",
+          "Thickness": "9.9 mm",
+          "Weight": "137 grams",
+          "Colors": "Black, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "2000 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 360 Hours(3G) / Up to 372 Hours(2G)",
+          "Talk Time": "Up to 8 Hours(3G) / Up to 24 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "8 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "1 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "China"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
+        "https://www.mobiledokan.com/media/lenovo-a2010-white.webp"
+      ]
+    },
+    {
+      "id": "lenovo_a1000",
+      "name": "Lenovo A1000",
+      "price": "5599",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-a1000",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
+      "serial_number": 8,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "A1000",
+          "Device Type": "Smartphone",
+          "Release Date": "01 September 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.0 (Lollipop)",
+          "Chipset": "Spreadtrum SC7731",
+          "CPU": "Quad-core 1.3 GHz Cortex-A7",
+          "CPU Cores": "4 Cores",
+          "GPU": "Mali-400MP2"
+        },
+        "Display": {
+          "Display Type": "TFT",
+          "Screen Size": "4.0 inches (10.16 cm)",
+          "Resolution": "480x800 px",
+          "Aspect Ratio": "5.3",
+          "Pixel Density": "233 ppi",
+          "Screen to Body Ratio": "57.15 %",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Flash": "LED Flash",
+            "Image Resolution": "2592 x 1944 Pixels",
+            "Zoom": "Digital Zoom",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera",
+            "Camera Features": "Fixed Focus"
+          }
+        },
+        "Design": {
+          "Height": "124.5 mm",
+          "Width": "64 mm",
+          "Thickness": "10.6 mm",
+          "Weight": "132 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Onyx Black, Pearl White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "2000 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 288 Hours(3G) / Up to 288 Hours(2G)",
+          "Talk Time": "Up to 9 Hours(3G) / Up to 9 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "8 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "1 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Speed": "HSPA 21.1/5.76 Mbps",
+          "SAR Value": "Head: 0.662 W/kg, Body: 0.864 W/kg",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v2.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "China"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
+        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp"
+      ]
+    },
+    {
+      "id": "lenovo_vibe_p1m",
+      "name": "Lenovo Vibe P1m",
+      "price": "10990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-p1m",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+      "serial_number": 9,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "Vibe P1m",
+          "Device Type": "Smartphone",
+          "Release Date": "01 October 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1 (Lollipop)",
+          "Chipset": "Mediatek MT6735P",
+          "CPU": "Quad-core 1.0 GHz Cortex-A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T720MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "67.92 %",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.2, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "141 mm",
+          "Width": "71.8 mm",
+          "Thickness": "9.3 mm",
+          "Weight": "148 grams",
+          "Colors": "Onyx Black, Pearl White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "15W wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 492 Hours(4G) / Up to 564 Hours(3G) / Up to 456 Hours(2G)",
+          "Talk Time": "Up to 16 Hours(4G) / Up to 16 Hours(3G) / Up to 36.5 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "USB OTG": "Yes",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+          "SAR Value": "Head: 1.18 W/kg, Body: 0.915 W/kg",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-righ.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-on.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-white.webp"
+      ]
+    },
+    {
+      "id": "lenovo_a6000",
+      "name": "Lenovo A6000",
+      "price": "11999",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-a6000",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+      "serial_number": 10,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "A6000",
+          "Device Type": "Smartphone",
+          "Release Date": "28 January 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v4.4.4 (KitKat)",
+          "User Interface": "VIBE UI",
+          "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+          "CPU": "Quad-core 1.2 GHz Cortex-A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 306"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "69.67 %",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "6 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "720p",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "141 mm",
+          "Width": "70 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "128 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Black, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "2300 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 264 Hours(3G) / Up to 264 Hours(2G)",
+          "Talk Time": "Up to 13 Hours(3G) / Up to 22 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "8 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "1 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+          "SAR Value": "Head: 0.939 W/kg, Body: 0.822 W/kg",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Audio Features": "Dolby Digital, Dolby Digital Plus",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-right.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
+        "https://www.mobiledokan.com/media/lenovo-a6000.webp"
+      ]
+    },
+    {
+      "id": "lenovo_k5_note",
+      "name": "Lenovo K5 Note",
+      "price": "15490",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-k5-note",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+      "serial_number": 11,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "K5 Note",
+          "Device Type": "Smartphone",
+          "Release Date": "01 January 2016",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1 (Lollipop)",
+          "Chipset": "Mediatek MT6755 Helio P10",
+          "CPU": "Octa-core (4x1.8 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T860MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "1080x1920 px (FULL HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "72.31 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.2, Primary Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Camera Features": "Fixed Focus, Wide Angle Selfie",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "152 mm",
+          "Width": "75.7 mm",
+          "Thickness": "8.4 mm",
+          "Weight": "165 grams",
+          "Build": "Glass front, aluminum/plastic back, aluminum frame",
+          "Colors": "Silver, Gold, Gray"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3500 mAh",
+          "Placement": "Non-removable",
+          "Standby": "Up to 364 Hours(4G)",
+          "Talk Time": "Up to 22 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 802.11 b/g/n/ac",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes, with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Audio Features": "Dolby Atmos",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-back_1.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-right.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-on.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-k5-note-black.webp"
+      ]
+    },
+    {
+      "id": "lenovo_vibe_k5",
+      "name": "Lenovo Vibe K5",
+      "price": "8499",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-k5",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+      "serial_number": 12,
+      "last_updated": "2025-09-14 13:46:46",
+      "first_scraped": null,
+      "updated_on": "December 17, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "Vibe K5",
+          "Device Type": "Smartphone",
+          "Release Date": "13 June 2016",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1 (Lollipop)",
+          "Chipset": "Qualcomm MSM8929 Snapdragon 415",
+          "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 405"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "68.2 %",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.2, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Smile detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.8, Primary Camera",
+            "Aperture": "f/2.8"
+          }
+        },
+        "Design": {
+          "Height": "142 mm",
+          "Width": "71 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "150 grams",
+          "Build": "Glass front, aluminum/plastic back, aluminum frame",
+          "Colors": "Champagne Gold, Platinum Silver"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2750 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 330 Hours(3G)",
+          "Talk Time": "Up to 15.1 Hours(3G) / Up to 32 Hours(2G)"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "RAM": "2 GB",
+          "RAM Type": "LPDDR3"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes with stereo speakers",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Audio Features": "Dolby Atmos",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-right.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-black.webp",
+        "https://www.mobiledokan.com/media/lenovo-vibe-k5-silver.webp"
+      ]
+    },
+    {
+      "id": "lenovo_k3_note",
+      "name": "Lenovo K3 Note",
+      "price": "15000",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-k3-note",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+      "serial_number": 13,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "December 14, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "K3 Note",
+          "Device Type": "Smartphone",
+          "Release Date": "01 March 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.2 (Lollipop)",
+          "Chipset": "Mediatek MT6752",
+          "CPU": "Octa-core 1.7 GHz Cortex-A53",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T760MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "1080x1920 px (FULL HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "71.55 %",
+          "Screen Protection": "Asahi Dragontrail Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.4, Primary Camera",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "152.6 mm",
+          "Width": "76.2 mm",
+          "Thickness": "8 mm",
+          "Weight": "150 grams",
+          "Colors": "Onyx Black, Pearl White, Laser Yellow"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3000 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 750 Hours(3G)",
+          "Talk Time": "Up to 36 Hours(3G)"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "User Available Storage": "Up to 9.85 GB",
+          "Expandable Memory": "Up to 32 GB",
+          "USB OTG": "Yes",
+          "RAM": "2 GB",
+          "RAM Type": "LPDDR3"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, TD-SCDMA, LTE, TD-LTE",
+          "SAR Value": "Head: 1.590 W/kg, Body: 0.688 W/kg",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Gyroscope",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Audio Features": "Dolby Atmos",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-right.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-jack.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
+        "https://www.mobiledokan.com/media/lenovo-k3-note-yellow.webp"
+      ]
+    },
+    {
       "id": "lenovo_a5",
       "name": "Lenovo A5",
       "price": "9990",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a5-black-official-image.webp",
-      "serial_number": 9,
-      "last_updated": "2025-11-22 06:30:16",
+      "serial_number": 14,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
       "updated_on": "October 22, 2024",
       "variants": [
@@ -1236,8 +1847,8 @@
       "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/lenovo-a5-32gb",
       "image_url": "https://www.mobiledokan.com/media/lenovo-a5-gold-official-image.webp",
-      "serial_number": 10,
-      "last_updated": "2025-11-22 06:30:16",
+      "serial_number": 15,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [
@@ -1371,108 +1982,105 @@
       ]
     },
     {
-      "id": "lenovo_k5_play",
-      "name": "Lenovo K5 Play",
-      "price": "11990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-k5-play",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-      "serial_number": 11,
-      "last_updated": "2025-11-22 06:30:16",
+      "id": "lenovo_z5s",
+      "name": "Lenovo Z5s",
+      "price": "19990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-z5s",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+      "serial_number": 16,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
-      "updated_on": "April 11, 2025",
-      "variants": [
-        {
-          "name": "2GB+16GB",
-          "price": "৳.11,990",
-          "url": "https://www.mobiledokan.com/mobile/lenovo-k5-play"
-        }
-      ],
+      "updated_on": "April 12, 2025",
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
-          "Model": "K5 Play",
+          "Model": "Z5s",
           "Device Type": "Smartphone",
-          "Release Date": "04 April 2018",
+          "Release Date": "24 December 2018",
           "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
-          "OS Version": "v8.0",
-          "User Interface": "ZUI",
-          "Chipset": "Qualcomm Snapdragon 430 MSM8937",
-          "CPU": "Octa core, 1.4 GHz, Cortex A53",
+          "OS Version": "v9.0 (Pie)",
+          "User Interface": "ZUI 10",
+          "Chipset": "Qualcomm SDM710 Snapdragon 710",
+          "CPU": "Octa-core 2.2 GHz Kryo 260",
           "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Adreno 505"
+          "Fabrication": "10 nm",
+          "GPU": "Adreno 616"
         },
         "Display": {
           "Display Type": "IPS LCD",
-          "Screen Size": "5.7 inches (14.48 cm)",
-          "Resolution": "720x1440 px (HD+)",
-          "Aspect Ratio": "18:9",
-          "Pixel Density": "282 ppi",
-          "Screen to Body Ratio": "75.14 %",
-          "Screen Protection": "Gorilla Glass",
+          "Screen Size": "6.3 inches (16 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "409 ppi",
+          "Screen to Body Ratio": "83.5 %",
+          "Screen Protection": "Corning Gorilla Glass",
           "Bezel-less Display": "Yes with notch",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
           "Refresh Rate": "60 Hz"
         },
         "Cameras": {
           "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, f/2.4 Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
+            "Camera Setup": "Triple",
+            "Resolution": "16 MP, f/1.8, Primary Camera, 8 MP, f/2.4, Telephoto Camera, 5 MP, f/2.4, Depth Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "4616 x 3464 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Camera Features": "Fixed Focus",
+            "Resolution": "16 MP, f/2.0, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps",
             "Aperture": "f/2.0"
           }
         },
         "Design": {
-          "Height": "153.7 mm",
-          "Width": "72.6 mm",
+          "Height": "156.7 mm",
+          "Width": "74.5 mm",
           "Thickness": "7.8 mm",
-          "Weight": "155 grams",
-          "Colors": "Black, Blue, Grey"
+          "Weight": "172 grams",
+          "Colors": "Honey Orange, Gray, Titanium Crystal Blue",
+          "Waterproof": "Splash proof"
         },
         "Battery": {
           "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3000 mAh",
-          "Placement": "Non-removable"
+          "Capacity": "3300 mAh",
+          "Quick Charging": "15W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "16 GB",
+          "Internal Storage": "128 GB",
           "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 128 GB",
-          "RAM": "2 GB"
+          "Expandable Memory": "Up to 256 GB",
+          "RAM": "6 GB",
+          "RAM Type": "LPDDR4X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
           "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
           "EDGE": "Available",
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
           "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
+          "USB": "Mass storage device, USB charging"
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
@@ -1489,248 +2097,125 @@
         },
         "More": {
           "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
+          "Features": "Proximity sensor, Accelerometer"
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-front-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-play-black-official-image.webp"
+        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-orange-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5s-grey-image.webp"
       ]
     },
     {
-      "id": "lenovo_vibe_k5",
-      "name": "Lenovo Vibe K5",
-      "price": "8499",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-k5",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-      "serial_number": 12,
-      "last_updated": "2025-09-14 13:46:46",
+      "id": "lenovo_k6_enjoy",
+      "name": "Lenovo K6 Enjoy",
+      "price": "17990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-k6-enjoy",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+      "serial_number": 17,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
-      "updated_on": "December 17, 2024",
+      "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
-          "Model": "Vibe K5",
+          "Model": "K6 Enjoy",
           "Device Type": "Smartphone",
-          "Release Date": "13 June 2016",
+          "Release Date": "10 April 2019",
           "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
-          "OS Version": "v5.1 (Lollipop)",
-          "Chipset": "Qualcomm MSM8929 Snapdragon 415",
-          "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+          "OS Version": "v9.0 (Pie)",
+          "Chipset": "Mediatek MT6762 Helio P22",
+          "CPU": "Octa-core 2.0 GHz Cortex-A53",
           "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Adreno 405"
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8320"
         },
         "Display": {
           "Display Type": "IPS LCD",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "294 ppi",
-          "Screen to Body Ratio": "68.2 %",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Smile detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.8, Primary Camera",
-            "Aperture": "f/2.8"
-          }
-        },
-        "Design": {
-          "Height": "142 mm",
-          "Width": "71 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "150 grams",
-          "Build": "Glass front, aluminum/plastic back, aluminum frame",
-          "Colors": "Champagne Gold, Platinum Silver"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2750 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 330 Hours(3G)",
-          "Talk Time": "Up to 15.1 Hours(3G) / Up to 32 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR3"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro, SIM2: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes with stereo speakers",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "Dolby Atmos",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-right.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-gold.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-black.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-k5-silver.webp"
-      ]
-    },
-    {
-      "id": "lenovo_k5_note",
-      "name": "Lenovo K5 Note",
-      "price": "15490",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-k5-note",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-      "serial_number": 13,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 17, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "K5 Note",
-          "Device Type": "Smartphone",
-          "Release Date": "01 January 2016",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.1 (Lollipop)",
-          "Chipset": "Mediatek MT6755 Helio P10",
-          "CPU": "Octa-core (4x1.8 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T860MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "72.31 %",
+          "Screen Size": "6.22 inches (15.8 cm)",
+          "Resolution": "720x1520 px (FHD+)",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "270 ppi",
+          "Screen to Body Ratio": "82.3%",
           "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
+          "Bezel-less Display": "Yes with waterdrop notch",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
         },
         "Cameras": {
           "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Primary Camera",
+            "Camera Setup": "Triple",
+            "Resolution": "12 MP f/2.0, Primary Camera, 8 MP, Telephoto Camera, 5 MP, Depth Camera",
             "Autofocus": "Phase Detection autofocus",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
+            "Flash": "LED Flash",
+            "Image Resolution": "4000 x 3000 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
             "Resolution": "8 MP, Primary Camera",
-            "Camera Features": "Fixed Focus, Wide Angle Selfie",
-            "Video Recording": "1280x720",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
         },
         "Design": {
-          "Height": "152 mm",
-          "Width": "75.7 mm",
-          "Thickness": "8.4 mm",
-          "Weight": "165 grams",
-          "Build": "Glass front, aluminum/plastic back, aluminum frame",
-          "Colors": "Silver, Gold, Gray"
+          "Height": "156.4 mm",
+          "Width": "75 mm",
+          "Thickness": "7.9 mm",
+          "Weight": "161 grams",
+          "Colors": "Phantom Blue"
         },
         "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3500 mAh",
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3300 mAh",
+          "Quick Charging": "10W wired",
           "Placement": "Non-removable",
-          "Standby": "Up to 364 Hours(4G)",
-          "Talk Time": "Up to 22 Hours(2G)"
+          "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "32 GB",
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
           "Expandable Memory": "Up to 256 GB",
-          "RAM": "3 GB"
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
           "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
           "EDGE": "Available",
           "GPRS": "Available",
           "VoLTE": "Yes",
-          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 802.11 b/g/n/ac",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes, with A-GPS",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
+          "USB": "Mass storage device, USB charging"
         },
         "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
           "Fingerprint Sensor": "Yes",
           "Finger Sensor Position": "Rear-mounted",
           "Face Unlock": "Yes"
@@ -1738,139 +2223,9 @@
         "Multimedia": {
           "FM Radio": "Yes",
           "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
           "Audio Jack": "3.5 mm",
-          "Audio Features": "Dolby Atmos",
           "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-back_1.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-right.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-on.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-k5-note-black.webp"
-      ]
-    },
-    {
-      "id": "lenovo_vibe_p1m",
-      "name": "Lenovo Vibe P1m",
-      "price": "10990",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-vibe-p1m",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-      "serial_number": 14,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 17, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "Vibe P1m",
-          "Device Type": "Smartphone",
-          "Release Date": "01 October 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.1 (Lollipop)",
-          "Chipset": "Mediatek MT6735P",
-          "CPU": "Quad-core 1.0 GHz Cortex-A53",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T720MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "294 ppi",
-          "Screen to Body Ratio": "67.92 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "141 mm",
-          "Width": "71.8 mm",
-          "Thickness": "9.3 mm",
-          "Weight": "148 grams",
-          "Colors": "Onyx Black, Pearl White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4000 mAh",
-          "Quick Charging": "15W wired",
-          "Placement": "Non-removable",
-          "Standby": "Up to 492 Hours(4G) / Up to 564 Hours(3G) / Up to 456 Hours(2G)",
-          "Talk Time": "Up to 16 Hours(4G) / Up to 16 Hours(3G) / Up to 36.5 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "USB OTG": "Yes",
-          "RAM": "2 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro, SIM2: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-          "SAR Value": "Head: 1.18 W/kg, Body: 0.915 W/kg",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "720p@30fps"
         },
         "More": {
           "Made By": "China",
@@ -1878,106 +2233,237 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-righ.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-on.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m.webp",
-        "https://www.mobiledokan.com/media/lenovo-vibe-p1m-white.webp"
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k6-enjoy-official-image.webp"
       ]
     },
     {
-      "id": "lenovo_zuk_z1",
-      "name": "Lenovo ZUK Z1",
-      "price": "21890",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-zuk-z1",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-      "serial_number": 15,
-      "last_updated": "2025-11-22 06:30:16",
+      "id": "lenovo_s5_pro_gt",
+      "name": "Lenovo S5 Pro GT",
+      "price": "18990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-s5-pro-gt",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+      "serial_number": 18,
+      "last_updated": "2025-11-23 06:31:56",
       "first_scraped": null,
-      "updated_on": "December 17, 2024",
+      "updated_on": "October 25, 2024",
       "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
-          "Model": "ZUK Z1",
+          "Model": "S5 Pro GT",
           "Device Type": "Smartphone",
-          "Release Date": "01 September 2015",
+          "Release Date": "20 December 2018",
           "Status": "Available"
         },
         "Hardware & Software": {
           "Operating System": "Android",
-          "OS Version": "v5.1.1 (Lollipop)",
-          "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
-          "CPU": "Quad-core 2.5 GHz Krait 400",
-          "CPU Cores": "4 Cores",
-          "Architecture": "32 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Adreno 330"
+          "OS Version": "v8.1 (Oreo)",
+          "User Interface": "ZUI 10",
+          "Chipset": "Qualcomm SDM660 Snapdragon 660",
+          "CPU": "Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "14 nm",
+          "GPU": "Adreno 512"
         },
         "Display": {
           "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "69.13 %",
+          "Screen Size": "6.2 inches (15.75 cm)",
+          "Resolution": "1080x2246 px (FHD+)",
+          "Aspect Ratio": "18.7:9",
+          "Pixel Density": "402 ppi",
+          "Screen to Body Ratio": "83.05 %",
+          "Screen Protection": "Corning Gorilla Glass",
           "Bezel-less Display": "Yes with notch",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
           "Notch": "Yes"
         },
         "Cameras": {
           "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Primary Camera",
+            "Camera Setup": "Dual",
+            "Resolution": "20 MP f/2.6, Wide Angle Camera, 12 MP f/1.8, Primary Camera",
+            "Sensor": "CMOS image sensor",
             "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
+            "Flash": "LED Flash",
+            "Image Resolution": "4000 x 3000 Pixels",
             "Settings": "Exposure compensation, ISO control",
             "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           },
           "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Camera Features": "Fixed Focus",
+            "Camera Setup": "Dual",
+            "Resolution": "20 MP f/2.2, Primary Camera, 8 MP Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps",
             "Aperture": "f/2.2"
           }
         },
         "Design": {
-          "Height": "155.7 mm",
-          "Width": "77.3 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "175 grams",
-          "Build": "Frame: Aluminium",
-          "Colors": "White, Dark Gray"
+          "Height": "154.5 mm",
+          "Width": "75.4 mm",
+          "Thickness": "7.7 mm",
+          "Weight": "170 grams",
+          "Colors": "Black, Blue, Gold"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3500 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "6 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-black-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-blue-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-s5-pro-gt-gold-image.webp"
+      ]
+    },
+    {
+      "id": "lenovo_z5_pro_gt",
+      "name": "Lenovo Z5 Pro GT",
+      "price": "38990",
+      "url": "https://www.mobiledokan.com/mobile/lenovo-z5-pro-gt",
+      "image_url": "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
+      "serial_number": 19,
+      "last_updated": "2025-11-23 06:31:56",
+      "first_scraped": null,
+      "updated_on": "October 25, 2024",
+      "variants": [],
+      "specifications": {
+        "General": {
+          "Brand": "Lenovo",
+          "Model": "Z5 Pro GT",
+          "Device Type": "Smartphone",
+          "Release Date": "16 January 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1 (Oreo)",
+          "User Interface": "ZUI 11.5",
+          "Chipset": "Qualcomm SDM855 Snapdragon 855",
+          "CPU": "Octa-core (1x2.84 GHz Kryo 485 § 3x2.42 GHz Kryo 485 § 4x1.8 GHz Kryo 485)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Adreno 640"
+        },
+        "Display": {
+          "Display Type": "Super AMOLED",
+          "Screen Size": "6.39 inches (16.23 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "403 ppi",
+          "Screen to Body Ratio": "88.34 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP f/1.8, Primary Camera, 24 MP f/1.8 Wide Angle camera",
+            "Sensor": "IMX519, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "4616 x 3464 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP f/2.2, Primary Camera, 8 MP Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "155.1 mm",
+          "Width": "73 mm",
+          "Thickness": "9.3 mm",
+          "Weight": "210 grams",
+          "Colors": "Black, Red"
         },
         "Battery": {
           "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4100 mAh",
+          "Capacity": "3350 mAh",
           "Quick Charging": "18W wired",
           "Placement": "Non-removable",
-          "Standby": "Up to 526 Hours(3G)",
-          "Talk Time": "Up to 38 Hours(3G)",
-          "USB Type-C": "USB Type-C 3.0"
+          "USB Type-C": "USB Type-C 2.0"
         },
         "Memory": {
-          "Internal Storage": "64 GB",
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 2.1",
           "USB OTG": "Yes",
-          "RAM": "3 GB",
-          "RAM Type": "LPDDR3"
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
@@ -1987,526 +2473,40 @@
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
-          "Bluetooth": "v4.1",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
           "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Front-mounted",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
           "Face Unlock": "Yes"
         },
         "Multimedia": {
           "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps, 1080p@60fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-side.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1.webp"
-      ]
-    },
-    {
-      "id": "lenovo_a2010",
-      "name": "Lenovo A2010",
-      "price": "6499",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-a2010",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-      "serial_number": 16,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 17, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "A2010",
-          "Device Type": "Smartphone",
-          "Release Date": "01 September 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.1 (Lollipop)",
-          "Chipset": "MediaTek MT6735M",
-          "CPU": "Quad core, 1 GHz, Cortex A53",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T720 MP2"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "4.5 inches (11.43 cm)",
-          "Resolution": "480x854 px",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "218 ppi",
-          "Screen to Body Ratio": "63.69 %",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Zoom": "Digital Zoom",
-            "Camera Features": "Auto Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Camera Features": "Fixed Focus"
-          }
-        },
-        "Design": {
-          "Height": "131.5 mm",
-          "Width": "66.5 mm",
-          "Thickness": "9.9 mm",
-          "Weight": "137 grams",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "2000 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 360 Hours(3G) / Up to 372 Hours(2G)",
-          "Talk Time": "Up to 8 Hours(3G) / Up to 24 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "8 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "1 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 802.11 b/g/n",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Accelerometer"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "720p@30fps"
-        },
-        "More": {
-          "Made By": "China"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010.webp",
-        "https://www.mobiledokan.com/media/lenovo-a2010-white.webp"
-      ]
-    },
-    {
-      "id": "lenovo_a1000",
-      "name": "Lenovo A1000",
-      "price": "5599",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-a1000",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
-      "serial_number": 17,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 17, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "A1000",
-          "Device Type": "Smartphone",
-          "Release Date": "01 September 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.0 (Lollipop)",
-          "Chipset": "Spreadtrum SC7731",
-          "CPU": "Quad-core 1.3 GHz Cortex-A7",
-          "CPU Cores": "4 Cores",
-          "GPU": "Mali-400MP2"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "4.0 inches (10.16 cm)",
-          "Resolution": "480x800 px",
-          "Aspect Ratio": "5.3",
-          "Pixel Density": "233 ppi",
-          "Screen to Body Ratio": "57.15 %",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Zoom": "Digital Zoom",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera",
-            "Camera Features": "Fixed Focus"
-          }
-        },
-        "Design": {
-          "Height": "124.5 mm",
-          "Width": "64 mm",
-          "Thickness": "10.6 mm",
-          "Weight": "132 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Onyx Black, Pearl White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "2000 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 288 Hours(3G) / Up to 288 Hours(2G)",
-          "Talk Time": "Up to 9 Hours(3G) / Up to 9 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "8 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "1 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Mini, SIM2: Mini",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "Speed": "HSPA 21.1/5.76 Mbps",
-          "SAR Value": "Head: 0.662 W/kg, Body: 0.864 W/kg",
-          "WLAN": "Wi-Fi 802.11 b/g/n",
-          "Bluetooth": "v2.1",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Accelerometer"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "720p@30fps"
-        },
-        "More": {
-          "Made By": "China"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000.webp",
-        "https://www.mobiledokan.com/media/lenovo-a1000-w.webp"
-      ]
-    },
-    {
-      "id": "lenovo_k3_note",
-      "name": "Lenovo K3 Note",
-      "price": "15000",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-k3-note",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-      "serial_number": 18,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 14, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "K3 Note",
-          "Device Type": "Smartphone",
-          "Release Date": "01 March 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.2 (Lollipop)",
-          "Chipset": "Mediatek MT6752",
-          "CPU": "Octa-core 1.7 GHz Cortex-A53",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T760MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "71.55 %",
-          "Screen Protection": "Asahi Dragontrail Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.0, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.4, Primary Camera",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "152.6 mm",
-          "Width": "76.2 mm",
-          "Thickness": "8 mm",
-          "Weight": "150 grams",
-          "Colors": "Onyx Black, Pearl White, Laser Yellow"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3000 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 750 Hours(3G)",
-          "Talk Time": "Up to 36 Hours(3G)"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "User Available Storage": "Up to 9.85 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "USB OTG": "Yes",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR3"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro, SIM2: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, TD-SCDMA, LTE, TD-LTE",
-          "SAR Value": "Head: 1.590 W/kg, Body: 0.688 W/kg",
-          "WLAN": "Wi-Fi 802.11 b/g/n",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Gyroscope",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
           "Audio Features": "Dolby Atmos",
-          "Video": "1080p@30fps"
+          "Video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS"
         },
         "More": {
           "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
+          "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-right.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-jack.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note.webp",
-        "https://www.mobiledokan.com/media/lenovo-k3-note-yellow.webp"
-      ]
-    },
-    {
-      "id": "lenovo_a6000",
-      "name": "Lenovo A6000",
-      "price": "11999",
-      "url": "https://www.mobiledokan.com/mobile/lenovo-a6000",
-      "image_url": "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-      "serial_number": 19,
-      "last_updated": "2025-11-22 06:30:16",
-      "first_scraped": null,
-      "updated_on": "December 17, 2024",
-      "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lenovo",
-          "Model": "A6000",
-          "Device Type": "Smartphone",
-          "Release Date": "28 January 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v4.4.4 (KitKat)",
-          "User Interface": "VIBE UI",
-          "Chipset": "Qualcomm MSM8916 Snapdragon 410",
-          "CPU": "Quad-core 1.2 GHz Cortex-A53",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Adreno 306"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "294 ppi",
-          "Screen to Body Ratio": "69.67 %",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "6 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Digital image stabilization, Face detection, Touch to focus",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "141 mm",
-          "Width": "70 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "128 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "2300 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 264 Hours(3G) / Up to 264 Hours(2G)",
-          "Talk Time": "Up to 13 Hours(3G) / Up to 22 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "8 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "1 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Micro",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "Speed": "HSPA, LTE Cat4 150/50 Mbps",
-          "SAR Value": "Head: 0.939 W/kg, Body: 0.822 W/kg",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "Dolby Digital, Dolby Digital Plus",
-          "Video": "720p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-right.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000-a.webp",
-        "https://www.mobiledokan.com/media/lenovo-a6000.webp"
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-pro-gt-official-image.webp"
       ]
     }
   ]

@@ -2,6 +2,174 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-11-23 12:33:15
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 51
+- **Visited phones**: 808
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### google
+- **Updated phone**: Google Pixel 9 (variants[0]: {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-9} → {name: 12GB+128GB, price: ৳.68,999, url: https://www.mobiledokan.com/mobile/google-pixel-9}, variants[1]: {name: 12GB+256GB, price: ৳.80,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb} → {name: 12GB+256GB, price: ৳.74,999, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb})
+
+#### lenovo
+- **Updated phone**: Lenovo K5 Play (serial_number: 11 → 4)
+- **Updated phone**: Lenovo Z5 (serial_number: 8 → 5)
+- **Updated phone**: Lenovo ZUK Z1 (serial_number: 15 → 6)
+- **Updated phone**: Lenovo A2010 (serial_number: 16 → 7)
+- **Updated phone**: Lenovo A1000 (serial_number: 17 → 8)
+- **Updated phone**: Lenovo Vibe P1m (serial_number: 14 → 9)
+- **Updated phone**: Lenovo A6000 (serial_number: 19 → 10)
+- **Updated phone**: Lenovo K5 Note (serial_number: 13 → 11)
+- **Updated phone**: Lenovo K3 Note (serial_number: 18 → 13)
+- **Updated phone**: Lenovo A5 (serial_number: 9 → 14)
+- **Updated phone**: Lenovo A5 (32GB) (serial_number: 10 → 15)
+- **Updated phone**: Lenovo Z5s (serial_number: 6 → 16)
+- **Updated phone**: Lenovo K6 Enjoy (serial_number: 4 → 17)
+- **Updated phone**: Lenovo S5 Pro GT (serial_number: 7 → 18)
+- **Updated phone**: Lenovo Z5 Pro GT (serial_number: 5 → 19)
+
+#### nokia
+- **Updated phone**: Nokia 130 Music (serial_number: 33 → 1)
+- **Updated phone**: Nokia 150 Music (serial_number: 34 → 2)
+- **Updated phone**: Nokia 110 4G 2nd Edition (serial_number: 35 → 3)
+- **Updated phone**: Nokia 105 4G 2nd Edition (serial_number: 36 → 4)
+- **Updated phone**: Nokia 110 4G (2024) (serial_number: 37 → 5)
+- **Updated phone**: Nokia 108 4G (2024) (serial_number: 38 → 6)
+- **Updated phone**: Nokia 105 (2024) (serial_number: 39 → 7)
+- **Updated phone**: Nokia 220 4G (2024) (serial_number: 40 → 8)
+- **Updated phone**: Nokia 215 4G (2024) (serial_number: 41 → 9)
+- **Updated phone**: Nokia 235 4G (2024) (serial_number: 42 → 10)
+- **Updated phone**: Nokia 3210 (serial_number: 43 → 11)
+- **Updated phone**: Nokia 225 4G (2024) (serial_number: 44 → 12)
+- **Updated phone**: Nokia 5310 (2024) (serial_number: 45 → 13)
+- **Updated phone**: Nokia 6310 (2024) (serial_number: 46 → 14)
+- **Updated phone**: Nokia 230 (2024) (serial_number: 47 → 15)
+- **Updated phone**: Nokia XR21 Limited Edition (serial_number: 48 → 16)
+- **Updated phone**: Nokia 150 (2023) (serial_number: 49 → 17)
+- **Updated phone**: Nokia 130 (2023) (serial_number: 50 → 18)
+- **Updated phone**: Nokia 105 4G (2023) (serial_number: 51 → 19)
+- **Updated phone**: Nokia 110 4G (2023) (serial_number: 52 → 20)
+- **Updated phone**: Nokia 110 (2023) (serial_number: 1 → 21)
+- **Updated phone**: Nokia 106 (2023) (serial_number: 53 → 22)
+- **Updated phone**: Nokia 105 DS (2023) (serial_number: 54 → 23)
+- **Updated phone**: Nokia 105 (2023) (serial_number: 55 → 24)
+- **Updated phone**: Nokia 106 DS (2023) (serial_number: 56 → 25)
+- **Updated phone**: Nokia 106 4G (2023) (serial_number: 57 → 26)
+- **Updated phone**: Nokia C110 (serial_number: 58 → 27)
+- **Updated phone**: Nokia C12 Pro (serial_number: 59 → 28)
+- **Updated phone**: Nokia C32 (serial_number: 5 → 29)
+- **Updated phone**: Nokia C22 (serial_number: 2 → 30)
+- **Updated phone**: Nokia C12 (serial_number: 60 → 31)
+- **Updated phone**: Nokia 2780 Flip (serial_number: 61 → 32)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+- **Updated phone**: Nothing Phone (3a) (specifications.General.Model: Phone 3a → Phone (3a))
+- **Updated phone**: Nothing Phone (3a) (256GB) (specifications.General.Model: Phone 3a (256GB) → Phone (3a) (256GB))
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 31 phones visited from first 1 page
+
+#### helio
+- 15 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 4 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nothing
+- 16 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-11-22 12:31:34
 
 ### Summary
@@ -1271,121 +1439,6 @@ This document tracks all changes to the MobiInfo phone database.
 ---
 
 ## 2025-11-13 12:35:18
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 1
-- **Visited phones**: 858
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-11-12 12:35:07
 
 ### Summary
 
