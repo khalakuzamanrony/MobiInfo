@@ -2,6 +2,189 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-11-24 12:35:41
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 67
+- **Visited phones**: 792
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### google
+- **Updated phone**: Google Pixel 9 (variants[0]: {name: 12GB+128GB, price: ৳.68,999, url: https://www.mobiledokan.com/mobile/google-pixel-9} → {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-9}, variants[1]: {name: 12GB+256GB, price: ৳.74,999, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb} → {name: 12GB+256GB, price: ৳.80,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb})
+
+#### helio
+- **Updated phone**: Helio 100 (updated_on: April 19, 2025 → April 18, 2025)
+
+#### nokia
+- **Updated phone**: Nokia 110 (2023) (serial_number: 21 → 1)
+- **Updated phone**: Nokia C22 (serial_number: 30 → 2)
+- **Updated phone**: Nokia C2 2nd edition (serial_number: 33 → 3)
+- **Updated phone**: Nokia G21 (serial_number: 34 → 4)
+- **Updated phone**: Nokia C32 (serial_number: 29 → 5)
+- **Updated phone**: Nokia 8 V 5G UW (serial_number: 35 → 6)
+- **Updated phone**: Nokia G10 (serial_number: 36 → 7)
+- **Updated phone**: Nokia G10 (4GB/64GB) (serial_number: 37 → 8)
+- **Updated phone**: Nokia G20 (serial_number: 38 → 9)
+- **Updated phone**: Nokia 150 (serial_number: 39 → 10)
+- **Updated phone**: Nokia 800 Tough (serial_number: 40 → 11)
+- **Updated phone**: Nokia 105 (2019) (serial_number: 41 → 12)
+- **Updated phone**: Nokia 105 (serial_number: 42 → 13)
+- **Updated phone**: Nokia 5310 (2020) (serial_number: 43 → 14)
+- **Updated phone**: Nokia 220 4G (serial_number: 44 → 15)
+- **Updated phone**: Nokia 225 (serial_number: 45 → 16)
+- **Updated phone**: Nokia 2720 Flip (serial_number: 46 → 17)
+- **Updated phone**: Nokia 6300 4G (serial_number: 47 → 18)
+- **Updated phone**: Nokia 210 (serial_number: 48 → 19)
+- **Updated phone**: Nokia 8000 4G (serial_number: 49 → 20)
+- **Updated phone**: Nokia 3.4 (serial_number: 50 → 21)
+- **Updated phone**: Nokia 3.4 (4GB RAM) (serial_number: 51 → 22)
+- **Updated phone**: Nokia 6.2 (serial_number: 52 → 23)
+- **Updated phone**: Nokia 7.2 (serial_number: 53 → 24)
+- **Updated phone**: Nokia 4.2 (serial_number: 54 → 25)
+- **Updated phone**: Nokia 2.2 (serial_number: 55 → 26)
+- **Updated phone**: Nokia 2.2 (3GB/32GB) (serial_number: 56 → 27)
+- **Updated phone**: Nokia X71 (serial_number: 57 → 28)
+- **Updated phone**: Nokia 1 Plus (serial_number: 58 → 29)
+- **Updated phone**: Nokia 7 Plus (serial_number: 59 → 30)
+- **Updated phone**: Nokia 6.1 (serial_number: 60 → 31)
+- **Updated phone**: Nokia 6.1 Plus (serial_number: 61 → 32)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### sony
+- **Updated phone**: Sony Xperia 1 VII (512GB) (serial_number: 33 → 1, variants[1]: {name: 12GB+256GB, price: ৳.160,000, url: https://www.mobiledokan.com/mobile/sony-xperia-1-vii} → {name: 12GB+256GB, price: ৳.154,000, url: https://www.mobiledokan.com/mobile/sony-xperia-1-vii})
+- **Updated phone**: Sony Xperia 1 VII (price: 160000 → 154000, serial_number: 34 → 2, updated_on: June 29, 2025 → November 17, 2025, variants[0]: {name: 12GB+256GB, price: ৳.160,000, url: https://www.mobiledokan.com/mobile/sony-xperia-1-vii} → {name: 12GB+256GB, price: ৳.154,000, url: https://www.mobiledokan.com/mobile/sony-xperia-1-vii})
+- **Updated phone**: Sony Xperia 1 VI (serial_number: 5 → 3)
+- **Updated phone**: Sony Xperia 1 V (serial_number: 1 → 4)
+- **Updated phone**: Sony Xperia 5 IV (serial_number: 2 → 5)
+- **Updated phone**: Sony Xperia 1 IV (serial_number: 3 → 6)
+- **Updated phone**: Sony Xperia 5 III (serial_number: 8 → 7)
+- **Updated phone**: Sony Xperia 1 III (serial_number: 6 → 8)
+- **Updated phone**: Sony Xperia 10 III (serial_number: 7 → 9)
+- **Updated phone**: Sony Xperia 5 (serial_number: 4 → 10)
+- **Updated phone**: Sony Xperia 1 (serial_number: 35 → 11)
+- **Updated phone**: Sony Xperia 10 Plus (serial_number: 36 → 12)
+- **Updated phone**: Sony Xperia 10 (serial_number: 37 → 13)
+- **Updated phone**: Sony Xperia L3 (serial_number: 11 → 14)
+- **Updated phone**: Sony Xperia XZ3 (serial_number: 12 → 15)
+- **Updated phone**: Sony Xperia XA2 Plus (serial_number: 9 → 16)
+- **Updated phone**: Sony Xperia XZ2 Premium (serial_number: 38 → 17)
+- **Updated phone**: Sony Xperia XZ2 (serial_number: 39 → 18)
+- **Updated phone**: Sony Xperia XZ2 Compact (serial_number: 10 → 19)
+- **Updated phone**: Sony Xperia XA2 (serial_number: 40 → 20)
+- **Updated phone**: Sony Xperia L2 (serial_number: 14 → 21)
+- **Updated phone**: Sony Xperia R1 (Plus) (serial_number: 41 → 22)
+- **Updated phone**: Sony Xperia XA1 Plus Dual (4GB+32GB) (serial_number: 42 → 23)
+- **Updated phone**: Sony Xperia XZ1 Compact (serial_number: 43 → 24)
+- **Updated phone**: Sony Xperia XZ1 Dual (serial_number: 44 → 25)
+- **Updated phone**: Sony Xperia XZ1 (serial_number: 13 → 26)
+- **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB) (serial_number: 45 → 27)
+- **Updated phone**: Sony Xperia L1 Dual SIM (serial_number: 46 → 28)
+- **Updated phone**: Sony Xperia XZ Premium Dual (serial_number: 47 → 29)
+- **Updated phone**: Sony Xperia XA1 Ultra Dual (serial_number: 48 → 30)
+- **Updated phone**: Sony Xperia XZ (serial_number: 16 → 31)
+- **Updated phone**: Sony Xperia XZs Dual (serial_number: 49 → 32)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 31 phones visited from first 1 page
+
+#### helio
+- 14 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-11-23 12:33:15
 
 ### Summary
@@ -1324,121 +1507,6 @@ This document tracks all changes to the MobiInfo phone database.
 ---
 
 ## 2025-11-14 12:35:47
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 1
-- **Visited phones**: 858
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-11-13 12:35:18
 
 ### Summary
 
