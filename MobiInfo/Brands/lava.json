@@ -4,11 +4,11 @@
     "name": "lava",
     "url": "https://www.mobiledokan.com/mobile-brand/lava",
     "image_url": null,
-    "last_updated": "2025-11-24 06:32:13",
+    "last_updated": "2025-11-25 06:35:56",
     "total_phones": 99,
     "first_scraped": "2025-09-11 08:59:23",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 27
   },
   "phones": [
     {
@@ -18,16 +18,10 @@
       "url": "https://www.mobiledokan.com/mobile/lava-agni-2",
       "image_url": "https://www.mobiledokan.com/media/1713631318TkFPS.webp",
       "serial_number": 1,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "April 23, 2024",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.32,000",
-          "url": "https://www.mobiledokan.com/mobile/lava-agni-2"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",
@@ -151,9 +145,9 @@
       "url": "https://www.mobiledokan.com/mobile/lava-r5v",
       "image_url": "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "May 25, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "2GB+32GB",
@@ -264,16 +258,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r5v-black-official-image_1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_42",
@@ -282,7 +267,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-42",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "May 5, 2025",
       "variants": [
@@ -389,16 +374,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-front.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-back.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-gold.webp",
-        "https://www.mobiledokan.com/media/lava-iris-42-black.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_yuva_5g",
@@ -407,123 +383,12 @@
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-5g",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "October 15, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Yuva 5G",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 06 June 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T750",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A76 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.52 inches (16.56 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "82.49 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, Wide Angle Primary Camera, 2 MP Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Camera Features": "Filters",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "163.4 mm",
-          "Width": "76.2 mm",
-          "Thickness": "9.1 mm",
-          "Weight": "208 grams",
-          "Colors": "Green, Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-Mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-5g-blue-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "lava_blaze_2_pro",
@@ -532,7 +397,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-2-pro",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-2-pro-cool-green-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "October 13, 2024",
       "variants": [],
@@ -638,16 +503,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-cool-green-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-cool-green-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-thunder-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-thunder-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-thunder-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-swag-blue-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-2-pro-cool-green-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_blaze_x",
@@ -656,7 +512,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-x",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "July 5, 2024",
       "variants": [],
@@ -759,13 +615,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-x-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_blaze_1x",
@@ -774,7 +624,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-blaze-1x",
       "image_url": "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "September 30, 2024",
       "variants": [],
@@ -882,148 +732,21 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-green-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-blaze-1x-glass-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_benco_iris_59",
       "name": "Lava Benco Iris 59",
-      "price": "5999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/lava-benco-iris-59",
       "image_url": "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "July 27, 2024",
-      "variants": [
-        {
-          "name": "1GB+16GB",
-          "price": "৳.5,999",
-          "url": "https://www.mobiledokan.com/mobile/lava-benco-iris-59"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Benco Iris 59",
-          "Device Type": "Smartphone",
-          "Release Date": "01 January 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0",
-          "User Interface": "Go Edition",
-          "Chipset": "Unisonic SC7731e",
-          "CPU": "Quad-core CPU (4x1.3:: GHz Cortex-A7)",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "GPU": "Mali T820"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.88 inches, 91.0 cm2",
-          "Resolution": "720x1560 px (HD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "282 ppi",
-          "Screen to Body Ratio": "86.3%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP Primary Camera, 2 MP Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "600 x 1280 pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "155.59 mm",
-          "Width": "73.78 mm",
-          "Thickness": "9.98 mm",
-          "Weight": "183 grams",
-          "Colors": "Aurora Blue, Gold, Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4000 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 300 hours",
-          "Talk Time": "Up to 18 hours"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "1 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA+/4G LTE",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-aurora-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-benco-iris-59-black-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "lava_r3_note",
@@ -1032,16 +755,10 @@
       "url": "https://www.mobiledokan.com/mobile/lava-r3-note",
       "image_url": "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
-      "variants": [
-        {
-          "name": "3GB+32GB",
-          "price": "৳.11,990",
-          "url": "https://www.mobiledokan.com/mobile/lava-r3-note"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",
@@ -1146,17 +863,7 @@
           "Features": "Accelerometer, Proximity, Ambient Light"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-illusion-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-r3-note-champagne-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_45",
@@ -1165,7 +872,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-45",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 6, 2024",
       "variants": [
@@ -1274,17 +981,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-45-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_43",
@@ -1293,9 +990,9 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-43",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-43-blue-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "July 27, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "1GB+16GB",
@@ -1661,7 +1358,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-star",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-star-white-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "September 29, 2024",
       "variants": [],
@@ -1761,10 +1458,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-yuva-star-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-yuva-star-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_x1",
@@ -1773,7 +1467,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
@@ -1877,18 +1571,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-back-side-image-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-side-view.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-black-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_flair_s1",
@@ -2133,7 +1816,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-grand-2",
       "image_url": "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [],
@@ -2221,17 +1904,7 @@
           "Features": "G Sensor"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-grand-2-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_702",
@@ -2352,7 +2025,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x5",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -2362,115 +2035,8 @@
           "url": "https://www.mobiledokan.com/mobile/lava-iris-x5"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Iris X5",
-          "Device Type": "Smartphone",
-          "Release Date": "11 September 2014",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "4.4.2 (KitKat)",
-          "Chipset": "Broadcom BCM23550",
-          "CPU": "Quad-core 1.2 GHz",
-          "CPU Cores": "4 Cores",
-          "Architecture": "24 bit",
-          "GPU": "Broadcom VideoCore IV"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "294 ppi",
-          "Screen to Body Ratio": "67.02 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera,",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Flashlight, Face beauty",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          }
-        },
-        "Design": {
-          "Height": "143.5 mm",
-          "Width": "71.5 mm",
-          "Thickness": "7.7 mm",
-          "Weight": "134 grams",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2100 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 200 h (2G) / Up to 200 h (3G)",
-          "Talk Time": "Up to 6 h (2G) / Up to 4 h (3G)"
-        },
-        "Memory": {
-          "Internal Storage": "8 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "USB OTG": "Yes",
-          "RAM": "1 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "India",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-back-side-picture.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-black-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x5-white-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "lava_pixel_v2_plus",
@@ -2479,21 +2045,10 @@
       "url": "https://www.mobiledokan.com/mobile/lava-pixel-v2-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-pixel-v2-plus-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "September 27, 2024",
-      "variants": [
-        {
-          "name": "2GB+16GB",
-          "price": "৳.10,990",
-          "url": "https://www.mobiledokan.com/mobile/lava-pixel-v2-plus"
-        },
-        {
-          "name": "3GB+16GB",
-          "price": "৳.11,990",
-          "url": "https://www.mobiledokan.com/mobile/lava-pixel-v2-plus-3gb-ram"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",
@@ -2596,127 +2151,16 @@
     {
       "id": "lava_iris_atom_2",
       "name": "Lava Iris Atom 2",
-      "price": "4990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/lava-iris-atom-2",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "512MB+8GB",
-          "price": "৳.4,990",
-          "url": "https://www.mobiledokan.com/mobile/lava-iris-atom-2"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Iris Atom 2",
-          "Device Type": "Smartphone",
-          "Release Date": "20 August 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v4.4 (Kitkat), upgradable to 5.1 (Lollipop)",
-          "Chipset": "Spreadtrum SC7731G",
-          "CPU": "Quad core, 1.3 GHz, Cortex A7",
-          "CPU Cores": "4 Cores",
-          "GPU": "Mali-400 MP2"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "4.5 inches (11.43 cm)",
-          "Resolution": "480x854 px",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "218 ppi",
-          "Screen to Body Ratio": "62.98 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Macro Mode",
-            "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "VGA Camera"
-          }
-        },
-        "Design": {
-          "Height": "134 mm",
-          "Width": "66 mm",
-          "Thickness": "9.1 mm",
-          "Weight": "130 grams",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "1750 mAh",
-          "Placement": "Removable",
-          "Talk Time": "Up to 6.5 Hours(3G) / Up to 16 Hours(2G)",
-          "Music Play": "Up to 161 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "8 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "512 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "Dual SIM (Dual stand-by)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "India",
-          "Features": "Accelerometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-side-view.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-black-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-atom-2-white-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "lava_iris_x8",
@@ -2725,16 +2169,10 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x8",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x8-white-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "2GB+16GB",
-          "price": "৳.9,990",
-          "url": "https://www.mobiledokan.com/mobile/lava-iris-x8"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",
@@ -2830,18 +2268,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x8-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-side-view.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-black-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-black-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-black-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x8-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_250",
@@ -2850,7 +2277,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-250",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -2952,16 +2379,7 @@
           "Features": "Proximity sensor, Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-front-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-250-white-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_x9",
@@ -2970,7 +2388,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x9",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -2980,108 +2398,8 @@
           "url": "https://www.mobiledokan.com/mobile/lava-iris-x9"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Iris X9",
-          "Device Type": "Smartphone",
-          "Release Date": "10 May 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v5.0 (Lollipop)",
-          "Chipset": "MediaTek MT6582",
-          "CPU": "Quad core, 1.3 GHz, Cortex A7",
-          "CPU Cores": "4 Cores",
-          "GPU": "Mali-400 MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "720x1280 px (HD)",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "72.02 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera"
-          }
-        },
-        "Design": {
-          "Height": "152 mm",
-          "Width": "76 mm",
-          "Thickness": "9 mm",
-          "Weight": "145 grams",
-          "Colors": "White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "2500 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 250 Hours(2G)",
-          "Talk Time": "Up to 8 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "16 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "2 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "Dual SIM (Dual stand-by)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "India",
-          "Features": "Proximity sensor, Accelerometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x9-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x9-white-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "lava_iris_414",
@@ -3090,16 +2408,10 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-414",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-414-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "512MB+4GB",
-          "price": "৳.4,190",
-          "url": "https://www.mobiledokan.com/mobile/lava-iris-414"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",
@@ -3190,14 +2502,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-414-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-414-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-414-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-414-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-414-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-414-back-side-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_x1_atom",
@@ -3206,7 +2511,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1-atom",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -3306,17 +2611,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-front-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-atom-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_x1_plus",
@@ -3325,7 +2620,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-x1-plus",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -3422,14 +2717,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-x1-plus-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_750",
@@ -3438,7 +2726,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-750",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -3535,17 +2823,7 @@
           "Features": "Accelerometer, Ambient Light, Digital Compass, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-backside-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-side-view.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_821",
@@ -3554,7 +2832,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-821",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -3650,16 +2928,7 @@
           "Features": "Accelerometer, Proximity, Light"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_605",
@@ -3668,9 +2937,9 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-605",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-605-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "August 24, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "1GB+8GB",
@@ -3776,111 +3045,15 @@
     {
       "id": "lava_flair_p1",
       "name": "Lava Flair P1",
-      "price": "3390",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/lava-flair-p1",
       "image_url": "https://www.mobiledokan.com/media/lava-flair-p1-black-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-11-25 06:35:56",
       "first_scraped": null,
-      "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "512MB+4GB",
-          "price": "৳.3,390",
-          "url": "https://www.mobiledokan.com/mobile/lava-flair-p1"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Lava",
-          "Model": "Flair P1",
-          "Device Type": "Smartphone",
-          "Release Date": "15 May 2015",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v4.4.2 (Kitkat)",
-          "CPU": "Single core, 1 GHz",
-          "CPU Cores": "1 Cores",
-          "GPU": "Mali-400"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "4.0 inches (10.16 cm)",
-          "Resolution": "480x800 px",
-          "Pixel Density": "233 ppi",
-          "Screen to Body Ratio": "58.63 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "1600 x 1200 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "High Dynamic Range mode (HDR)",
-            "Camera Features": "Flashlight, Face beauty",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera"
-          }
-        },
-        "Design": {
-          "Height": "122.4 mm",
-          "Width": "63.4 mm",
-          "Thickness": "10.1 mm",
-          "Weight": "110 grams",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "1400 mAh",
-          "Standby": "Up to 120 Hours(2G)",
-          "Talk Time": "Up to 7 Hours(3G) / Up to 11 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "4 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "512 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "Dual SIM (Dual stand-by)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "India",
-          "Features": "Accelerometer"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/lava-flair-p1-black-image.webp",
         "https://www.mobiledokan.com/media/lava-flair-p1-black-image.webp",
