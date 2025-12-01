@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-11-30 06:30:34",
+    "last_updated": "2025-12-01 06:35:55",
     "total_phones": 544,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -1683,7 +1683,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9-power-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
       "serial_number": 12,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2025-12-01 06:35:55",
       "first_scraped": null,
       "updated_on": "November 11, 2024",
       "variants": [
@@ -1813,21 +1813,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710084773fcVkk.webp",
-        "https://www.mobiledokan.com/media/1710084773fcVkk.webp",
-        "https://www.mobiledokan.com/media/1710084773fcVkk.webp",
-        "https://www.mobiledokan.com/media/1710084558bdtZ9.webp",
-        "https://www.mobiledokan.com/media/1710084685NXbnN.webp",
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_9t",
@@ -4121,21 +4107,10 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710219464X0G2j.webp",
       "serial_number": 28,
-      "last_updated": "2025-10-19 06:27:59",
+      "last_updated": "2025-12-01 06:35:55",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.24,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s-6gb-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.22,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Xiaomi",

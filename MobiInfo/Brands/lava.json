@@ -4,11 +4,11 @@
     "name": "lava",
     "url": "https://www.mobiledokan.com/mobile-brand/lava",
     "image_url": null,
-    "last_updated": "2025-11-30 06:30:50",
+    "last_updated": "2025-12-01 06:35:52",
     "total_phones": 99,
     "first_scraped": "2025-09-11 08:59:23",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
@@ -1657,13 +1657,13 @@
     {
       "id": "lava_yuva_star",
       "name": "Lava Yuva Star",
-      "price": "10000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/lava-yuva-star",
       "image_url": "https://www.mobiledokan.com/media/lava-yuva-star-white-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-11-26 06:32:30",
+      "last_updated": "2025-12-01 06:35:52",
       "first_scraped": null,
-      "updated_on": "September 29, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -1897,7 +1897,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-flair-s1",
       "image_url": "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-10-19 06:28:23",
+      "last_updated": "2025-12-01 06:35:52",
       "first_scraped": null,
       "updated_on": "August 23, 2024",
       "variants": [
@@ -1934,6 +1934,10 @@
           "Notch": "Yes"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "0.3 MP, Primary Camera"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "3.2 MP, Primary Camera",
@@ -1945,10 +1949,6 @@
             "Camera Features": "Face beauty, Flashlight",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP, Primary Camera"
           }
         },
         "Design": {
@@ -1996,17 +1996,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-champagne-image.webp",
-        "https://www.mobiledokan.com/media/lava-flair-s1-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_415",
@@ -3438,7 +3428,7 @@
       "url": "https://www.mobiledokan.com/mobile/lava-iris-750",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-11-26 06:32:30",
+      "last_updated": "2025-12-01 06:35:52",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
       "variants": [
@@ -3535,35 +3525,19 @@
           "Features": "Accelerometer, Ambient Light, Digital Compass, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-front-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-backside-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-side-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-side-view.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/lava-iris-750-grey-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lava_iris_821",
       "name": "Lava Iris 821",
-      "price": "6999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/lava-iris-821",
       "image_url": "https://www.mobiledokan.com/media/lava-iris-821-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-11-26 06:32:30",
+      "last_updated": "2025-12-01 06:35:52",
       "first_scraped": null,
-      "updated_on": "August 24, 2024",
-      "variants": [
-        {
-          "name": "2GB+16GB",
-          "price": "৳.6,999",
-          "url": "https://www.mobiledokan.com/mobile/lava-iris-821"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lava",

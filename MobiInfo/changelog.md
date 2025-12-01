@@ -2,6 +2,218 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-01 12:42:16
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 54
+- **Visited phones**: 805
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 12 Pro (gallery_images: List length changed from 10 to 0)
+
+#### google
+- **Updated phone**: Google Pixel 7 (256GB) (variants: List length changed from 2 to 0, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+- **Updated phone**: Google Pixel 4a (updated_on: July 13, 2024 → None)
+- **Updated phone**: Google Pixel 4a 5G (variants: List length changed from 2 to 0)
+
+#### honor
+- **Updated phone**: Honor Magic5 Ultimate (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 5 to 0)
+
+#### huawei
+- **Updated phone**: Huawei Mate X3 (updated_on: March 26, 2025 → None, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 13 to 0)
+- **Updated phone**: Huawei P60 Pro (12/512GB) (gallery_images: List length changed from 12 to 0)
+- **Updated phone**: Huawei Mate 60 Pro Plus (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+- **Updated phone**: Huawei Mate 50 Pro (gallery_images: List length changed from 2 to 0)
+
+#### infinix
+- **Updated phone**: Infinix Smart 6 (gallery_images: List length changed from 12 to 0)
+- **Updated phone**: Infinix Hot 30 (8GB+128GB) (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Infinix Hot 9 Play (4GB+64GB) (gallery_images: List length changed from 11 to 0)
+
+#### iqoo
+- **Updated phone**: Vivo iQOO Neo8 Pro (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+- **Updated phone**: Vivo iQOO 9 SE (12GB/256GB) (updated_on: June 3, 2024 → None)
+
+#### lava
+- **Updated phone**: Lava Yuva Star (price: 10000 → None, updated_on: September 29, 2024 → None)
+- **Updated phone**: Lava Flair S1 (gallery_images: List length changed from 9 to 0)
+- **Updated phone**: LAVA Iris 750 (gallery_images: List length changed from 9 to 0)
+- **Updated phone**: Lava Iris 821 (price: 6999 → None, updated_on: August 24, 2024 → None, variants: List length changed from 1 to 0)
+
+#### motorola
+- **Updated phone**: Motorola Moto G9 Plus (variants: List length changed from 1 to 0)
+- **Updated phone**: Motorola Moto E6 Plus (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+- **Updated phone**: Motorola Edge 40 (gallery_images: List length changed from 5 to 0)
+
+#### nokia
+- **Updated phone**: Nokia 800 Tough (price: 10250 → None, updated_on: May 8, 2024 → None)
+- **Updated phone**: Nokia 5310 (2020) (price: 5900 → None, updated_on: December 20, 2024 → None)
+- **Updated phone**: Nokia 1 Plus (price: 6999 → None, updated_on: February 24, 2025 → None, variants: List length changed from 1 to 0)
+- **Updated phone**: Nokia 7 Plus (updated_on: May 9, 2024 → None)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### oneplus
+- **Updated phone**: OnePlus Nord CE 2 5G (gallery_images: List length changed from 11 to 0)
+- **Updated phone**: OnePlus Ace 2V (gallery_images: List length changed from 5 to 0)
+- **Updated phone**: Oneplus 9 Pro (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+
+#### oppo
+- **Updated phone**: Oppo Reno4 (gallery_images: List length changed from 9 to 0)
+
+#### realme
+- **Updated phone**: Realme 9 (gallery_images: List length changed from 15 to 0)
+- **Updated phone**: Realme C30s (variants: List length changed from 1 to 0, gallery_images: List length changed from 6 to 0)
+- **Updated phone**: Realme Narzo 30A (updated_on: January 21, 2025 → None)
+- **Updated phone**: Realme Narzo N55 (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Realme 11X 5G (gallery_images: List length changed from 12 to 0)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy A32 (gallery_images: List length changed from 11 to 0)
+- **Updated phone**: Samsung Galaxy M51 (gallery_images: List length changed from 9 to 0)
+- **Updated phone**: Samsung Galaxy A52 (price: 35000 → None, updated_on: August 31, 2024 → None)
+
+#### sony
+- **Updated phone**: Sony Xperia 5 III (gallery_images: List length changed from 11 to 0)
+
+#### symphony
+- **Updated phone**: Symphony Z70 (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Symphony G26 (variants: List length changed from 1 to 0)
+
+#### tecno
+- **Updated phone**: Tecno Pop 7 (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Tecno Pova 5 Pro (gallery_images: List length changed from 10 to 0)
+- **Updated phone**: Tecno Camon 20 Pro (gallery_images: List length changed from 8 to 0)
+- **Updated phone**: Tecno Phantom X (gallery_images: List length changed from 9 to 0)
+
+#### ulefone
+- **Updated phone**: Ulefone Note 19 (price: 15000 → None, updated_on: October 21, 2024 → None)
+
+#### umidigi
+- **Updated phone**: Umidigi G9 5G (price: 13990 → None, updated_on: October 7, 2025 → None)
+
+#### vivo
+- **Updated phone**: Vivo V27e (variants: List length changed from 1 to 0, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+
+#### walton
+- **Updated phone**: Walton Primo RX8 (gallery_images: List length changed from 5 to 0)
+- **Updated phone**: Walton Primo GH10 (gallery_images: List length changed from 5 to 0)
+
+#### xiaomi
+- **Updated phone**: Xiaomi Redmi 9 Power (6GB+128GB) (gallery_images: List length changed from 13 to 0)
+- **Updated phone**: Xiaomi Redmi Note 9S (6GB+128GB) (variants: List length changed from 2 to 0)
+
+#### zte
+- **Updated phone**: ZTE Blade L8 (gallery_images: List length changed from 10 to 0)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 29 phones visited from first 1 page
+
+#### helio
+- 15 phones visited from first 1 page
+
+#### honor
+- 31 phones visited from first 1 page
+
+#### huawei
+- 28 phones visited from first 1 page
+
+#### infinix
+- 29 phones visited from first 1 page
+
+#### iqoo
+- 30 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 28 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 29 phones visited from first 1 page
+
+#### nokia
+- 28 phones visited from first 1 page
+
+#### nothing
+- 17 phones visited from first 1 page
+
+#### oneplus
+- 29 phones visited from first 1 page
+
+#### oppo
+- 31 phones visited from first 1 page
+
+#### realme
+- 27 phones visited from first 1 page
+
+#### samsung
+- 29 phones visited from first 1 page
+
+#### sony
+- 31 phones visited from first 1 page
+
+#### symphony
+- 30 phones visited from first 1 page
+
+#### tecno
+- 28 phones visited from first 1 page
+
+#### ulefone
+- 10 phones visited from first 1 page
+
+#### umidigi
+- 13 phones visited from first 1 page
+
+#### vivo
+- 31 phones visited from first 1 page
+
+#### walton
+- 30 phones visited from first 1 page
+
+#### xiaomi
+- 30 phones visited from first 1 page
+
+#### zte
+- 31 phones visited from first 1 page
+
+---
+
 ## 2025-11-30 12:34:02
 
 ### Summary
@@ -2326,163 +2538,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### iqoo
 - 30 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-11-20 12:34:08
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 42
-- **Visited phones**: 817
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 13 (price: 64500 → 60000, updated_on: May 23, 2025 → November 19, 2025, variants[0]: {name: 4GB+128GB, price: ৳.87,000, url: https://www.mobiledokan.com/mobile/apple-iphone-13} → {name: 4GB+128GB, price: ৳.84,999, url: https://www.mobiledokan.com/mobile/apple-iphone-13}, variants[1]: {name: 4GB+256GB, price: ৳.81,000, url: https://www.mobiledokan.com/mobile/apple-iphone-13-256gb} → {name: 4GB+256GB, price: ৳.66,500, url: https://www.mobiledokan.com/mobile/apple-iphone-13-256gb})
-- **Updated phone**: Apple iPhone 14 Pro (price: 121000 → 100000, updated_on: March 17, 2025 → November 19, 2025)
-- **Updated phone**: Apple iPhone 12 Pro (price: 44000 → 55000, updated_on: May 24, 2025 → November 19, 2025, specifications.Display.Screen Protection: Gorilla Glass → Ceramic Shield Glass, specifications.Display.Bezel-less Display: Yes with notch → Yes, Removed field: specifications.Display.Notch, specifications.Sensors & security.Face Unlock: Face ID, accelerometer, gyro, proximity, compass, barometer → Face ID)
-- **Updated phone**: Apple iPhone 14 Pro Max (price: 127999 → 115000, updated_on: March 19, 2025 → November 19, 2025)
-- **Updated phone**: Apple iPhone 15 Pro (price: 126000 → 120000, updated_on: March 19, 2025 → November 19, 2025)
-- **Updated phone**: Apple iPhone 15 (variants[0]: {name: 128GB IND, price: ৳.112,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15} → {name: 6GB+128GB, price: ৳.112,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15}, variants[1]: {name: 256GB IND, price: ৳.171,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-256gb} → {name: 6GB+256GB, price: ৳.171,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-256gb})
-- **Updated phone**: Apple iPhone 15 Pro (256GB) (price: 136000 → 127000, updated_on: March 19, 2025 → November 19, 2025)
-- **Updated phone**: Apple iPhone 15 Pro (512GB) (price: 155000 → 142000, updated_on: March 19, 2025 → November 19, 2025)
-- **Updated phone**: Apple iPhone 15 Pro (1TB) (price: 165000 → 155000, updated_on: March 19, 2025 → November 19, 2025)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-#### tecno
-- **Updated phone**: Tecno Pova Slim (serial_number: 34 → 1)
-- **Updated phone**: Tecno Pova 7 Pro (serial_number: 35 → 2)
-- **Updated phone**: Tecno Pova Curve (serial_number: 36 → 3)
-- **Updated phone**: Tecno Spark Go 5G (serial_number: 37 → 4)
-- **Updated phone**: Tecno Spark 40 Pro Plus (serial_number: 38 → 5)
-- **Updated phone**: Tecno Spark 40C (serial_number: 39 → 6)
-- **Updated phone**: Tecno POP 10 (serial_number: 40 → 7)
-- **Updated phone**: Tecno Spark 40 Pro (serial_number: 41 → 8)
-- **Updated phone**: Tecno Spark 40 (8GB+256GB) (serial_number: 42 → 9)
-- **Updated phone**: Tecno Spark 40 (serial_number: 43 → 10)
-- **Updated phone**: Tecno Camon 40 Pro 5G (serial_number: 44 → 11)
-- **Updated phone**: Tecno Pova 7 (serial_number: 45 → 12)
-- **Updated phone**: Tecno Pova 7 Ultra (serial_number: 46 → 13)
-- **Updated phone**: Tecno Spark Go 2 (4GB RAM) (serial_number: 47 → 14)
-- **Updated phone**: Tecno Spark Go 2 (serial_number: 48 → 15)
-- **Updated phone**: Tecno Camon 40 (serial_number: 49 → 16)
-- **Updated phone**: Tecno Camon 40 Pro (serial_number: 50 → 17)
-- **Updated phone**: Tecno Camon 40 (256GB) (serial_number: 51 → 18)
-- **Updated phone**: Tecno Camon 40 Premier (serial_number: 52 → 19)
-- **Updated phone**: Tecno Spark Slim (serial_number: 53 → 20)
-- **Updated phone**: Tecno Phantom V Fold2 (serial_number: 54 → 21)
-- **Updated phone**: Tecno Spark Go 1S (serial_number: 55 → 22)
-- **Updated phone**: Tecno Phantom V Fold2 Pro (serial_number: 56 → 23)
-- **Updated phone**: Tecno Spark 30 (serial_number: 57 → 24)
-- **Updated phone**: Tecno Spark 30 Pro (serial_number: 58 → 25)
-- **Updated phone**: Tecno Camon 30S (serial_number: 59 → 26)
-- **Updated phone**: Tecno Spark 30C 5G (serial_number: 60 → 27)
-- **Updated phone**: Tecno Spark 30 5G (serial_number: 61 → 28)
-- **Updated phone**: Tecno Pop 9 (serial_number: 62 → 29)
-- **Updated phone**: Tecno Pop 9 5G (serial_number: 63 → 30)
-- **Updated phone**: Tecno Phantom V Flip2 (serial_number: 64 → 31)
-- **Updated phone**: Tecno Spark 30C (8GB+256GB) (serial_number: 65 → 32)
-
-## Visited
-
-#### apple
-- 23 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
 
 #### itel
 - 32 phones visited from first 1 page

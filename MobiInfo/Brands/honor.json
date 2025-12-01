@@ -4,11 +4,11 @@
     "name": "honor",
     "url": "https://www.mobiledokan.com/mobile-brand/honor",
     "image_url": null,
-    "last_updated": "2025-11-30 06:30:36",
+    "last_updated": "2025-12-01 06:35:05",
     "total_phones": 105,
     "first_scraped": "2025-09-11 08:58:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -1831,7 +1831,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic5-ultimate",
       "image_url": "https://www.mobiledokan.com/media/1713721708R2jph.webp",
       "serial_number": 14,
-      "last_updated": "2025-11-26 06:32:02",
+      "last_updated": "2025-12-01 06:35:05",
       "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
@@ -1841,129 +1841,8 @@
           "url": "https://www.mobiledokan.com/mobile/honor-magic5-ultimate"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Honor",
-          "Model": "Magic5 Ultimate",
-          "Device Type": "Smartphone",
-          "Release Date": "20 March 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "MagicOS 7.1",
-          "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2",
-          "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 740"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.81 inches (17.3 cm)",
-          "Resolution": "1312x2848 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "460 ppi",
-          "Screen to Body Ratio": "90.92 %",
-          "Screen Protection": "Glass/ceramic coating",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1800 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 50 MP, f/3.0, Periscope Camera",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "12 MP, f/2.4, Ultra-Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.9 mm",
-          "Width": "76.7 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "217 grams",
-          "Build": "Glass front, eco leather back",
-          "Colors": "Black, Orange",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter),",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "5450 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "66W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.1, DisplayPort 1.2"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 4.0",
-          "USB OTG": "Yes",
-          "RAM": "16 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10, 10-bit video"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Face ID, accelerometer, gyro, proximity, compass, color spectrum"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1713721708R2jph.webp",
-        "https://www.mobiledokan.com/media/1713721708R2jph.webp",
-        "https://www.mobiledokan.com/media/1713721708R2jph.webp",
-        "https://www.mobiledokan.com/media/1713721708R2jph.webp",
-        "https://www.mobiledokan.com/media/1713721708R2jph.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "honor_x6",

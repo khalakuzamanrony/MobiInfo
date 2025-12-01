@@ -4,11 +4,11 @@
     "name": "samsung",
     "url": "https://www.mobiledokan.com/mobile-brand/samsung",
     "image_url": null,
-    "last_updated": "2025-11-30 06:30:40",
+    "last_updated": "2025-12-01 06:35:02",
     "total_phones": 456,
     "first_scraped": "2025-09-11 09:43:15",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
@@ -1854,7 +1854,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a32",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-01 06:35:02",
       "first_scraped": null,
       "updated_on": "November 24, 2024",
       "variants": [
@@ -1983,19 +1983,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-violet-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a32_8gb128gb",
@@ -2431,7 +2419,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-m51",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-01 06:35:02",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
@@ -2554,17 +2542,7 @@
           "Features": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-front-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-back-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_s21_ultra",
@@ -4171,13 +4149,13 @@
     {
       "id": "samsung_galaxy_a52",
       "name": "Samsung Galaxy A52",
-      "price": "35000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a52",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a52-awesome-black-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-01 06:35:02",
       "first_scraped": null,
-      "updated_on": "August 31, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -4213,13 +4191,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP, f/1.8, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 5 MP, f/2.4, Macro Camera, 5 MP, f/2.4, Depth Camera",
@@ -4234,6 +4205,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
