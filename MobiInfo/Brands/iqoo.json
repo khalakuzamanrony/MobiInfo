@@ -4,7 +4,7 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2025-12-01 06:40:18",
+    "last_updated": "2025-12-02 06:37:11",
     "total_phones": 87,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
@@ -1204,7 +1204,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo8-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo8-pro-mint-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-01 06:40:18",
+      "last_updated": "2025-12-02 06:37:11",
       "first_scraped": null,
       "updated_on": "June 1, 2024",
       "variants": [
@@ -1214,7 +1214,117 @@
           "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo8-pro"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Vivo",
+          "Model": "iQOO Neo8 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "23 May 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "Origin OS",
+          "Chipset": "MediaTek Dimensity 9200 Plus MT6983",
+          "CPU": "Octa core (3.35 GHz, Single core, Cortex X3 + 3 GHz, Tri core, Cortex A715 + 2 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Immortalis-G715 MC11"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1260x2800 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "87.51 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "With punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "IMX866, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.88",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320 ,3840x2160, 1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "164.7 mm",
+          "Width": "77 mm",
+          "Thickness": "8.5 mm",
+          "Weight": "192.3 grams",
+          "Build": "Glass front, plastic frame, glass or leather back",
+          "Colors": "Red, Mint, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Flash, 120W: 50 % in 9 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/vivo-iqoo-neo8-pro-mint-official-image.webp",
         "https://www.mobiledokan.com/media/vivo-iqoo-neo8-pro-mint-official-image.webp",
@@ -3908,9 +4018,9 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-9-se-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-9-se-space-fusion-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-12-01 06:40:18",
+      "last_updated": "2025-12-02 06:37:11",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "June 3, 2024",
       "variants": [
         {
           "name": "12GB+256GB",

@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-12-01 06:34:37",
+    "last_updated": "2025-12-02 06:33:12",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
@@ -2488,7 +2488,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-01 06:34:37",
+      "last_updated": "2025-12-02 06:33:12",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [],
@@ -2525,6 +2525,14 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.6, Wide Angle, Primary Camera, 12 MP f/2.0, Telephoto Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
@@ -2540,14 +2548,6 @@
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2607,7 +2607,18 @@
           "Features": "Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/appleiphone12-pro-back-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-12-pro-pacific-blue-official-image.webp"
+      ]
     },
     {
       "id": "apple_iphone_12",

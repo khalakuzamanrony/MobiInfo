@@ -4,7 +4,7 @@
     "name": "symphony",
     "url": "https://www.mobiledokan.com/mobile-brand/symphony",
     "image_url": null,
-    "last_updated": "2025-12-01 06:39:44",
+    "last_updated": "2025-12-02 06:37:11",
     "total_phones": 499,
     "first_scraped": "2025-09-11 09:56:53",
     "new_phones_this_run": 0,
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z70",
       "image_url": "https://www.mobiledokan.com/media/1710951422geuo9.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-01 06:39:44",
+      "last_updated": "2025-12-02 06:37:11",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -57,14 +57,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Camera Features": "Display flash, Front portrait, 4x Zoom",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "52 MP, f/2.2, Primary Camera, 2 MP Camera, 2 MP Camera",
@@ -77,6 +69,14 @@
             "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1080p",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Camera Features": "Display flash, Front portrait, 4x Zoom",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -134,7 +134,18 @@
           "Features": "Accelerometer, G-Sensor, Proximity, Light Sensor"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710951422geuo9.webp",
+        "https://www.mobiledokan.com/media/1710951422geuo9.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-front-side-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-back-side-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-side-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-green-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-green-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-green-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-electric-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/symphony-z70-honey-dew-green-official-image.webp"
+      ]
     },
     {
       "id": "symphony_z45",
@@ -3832,10 +3843,16 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-g26",
       "image_url": "https://www.mobiledokan.com/media/symphony-g26-lime-green-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-12-01 06:39:44",
+      "last_updated": "2025-12-02 06:37:11",
       "first_scraped": null,
       "updated_on": "April 27, 2025",
-      "variants": [],
+      "variants": [
+        {
+          "name": "2GB+32GB",
+          "price": "৳.6,699",
+          "url": "https://www.mobiledokan.com/mobile/symphony-g26"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Symphony",

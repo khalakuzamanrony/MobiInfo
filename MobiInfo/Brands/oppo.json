@@ -4,7 +4,7 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2025-12-01 06:36:11",
+    "last_updated": "2025-12-02 06:33:15",
     "total_phones": 230,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
@@ -1616,7 +1616,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-reno4",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-12-01 06:36:11",
+      "last_updated": "2025-12-02 06:33:15",
       "first_scraped": null,
       "updated_on": "January 20, 2025",
       "variants": [
@@ -1660,13 +1660,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "32 MP f/2.4, Primary Camera, 2 MP f/2.4, Depth Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "48 MP, f/1.7, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
@@ -1681,6 +1674,13 @@
             "Camera Features": "LED flash, HDR, panorama",
             "Video Recording": "Ultra HD (2160p), Ultra Steady Video 3.0",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "32 MP f/2.4, Primary Camera, 2 MP f/2.4, Depth Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1739,7 +1739,17 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-front-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-black-image.webp",
+        "https://www.mobiledokan.com/media/oppo-reno4-blue-image.webp"
+      ]
     },
     {
       "id": "oppo_reno8_t",

@@ -4,7 +4,7 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2025-12-01 06:34:24",
+    "last_updated": "2025-12-02 06:33:47",
     "total_phones": 53,
     "first_scraped": "2025-09-11 08:52:18",
     "new_phones_this_run": 0,
@@ -2718,11 +2718,138 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-12-01 06:34:24",
+      "last_updated": "2025-12-02 06:33:47",
       "first_scraped": null,
       "updated_on": "June 28, 2024",
-      "variants": [],
-      "specifications": {},
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.67,000",
+          "url": "https://www.mobiledokan.com/mobile/google-pixel-7-256gb"
+        },
+        {
+          "name": "8GB+128GB",
+          "price": "৳.43,500",
+          "url": "https://www.mobiledokan.com/mobile/google-pixel-7"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Google",
+          "Model": "Pixel 7 (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "13 October 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Google Tensor G2",
+          "CPU": "Octa core (2.85 GHz, Dual core, Cortex X1 + 2.35 GHz, Dual core, Cortex A78 + 1.8 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G710 MP7"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.3 inches, 96.7 cm2",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "418 ppi",
+          "Screen to Body Ratio": "84.13 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1400 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.9, Wide Angle (82° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "8 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "10.8 MP f/2.2, Ultra-Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "155.6 mm",
+          "Width": "73.2 mm",
+          "Thickness": "8.7 mm",
+          "Weight": "197 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Obsidian, Lemongrass, Snow",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter),",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4355 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "Fast, 30W: 50 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+        },
+        "More": {
+          "Made By": "US",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/google-pixel-7-official-image.webp",
         "https://www.mobiledokan.com/media/google-pixel-7-official-image.webp",
@@ -2743,9 +2870,9 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4a-barely-blue-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-12-01 06:34:24",
+      "last_updated": "2025-12-02 06:33:47",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "July 13, 2024",
       "variants": [
         {
           "name": "6GB+128GB",
@@ -3024,10 +3151,21 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4a-5g",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4a-5g-black-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-12-01 06:34:24",
+      "last_updated": "2025-12-02 06:33:47",
       "first_scraped": null,
       "updated_on": "July 12, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "6GB+128GB",
+          "price": "৳.40,000",
+          "url": "https://www.mobiledokan.com/mobile/google-pixel-4a-5g"
+        },
+        {
+          "name": "8GB+128GB",
+          "price": "৳.53,000",
+          "url": "https://www.mobiledokan.com/mobile/google-pixel-4a-5g-8gb-ram"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Google",
@@ -3062,14 +3200,6 @@
           "Features": "Always-on display"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12.2 MP f/1.7, Wide Angle (77° field-of-view), Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera",
@@ -3084,6 +3214,14 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {

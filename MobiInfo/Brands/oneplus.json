@@ -4,7 +4,7 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2025-12-01 06:35:05",
+    "last_updated": "2025-12-02 06:33:32",
     "total_phones": 117,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
@@ -2313,7 +2313,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-2-5g",
       "image_url": "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-01 06:35:05",
+      "last_updated": "2025-12-02 06:33:32",
       "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
@@ -2440,7 +2440,19 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
+        "https://www.mobiledokan.com/media/17133299542HjJJ.webp",
+        "https://www.mobiledokan.com/media/1713329971rtjmg.webp",
+        "https://www.mobiledokan.com/media/17133299934IPUE.webp",
+        "https://www.mobiledokan.com/media/1713330008WyDNh.webp",
+        "https://www.mobiledokan.com/media/1713330027ke2D0.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp"
+      ]
     },
     {
       "id": "oneplus_nord_n20_se",
@@ -2732,7 +2744,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v",
       "image_url": "https://www.mobiledokan.com/media/17136870095bPDv.webp",
       "serial_number": 19,
-      "last_updated": "2025-12-01 06:35:05",
+      "last_updated": "2025-12-02 06:33:32",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
@@ -2859,7 +2871,13 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17136870095bPDv.webp",
+        "https://www.mobiledokan.com/media/17136870095bPDv.webp",
+        "https://www.mobiledokan.com/media/17136870095bPDv.webp",
+        "https://www.mobiledokan.com/media/17136870095bPDv.webp",
+        "https://www.mobiledokan.com/media/17136870095bPDv.webp"
+      ]
     },
     {
       "id": "oneplus_ace_2v_16gb_ram",
@@ -4616,7 +4634,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-9-pro",
       "image_url": "https://www.mobiledokan.com/media/oneplus-9-pro.webp",
       "serial_number": 32,
-      "last_updated": "2025-12-01 06:35:05",
+      "last_updated": "2025-12-02 06:33:32",
       "first_scraped": null,
       "updated_on": "May 7, 2024",
       "variants": [
@@ -4636,7 +4654,128 @@
           "url": "https://www.mobiledokan.com/mobile/oneplus-9-pro-12gb-ram"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "9 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "30 March 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "Chipset": "Qualcomm Snapdragon 888",
+          "CPU": "Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Adreno 660"
+        },
+        "Display": {
+          "Display Type": "Fluid AMOLED",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1440x3216 px (QHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "526 ppi",
+          "Screen to Body Ratio": "90.23 %",
+          "Screen Protection": "Corning Gorilla Glass v5",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1300 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Quad",
+            "Resolution": "48 MP f/1.8, Wide Angle, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera, 8 MP f/2.4, Telephoto Camera, 2 MP f/2.4, Mono Camera",
+            "Sensor": "IMX789, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus, Continuous autofocus, Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Filters, Focus Tracking, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163.2 mm",
+          "Width": "73.6 mm",
+          "Thickness": "8.7 mm",
+          "Weight": "197 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Morning Mist, Pine Green, Stellar Black",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4500 mAh",
+          "Wireless Charging": "50W wireless, 1-100% in 43 min",
+          "Quick Charging": "Warp, 65W: 100 % in 29 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM, Dual VoLTE",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (CA) Cat20 2000/200 Mbps, 5G",
+          "SAR Value": "Head: 1.11 W/kg, Body: 0.91 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/oneplus-9-pro.webp",
         "https://www.mobiledokan.com/media/oneplus-9-pro.webp"
