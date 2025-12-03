@@ -2,6 +2,127 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-03 12:36:05
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5325
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 5
+- **Visited phones**: 854
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### samsung
+- **Updated phone**: Samsung Galaxy S23 Ultra (price: 88500 → 72000, updated_on: February 5, 2025 → December 2, 2025, variants[1]: {name: 12GB+512GB, price: ৳.230,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb} → {name: 12GB+512GB, price: ৳.245,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb})
+- **Updated phone**: Samsung Galaxy S23 FE (price: 50000 → 44000, updated_on: November 12, 2024 → December 2, 2025, variants[0]: {name: 8GB+128GB, price: ৳.103,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-fe} → {name: 8GB+128GB, price: ৳.99,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-fe})
+- **Updated phone**: Samsung Galaxy S23 Plus (price: 88000 → 68000, updated_on: July 5, 2024 → December 2, 2025, variants[0]: {name: 8GB+256GB, price: ৳.88,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus} → {name: 8GB+256GB, price: ৳.68,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus}, variants[1]: {name: 8GB+512GB, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus-512gb} → {name: 8GB+512GB, price: ৳.72,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus-512gb})
+- **Updated phone**: Samsung Galaxy S22 Plus (price: 74000 → 67000, updated_on: June 10, 2024 → December 2, 2025, variants[0]: {name: 8GB+128GB, price: ৳.125,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus} → {name: 8GB+128GB, price: ৳.99,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus}, variants[1]: {name: 8GB+256GB, price: ৳.87,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus-256gb} → {name: 8GB+256GB, price: ৳.76,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus-256gb})
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 15 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 28 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 11 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-12-02 12:37:16
 
 ### Summary
@@ -2383,187 +2504,6 @@ This document tracks all changes to the MobiInfo phone database.
 - 32 phones visited from first 1 page
 
 #### motorola
-- 32 phones visited from first 1 page
-
-#### nothing
-- 16 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-11-22 12:31:34
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5325
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 62
-- **Visited phones**: 797
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### helio
-- **Updated phone**: Helio S5 (serial_number: 8 → 1)
-- **Updated phone**: Helio S60 (serial_number: 9 → 2)
-- **Updated phone**: Symphony Helio 50 (serial_number: 6 → 3)
-- **Updated phone**: Helio S10 (serial_number: 10 → 6)
-- **Updated phone**: Helio S1 (serial_number: 14 → 7)
-- **Updated phone**: Helio S2 (serial_number: 12 → 8)
-- **Updated phone**: Helio S20 (serial_number: 13 → 9)
-- **Updated phone**: Helio 90 (serial_number: 3 → 10)
-- **Updated phone**: Symphony Helio 50 (8GB RAM) (serial_number: 7 → 12)
-- **Updated phone**: Helio 100 (serial_number: 2 → 13)
-- **Updated phone**: Helio 100 (12GB RAM) (serial_number: 1 → 14)
-
-#### honor
-- **Updated phone**: Honor 200 (variants[1]: {name: 12GB+256GB, price: ৳.35,500, url: https://www.mobiledokan.com/mobile/honor-200-12gb-ram} → {name: 12GB+256GB, price: ৳.34,500, url: https://www.mobiledokan.com/mobile/honor-200-12gb-ram})
-
-#### huawei
-- **Updated phone**: Huawei Mate X3 (serial_number: 33 → 1)
-- **Updated phone**: Huawei Nova 11 Pro (serial_number: 34 → 2)
-- **Updated phone**: Huawei P60 (serial_number: 35 → 3)
-- **Updated phone**: Huawei P60 Pro (serial_number: 36 → 4)
-- **Updated phone**: Huawei P60 Pro (12/512GB) (serial_number: 37 → 5)
-- **Updated phone**: Huawei P50 Pocket (serial_number: 38 → 6)
-- **Updated phone**: Huawei Mate 60 Pro (serial_number: 32 → 7)
-- **Updated phone**: Huawei Mate 60 Pro (256GB) (serial_number: 39 → 8)
-- **Updated phone**: Huawei Mate 60 Pro Plus (serial_number: 31 → 9)
-- **Updated phone**: Huawei Mate 50 Pro (serial_number: 40 → 10)
-- **Updated phone**: Huawei P50 Pro (serial_number: 41 → 11)
-- **Updated phone**: Huawei P60 Art (serial_number: 42 → 12)
-- **Updated phone**: Huawei Mate Xs (serial_number: 43 → 13)
-- **Updated phone**: Huawei Mate 40 Pro (serial_number: 44 → 14)
-- **Updated phone**: Huawei Nova 3i (serial_number: 45 → 15)
-- **Updated phone**: Huawei Mate 30 Pro (serial_number: 46 → 16)
-- **Updated phone**: Huawei Mate 30 Pro 5G (serial_number: 47 → 17)
-- **Updated phone**: Huawei Y7p (serial_number: 48 → 18)
-- **Updated phone**: Huawei Nova 7i (serial_number: 49 → 19)
-- **Updated phone**: Huawei Y6 Pro (2019) (serial_number: 50 → 20)
-- **Updated phone**: Huawei Y7 Pro (2019) (serial_number: 51 → 21)
-- **Updated phone**: Huawei Y9s (serial_number: 52 → 22)
-- **Updated phone**: Huawei Pura 70 Pro Plus (serial_number: 29 → 23)
-- **Updated phone**: Huawei Pura 70 Ultra (serial_number: 30 → 24)
-- **Updated phone**: Huawei Nova 5T (serial_number: 53 → 25)
-- **Updated phone**: Huawei P30 Lite (serial_number: 54 → 26)
-- **Updated phone**: Huawei Y5p (serial_number: 55 → 27)
-- **Updated phone**: Huawei Mate X (serial_number: 56 → 28)
-- **Updated phone**: Huawei Y5 (2019) (serial_number: 57 → 29)
-- **Updated phone**: Huawei Y8p (serial_number: 58 → 30)
-- **Updated phone**: Huawei Y6p (serial_number: 59 → 31)
-- **Updated phone**: Huawei P40 Pro Plus (serial_number: 60 → 32)
-
-#### lenovo
-- **Updated phone**: Lenovo K6 Enjoy (serial_number: 17 → 4)
-- **Updated phone**: Lenovo Z5 Pro GT (serial_number: 19 → 5)
-- **Updated phone**: Lenovo Z5s (serial_number: 16 → 6)
-- **Updated phone**: Lenovo S5 Pro GT (serial_number: 18 → 7)
-- **Updated phone**: Lenovo Z5 (serial_number: 5 → 8)
-- **Updated phone**: Lenovo A5 (serial_number: 14 → 9)
-- **Updated phone**: Lenovo A5 (32GB) (serial_number: 15 → 10)
-- **Updated phone**: Lenovo K5 Play (serial_number: 4 → 11)
-- **Updated phone**: Lenovo K5 Note (serial_number: 11 → 13)
-- **Updated phone**: Lenovo Vibe P1m (serial_number: 9 → 14)
-- **Updated phone**: Lenovo ZUK Z1 (serial_number: 6 → 15)
-- **Updated phone**: Lenovo A2010 (serial_number: 7 → 16)
-- **Updated phone**: Lenovo A1000 (serial_number: 8 → 17)
-- **Updated phone**: Lenovo K3 Note (serial_number: 13 → 18)
-- **Updated phone**: Lenovo A6000 (serial_number: 10 → 19)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-- **Updated phone**: Nothing Phone (3a) (specifications.General.Model: Phone (3a) → Phone 3a)
-- **Updated phone**: Nothing Phone (3a) (256GB) (specifications.General.Model: Phone (3a) (256GB) → Phone 3a (256GB))
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 4 phones visited from first 1 page
-
-#### honor
-- 31 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 4 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
 - 32 phones visited from first 1 page
 
 #### nothing
