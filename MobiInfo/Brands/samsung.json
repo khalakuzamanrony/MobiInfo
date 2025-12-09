@@ -4,11 +4,11 @@
     "name": "samsung",
     "url": "https://www.mobiledokan.com/mobile-brand/samsung",
     "image_url": null,
-    "last_updated": "2025-12-08 06:35:39",
+    "last_updated": "2025-12-09 06:35:01",
     "total_phones": 456,
     "first_scraped": "2025-09-11 09:43:15",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 2
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-08 06:35:39",
+      "last_updated": "2025-12-09 06:35:01",
       "first_scraped": null,
       "updated_on": "December 2, 2025",
       "variants": [
@@ -29,7 +29,7 @@
         },
         {
           "name": "12GB+512GB",
-          "price": "৳.230,999",
+          "price": "৳.245,999",
           "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb"
         },
         {
@@ -73,6 +73,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "200 MP, f/1.7, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 10 MP, f/2.4, Telephoto Camera, 10 MP, f/4.9 Camera",
@@ -88,14 +96,6 @@
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps",
             "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {

@@ -4,11 +4,11 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2025-12-08 06:37:53",
+    "last_updated": "2025-12-09 06:37:46",
     "total_phones": 20,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -1697,138 +1697,11 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-11-26 06:34:22",
+      "last_updated": "2025-12-09 06:37:46",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.39,000",
-          "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.37,000",
-          "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a-plus"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nothing",
-          "Model": "Phone (2a) Plus (12GB RAM)",
-          "Device Type": "Smartphone",
-          "Release Date": "03 August 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "User Interface": "Nothing OS 2.6",
-          "Chipset": "Mediatek Dimensity 7350 Pro",
-          "CPU": "Octa-core (2x3.0 GHz Cortex-A715 & 6x 2.0 GHz Cortex-A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G610 MC4"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1080x2412 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "87.1%",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1300 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.9",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Action Mode",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "161.7 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "190 grams",
-          "Build": "Glass front (Gorilla Glass 5), plastic frame, plastic back",
-          "Colors": "Black, Grey",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP54",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "50W wired, 50% in 21 min, 100% in 56 min (advertised)",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@60/120fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "UK",
-          "Features": "Accelerometer, Proximity Senso, Gyroscope, Ambient Light Sensor"
-        }
-      },
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
         "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
