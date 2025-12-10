@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2025-12-09 06:35:09",
+    "last_updated": "2025-12-10 06:35:42",
     "total_phones": 544,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -163,27 +163,27 @@
     {
       "id": "xiaomi_14_ultra",
       "name": "Xiaomi 14 Ultra",
-      "price": "135000",
+      "price": "110000",
       "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra",
       "image_url": "https://www.mobiledokan.com/media/17099597678sEaY.webp",
       "serial_number": 2,
-      "last_updated": "2025-10-19 06:27:59",
+      "last_updated": "2025-12-10 06:35:42",
       "first_scraped": null,
-      "updated_on": "October 4, 2024",
+      "updated_on": "December 9, 2025",
       "variants": [
         {
-          "name": "12GB+256GB",
-          "price": "৳.135,000",
+          "name": "12GB+256GB GB",
+          "price": "৳.110,000",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra"
         },
         {
-          "name": "16GB+512GB",
-          "price": "৳.150,000",
+          "name": "16GB+512GB GB",
+          "price": "৳.125,000",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra-16gb-512gb"
         },
         {
-          "name": "16GB+1TB",
-          "price": "৳.160,000",
+          "name": "16GB+1TB GB",
+          "price": "৳.150,000",
           "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra-16gb-1tb"
         }
       ],
