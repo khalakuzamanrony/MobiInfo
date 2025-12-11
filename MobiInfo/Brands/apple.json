@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-12-10 06:35:41",
+    "last_updated": "2025-12-11 06:34:55",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -2488,7 +2488,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-02 06:33:12",
+      "last_updated": "2025-12-11 06:34:55",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [],
@@ -2517,22 +2517,15 @@
           "Aspect Ratio": "19.5:9",
           "Pixel Density": "457 ppi",
           "Screen to Body Ratio": "86.89 %",
-          "Screen Protection": "Ceramic Shield Glass",
-          "Bezel-less Display": "Yes",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
           "Brightness": "800 nits",
           "HDR 10 / HDR + support": "HDR10",
+          "Notch": "Yes",
           "Features": "Dolby Vision"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "12 MP f/1.6, Wide Angle, Primary Camera, 12 MP f/2.0, Telephoto Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
@@ -2548,6 +2541,14 @@
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "30 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2592,7 +2593,7 @@
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID"
+          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer"
         },
         "Multimedia": {
           "Loudspeaker": "Yes",
