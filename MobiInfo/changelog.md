@@ -2,6 +2,156 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-12 12:38:04
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5330
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 30
+- **Visited phones**: 832
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 12 Pro (specifications.Display.Screen Protection: Gorilla Glass → Ceramic Shield Glass, specifications.Display.Bezel-less Display: Yes with notch → Yes, Removed field: specifications.Display.Notch, specifications.Sensors & security.Face Unlock: Face ID, accelerometer, gyro, proximity, compass, barometer → Face ID)
+
+#### helio
+- **Updated phone**: Helio 100 (12GB RAM) (serial_number: 14 → 1)
+- **Updated phone**: Helio 100 (serial_number: 13 → 2)
+- **Updated phone**: Helio 90 (serial_number: 10 → 3)
+- **Updated phone**: Symphony Helio 50 (serial_number: 3 → 6)
+- **Updated phone**: Symphony Helio 50 (8GB RAM) (serial_number: 12 → 7)
+- **Updated phone**: Helio S5 (serial_number: 1 → 8)
+- **Updated phone**: Helio S60 (serial_number: 2 → 9)
+- **Updated phone**: Helio S10 (serial_number: 6 → 10)
+- **Updated phone**: Helio S2 (serial_number: 8 → 12)
+- **Updated phone**: Helio S20 (serial_number: 9 → 13)
+- **Updated phone**: Helio S1 (serial_number: 7 → 14)
+
+#### lenovo
+- **Updated phone**: Lenovo K5 Play (serial_number: 11 → 4)
+- **Updated phone**: Lenovo Z5 (serial_number: 8 → 5)
+- **Updated phone**: Lenovo ZUK Z1 (serial_number: 15 → 6)
+- **Updated phone**: Lenovo A2010 (serial_number: 16 → 7)
+- **Updated phone**: Lenovo A1000 (serial_number: 17 → 8)
+- **Updated phone**: Lenovo Vibe P1m (serial_number: 14 → 9)
+- **Updated phone**: Lenovo A6000 (serial_number: 19 → 10)
+- **Updated phone**: Lenovo K5 Note (serial_number: 13 → 11)
+- **Updated phone**: Lenovo K3 Note (serial_number: 18 → 13)
+- **Updated phone**: Lenovo A5 (serial_number: 9 → 14)
+- **Updated phone**: Lenovo A5 (32GB) (serial_number: 10 → 15)
+- **Updated phone**: Lenovo Z5s (serial_number: 6 → 16)
+- **Updated phone**: Lenovo K6 Enjoy (serial_number: 4 → 17)
+- **Updated phone**: Lenovo S5 Pro GT (serial_number: 7 → 18)
+- **Updated phone**: Lenovo Z5 Pro GT (serial_number: 5 → 19)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+- **Updated phone**: Nothing CMF Phone 2 Pro (variants[0]: {name: 8GB+128GB IND, price: ৳.26,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro} → {name: 8GB+128GB IND, price: ৳.27,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro}, variants[1]: {name: 8GB+256GB IND, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram} → {name: 8GB+256GB IND, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram})
+- **Updated phone**: Nothing CMF Phone 2 Pro (8GB RAM) (variants[0]: {name: 8GB+256GB IND, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram} → {name: 8GB+256GB IND, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram}, variants[1]: {name: 8GB+128GB IND, price: ৳.26,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro} → {name: 8GB+128GB IND, price: ৳.27,500, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro})
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 3 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 4 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 16 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-12-11 12:41:15
 
 ### Summary
@@ -1663,218 +1813,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### zte
 - **Updated phone**: ZTE Blade L8 (gallery_images: List length changed from 0 to 10)
-
-## Visited
-
-#### apple
-- 31 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 29 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 31 phones visited from first 1 page
-
-#### huawei
-- 28 phones visited from first 1 page
-
-#### infinix
-- 29 phones visited from first 1 page
-
-#### iqoo
-- 30 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 28 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 29 phones visited from first 1 page
-
-#### nokia
-- 28 phones visited from first 1 page
-
-#### nothing
-- 17 phones visited from first 1 page
-
-#### oneplus
-- 29 phones visited from first 1 page
-
-#### oppo
-- 31 phones visited from first 1 page
-
-#### realme
-- 27 phones visited from first 1 page
-
-#### samsung
-- 29 phones visited from first 1 page
-
-#### sony
-- 31 phones visited from first 1 page
-
-#### symphony
-- 30 phones visited from first 1 page
-
-#### tecno
-- 28 phones visited from first 1 page
-
-#### ulefone
-- 10 phones visited from first 1 page
-
-#### umidigi
-- 13 phones visited from first 1 page
-
-#### vivo
-- 31 phones visited from first 1 page
-
-#### walton
-- 30 phones visited from first 1 page
-
-#### xiaomi
-- 30 phones visited from first 1 page
-
-#### zte
-- 31 phones visited from first 1 page
-
----
-
-## 2025-12-01 12:42:16
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5330
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 54
-- **Visited phones**: 805
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 12 Pro (gallery_images: List length changed from 10 to 0)
-
-#### google
-- **Updated phone**: Google Pixel 7 (256GB) (variants: List length changed from 2 to 0, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Google Pixel 4a (updated_on: July 13, 2024 → None)
-- **Updated phone**: Google Pixel 4a 5G (variants: List length changed from 2 to 0)
-
-#### honor
-- **Updated phone**: Honor Magic5 Ultimate (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 5 to 0)
-
-#### huawei
-- **Updated phone**: Huawei Mate X3 (updated_on: March 26, 2025 → None, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 13 to 0)
-- **Updated phone**: Huawei P60 Pro (12/512GB) (gallery_images: List length changed from 12 to 0)
-- **Updated phone**: Huawei Mate 60 Pro Plus (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Huawei Mate 50 Pro (gallery_images: List length changed from 2 to 0)
-
-#### infinix
-- **Updated phone**: Infinix Smart 6 (gallery_images: List length changed from 12 to 0)
-- **Updated phone**: Infinix Hot 30 (8GB+128GB) (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Infinix Hot 9 Play (4GB+64GB) (gallery_images: List length changed from 11 to 0)
-
-#### iqoo
-- **Updated phone**: Vivo iQOO Neo8 Pro (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Vivo iQOO 9 SE (12GB/256GB) (updated_on: June 3, 2024 → None)
-
-#### lava
-- **Updated phone**: Lava Yuva Star (price: 10000 → None, updated_on: September 29, 2024 → None)
-- **Updated phone**: Lava Flair S1 (gallery_images: List length changed from 9 to 0)
-- **Updated phone**: LAVA Iris 750 (gallery_images: List length changed from 9 to 0)
-- **Updated phone**: Lava Iris 821 (price: 6999 → None, updated_on: August 24, 2024 → None, variants: List length changed from 1 to 0)
-
-#### motorola
-- **Updated phone**: Motorola Moto G9 Plus (variants: List length changed from 1 to 0)
-- **Updated phone**: Motorola Moto E6 Plus (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-- **Updated phone**: Motorola Edge 40 (gallery_images: List length changed from 5 to 0)
-
-#### nokia
-- **Updated phone**: Nokia 800 Tough (price: 10250 → None, updated_on: May 8, 2024 → None)
-- **Updated phone**: Nokia 5310 (2020) (price: 5900 → None, updated_on: December 20, 2024 → None)
-- **Updated phone**: Nokia 1 Plus (price: 6999 → None, updated_on: February 24, 2025 → None, variants: List length changed from 1 to 0)
-- **Updated phone**: Nokia 7 Plus (updated_on: May 9, 2024 → None)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-#### oneplus
-- **Updated phone**: OnePlus Nord CE 2 5G (gallery_images: List length changed from 11 to 0)
-- **Updated phone**: OnePlus Ace 2V (gallery_images: List length changed from 5 to 0)
-- **Updated phone**: Oneplus 9 Pro (Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-
-#### oppo
-- **Updated phone**: Oppo Reno4 (gallery_images: List length changed from 9 to 0)
-
-#### realme
-- **Updated phone**: Realme 9 (gallery_images: List length changed from 15 to 0)
-- **Updated phone**: Realme C30s (variants: List length changed from 1 to 0, gallery_images: List length changed from 6 to 0)
-- **Updated phone**: Realme Narzo 30A (updated_on: January 21, 2025 → None)
-- **Updated phone**: Realme Narzo N55 (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Realme 11X 5G (gallery_images: List length changed from 12 to 0)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy A32 (gallery_images: List length changed from 11 to 0)
-- **Updated phone**: Samsung Galaxy M51 (gallery_images: List length changed from 9 to 0)
-- **Updated phone**: Samsung Galaxy A52 (price: 35000 → None, updated_on: August 31, 2024 → None)
-
-#### sony
-- **Updated phone**: Sony Xperia 5 III (gallery_images: List length changed from 11 to 0)
-
-#### symphony
-- **Updated phone**: Symphony Z70 (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Symphony G26 (variants: List length changed from 1 to 0)
-
-#### tecno
-- **Updated phone**: Tecno Pop 7 (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Tecno Pova 5 Pro (gallery_images: List length changed from 10 to 0)
-- **Updated phone**: Tecno Camon 20 Pro (gallery_images: List length changed from 8 to 0)
-- **Updated phone**: Tecno Phantom X (gallery_images: List length changed from 9 to 0)
-
-#### ulefone
-- **Updated phone**: Ulefone Note 19 (price: 15000 → None, updated_on: October 21, 2024 → None)
-
-#### umidigi
-- **Updated phone**: Umidigi G9 5G (price: 13990 → None, updated_on: October 7, 2025 → None)
-
-#### vivo
-- **Updated phone**: Vivo V27e (variants: List length changed from 1 to 0, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
-
-#### walton
-- **Updated phone**: Walton Primo RX8 (gallery_images: List length changed from 5 to 0)
-- **Updated phone**: Walton Primo GH10 (gallery_images: List length changed from 5 to 0)
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi 9 Power (6GB+128GB) (gallery_images: List length changed from 13 to 0)
-- **Updated phone**: Xiaomi Redmi Note 9S (6GB+128GB) (variants: List length changed from 2 to 0)
-
-#### zte
-- **Updated phone**: ZTE Blade L8 (gallery_images: List length changed from 10 to 0)
 
 ## Visited
 

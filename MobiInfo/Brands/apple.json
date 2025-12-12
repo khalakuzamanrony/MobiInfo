@@ -4,7 +4,7 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2025-12-11 06:34:55",
+    "last_updated": "2025-12-12 06:33:56",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
@@ -2488,7 +2488,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-11 06:34:55",
+      "last_updated": "2025-12-12 06:33:56",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [],
@@ -2517,12 +2517,11 @@
           "Aspect Ratio": "19.5:9",
           "Pixel Density": "457 ppi",
           "Screen to Body Ratio": "86.89 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
+          "Screen Protection": "Ceramic Shield Glass",
+          "Bezel-less Display": "Yes",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
           "Brightness": "800 nits",
           "HDR 10 / HDR + support": "HDR10",
-          "Notch": "Yes",
           "Features": "Dolby Vision"
         },
         "Cameras": {
@@ -2593,7 +2592,7 @@
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+          "Face Unlock": "Face ID"
         },
         "Multimedia": {
           "Loudspeaker": "Yes",
