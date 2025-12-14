@@ -2,6 +2,122 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-14 12:35:11
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5330
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 2
+- **Visited phones**: 862
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+- **Updated phone**: Nothing Phone (3a) Pro (name: Nothing Phone 3a Pro → Nothing Phone (3a) Pro, price: 41500 → 42500, updated_on: August 14, 2025 → December 14, 2025, variants[0]: {name: 8GB+256GB IND, price: ৳.41,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro} → {name: 8GB+256GB IND, price: ৳.42,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro}, specifications.General.Model: Phone 3a Pro → Phone (3a) Pro)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 16 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 17 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-12-13 12:35:24
 
 ### Summary
@@ -1673,127 +1789,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### samsung
 - 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-12-03 12:36:05
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5330
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 5
-- **Visited phones**: 854
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy S23 Ultra (price: 88500 → 72000, updated_on: February 5, 2025 → December 2, 2025, variants[1]: {name: 12GB+512GB, price: ৳.230,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb} → {name: 12GB+512GB, price: ৳.245,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb})
-- **Updated phone**: Samsung Galaxy S23 FE (price: 50000 → 44000, updated_on: November 12, 2024 → December 2, 2025, variants[0]: {name: 8GB+128GB, price: ৳.103,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-fe} → {name: 8GB+128GB, price: ৳.99,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-fe})
-- **Updated phone**: Samsung Galaxy S23 Plus (price: 88000 → 68000, updated_on: July 5, 2024 → December 2, 2025, variants[0]: {name: 8GB+256GB, price: ৳.88,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus} → {name: 8GB+256GB, price: ৳.68,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus}, variants[1]: {name: 8GB+512GB, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus-512gb} → {name: 8GB+512GB, price: ৳.72,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus-512gb})
-- **Updated phone**: Samsung Galaxy S22 Plus (price: 74000 → 67000, updated_on: June 10, 2024 → December 2, 2025, variants[0]: {name: 8GB+128GB, price: ৳.125,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus} → {name: 8GB+128GB, price: ৳.99,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus}, variants[1]: {name: 8GB+256GB, price: ৳.87,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus-256gb} → {name: 8GB+256GB, price: ৳.76,000, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s22-plus-256gb})
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 15 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 28 phones visited from first 1 page
 
 #### sony
 - 32 phones visited from first 1 page
