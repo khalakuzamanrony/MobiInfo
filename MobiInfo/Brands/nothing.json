@@ -4,7 +4,7 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2025-12-14 06:33:44",
+    "last_updated": "2025-12-15 06:37:49",
     "total_phones": 20,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
@@ -2288,7 +2288,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-pro-gray-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-11-26 06:34:22",
+      "last_updated": "2025-12-15 06:37:49",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
       "variants": [
@@ -2299,7 +2299,7 @@
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.41,500",
+          "price": "৳.42,500",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-pro"
         }
       ],
@@ -2337,6 +2337,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2351,13 +2358,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {

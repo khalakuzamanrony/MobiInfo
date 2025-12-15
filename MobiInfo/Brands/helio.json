@@ -4,11 +4,11 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2025-12-14 06:33:13",
+    "last_updated": "2025-12-15 06:37:30",
     "total_phones": 16,
     "first_scraped": "2025-09-11 09:01:40",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -551,9 +551,9 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-40-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-09-14 13:18:37",
+      "last_updated": "2025-12-15 06:37:30",
       "first_scraped": null,
-      "updated_on": "September 9, 2024",
+      "updated_on": "December 14, 2025",
       "variants": [
         {
           "name": "8GB+128GB",
@@ -599,6 +599,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "108 MP, f1.8, Wide Angle, Primary Camera, 2 MP Macro Camera",
@@ -612,14 +620,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Display flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
