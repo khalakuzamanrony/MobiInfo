@@ -2,6 +2,121 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-17 12:37:33
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5330
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Visited phones**: 863
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 16 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-12-16 12:38:11
 
 ### Summary
@@ -1530,217 +1645,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### vivo
 - 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-12-06 12:33:02
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5330
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 98
-- **Visited phones**: 762
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### iqoo
-- **Updated phone**: Vivo iQOO Z7 Pro (serial_number: 33 → 1)
-- **Updated phone**: Vivo iQOO Neo9 Pro (serial_number: 34 → 2)
-- **Updated phone**: Vivo iQOO 12 Pro (serial_number: 35 → 3)
-- **Updated phone**: Vivo iQOO Z7s (serial_number: 36 → 4)
-- **Updated phone**: Vivo iQOO 12 (serial_number: 37 → 5)
-- **Updated phone**: Vivo iQOO Neo 7 Pro (serial_number: 38 → 6)
-- **Updated phone**: Vivo iQOO Z9 (serial_number: 39 → 7)
-- **Updated phone**: Vivo iQOO Neo9 Pro (China) (serial_number: 40 → 8)
-- **Updated phone**: Vivo iQOO Neo8 Pro (serial_number: 41 → 9)
-- **Updated phone**: Vivo iQOO Neo8 (serial_number: 42 → 10)
-- **Updated phone**: Vivo iQOO Neo7 SE (serial_number: 43 → 11)
-- **Updated phone**: Vivo iQOO 11 (serial_number: 44 → 12)
-- **Updated phone**: Vivo iQOO 11 (16GB/256GB) (serial_number: 45 → 13)
-- **Updated phone**: Vivo iQOO Z7 (serial_number: 46 → 14)
-- **Updated phone**: Vivo iQOO Z7 (8GB RAM) (serial_number: 47 → 15)
-- **Updated phone**: Vivo iQOO Z6 Lite (serial_number: 48 → 16)
-- **Updated phone**: Vivo iQOO Neo6 (serial_number: 49 → 17)
-- **Updated phone**: Vivo iQOO Z6 44W (serial_number: 50 → 18)
-- **Updated phone**: Vivo iQOO Z6 Pro (serial_number: 51 → 19)
-- **Updated phone**: Vivo iQOO Neo 7 (serial_number: 52 → 20)
-- **Updated phone**: Vivo iQOO 9T (serial_number: 53 → 21)
-- **Updated phone**: Vivo iQOO 9 SE (serial_number: 54 → 22)
-- **Updated phone**: Vivo iQOO Z9 Turbo (serial_number: 55 → 23)
-- **Updated phone**: Vivo iQOO Z7 Pro (256GB) (serial_number: 56 → 24)
-- **Updated phone**: Vivo iQOO Neo9 (serial_number: 57 → 25)
-- **Updated phone**: Vivo iQOO Neo9 (16GB RAM) (serial_number: 58 → 26)
-- **Updated phone**: Vivo iQOO Neo 7 Pro (12GB/256GB) (serial_number: 59 → 27)
-- **Updated phone**: Vivo iQOO 9 SE (12GB/256GB) (serial_number: 60 → 28)
-- **Updated phone**: Vivo iQOO Z9x (serial_number: 61 → 29)
-- **Updated phone**: Vivo iQOO Z9 (256GB) (serial_number: 62 → 30)
-- **Updated phone**: Vivo iQOO Neo9s Pro (serial_number: 63 → 31)
-- **Updated phone**: Vivo iQOO Neo9s Pro Plus (serial_number: 64 → 32)
-
-#### lava
-- **Updated phone**: Lava Iris X5 (updated_on: August 23, 2024 → August 24, 2024)
-
-#### nokia
-- **Updated phone**: Nokia 130 Music (serial_number: 33 → 1)
-- **Updated phone**: Nokia 150 Music (serial_number: 34 → 2)
-- **Updated phone**: Nokia 110 4G 2nd Edition (serial_number: 35 → 3)
-- **Updated phone**: Nokia 105 4G 2nd Edition (serial_number: 36 → 4)
-- **Updated phone**: Nokia 110 4G (2024) (serial_number: 37 → 5)
-- **Updated phone**: Nokia 108 4G (2024) (serial_number: 38 → 6)
-- **Updated phone**: Nokia 105 (2024) (serial_number: 39 → 7)
-- **Updated phone**: Nokia 220 4G (2024) (serial_number: 40 → 8)
-- **Updated phone**: Nokia 215 4G (2024) (serial_number: 41 → 9)
-- **Updated phone**: Nokia 235 4G (2024) (serial_number: 42 → 10)
-- **Updated phone**: Nokia 3210 (serial_number: 43 → 11)
-- **Updated phone**: Nokia 225 4G (2024) (serial_number: 44 → 12)
-- **Updated phone**: Nokia 5310 (2024) (serial_number: 45 → 13)
-- **Updated phone**: Nokia 6310 (2024) (serial_number: 46 → 14)
-- **Updated phone**: Nokia 230 (2024) (serial_number: 47 → 15)
-- **Updated phone**: Nokia XR21 Limited Edition (serial_number: 48 → 16)
-- **Updated phone**: Nokia 150 (2023) (serial_number: 49 → 17)
-- **Updated phone**: Nokia 130 (2023) (serial_number: 50 → 18)
-- **Updated phone**: Nokia 105 4G (2023) (serial_number: 51 → 19)
-- **Updated phone**: Nokia 110 4G (2023) (serial_number: 52 → 20)
-- **Updated phone**: Nokia 110 (2023) (serial_number: 1 → 21)
-- **Updated phone**: Nokia 106 (2023) (serial_number: 53 → 22)
-- **Updated phone**: Nokia 105 DS (2023) (serial_number: 54 → 23)
-- **Updated phone**: Nokia 105 (2023) (serial_number: 55 → 24)
-- **Updated phone**: Nokia 106 DS (2023) (serial_number: 56 → 25)
-- **Updated phone**: Nokia 106 4G (2023) (serial_number: 57 → 26)
-- **Updated phone**: Nokia C110 (serial_number: 58 → 27)
-- **Updated phone**: Nokia C12 Pro (serial_number: 59 → 28)
-- **Updated phone**: Nokia C32 (serial_number: 5 → 29)
-- **Updated phone**: Nokia C22 (serial_number: 2 → 30)
-- **Updated phone**: Nokia C12 (serial_number: 60 → 31)
-- **Updated phone**: Nokia 2780 Flip (serial_number: 61 → 32)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-#### vivo
-- **Updated phone**: Vivo V29 (serial_number: 33 → 1)
-- **Updated phone**: Vivo Y100t (serial_number: 34 → 2)
-- **Updated phone**: Vivo V30 (serial_number: 35 → 3)
-- **Updated phone**: Vivo G2 (serial_number: 36 → 4)
-- **Updated phone**: Vivo V30 Pro (serial_number: 37 → 5)
-- **Updated phone**: Vivo V29e (serial_number: 38 → 6)
-- **Updated phone**: Vivo Y15 (serial_number: 39 → 7)
-- **Updated phone**: Vivo Y17s (serial_number: 40 → 8)
-- **Updated phone**: Vivo X100 Pro (serial_number: 41 → 9)
-- **Updated phone**: Vivo Y02a (serial_number: 42 → 10)
-- **Updated phone**: Vivo Y21 (serial_number: 43 → 11)
-- **Updated phone**: Vivo V30 Lite 4G (serial_number: 44 → 12)
-- **Updated phone**: Vivo Y36 (serial_number: 45 → 13)
-- **Updated phone**: Vivo Y30 (serial_number: 46 → 14)
-- **Updated phone**: Vivo Y22 (serial_number: 47 → 15)
-- **Updated phone**: Vivo Y22s (serial_number: 48 → 16)
-- **Updated phone**: Vivo V20 SE (serial_number: 49 → 17)
-- **Updated phone**: Vivo Y12s (serial_number: 50 → 18)
-- **Updated phone**: Vivo Y20 (serial_number: 51 → 19)
-- **Updated phone**: Vivo Y51 (serial_number: 52 → 20)
-- **Updated phone**: Vivo V29 Pro (serial_number: 53 → 21)
-- **Updated phone**: Vivo Y16 (serial_number: 54 → 22)
-- **Updated phone**: Vivo V25e (serial_number: 55 → 23)
-- **Updated phone**: Vivo Y27 (serial_number: 56 → 24)
-- **Updated phone**: Vivo Y27s (serial_number: 57 → 25)
-- **Updated phone**: Vivo V21 (serial_number: 58 → 26)
-- **Updated phone**: Vivo Y02T (serial_number: 59 → 27)
-- **Updated phone**: Vivo V27 5G (serial_number: 60 → 28)
-- **Updated phone**: Vivo V27e (serial_number: 61 → 29)
-- **Updated phone**: Vivo Y20 2021 (serial_number: 62 → 30)
-- **Updated phone**: Vivo V20 (serial_number: 63 → 31)
-- **Updated phone**: Vivo X60 Pro 5G (serial_number: 64 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 16 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 31 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
 
 #### walton
 - 32 phones visited from first 1 page
