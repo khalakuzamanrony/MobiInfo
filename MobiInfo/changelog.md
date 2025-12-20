@@ -2,6 +2,121 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2025-12-20 12:36:35
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5330
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 1
+- **Visited phones**: 863
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 32 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 16 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 18 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2025-12-19 12:37:15
 
 ### Summary
@@ -1421,192 +1536,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 31 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2025-12-09 12:42:26
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5330
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 2
-- **Updated phones**: 66
-- **Visited phones**: 794
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### ulefone
-- Ulefone RugKing 2 Pro
-- Ulefone RugKing 3 Pro
-
-## Updates
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 20 → 12, updated_on: None → October 30, 2025, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More, gallery_images: List length changed from 68 to 8)
-
-#### oppo
-- **Updated phone**: Oppo Find X9 (price: 50000 → 124500, image_url: https://www.mobiledokan.com/media/oppo-find-x9-titanium-grey-official-image.webp → https://www.mobiledokan.com/media/oppo-find-x9-chasing-light-red-official-image.webp, serial_number: 34 → 1, updated_on: October 16, 2025 → November 9, 2025, variants: List length changed from 0 to 1, specifications.General.Release Date: Exp. 16 October 2025 → 28 October 2025, specifications.General.Status: Upcoming → Available, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Vlog Mode, Video Pro Mode, specifications.Memory.Internal Storage: 256 GB → 512 GB, specifications.Memory.RAM: 12 GB → 16 GB)
-- **Updated phone**: Oppo Find X9 Plus (serial_number: 35 → 2)
-- **Updated phone**: Oppo A6 Pro (price: 34990 → 32990, serial_number: 36 → 3, updated_on: October 1, 2025 → November 12, 2025, variants: List length changed from 0 to 2, specifications.Memory.Internal Storage: 256 GB → 128 GB)
-- **Updated phone**: Oppo A6 Pro 5G (serial_number: 37 → 4)
-- **Updated phone**: Oppo F31 Pro (price: 35500 → 30500, serial_number: 38 → 5, updated_on: October 8, 2025 → December 6, 2025)
-- **Updated phone**: Oppo F31 (serial_number: 39 → 6)
-- **Updated phone**: Oppo F31 Pro Plus (price: 50000 → 42500, serial_number: 40 → 7, updated_on: September 9, 2025 → December 6, 2025, specifications.General.Release Date: Not announced yet → 16 September 2025, specifications.General.Status: Rumored → Available, Added new field: specifications.Hardware & Software.User Interface, specifications.Hardware & Software.Chipset: Qualcomm SM7550 Snapdragon 7 Gen 3 → Qualcomm SM7550-AB Snapdragon 7 Gen 3, specifications.Hardware & Software.CPU: Octa core (2.63 GHz, Single core, Cortex A715 + 2.4 GHz, Tri core, Cortex A715 + 1.8 GHz, Quad core, Cortex A510) → Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510), specifications.Display.Resolution: 1240x2772 px (FHD+) → 1280x2800 px (FHD+), specifications.Display.Screen to Body Ratio: 87.48 % → 89.1%, specifications.Cameras.Primary Camera.Resolution: 50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Mono Camera → 50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Monochrome Camera, specifications.Cameras.Primary Camera.Video FPS: 60 fps → 30 fps, specifications.Cameras.Selfie Camera.Video FPS: 60 fps → 30 fps, specifications.Design.Colors: Blue, White,  Pink → Festival Pink, Himalayan White, Gemstone Blue, Added new field: specifications.Battery.Reverse Charging, Removed field: specifications.Battery.Wireless Charging, Removed field: specifications.Network & Connectivity.NFC, specifications.Multimedia.Video: 4K@30/60fps, 1080p@30fps → 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS, specifications.More.Features: Accelerometer, Compass, Gyroscope → Accelerometer, gyro, proximity, compass)
-- **Updated phone**: Oppo Find X9 Pro (price: 100000 → 112000, image_url: https://www.mobiledokan.com/media/oppo-find-x9-pro-velvet-red-official-image.webp → https://www.mobiledokan.com/media/oppo-find-x9-pro-white-official-image.webp, serial_number: 33 → 8, updated_on: October 17, 2025 → November 2, 2025, variants: List length changed from 0 to 1, specifications.General.Release Date: Exp. 16 October 2025 → 16 October 2025, specifications.General.Status: Upcoming → Available, specifications.Cameras.Primary Camera.Camera Features: Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR → Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slow Motion, Video HDR, Vlog Mode, Video Pro Mode)
-- **Updated phone**: Oppo A5i Pro (serial_number: 41 → 9)
-- **Updated phone**: Oppo A6 Max (serial_number: 42 → 10)
-- **Updated phone**: Oppo A5 4G (price: 19990 → 17990, serial_number: 43 → 11, updated_on: August 14, 2025 → November 23, 2025, variants[0]: {name: 6GB+128GB, price: ৳.19,990, url: https://www.mobiledokan.com/mobile/oppo-a5-4g} → {name: 6GB+128GB, price: ৳.17,990, url: https://www.mobiledokan.com/mobile/oppo-a5-4g})
-- **Updated phone**: Oppo A5 4G (8GB RAM) (serial_number: 44 → 12, variants[1]: {name: 6GB+128GB, price: ৳.19,990, url: https://www.mobiledokan.com/mobile/oppo-a5-4g} → {name: 6GB+128GB, price: ৳.17,990, url: https://www.mobiledokan.com/mobile/oppo-a5-4g})
-- **Updated phone**: Oppo Reno14 F (price: 42990 → 39990, serial_number: 45 → 13, updated_on: July 29, 2025 → November 20, 2025)
-- **Updated phone**: Oppo Reno14 (price: 51500 → 52500, serial_number: 46 → 14, updated_on: August 18, 2025 → December 6, 2025, variants[0]: {name: 12GB+256GB, price: ৳.79,990, url: https://www.mobiledokan.com/mobile/oppo-reno14} → {name: 12GB+256GB, price: ৳.59,990, url: https://www.mobiledokan.com/mobile/oppo-reno14})
-- **Updated phone**: Oppo K13 Turbo (serial_number: 47 → 15)
-- **Updated phone**: Oppo K13 Turbo Pro (serial_number: 48 → 16)
-- **Updated phone**: Oppo K13 Turbo (512GB) (serial_number: 49 → 17)
-- **Updated phone**: Oppo K13 Turbo Pro (512GB) (serial_number: 50 → 18)
-- **Updated phone**: Oppo K13x (serial_number: 51 → 19)
-- **Updated phone**: Oppo A5i (serial_number: 52 → 20)
-- **Updated phone**: Oppo Reno14 Pro (serial_number: 53 → 21)
-- **Updated phone**: Oppo Reno14 (512GB) (serial_number: 54 → 22, variants[1]: {name: 12GB+256GB, price: ৳.79,990, url: https://www.mobiledokan.com/mobile/oppo-reno14} → {name: 12GB+256GB, price: ৳.59,990, url: https://www.mobiledokan.com/mobile/oppo-reno14})
-- **Updated phone**: Oppo Reno14 Pro (512GB) (serial_number: 55 → 23)
-- **Updated phone**: Oppo A5x (serial_number: 56 → 24)
-- **Updated phone**: Oppo A5x (128GB) (serial_number: 57 → 25)
-- **Updated phone**: Oppo A5 5G (serial_number: 58 → 26)
-- **Updated phone**: Oppo K13 (serial_number: 59 → 27)
-- **Updated phone**: Oppo K13 (256GB) (serial_number: 60 → 28)
-- **Updated phone**: Oppo Find X8s (serial_number: 61 → 29)
-- **Updated phone**: Oppo Find X8s Plus (serial_number: 62 → 30)
-- **Updated phone**: Oppo Find X8 Ultra (16GB+512GB) (serial_number: 63 → 31)
-- **Updated phone**: Oppo Find X8 Ultra (serial_number: 64 → 32)
-
-#### samsung
-- **Updated phone**: Samsung Galaxy S23 Ultra (variants[1]: {name: 12GB+512GB, price: ৳.230,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb} → {name: 12GB+512GB, price: ৳.245,999, url: https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra-512gb})
-
-#### sony
-- **Updated phone**: Sony Xperia 1 VII (512GB) (serial_number: 33 → 1)
-- **Updated phone**: Sony Xperia 1 VII (serial_number: 34 → 2)
-- **Updated phone**: Sony Xperia 1 VI (serial_number: 5 → 3)
-- **Updated phone**: Sony Xperia 1 V (serial_number: 1 → 4)
-- **Updated phone**: Sony Xperia 5 IV (serial_number: 2 → 5)
-- **Updated phone**: Sony Xperia 1 IV (serial_number: 3 → 6)
-- **Updated phone**: Sony Xperia 5 III (serial_number: 8 → 7)
-- **Updated phone**: Sony Xperia 1 III (serial_number: 6 → 8)
-- **Updated phone**: Sony Xperia 10 III (serial_number: 7 → 9)
-- **Updated phone**: Sony Xperia 5 (serial_number: 4 → 10)
-- **Updated phone**: Sony Xperia 1 (serial_number: 35 → 11)
-- **Updated phone**: Sony Xperia 10 Plus (serial_number: 36 → 12)
-- **Updated phone**: Sony Xperia 10 (serial_number: 37 → 13)
-- **Updated phone**: Sony Xperia L3 (serial_number: 11 → 14)
-- **Updated phone**: Sony Xperia XZ3 (serial_number: 12 → 15)
-- **Updated phone**: Sony Xperia XA2 Plus (serial_number: 9 → 16)
-- **Updated phone**: Sony Xperia XZ2 Premium (serial_number: 38 → 17)
-- **Updated phone**: Sony Xperia XZ2 (serial_number: 39 → 18)
-- **Updated phone**: Sony Xperia XZ2 Compact (serial_number: 10 → 19)
-- **Updated phone**: Sony Xperia XA2 (serial_number: 40 → 20)
-- **Updated phone**: Sony Xperia L2 (serial_number: 14 → 21)
-- **Updated phone**: Sony Xperia R1 (Plus) (serial_number: 41 → 22)
-- **Updated phone**: Sony Xperia XA1 Plus Dual (4GB+32GB) (serial_number: 42 → 23)
-- **Updated phone**: Sony Xperia XZ1 Compact (serial_number: 43 → 24)
-- **Updated phone**: Sony Xperia XZ1 Dual (serial_number: 44 → 25)
-- **Updated phone**: Sony Xperia XZ1 (serial_number: 13 → 26)
-- **Updated phone**: Sony Xperia XA1 Ultra Dual (4GB+64GB) (serial_number: 45 → 27)
-- **Updated phone**: Sony Xperia L1 Dual SIM (serial_number: 46 → 28)
-- **Updated phone**: Sony Xperia XZ Premium Dual (serial_number: 47 → 29)
-- **Updated phone**: Sony Xperia XA1 Ultra Dual (serial_number: 48 → 30)
-- **Updated phone**: Sony Xperia XZ (serial_number: 16 → 31)
-- **Updated phone**: Sony Xperia XZs Dual (serial_number: 49 → 32)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 16 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 18 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 31 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 11 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
