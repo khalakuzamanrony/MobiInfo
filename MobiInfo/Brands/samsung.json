@@ -4,11 +4,11 @@
     "name": "samsung",
     "url": "https://www.mobiledokan.com/mobile-brand/samsung",
     "image_url": null,
-    "last_updated": "2025-12-21 06:31:49",
+    "last_updated": "2025-12-22 06:38:23",
     "total_phones": 456,
     "first_scraped": "2025-09-11 09:43:15",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 18
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-09 06:35:01",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "December 2, 2025",
       "variants": [
@@ -73,14 +73,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "200 MP, f/1.7, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 10 MP, f/2.4, Telephoto Camera, 10 MP, f/4.9 Camera",
@@ -96,6 +88,14 @@
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps, 240 fps",
             "Image Stabilization": "Yes"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -159,20 +159,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Samsung DeX, Samsung Wireless DeX (desktop experience support), Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-ultra-phantom-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_s24_ultra",
@@ -650,7 +637,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-fe",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-03 06:32:40",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "December 2, 2025",
       "variants": [
@@ -779,20 +766,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing\r\nSamsung DeX"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-fe-cream-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_s23_plus",
@@ -801,7 +775,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-cream-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-08 06:35:39",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "December 2, 2025",
       "variants": [
@@ -816,144 +790,8 @@
           "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-plus-512gb"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Samsung",
-          "Model": "Galaxy S23 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "17 Feb 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "Samsung One UI 6",
-          "Chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
-          "CPU": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 740"
-        },
-        "Display": {
-          "Display Type": "Dynamic AMOLED 2X",
-          "Screen Size": "6.6 inches, 105.3 cm2",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "393 ppi",
-          "Screen to Body Ratio": "88.73 %",
-          "Screen Protection": "Corning Gorilla Glass, Glass Victus 2",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1750 nits",
-          "HDR 10 / HDR + support": "HDR10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 10 MP f/2.4, Telephoto Camera",
-            "Sensor": "S5KGN3, ISO-CELL",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "LED flash, auto-HDR, panorama",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion, Bokeh portrait video, Video Pro Mode, Stereo recording",
-            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "157.8 mm",
-          "Width": "76.2 mm",
-          "Thickness": "7.6 mm",
-          "Weight": "195 grams",
-          "Build": "Back: Gorilla Glass Victus 2",
-          "Colors": "Phantom Black, Cream, Green, Lavender, Graphite, Lime",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4700 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "45W wired, PD3.0, 65% in 30 min (advertised)",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (up to 7CA), 5G",
-          "SAR Value": "Head: 0.95 W/kg, Body: 1.04 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Ultrasonic",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps, HDR10+, stereo sound rec., gyro-EIS"
-        },
-        "More": {
-          "Made By": "Korea",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer, Samsung DeX, Samsung Wireless DeX (desktop experience support), Ultra Wideband (UWB) support"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-green-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-lavender-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-s23-plus-phantom-black-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a5_2017",
@@ -1410,7 +1248,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a12",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a12-blue-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "November 11, 2024",
       "variants": [
@@ -1425,119 +1263,7 @@
           "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a12-4gb-128gb"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Samsung",
-          "Model": "Galaxy A12",
-          "Device Type": "Smartphone",
-          "Release Date": "21 December 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "Samsung One UI 4.1",
-          "Chipset": "Mediatek MT6765 Helio P35",
-          "CPU": "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "PLS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "82.06 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/2.0, Wide Angle (80° field-of-view), Primary Camera, 5 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "164 mm",
-          "Width": "75.8 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "205 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Black, White, Blue, Red"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "15W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "User Available Storage": "Up to 47.9 GB",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "SAR Value": "Head: 0.79 W/kg",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes (market/region dependent)",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Korea",
-          "Features": "Accelerometer Virtual proximity sensing"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/samsung-galaxy-a12-blue-official-image.webp",
         "https://www.mobiledokan.com/media/samsung-galaxy-a12-blue-official-image.webp",
@@ -1710,7 +1436,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a72",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [],
@@ -1748,6 +1474,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.4, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 5 MP, f/2.4, Macro Camera",
@@ -1762,13 +1495,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1832,20 +1558,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-violet-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a72-awesome-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a32",
@@ -1854,7 +1567,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a32",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-12-02 06:33:18",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "November 24, 2024",
       "variants": [
@@ -1903,6 +1616,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "20 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "64 MP f/1.8, Wide Angle (80° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.4, Macro Camera, 5 MP f/2.4, Depth Camera",
@@ -1916,13 +1636,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1983,19 +1696,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-violet-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a32_8gb128gb",
@@ -2004,7 +1705,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a32-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-11-26 06:31:59",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "November 24, 2024",
       "variants": [
@@ -2133,19 +1834,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a32-awesome-violet-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_m02",
@@ -2154,21 +1843,10 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-m02",
       "image_url": "https://www.mobiledokan.com/media/17101827781893a.webp",
       "serial_number": 15,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.8,599",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-m02"
-        },
-        {
-          "name": "3GB+32GB",
-          "price": "৳.9,999",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-m02-3gb-ram"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Samsung",
@@ -2268,18 +1946,7 @@
           "Features": "Proximity sensor, Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17101827781893a.webp",
-        "https://www.mobiledokan.com/media/17101827781893a.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-front-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m02-red-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a51",
@@ -2288,7 +1955,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a51",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-blue-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [],
@@ -2409,20 +2076,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing, ANT+"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-black-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a51-prism-crush-pink-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_m51",
@@ -2431,7 +2085,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-m51",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-02 06:33:18",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
@@ -2554,17 +2208,7 @@
           "Features": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-front-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-back-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-m51-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_s21_ultra",
@@ -2729,7 +2373,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a54-5g",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "November 13, 2024",
       "variants": [
@@ -2860,20 +2504,7 @@
           "Features": "Accelerometer, gyro, compass, barometer (USA only), Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-lime-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-violet-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a54-5g-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a34_5g",
@@ -2882,7 +2513,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a34-5g",
       "image_url": "https://www.mobiledokan.com/media/1711428595lofKB.webp",
       "serial_number": 20,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "June 8, 2024",
       "variants": [
@@ -3010,19 +2641,7 @@
           "Features": "Accelerometer, gyro, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711428595lofKB.webp",
-        "https://www.mobiledokan.com/media/1711428595lofKB.webp",
-        "https://www.mobiledokan.com/media/1711430357mzW62.webp",
-        "https://www.mobiledokan.com/media/17114303473lmfm.webp",
-        "https://www.mobiledokan.com/media/17114303374YZ9O.webp",
-        "https://www.mobiledokan.com/media/1711430329n09k9.webp",
-        "https://www.mobiledokan.com/media/1711428595lofKB.webp",
-        "https://www.mobiledokan.com/media/1711428595lofKB.webp",
-        "https://www.mobiledokan.com/media/1711428595lofKB.webp",
-        "https://www.mobiledokan.com/media/1710256258hXNxv.webp",
-        "https://www.mobiledokan.com/media/1711428869UKary.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a04e",
@@ -3031,7 +2650,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a04e",
       "image_url": "https://www.mobiledokan.com/media/1710261408wTTop.webp",
       "serial_number": 21,
-      "last_updated": "2025-11-26 06:31:59",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
@@ -3075,6 +2694,13 @@
           "Notch": "Waterdrop Notch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "13 MP, f/2.2, (wide), AF\r\n2 MP, f/2.4, (depth)",
@@ -3088,13 +2714,6 @@
             "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3148,18 +2767,7 @@
           "Features": "Light sensor, Proximity sensor, Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710261408wTTop.webp",
-        "https://www.mobiledokan.com/media/1710261408wTTop.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-front-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-light-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-light-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-light-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-copper-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04e-black-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a14_5g",
@@ -3168,7 +2776,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a14-5g",
       "image_url": "https://www.mobiledokan.com/media/171026875853KhF.webp",
       "serial_number": 22,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "March 26, 2024",
       "variants": [
@@ -3286,19 +2894,7 @@
           "Features": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/171026875853KhF.webp",
-        "https://www.mobiledokan.com/media/171026875853KhF.webp",
-        "https://www.mobiledokan.com/media/1710306784eFSIP.webp",
-        "https://www.mobiledokan.com/media/1710306921s4Sqz.webp",
-        "https://www.mobiledokan.com/media/1710307088Y0kOD.webp",
-        "https://www.mobiledokan.com/media/1710307215hA9mv.webp",
-        "https://www.mobiledokan.com/media/1710307373ydFLr.webp",
-        "https://www.mobiledokan.com/media/1710307373ydFLr.webp",
-        "https://www.mobiledokan.com/media/1710307373ydFLr.webp",
-        "https://www.mobiledokan.com/media/171026875853KhF.webp",
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a14_4g",
@@ -3307,7 +2903,7 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a14",
       "image_url": "https://www.mobiledokan.com/media/17103075180FUfy.webp",
       "serial_number": 23,
-      "last_updated": "2025-11-26 06:31:59",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "March 27, 2024",
       "variants": [
@@ -3425,19 +3021,7 @@
           "Features": "Light sensor, Proximity sensor, Accelerometer, Compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp",
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp",
-        "https://www.mobiledokan.com/media/1710307215hA9mv.webp",
-        "https://www.mobiledokan.com/media/1710307088Y0kOD.webp",
-        "https://www.mobiledokan.com/media/1710306784eFSIP.webp",
-        "https://www.mobiledokan.com/media/1710306921s4Sqz.webp",
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp",
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp",
-        "https://www.mobiledokan.com/media/17103075180FUfy.webp",
-        "https://www.mobiledokan.com/media/1710307373ydFLr.webp",
-        "https://www.mobiledokan.com/media/171026875853KhF.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a04",
@@ -3446,9 +3030,9 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-a04",
       "image_url": "https://www.mobiledokan.com/media/1710312247LtMWk.webp",
       "serial_number": 24,
-      "last_updated": "2025-10-19 06:28:29",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
-      "updated_on": "March 13, 2025",
+      "updated_on": null,
       "variants": [
         {
           "name": "3GB+32GB",
@@ -3568,18 +3152,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710312247LtMWk.webp",
-        "https://www.mobiledokan.com/media/1710312247LtMWk.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-front-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-copper-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-copper-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-copper-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-black-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-a04-white-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_z_fold4",
@@ -3588,144 +3161,12 @@
       "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-fold4",
       "image_url": "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-burgundy-official-image_1.webp",
       "serial_number": 25,
-      "last_updated": "2025-11-26 06:31:59",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
       "updated_on": "April 12, 2025",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Samsung",
-          "Model": "Galaxy Z Fold4",
-          "Device Type": "Smartphone",
-          "Release Date": "25 August 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "One UI 5.1.1",
-          "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1",
-          "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Adreno 730"
-        },
-        "Display": {
-          "Display Type": "Foldable Dynamic AMOLED 2X",
-          "Screen Size": "7.6 inches, 183.2 cm2",
-          "Resolution": "1812x2176 px",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "373 ppi",
-          "Screen to Body Ratio": "90.76 %",
-          "Screen Protection": "Gorilla Glass Victus Plus",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1200 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Features": "Cover display: Dynamic AMOLED 2X, 120Hz, Corning Gorilla Glass Victus+ 6.2 inches, 904 x 2316 pixels, 23.1:9 ratio"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 10 MP, f/2.4, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "7680x4320, 3840x2160,1920x1080, 1280x720",
-            "Video FPS": "24 fps, 60 fps, 960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "4 MP, f/1.8, Wide Angle, Primary Camera\r\nCover camera:\r\n10 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.8"
-          }
-        },
-        "Design": {
-          "Height": "155.1 mm",
-          "Width": "130.1 mm",
-          "Thickness": "6.3 mm",
-          "Weight": "263 grams",
-          "Build": "Glass front (Gorilla Glass Victus+) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus+), aluminum frame",
-          "Colors": "Graygreen, Phantom Black, Beige, Burgundy",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IPX8",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4400 mAh",
-          "Wireless Charging": "15W wireless",
-          "Quick Charging": "25W wired, 50% in 30 min (advertised)",
-          "Reverse Charging": "4.5W reverse wireless",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "User Available Storage": "Up to 216 GB",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/200 Mbps, 5G",
-          "SAR Value": "Head: 1.324 W/kg",
-          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
-          "Bluetooth": "5.2, A2DP, LE, aptX HD",
-          "GPS": "GPS, GLONASS, GALILEO, BDS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "USB Type-C 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos",
-          "Video": "8K@24fps, 4K@60fps, 1080p@60/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Korea",
-          "Features": "Accelerometer, Barometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-burgundy-official-image_1.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-burgundy-official-image_1.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-front-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-product-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-back-side-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-black-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-black-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-black-image.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-graygreen-official-image_1.webp",
-        "https://www.mobiledokan.com/media/samsung-galaxy-z-fold4-burgundy-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_a13",
@@ -4615,13 +4056,13 @@
     {
       "id": "samsung_metro_350",
       "name": "Samsung Metro 350",
-      "price": "3550",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/samsung-metro-350",
       "image_url": "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-11-26 06:31:59",
+      "last_updated": "2025-12-22 06:38:23",
       "first_scraped": null,
-      "updated_on": "March 15, 2025",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -4679,15 +4120,7 @@
           "Features": "MP3/MP4/WAV/3GP Player"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-front-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-back-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp",
-        "https://www.mobiledokan.com/media/samsung-metro-350-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "samsung_galaxy_s26_ultra",

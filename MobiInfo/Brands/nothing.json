@@ -4,11 +4,11 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2025-12-21 06:34:03",
+    "last_updated": "2025-12-22 06:40:24",
     "total_phones": 20,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 6
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-2a-black_2.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-02 06:35:22",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
       "variants": [
@@ -155,18 +155,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nothing-phone-2a-black_2.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-black_2.webp",
-        "https://www.mobiledokan.com/media/1710929001z9JDZ.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-2.webp",
-        "https://www.mobiledokan.com/media/1710927861QWWc2.webp",
-        "https://www.mobiledokan.com/media/1710927861QWWc2.webp",
-        "https://www.mobiledokan.com/media/1710927861QWWc2.webp",
-        "https://www.mobiledokan.com/media/1710926828Fzm53.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-silver_1.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_phone_1",
@@ -327,7 +316,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2",
       "image_url": "https://www.mobiledokan.com/media/1710935578su8QY.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-31 06:33:10",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
       "variants": [
@@ -468,16 +457,7 @@
           "Features": "Accelerometer, proximity, gyro, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710935578su8QY.webp",
-        "https://www.mobiledokan.com/media/1710935578su8QY.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2-2.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2-1.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2-black.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_cmf_phone_1",
@@ -486,7 +466,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-cmf-phone-1",
       "image_url": "https://www.mobiledokan.com/media/nothing-cmf-phone-1-orange-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-10-19 06:29:59",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "August 21, 2025",
       "variants": [
@@ -613,17 +593,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-cmf-phone-1-light-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_phone_2a_plus",
@@ -632,7 +602,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a-plus",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-11-26 06:34:22",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
       "variants": [
@@ -682,14 +652,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "50 MP, f/2.2, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -704,6 +666,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Action Mode",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.2, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -764,16 +734,7 @@
           "Features": "Accelerometer, Proximity Senso, Gyroscope, Ambient Light Sensor"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-2a-plus-grey-official-image_1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_cmf_phone_1_8gb_ram",
@@ -2142,7 +2103,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-11-23 06:31:52",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
       "variants": [
@@ -2269,17 +2230,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-white-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_phone_3a_pro_12gb_ram",
@@ -2288,21 +2239,10 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-pro-gray-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-15 06:37:49",
+      "last_updated": "2025-12-22 06:40:24",
       "first_scraped": null,
       "updated_on": "October 30, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB IND",
-          "price": "৳.45,000",
-          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram"
-        },
-        {
-          "name": "8GB+256GB IND",
-          "price": "৳.42,500",
-          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-pro"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Nothing",
@@ -2337,13 +2277,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.6, Periscope Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -2358,6 +2291,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2416,19 +2356,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nothing-phone-3a-pro-gray-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nothing_cmf_phone_2_pro",

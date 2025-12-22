@@ -4,11 +4,11 @@
     "name": "lenovo",
     "url": "https://www.mobiledokan.com/mobile-brand/lenovo",
     "image_url": null,
-    "last_updated": "2025-12-21 06:34:12",
+    "last_updated": "2025-12-22 06:41:41",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:21:36",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
@@ -289,7 +289,7 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-k10-plus",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-11-26 06:34:41",
+      "last_updated": "2025-12-22 06:41:41",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
@@ -331,13 +331,6 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP f/2.0, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 5 MP, Depth Camera",
@@ -351,6 +344,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.4, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -410,18 +410,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-side-view.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-k10-plus-sprite-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lenovo_k5_play",
@@ -565,16 +554,10 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-12 06:36:29",
+      "last_updated": "2025-12-22 06:41:41",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
-      "variants": [
-        {
-          "name": "6GB+64GB",
-          "price": "৳.12,500",
-          "url": "https://www.mobiledokan.com/mobile/lenovo-z5"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
@@ -683,18 +666,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-front-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-back-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-side-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-indigo-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/lenovo-z5-aurora-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lenovo_zuk_z1",
@@ -703,7 +675,7 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-zuk-z1",
       "image_url": "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-12 06:36:29",
+      "last_updated": "2025-12-22 06:41:41",
       "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
@@ -815,18 +787,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-front.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-back.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-laft.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-side.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
-        "https://www.mobiledokan.com/media/lenovo-zuk-z1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "lenovo_a2010",

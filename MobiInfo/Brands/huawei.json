@@ -4,165 +4,37 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2025-12-21 06:35:19",
+    "last_updated": "2025-12-22 06:41:53",
     "total_phones": 141,
     "first_scraped": "2025-09-11 09:19:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
       "id": "huawei_mate_x3",
       "name": "Huawei Mate X3",
-      "price": "197000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x3",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-11 06:39:43",
+      "last_updated": "2025-12-22 06:41:53",
       "first_scraped": null,
-      "updated_on": "March 26, 2025",
-      "variants": [
-        {
-          "name": "12GB+512GB",
-          "price": "৳.197,000",
-          "url": "https://www.mobiledokan.com/mobile/huawei-mate-x3"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Huawei",
-          "Model": "Mate X3",
-          "Device Type": "Smartphone",
-          "Release Date": "08 April 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "HarmonyOS",
-          "OS Version": "v3.1",
-          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
-          "CPU": "Octa core (3.19 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 730"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "7.85 inches (19.94 cm)",
-          "Resolution": "2224x2496 px (QHD+)",
-          "Pixel Density": "426 ppi",
-          "Screen to Body Ratio": "173.81 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultrawide Camera",
-            "Autofocus": "Contrast Detection autofocus, Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "5x optical zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.4, Wide Angle Primary Camera",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "156.9 mm",
-          "Width": "72.4 mm",
-          "Thickness": "11 mm",
-          "Weight": "239 grams",
-          "Build": "Glass front, glass back, aluminum frame",
-          "Colors": "Black, Gold, White, Violet, Dark Green",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IPX8"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4800 mAh",
-          "Quick Charging": "Super, 66W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer, altimeter, color spectrum, BDS Satellite Message"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-front-full-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-front-fold-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-back-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-back-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-green-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-x3-violet-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "huawei_nova_11_pro",
       "name": "Huawei Nova 11 Pro",
-      "price": "73000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-11-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-11 06:39:43",
+      "last_updated": "2025-12-22 06:41:53",
       "first_scraped": null,
-      "updated_on": "December 30, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -276,21 +148,7 @@
           "Features": "Accelerometer, gyro, compass, color spectrum Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-white-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "huawei_p60",
@@ -588,21 +446,10 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-pro-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-11 06:39:43",
+      "last_updated": "2025-12-22 06:41:53",
       "first_scraped": null,
       "updated_on": "December 30, 2024",
-      "variants": [
-        {
-          "name": "12GB+512GB",
-          "price": "৳.138,000",
-          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.127,000",
-          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Huawei",
@@ -1843,7 +1690,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-40-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-11 06:39:43",
+      "last_updated": "2025-12-22 06:41:53",
       "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
@@ -1971,10 +1818,7 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "huawei_nova_3i",

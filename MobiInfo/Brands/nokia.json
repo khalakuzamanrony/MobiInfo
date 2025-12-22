@@ -4,11 +4,11 @@
     "name": "nokia",
     "url": "https://www.mobiledokan.com/mobile-brand/nokia",
     "image_url": null,
-    "last_updated": "2025-12-21 06:31:35",
+    "last_updated": "2025-12-22 06:40:12",
     "total_phones": 283,
     "first_scraped": "2025-09-11 09:25:14",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 20
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-110-2023",
       "image_url": "https://www.mobiledokan.com/media/nokia-110-2023-charcoal-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [],
@@ -85,403 +85,48 @@
           "Features": "Messaging SMS, Games Yes, MP3 player, Calculator, Stopwatch, Calendar, Alarm"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-110-2023-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-full-display-size-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-cloudy-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-cloudy-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-cloudy-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-110-2023-charcoal-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_c22",
       "name": "Nokia C22",
-      "price": "9999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-c22",
       "image_url": "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "February 26, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.224,999",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "C22",
-          "Device Type": "SmartPhone",
-          "Release Date": "25 February 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "Android Go",
-          "Chipset": "Unisoc SC9863A",
-          "CPU": "Octa core (1.6 GHz, Quad core, Cortex A55 + 1.2 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "32 bit",
-          "Fabrication": "28 nm",
-          "GPU": "PowerVR GE8322"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.76 %",
-          "Screen Protection": "Scratch-resistant glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, Wide Angle, Primary Camera, 2 MP, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.6 mm",
-          "Width": "75.8 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "190 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Purple, Sand, Charcoal",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP52",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "3 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.2",
-          "GPS": "With A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Features": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-full-display-size-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-purple-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-charcoal-official.webp",
-        "https://www.mobiledokan.com/media/nokia-c22-sand-official.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_c2_2nd_edition",
       "name": "Nokia C2 2nd edition",
-      "price": "8499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-c2-2nd-edition",
       "image_url": "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "February 24, 2025",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.8,499",
-          "url": "https://www.mobiledokan.com/mobile/nokia-c2-2nd-edition"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "C2 2nd edition",
-          "Device Type": "SmartPhone",
-          "Release Date": "19 April 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "Android Go",
-          "CPU": "Quad core, 1.5 GHz",
-          "CPU Cores": "4 Cores"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.7 inches (14.48 cm)",
-          "Resolution": "480x960 px",
-          "Aspect Ratio": "18:9",
-          "Pixel Density": "188 ppi",
-          "Screen to Body Ratio": "71.73 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Camera Features": "Digital Zoom, LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Flash": "LED Flash"
-          }
-        },
-        "Design": {
-          "Height": "154 mm",
-          "Width": "75.9 mm",
-          "Thickness": "10 mm",
-          "Weight": "180 grams",
-          "Colors": "Dark Blue, Warm Gray"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2400 mAh",
-          "Placement": "Removable"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "RAM": "2 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, gyro, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp",
-        "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp",
-        "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp",
-        "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp",
-        "https://www.mobiledokan.com/media/Nokia C2 2nd edition.png.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_g21",
       "name": "Nokia G21",
-      "price": "18999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-g21",
       "image_url": "https://www.mobiledokan.com/media/nokia-g21-dusk-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "May 28, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.18,999",
-          "url": "https://www.mobiledokan.com/mobile/nokia-g21"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "G21",
-          "Device Type": "Smartphone",
-          "Release Date": "15 February 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa core (1.6 GHz, Dual core, Cortex A75 + 1.6 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.65 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "400 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "164.6 mm",
-          "Width": "75.9 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "190 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Nordic Blue, Dusk"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5050 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, gyro, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nokia-g21-dusk-official-image.webp",
         "https://www.mobiledokan.com/media/nokia-g21-dusk-official-image.webp",
@@ -498,126 +143,15 @@
     {
       "id": "nokia_c32",
       "name": "Nokia C32",
-      "price": "13499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-c32",
       "image_url": "https://www.mobiledokan.com/media/nokia-c32-autumn-green-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "May 23, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.13,499",
-          "url": "https://www.mobiledokan.com/mobile/nokia-c32"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "C32",
-          "Device Type": "Smartphone",
-          "Release Date": "25 February 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc SC9863A1",
-          "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "22 nm",
-          "GPU": "IMG8322"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.6%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with V-Type Notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Type-V"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/2.4, Wide Angle, Primary Camera, 2 MP, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.6 mm",
-          "Width": "75.9 mm",
-          "Thickness": "8.6 mm",
-          "Weight": "199.4 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Charcoal, Autumn Green, Beach Pink"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nokia-c32-autumn-green-official-image.webp",
         "https://www.mobiledokan.com/media/nokia-c32-autumn-green-official-image.webp",
@@ -637,7 +171,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-8-v-5g-uw",
       "image_url": "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
@@ -647,254 +181,21 @@
           "url": "https://www.mobiledokan.com/mobile/nokia-8-v-5g-uw"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "8 V 5G UW",
-          "Device Type": "Smartphone",
-          "Release Date": "12 November 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G",
-          "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "7 nm",
-          "GPU": "Adreno 620"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.81 inches (17.3 cm)",
-          "Resolution": "1080 x 2400 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "386 ppi",
-          "Screen to Body Ratio": "82.9%",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "64 MP, f/1.8, (wide), 1/1.72\", 0.8µm, PDAF, 12 MP, f/2.2, 120˚ (ultrawide), 1/2.43\", 1.4µm, AF, 2 MP, (macro), 2 MP, (depth)",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Exposure compensation, ISO control, Continuos Shooting, High Dynamic Range mode (HDR), Digital Zoom, Auto Flash, Face detection, Touch to focus, Zeiss optics, Dual-LED flash, panorama",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "24 MP, f/2.0, (wide), 1/2.8\", 0.9µm",
-            "Camera Features": "Zeiss optics, HDR",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "171.9 mm",
-          "Width": "78.6 mm",
-          "Thickness": "9 mm",
-          "Weight": "230 grams",
-          "Build": "Front Glass, Plastic Back & Frame",
-          "Colors": "Meteor Gray"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4500 mAh",
-          "Quick Charging": "18W Quick Charging",
-          "Placement": "Non-removable",
-          "Standby": "Up to 110 hours",
-          "Talk Time": "Up to 33 hours",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat18 1200/150 Mbps, 5G 2.4/1.2 Gbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "4K@30/60fps, 1080p@30/240fps, 720p@960fps, gyro-EIS 1080p@30fps"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp",
-        "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp",
-        "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp",
-        "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp",
-        "https://www.mobiledokan.com/media/nokia-8-v-5g-uw-meteor-gray-official-image_2.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_g10",
       "name": "Nokia G10",
-      "price": "13499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-g10",
       "image_url": "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "November 26, 2024",
-      "variants": [
-        {
-          "name": "3GB+32GB",
-          "price": "৳.13,499",
-          "url": "https://www.mobiledokan.com/mobile/nokia-g10"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.15,000",
-          "url": "https://www.mobiledokan.com/mobile/nokia-g10-4gb-64gb-"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "G10",
-          "Device Type": "Smartphone",
-          "Release Date": "26 April 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "MediaTek Helio G25",
-          "CPU": "Octa core (2 GHz, Quad core, Cortex A53 + 1.5 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.39 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "13 MP, Primary Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.9 mm",
-          "Width": "76 mm",
-          "Thickness": "9.2 mm",
-          "Weight": "197 grams",
-          "Colors": "Dusk, Night",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IPX2"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5050 mAh",
-          "Quick Charging": "10W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
         "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
@@ -910,7 +211,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-g10-4gb-64gb-",
       "image_url": "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "February 11, 2025",
       "variants": [
@@ -1032,141 +333,20 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-g10-dusk-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_g20",
       "name": "Nokia G20",
-      "price": "13000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-g20",
       "image_url": "https://www.mobiledokan.com/media/nokia-g20-night-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "November 26, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.13,000",
-          "url": "https://www.mobiledokan.com/mobile/nokia-g20"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "G20",
-          "Device Type": "Smartphone",
-          "Release Date": "17 May 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "MediaTek Helio G35",
-          "CPU": "Octa core (2.3 GHz, Quad core, Cortex A53 + 1.8 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.39 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.9 mm",
-          "Width": "76 mm",
-          "Thickness": "9.2 mm",
-          "Weight": "197 grams",
-          "Build": "Glass front, plastic body",
-          "Colors": "Glacier, Night",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IPX2"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5050 mAh",
-          "Quick Charging": "10W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, gyro, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nokia-g20-night-official-image.webp",
         "https://www.mobiledokan.com/media/nokia-g20-night-official-image.webp",
@@ -1182,181 +362,26 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-150",
       "image_url": "https://www.mobiledokan.com/media/nokia-150-black-official-image_1.webp",
       "serial_number": 10,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "October 14, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "150",
-          "Device Type": "Feature phone",
-          "Release Date": "01January 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "FeaturePhone"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "2.4 inches (6.1 cm)",
-          "Resolution": "240x320 px",
-          "Pixel Density": "167 ppi",
-          "Screen to Body Ratio": "26.76 %"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "0.3 MP Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "640 x 480 Pixels",
-            "Zoom": "Digital Zoom",
-            "Camera Features": "Digital Zoom"
-          }
-        },
-        "Design": {
-          "Height": "132 mm",
-          "Width": "50.5 mm",
-          "Thickness": "15 mm",
-          "Weight": "90.54 grams",
-          "Colors": "Black, Red, Cyan"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "1020 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 561 Hours(2G)",
-          "Talk Time": "Up to 19 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "4 MB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "4 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Mini, SIM2: Mini",
-          "Bluetooth": "v3.0",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Calculator, Calendar, Alarm"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-150-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-150-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/nokia-150-front.webp",
-        "https://www.mobiledokan.com/media/nokia-150-back.webp",
-        "https://www.mobiledokan.com/media/nokia-150-side.webp",
-        "https://www.mobiledokan.com/media/nokia-150-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-150-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-150-black-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_800_tough",
       "name": "Nokia 800 Tough",
-      "price": "10250",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-800-tough",
       "image_url": "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "May 8, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "800 Tough",
-          "Device Type": "Feature phone",
-          "Release Date": "01 October 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "KAI OS",
-          "Chipset": "Qualcomm Snapdragon 205 MSM8905",
-          "CPU": "Dual core, 1.1 GHz, Cortex A7",
-          "CPU Cores": "2 cores",
-          "Architecture": "32 bit",
-          "Fabrication": "Adreno 304"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "2.4 inches (6.1 cm)",
-          "Resolution": "240x320 px",
-          "Pixel Density": "167 ppi",
-          "Screen to Body Ratio": "19.75 %"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "1600 x 1200 Pixels",
-            "Zoom": "Digital Zoom"
-          }
-        },
-        "Design": {
-          "Height": "145.4 mm",
-          "Width": "62.1 mm",
-          "Thickness": "16.11 mm",
-          "Weight": "161 grams",
-          "Colors": "Black Steel, Desert Sand",
-          "Waterproof": "Water resistant,",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2100 mAh",
-          "Placement": "Non-removable",
-          "Standby": "Up to 537 Hours(4G) / Up to 729 Hours(3G) / Up to 868 Hours(2G)",
-          "Talk Time": "Up to 9.4 Hours(4G) / Up to 14.3 Hours(3G) / Up to 12.5 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "4 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "512 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes with A-GPS",
-          "USB": "Mass storage device, USB charging, microUSB"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "SNS applications, MP4/H.264 player, MP3/WAV/AAC player, Organizer, Voice memo, Predictive text input"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-800-tough-black-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_105_2019",
@@ -1365,7 +390,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-105-2019",
       "image_url": "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "May 28, 2024",
       "variants": [],
@@ -1418,81 +443,20 @@
           "Features": "Calculator, World clock, Calendar"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_105",
       "name": "Nokia 105",
-      "price": "1599",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-105",
       "image_url": "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "May 8, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "105 (2019)",
-          "Device Type": "Feature phone",
-          "Release Date": "September 2019",
-          "Status": "Available"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "1.77 inches (4.5 cm)",
-          "Resolution": "128x160 px",
-          "Pixel Density": "116 ppi",
-          "Screen to Body Ratio": "16.84 %"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Autofocus": "Autofocus",
-            "Flash": "Flash"
-          }
-        },
-        "Design": {
-          "Height": "119 mm",
-          "Width": "49.2 mm",
-          "Thickness": "14.4 mm",
-          "Weight": "74.04 grams",
-          "Colors": "Black, Blue, Pink"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "800 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 619 Hours(2G)",
-          "Talk Time": "Up to 14.4 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "4 MB",
-          "RAM": "4 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G",
-          "SIM Slot": "Single SIM, GSM",
-          "SIM Size": "SIM1: Mini",
-          "Bluetooth": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Calculator, World clock, Calendar"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
         "https://www.mobiledokan.com/media/nokia-105-2019-official-image.webp",
@@ -1504,84 +468,16 @@
     {
       "id": "nokia_5310_2020",
       "name": "Nokia 5310 (2020)",
-      "price": "5900",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-5310-2020",
       "image_url": "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "December 20, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "5310 (2020)",
-          "Device Type": "FeaturePhone",
-          "Release Date": "02 April 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Feature phones"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "2.4 inches (6.1 cm)",
-          "Resolution": "240 x 320 pixels",
-          "Aspect Ratio": "4:3",
-          "Pixel Density": "167 ppi",
-          "Screen to Body Ratio": "27.5 %"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "VGA",
-            "Flash": "LED Flash"
-          }
-        },
-        "Design": {
-          "Height": "123.7 mm",
-          "Width": "52.4 mm",
-          "Thickness": "13.1 mm",
-          "Weight": "88.2 grams",
-          "Colors": "White, Red, Black, Red"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium-Ion)",
-          "Capacity": "1200 mAh",
-          "Placement": "Removable"
-        },
-        "Memory": {
-          "Internal Storage": "16 MB",
-          "RAM": "8 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "Mini-SIM, dual stand-by",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Bluetooth": "v3.0",
-          "USB": "microUSB 1.1"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Calculator, Calendar, Alarm"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-5310-2020-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_220_4g",
@@ -2026,89 +922,12 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-8000-4g",
       "image_url": "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "8000 4G",
-          "Device Type": "Smartphone",
-          "Release Date": "06 January 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "KAI OS",
-          "Chipset": "Qualcomm Snapdragon 210 MSM8909",
-          "CPU": "Quad core, 1.1 GHz, Cortex A7",
-          "GPU": "Adreno 304"
-        },
-        "Display": {
-          "Display Type": "TFT",
-          "Screen Size": "2.8 inches (7.11 cm)",
-          "Resolution": "240x320 px",
-          "Pixel Density": "143 ppi",
-          "Screen to Body Ratio": "32.5 %"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP Primary Camera",
-            "Flash": "LED Flash",
-            "Image Resolution": "1600 x 1200 Pixels",
-            "Zoom": "Digital Zoom"
-          }
-        },
-        "Design": {
-          "Height": "132.2 mm",
-          "Width": "56.5 mm",
-          "Thickness": "12.34 mm",
-          "Weight": "110.2 grams",
-          "Colors": "Onyx Black, Opal White, Topaz Blue, Cintrine Gold"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "1500 mAh",
-          "Placement": "Removable",
-          "Standby": "Up to 448 Hours(4G) / Up to 492 Hours(3G) / Up to 523 Hours(2G)",
-          "Talk Time": "Up to 3.1 Hours(4G) / Up to 8.5 Hours(3G) / Up to 7.4 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "4 GB",
-          "Expandable Memory": "Up to 32 GB",
-          "RAM": "512 MB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.1",
-          "GPS": "Yes with A-GPS",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Calculator, Stopwatch, Calendar, Alarm"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-8000-4g-blue-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_34",
@@ -2117,7 +936,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-3-4",
       "image_url": "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "November 26, 2024",
       "variants": [
@@ -2163,12 +982,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera, 2 MP, Depth Camera",
@@ -2180,6 +993,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2238,13 +1057,7 @@
           "Features": "Accelerometer, gyro, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_34_4gb_ram",
@@ -2253,7 +1066,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-3-4-4gb-ram",
       "image_url": "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
@@ -2299,12 +1112,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "13 MP, Wide Angle, Primary Camera, 5 MP, Ultra-Wide Angle Camera, 2 MP, Depth Camera",
@@ -2316,6 +1123,12 @@
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Aperture": "f/2.0",
             "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Wide Angle, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2374,13 +1187,7 @@
           "Features": "Accelerometer, gyro, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-34-fjord-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_62",
@@ -2523,7 +1330,7 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-7-2",
       "image_url": "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
@@ -2533,124 +1340,8 @@
           "url": "https://www.mobiledokan.com/mobile/nokia-7-2"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Nokia",
-          "Model": "7.2",
-          "Device Type": "Smartphone",
-          "Release Date": "23 September 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "User Interface": "Stock",
-          "Chipset": "Qualcomm Snapdragon 660",
-          "CPU": "Octa core (2.2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Adreno 512"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.39 inches (16.23 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "403 ppi",
-          "Screen to Body Ratio": "83.34 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.79, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 5 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "20 MP f/2.0, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "159.8 mm",
-          "Width": "75.1 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "180 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Cyan Green, Charcoal, Ice"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3500 mAh",
-          "Quick Charging": "10W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps or LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "2160p@30fps, 1080p@30fps (gyro-EIS)",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Finland",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-72-cyan-green-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "nokia_42",
@@ -3457,16 +2148,10 @@
       "url": "https://www.mobiledokan.com/mobile/nokia-6-1",
       "image_url": "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
       "updated_on": "July 15, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.16,500",
-          "url": "https://www.mobiledokan.com/mobile/nokia-6-1"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Nokia",
@@ -3582,34 +2267,19 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-front-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-back-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-side-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp",
-        "https://www.mobiledokan.com/media/nokia-61-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "nokia_61_plus",
       "name": "Nokia 6.1 Plus",
-      "price": "14000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/nokia-6-1-plus",
       "image_url": "https://www.mobiledokan.com/media/nokia-61-plus-gloss-black-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-12-08 06:35:57",
+      "last_updated": "2025-12-22 06:40:12",
       "first_scraped": null,
-      "updated_on": "July 3, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.27,990",
-          "url": "https://www.mobiledokan.com/mobile/nokia-6-1-plus"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Nokia",

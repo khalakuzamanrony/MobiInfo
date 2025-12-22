@@ -4,11 +4,11 @@
     "name": "zte",
     "url": "https://www.mobiledokan.com/mobile-brand/zte",
     "image_url": null,
-    "last_updated": "2025-12-21 06:35:25",
+    "last_updated": "2025-12-22 06:42:55",
     "total_phones": 71,
     "first_scraped": "2025-09-11 09:19:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -583,132 +583,15 @@
     {
       "id": "zte_nubia_z50_ultra",
       "name": "ZTE Nubia Z50 Ultra",
-      "price": "110000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z50-ultra",
       "image_url": "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
       "serial_number": 5,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2025-12-22 06:42:55",
       "first_scraped": null,
-      "updated_on": "April 24, 2024",
-      "variants": [
-        {
-          "name": "12GB+512GB",
-          "price": "৳.224,999",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Z50 Ultra",
-          "Device Type": "Smartphone",
-          "Release Date": "14 March 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Qualcomm Snapdragon 8 Gen 2",
-          "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 740"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1116x2480 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "400 ppi",
-          "Screen to Body Ratio": "86.12 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "With punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1500 nits",
-          "HDR 10 / HDR + support": "Yes, HDR 10+",
-          "Refresh Rate": "120Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP f/1.6, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera, 64 MP f/3.3, Periscope Camera",
-            "Sensor": "IMX787, Exmor-RS CMOS Sensor",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Ring LED",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "7680x4320 ,3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "169.9 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "228 grams",
-          "Colors": "Black, Silver, Starry Sky"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "80W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 4.0",
-          "Expandable Memory": "No",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (CA), 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
         "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
@@ -724,9 +607,9 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-8-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/17137790764QMGK.webp",
       "serial_number": 6,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2025-12-22 06:42:55",
       "first_scraped": null,
-      "updated_on": "April 28, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "16GB+512GB",

@@ -4,11 +4,11 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2025-12-21 06:31:46",
+    "last_updated": "2025-12-22 06:38:54",
     "total_phones": 53,
     "first_scraped": "2025-09-11 08:52:18",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 17
   },
   "phones": [
     {
@@ -323,7 +323,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "July 13, 2024",
       "variants": [
@@ -454,172 +454,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-back-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-snow-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-7a-coral-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_fold",
       "name": "Google Pixel Fold",
-      "price": "190000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-fold",
       "image_url": "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
       "serial_number": 4,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "March 18, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.190,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-fold"
-        },
-        {
-          "name": "12GB+512GB",
-          "price": "৳.195,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-fold-12gb-512gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel Fold",
-          "Device Type": "Smartphone",
-          "Release Date": "27 June 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Google Tensor G2",
-          "CPU": "Octa core (2.85 GHz, Dual core, Cortex X1 + 2.35 GHz, Dual core, Cortex A78 + 1.8 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "5 nm",
-          "GPU": "Mali-G710 MP7"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "7.6 inches (19.3 cm)",
-          "Resolution": "1840x2208 px",
-          "Aspect Ratio": "6:5",
-          "Pixel Density": "378 ppi",
-          "Screen to Body Ratio": "82.6 %",
-          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1550 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Multi-touch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.7, Wide Angle (82° field-of-view), Primary Camera, 10.8 MP f/2.2, Ultra-Wide Angle Camera, 10.8 MP f/3.05, Telephoto Camera",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera, 9.5 MP f/2.2, Wide Angle Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "158.7 mm",
-          "Width": "139.7 mm",
-          "Thickness": "5.8 mm",
-          "Weight": "283 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Porcelain, Obsidian",
-          "Waterproof": "Water resistant",
-          "IP Rating": "IPX8"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4821 mAh",
-          "Wireless Charging": "PD3.0",
-          "Quick Charging": "Fast, 30W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "12GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "No",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
-        "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-front-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-back-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-front-side-single-display-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-full-folding-display-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-obsidian-offical-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-obsidian-offical-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-obsidian-offical-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-porcelain-official-image_1.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_8",
@@ -628,7 +477,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8",
       "image_url": "https://www.mobiledokan.com/media/17108416653jwsG.webp",
       "serial_number": 5,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [
@@ -761,19 +610,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17108416653jwsG.webp",
-        "https://www.mobiledokan.com/media/17108416653jwsG.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-front-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-back-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_8_pro",
@@ -782,7 +619,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
@@ -920,19 +757,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-full-dispaly-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-bay-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-mint-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_7_pro",
@@ -1101,9 +926,9 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-fold-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
       "serial_number": 8,
-      "last_updated": "2025-10-19 06:28:26",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "March 18, 2025",
+      "updated_on": null,
       "variants": [
         {
           "name": "12GB+512GB",
@@ -1116,135 +941,8 @@
           "url": "https://www.mobiledokan.com/mobile/google-pixel-fold"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel Fold (12GB+512GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "27 June 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Google Tensor G2",
-          "CPU": "Octa core (2.85 GHz, Dual core, Cortex X1 + 2.35 GHz, Dual core, Cortex A78 + 1.8 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "5 nm",
-          "GPU": "Mali-G710 MP7"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "7.6 inches (19.3 cm)",
-          "Resolution": "1840x2208 px",
-          "Aspect Ratio": "6:5",
-          "Pixel Density": "378 ppi",
-          "Screen to Body Ratio": "82.6 %",
-          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1550 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Multi-touch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.7, Wide Angle (82° field-of-view), Primary Camera, 10.8 MP f/2.2, Ultra-Wide Angle Camera, 10.8 MP f/3.05, Telephoto Camera",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera, 9.5 MP f/2.2, Wide Angle Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "158.7 mm",
-          "Width": "139.7 mm",
-          "Thickness": "5.8 mm",
-          "Weight": "283 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Porcelain, Obsidian",
-          "Waterproof": "Water resistant",
-          "IP Rating": "IPX8"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4821 mAh",
-          "Wireless Charging": "PD3.0",
-          "Quick Charging": "Fast, 30W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "512GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
-        "https://www.mobiledokan.com/media/1710836985jQIRz.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-front-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-back-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-front-side-single-display-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-full-folding-display-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-porcelain-official-image_1.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-porcelain-official-image_1.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-porcelain-official-image_1.webp",
-        "https://www.mobiledokan.com/media/google-pixel-fold-obsidian-offical-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_6_pro",
@@ -1397,7 +1095,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-6a-charcoal-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-22 06:30:43",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "October 14, 2025",
       "variants": [
@@ -1524,156 +1222,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-6a-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-chalk-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-chalk-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-chalk-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-charcoal-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-6a-sage-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_4_xl",
       "name": "Google Pixel 4 XL",
-      "price": "24500",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4-xl",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-xl.webp",
       "serial_number": 11,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "May 9, 2024",
-      "variants": [
-        {
-          "name": "6GB+64GB",
-          "price": "৳.24,500",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-4-xl"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.43,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-4-xl-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 4 XL",
-          "Device Type": "Smartphone",
-          "Release Date": "22 October 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "Chipset": "Qualcomm Snapdragon 855",
-          "CPU": "Single core (2.84 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.78 GHz, Quad core, Kryo 485)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "GPU": "Adreno 640"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.3 inches (16 cm)",
-          "Resolution": "1440x2960 px (QHD+)",
-          "Aspect Ratio": "19:9",
-          "Pixel Density": "522 ppi",
-          "Screen to Body Ratio": "83.99 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP f/2.0, Primary Camera, TOF 3D",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "12.2 MP f/1.7, Primary Camera, 16 MP f/2.4, Telephoto Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "240 fps"
-          }
-        },
-        "Design": {
-          "Height": "160.4 mm",
-          "Width": "75.1 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "193 grams",
-          "Colors": "Just Black, Clearly White, Oh So Orange",
-          "Waterproof": "Water resistant",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3700 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.1"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat18 1200/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Gyroscope",
-          "Face Unlock": "Face ID"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-4-xl.webp",
-        "https://www.mobiledokan.com/media/google-pixel-4-xl.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_4_xl_128gb",
@@ -1819,7 +1382,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-5a-5g",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "May 16, 2024",
       "variants": [
@@ -1860,14 +1423,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12.2 MP f/1.7, Wide Angle (77° field-of-view), Primary Camera, 16 MP f/2.2, Ultra-Wide Angle Camera",
@@ -1881,6 +1436,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1940,16 +1503,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-5a-5g-mostly-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_2",
@@ -1958,7 +1512,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-2",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "June 26, 2024",
       "variants": [
@@ -1973,121 +1527,7 @@
           "url": "https://www.mobiledokan.com/mobile/google-pixel-2"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 2",
-          "Device Type": "Smartphone",
-          "Release Date": "17 October 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0 (Oreo)",
-          "User Interface": "Stock",
-          "Chipset": "Qualcomm Snapdragon 835 MSM8998",
-          "CPU": "Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "441 ppi",
-          "Screen to Body Ratio": "67.71 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12.2 MP f/1.8, Wide Angle, Primary Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "145.7 mm",
-          "Width": "69.7 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "143 grams",
-          "Build": "Back: Aluminium",
-          "Colors": "Kinda Blue, Just Black, Clearly White",
-          "Waterproof": "water resistant (up to 1m for 30 min)",
-          "IP Rating": "IP67",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "10.5W wired (capped), PD2.0",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/75 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps (gyro-EIS), 1080p@30/60/120fps (gyro-EIS), 720p@240fps (gyro-EIS)"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
         "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
@@ -2105,458 +1545,43 @@
     {
       "id": "google_pixel_2_128gb",
       "name": "Google Pixel 2 (128GB)",
-      "price": "16000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-2-128gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-10-19 06:28:26",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "June 26, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.16,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-2-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.13,500",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-2"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 2 (128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "17 October 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.0 (Oreo)",
-          "User Interface": "Stock",
-          "Chipset": "Qualcomm Snapdragon 835 MSM8998",
-          "CPU": "Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 540"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "5.0 inches (12.7 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "441 ppi",
-          "Screen to Body Ratio": "67.71 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12.2 MP f/1.8, Wide Angle, Primary Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "145.7 mm",
-          "Width": "69.7 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "143 grams",
-          "Build": "Back: Aluminium",
-          "Colors": "Kinda Blue, Just Black, Clearly White",
-          "Waterproof": "Water resistant,",
-          "IP Rating": "IP67",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2700 mAh",
-          "Quick Charging": "10.5W wired (capped), PD2.0",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.1",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat15 800/75 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps (gyro-EIS), 1080p@30/60/120fps (gyro-EIS), 720p@240fps (gyro-EIS)"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-front-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-back-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-left-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-right-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-just-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-kinda-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-2-clearly-white-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_8_pro_256gb",
       "name": "Google Pixel 8 Pro (256GB)",
-      "price": "89000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-10-19 06:28:26",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "March 22, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.89,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb"
-        },
-        {
-          "name": "12GB+128GB",
-          "price": "৳.70,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro"
-        },
-        {
-          "name": "12GB+512GB",
-          "price": "৳.142,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-512gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 8 Pro (256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "12 October 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Google Tensor G3",
-          "CPU": "Nona Core (3 GHz, Single core, Cortex X3 + 2.45 GHz, Quad core, Cortex A715 + 2.15 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "9 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Immortalis-G715 MC10"
-        },
-        "Display": {
-          "Display Type": "LTPO AMOLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1344x2992 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "490 ppi",
-          "Screen to Body Ratio": "87.13 %",
-          "Screen Protection": "Gorilla Glass, Glass Victus 2, Scratch-resistant glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2400 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.68, Wide Angle (82° field-of-view), Primary Camera, 48 MP f/1.95, Ultra-Wide Angle Camera, 48 MP f/2.8, Telephoto Camera",
-            "Sensor": "S5KGN2, ISOCELL Plus",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
-            "Aperture": "f/1.68",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "162.6 mm",
-          "Width": "76.5 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "213 grams",
-          "Build": "Back: Gorilla Glass Victus 2",
-          "Colors": "Obsidian, Porcelain, Bay, Mint",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust Proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion )",
-          "Capacity": "5050 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "30W wired, PD3.0, PPS, 50% in 30 min (advertised)",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-full-dispaly-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-bay-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-pro-mint-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_8_pro_512gb",
       "name": "Google Pixel 8 Pro (512GB)",
-      "price": "142000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "March 22, 2025",
-      "variants": [
-        {
-          "name": "12GB+512GB",
-          "price": "৳.142,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-512gb"
-        },
-        {
-          "name": "12GB+256GB",
-          "price": "৳.89,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb"
-        },
-        {
-          "name": "12GB+128GB",
-          "price": "৳.70,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 8 Pro (512GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "12 October 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Google Tensor G3",
-          "CPU": "Nona Core (3 GHz, Single core, Cortex X3 + 2.45 GHz, Quad core, Cortex A715 + 2.15 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "9 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Immortalis-G715 MC10"
-        },
-        "Display": {
-          "Display Type": "LTPO AMOLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1344x2992 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "490 ppi",
-          "Screen to Body Ratio": "87.13 %",
-          "Screen Protection": "Gorilla Glass, Glass Victus 2, Scratch-resistant glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2400 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.68, Wide Angle (82° field-of-view), Primary Camera, 48 MP f/1.95, Ultra-Wide Angle Camera, 48 MP f/2.8, Telephoto Camera",
-            "Sensor": "S5KGN2, ISOCELL Plus",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
-            "Aperture": "f/1.68",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "162.6 mm",
-          "Width": "76.5 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "213 grams",
-          "Build": "Back: Gorilla Glass Victus 2",
-          "Colors": "Obsidian, Porcelain, Bay, Mint",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust Proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion )",
-          "Capacity": "5050 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "30W wired, PD3.0, PPS, 50% in 30 min (advertised)",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
         "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
@@ -2574,142 +1599,16 @@
     {
       "id": "google_pixel_8a",
       "name": "Google Pixel 8a",
-      "price": "48000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "January 20, 2025",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 8a",
-          "Device Type": "Smartphone",
-          "Release Date": "14 May 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Google Tensor G3",
-          "CPU": "Nona-core (1x3.0 GHz Cortex-X3 & 4x2.45 GHz Cortex-A715 & 4x2.15 GHz Cortex-A510)",
-          "CPU Cores": "9 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Immortalis-G715s MC10"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.1 inches (15.49 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "431 ppi",
-          "Screen to Body Ratio": "81.24 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "64 MP f/1.9, Wide Angle (80° field-of-view), Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Phase Detection autofocus, Motion Autofocus autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.9",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "152.1 mm",
-          "Width": "72.7 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "189 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Obsidian, Porcelain, Bay, Aloe",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1 meter)",
-          "IP Rating": "IP67",
-          "Ruggedness": "Dust Proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4492 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60/120/240fps, OIS"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-obsidian-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-bay-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_7_256gb",
@@ -3588,7 +2487,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-3a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-3-clearly-white-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "July 9, 2024",
       "variants": [
@@ -3598,116 +2497,7 @@
           "url": "https://www.mobiledokan.com/mobile/google-pixel-3a"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 3a",
-          "Device Type": "Smartphone",
-          "Release Date": "05 May 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "Chipset": "Qualcomm Snapdragon 670",
-          "CPU": "Octa core (2 GHz, Dual core, Kryo 360 + 1.7 GHz, Hexa Core, Kryo 360)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "10 nm",
-          "GPU": "Adreno 615"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "5.6 inches (14.22 cm)",
-          "Resolution": "1080x2220 px (FHD+)",
-          "Aspect Ratio": "18.5:9",
-          "Pixel Density": "441 ppi",
-          "Screen to Body Ratio": "75.37 %",
-          "Screen Protection": "Asahi Dragontrail Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12.2 MP f/1.8, Wide Angle (76° field-of-view), Primary Camera",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4032 x 3024 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "151.3 mm",
-          "Width": "70.1 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "147 grams",
-          "Build": "Back: Polycarbonate",
-          "Colors": "Just Black, Clearly White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3000 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Single SIM, GSM",
-          "SIM Size": "SIM1: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat11 600/75 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "2160p@30fps, 1080p@30/60/120fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/google-pixel-3-clearly-white-official-image.webp",
         "https://www.mobiledokan.com/media/google-pixel-3-clearly-white-official-image.webp",
@@ -3724,136 +2514,15 @@
     {
       "id": "google_pixel_4",
       "name": "Google Pixel 4",
-      "price": "22500",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/google-pixel-4",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-4-black-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-10-19 06:28:26",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
-      "updated_on": "November 9, 2024",
-      "variants": [
-        {
-          "name": "6GB+64GB",
-          "price": "৳.22,500",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-4"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.25,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-4-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 4",
-          "Device Type": "Smartphone",
-          "Release Date": "10 October 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10 (Q)",
-          "Chipset": "Qualcomm Snapdragon 855",
-          "CPU": "Octa core (2.84 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.78 GHz, Quad core, Kryo 485)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "GPU": "Adreno 640"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "5.7 inches (14.48 cm)",
-          "Resolution": "1080x2280 px (FHD+)",
-          "Aspect Ratio": "19:9",
-          "Pixel Density": "443 ppi",
-          "Screen to Body Ratio": "79.73 %",
-          "Screen Protection": "Corning Gorilla Glass v6",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "12.2 MP f/1.7, Primary Camera, 16 MP f/2.4, Telephoto Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160 , 1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "147.1 mm",
-          "Width": "68.8 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "162 grams",
-          "Build": "Front/back glass (Gorilla Glass 6), aluminum frame",
-          "Colors": "Just Black, Clearly White, Oh So Orange",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "2800 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast battery charging 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat18 1200/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "2160p@30fps, 1080p@30/60/120fps, 720p@240fps, 1080p@30fps (gyro-EIS)"
-        },
-        "More": {
-          "Made By": "USA",
-          "Features": "Light sensor, Proximity sensor, Accelerometer, Barometer, Gyroscope"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/google-pixel-4-black-image.webp",
         "https://www.mobiledokan.com/media/google-pixel-4-black-image.webp",
@@ -4026,7 +2695,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-11-26 06:32:16",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "October 29, 2024",
       "variants": [],
@@ -4147,19 +2816,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature), Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-rose-quartz-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-hazel-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-9-pro-obsidian-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "google_pixel_8_256gb",
@@ -4168,152 +2825,12 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-10-19 06:28:26",
+      "last_updated": "2025-12-22 06:38:54",
       "first_scraped": null,
       "updated_on": "August 4, 2024",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.70,000",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8-256gb"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.57,500",
-          "url": "https://www.mobiledokan.com/mobile/google-pixel-8"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Google",
-          "Model": "Pixel 8 (256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "12 October 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Google Tensor G3",
-          "CPU": "Nona Core (3 GHz, Single core, Cortex X3 + 2.45 GHz, Quad core, Cortex A715 + 2.15 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "9 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Immortalis-G715 MC10"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.2 inches (15.75 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "87.1 %",
-          "Screen Protection": "Corning Gorilla Glass, Glass Victus, Scratch-resistant glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.7, Wide Angle (82° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide-Angle Camera",
-            "Sensor": "S5KGN2, ISOCELL Plus",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "7 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "10.5 MP f/2.2, Ultra-Wide Angle, Primary Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "24 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "150.5 mm",
-          "Width": "70.8 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "187 grams",
-          "Build": "Back: Gorilla Glass Victus",
-          "Colors": "Hazel, Rose, Obsidian, Mint",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4575 mAh",
-          "Wireless Charging": "18W wireless",
-          "Quick Charging": "Fast, 27W: 50 % in 30 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
-        },
-        "More": {
-          "Made By": "USA",
-          "Features": "Accelerometer, Barometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-front-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-back-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-side-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-black-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-rose-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-mint-official-image.webp",
-        "https://www.mobiledokan.com/media/google-pixel-8-official-imagepng.webp"
-      ]
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "google_pixel_9_pro_fold",
