@@ -4,7 +4,7 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2025-12-22 06:41:03",
+    "last_updated": "2025-12-23 06:37:41",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:03:15",
     "new_phones_this_run": 0,
@@ -983,15 +983,123 @@
     {
       "id": "benco_v91",
       "name": "Benco V91",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/benco-v91",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-12-22 06:41:03",
+      "last_updated": "2025-12-23 06:37:41",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "April 23, 2025",
+      "variants": [
+        {
+          "name": "4GB+128GB",
+          "price": "৳.9,999",
+          "url": "https://www.mobiledokan.com/mobile/benco-v91"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Benco",
+          "Model": "V91",
+          "Device Type": "Smartphone",
+          "Release Date": "01 September 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc T606",
+          "CPU": "Octa-core, up to 1.6 GHz",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1640 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4616 x 3464 Pixels",
+            "Settings": "Exposure compensation",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "74.7 mm",
+          "Thickness": "9 mm",
+          "Weight": "195 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Pale Green, Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Fast Charging 18W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
         "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",

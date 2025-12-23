@@ -4,7 +4,7 @@
     "name": "asus",
     "url": "https://www.mobiledokan.com/mobile-brand/asus",
     "image_url": null,
-    "last_updated": "2025-12-22 06:42:25",
+    "last_updated": "2025-12-23 06:39:02",
     "total_phones": 50,
     "first_scraped": "2025-09-11 09:07:08",
     "new_phones_this_run": 0,
@@ -1331,7 +1331,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
       "serial_number": 10,
-      "last_updated": "2025-12-22 06:42:25",
+      "last_updated": "2025-12-23 06:39:02",
       "first_scraped": null,
       "updated_on": "May 3, 2024",
       "variants": [
@@ -1465,20 +1465,146 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp"
+      ]
     },
     {
       "id": "asus_zenfone_9",
       "name": "Asus Zenfone 9",
-      "price": null,
+      "price": "69000",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-9",
       "image_url": "https://www.mobiledokan.com/media/1713762497ll56n.webp",
       "serial_number": 11,
-      "last_updated": "2025-12-22 06:42:25",
+      "last_updated": "2025-12-23 06:39:02",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "April 24, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.69,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-zenfone-9"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 9",
+          "Device Type": "Smartphone",
+          "Release Date": "15 September 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "5.9 inches (14.99 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "446 ppi",
+          "Screen to Body Ratio": "84.24 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1100 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "IMX766, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.45, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Phase Detection autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          }
+        },
+        "Design": {
+          "Height": "146.5 mm",
+          "Width": "68.1 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "169 grams",
+          "Colors": "Midnight Black, Starry Blue, Sunset Red, Moonlight White",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4300 mAh",
+          "Quick Charging": "Fast, 30W: 50 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat20 2000/211 Mbps, 5G 4.5/0.9 Gbps",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS, HDR"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1713762497ll56n.webp",
         "https://www.mobiledokan.com/media/1713762497ll56n.webp",
@@ -1495,7 +1621,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-18gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
       "serial_number": 12,
-      "last_updated": "2025-12-22 06:42:25",
+      "last_updated": "2025-12-23 06:39:02",
       "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
@@ -1629,7 +1755,10 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_2",

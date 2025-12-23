@@ -4,7 +4,7 @@
     "name": "lenovo",
     "url": "https://www.mobiledokan.com/mobile-brand/lenovo",
     "image_url": null,
-    "last_updated": "2025-12-22 06:41:41",
+    "last_updated": "2025-12-23 06:38:01",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:21:36",
     "new_phones_this_run": 0,
@@ -289,7 +289,7 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-k10-plus",
       "image_url": "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-22 06:41:41",
+      "last_updated": "2025-12-23 06:38:01",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [
@@ -410,7 +410,18 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-side-view.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-k10-plus-sprite-official-image.webp"
+      ]
     },
     {
       "id": "lenovo_k5_play",
@@ -554,10 +565,16 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-z5",
       "image_url": "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-22 06:41:41",
+      "last_updated": "2025-12-23 06:38:01",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "6GB+64GB",
+          "price": "৳.12,500",
+          "url": "https://www.mobiledokan.com/mobile/lenovo-z5"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Lenovo",
@@ -666,7 +683,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-front-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-back-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-side-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-indigo-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/lenovo-z5-aurora-blue-official-image.webp"
+      ]
     },
     {
       "id": "lenovo_zuk_z1",
@@ -675,7 +703,7 @@
       "url": "https://www.mobiledokan.com/mobile/lenovo-zuk-z1",
       "image_url": "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-22 06:41:41",
+      "last_updated": "2025-12-23 06:38:01",
       "first_scraped": null,
       "updated_on": "December 17, 2024",
       "variants": [],
@@ -787,7 +815,18 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-front.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-back.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-laft.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-side.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1-white.webp",
+        "https://www.mobiledokan.com/media/lenovo-zuk-z1.webp"
+      ]
     },
     {
       "id": "lenovo_a2010",

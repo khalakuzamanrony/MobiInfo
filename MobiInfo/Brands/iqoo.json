@@ -4,7 +4,7 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2025-12-22 06:42:42",
+    "last_updated": "2025-12-23 06:39:16",
     "total_phones": 87,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
@@ -757,10 +757,21 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-pro",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo-7-pro-fearless-flame-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-22 06:42:42",
+      "last_updated": "2025-12-23 06:39:16",
       "first_scraped": null,
       "updated_on": "July 12, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.43,000",
+          "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-pro"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.55,000",
+          "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo-7-pro-12gb-256gb"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Vivo",
@@ -896,7 +907,7 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z9",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-12-22 06:42:42",
+      "last_updated": "2025-12-23 06:39:16",
       "first_scraped": null,
       "updated_on": "November 1, 2024",
       "variants": [
@@ -947,13 +958,6 @@
           "Features": "Always-on display"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera",
@@ -969,6 +973,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1030,7 +1041,18 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-back-side-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-brushed-green-official-image.webp",
+        "https://www.mobiledokan.com/media/vivo-iqoo-z9-graphene-blue-official-image.webp"
+      ]
     },
     {
       "id": "vivo_iqoo_neo9_pro_china",
@@ -1039,10 +1061,16 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-pro-china",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-neo9-pro-china-red-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-12-22 06:42:42",
+      "last_updated": "2025-12-23 06:39:16",
       "first_scraped": null,
       "updated_on": "June 30, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.56,000",
+          "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-neo9-pro-china"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Vivo",

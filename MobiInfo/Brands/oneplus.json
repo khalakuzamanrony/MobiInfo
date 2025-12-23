@@ -4,7 +4,7 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2025-12-22 06:39:04",
+    "last_updated": "2025-12-23 06:35:23",
     "total_phones": 117,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
@@ -170,7 +170,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-3-lite-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
@@ -294,21 +294,165 @@
           "Features": "Capacitive Touchscreen, Multi-touch"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-front-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-back-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-pastel-lime-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-ce-3-lite-5g-chromatic-gray-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_nord_2t_5g",
       "name": "OnePlus Nord 2T 5G",
-      "price": null,
+      "price": "49990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2t-5g",
       "image_url": "https://www.mobiledokan.com/media/1710397258AQ4Wd.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "November 4, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.49,990",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2t-5g"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.54,990",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-nord-2t-5g-12gb-256gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "Nord 2T 5G",
+          "Device Type": "Smartphone",
+          "Release Date": "21 May 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "MediaTek Dimensity 1300 MT6893",
+          "CPU": "Octa core (3 GHz, Single core, Cortex A78 + 2.6 GHz, Tri core, Cortex A78 + 2 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "Mali-G77 MC9"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.43 inches (16.33 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "409 ppi",
+          "Screen to Body Ratio": "85.71 %",
+          "Screen Protection": "Corning Gorilla Glass v5",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "636 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.8, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.2, Depth Camera",
+            "Autofocus": "Phase Detection autofocus, Continuous autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "159.1 mm",
+          "Width": "73.2 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "190 grams",
+          "Build": "Glass front (Gorilla Glass 5), plastic frame",
+          "Colors": "Gray Shadow, Jade Fog"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4500 mAh",
+          "Quick Charging": "Super VOOC, 80W: 100 % in 27 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (CA) Cat18 1200/150 Mbps, 5G",
+          "SAR Value": "Head: 1.14 W/kg, Body: 1.15 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30fps, 1080p@30/60/120/480fps, gyro-EIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710397258AQ4Wd.webp",
+        "https://www.mobiledokan.com/media/1710397258AQ4Wd.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-front-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-gray-shadow-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-gray-shadow-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-gray-shadow-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-2t-5g-jade-fog-image.webp"
+      ]
     },
     {
       "id": "oneplus_10_pro_5g",
@@ -317,10 +461,21 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-10-pro-5g-volcanic-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "August 24, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.84,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.76,990",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-10-pro-5g-12gb-ram"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "OnePlus",
@@ -443,7 +598,18 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-volcanic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-volcanic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-10-pro-5g-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/1711534355Fd7RU.webp",
+        "https://www.mobiledokan.com/media/1711534355Fd7RU.webp",
+        "https://www.mobiledokan.com/media/1711534355Fd7RU.webp",
+        "https://www.mobiledokan.com/media/1711534337mIARi.webp"
+      ]
     },
     {
       "id": "oneplus_12r",
@@ -452,7 +618,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-12r",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "August 15, 2024",
       "variants": [
@@ -599,21 +765,190 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-charging-poot-",
+        "https://www.mobiledokan.com/media/oneplus-12r-iron-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-iron-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-iron-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12r-cool-blue-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_12",
       "name": "OnePlus 12",
-      "price": null,
+      "price": "79500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-12",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "November 2, 2024",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.79,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12"
+        },
+        {
+          "name": "16GB+512GB",
+          "price": "৳.88,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-ram"
+        },
+        {
+          "name": "16GB+1TB",
+          "price": "৳.97,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-1tb"
+        },
+        {
+          "name": "24GB+1TB",
+          "price": "৳.117,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-24gb-1tb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "12",
+          "Device Type": "Smartphone",
+          "Release Date": "11 December 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "OxygenOS 14",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 3",
+          "CPU": "Octa core (3.3 GHz, Single core, Cortex X4 + 3.2 GHz, Penta Core, Cortex A720 + 2.3 GHz, Dual core, Cortex A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.82 inches (17.32 cm)",
+          "Resolution": "1440x3168 px (QHD+)",
+          "Aspect Ratio": "19.8:9",
+          "Pixel Density": "510 ppi",
+          "Screen to Body Ratio": "90.17 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "600 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.6, Wide Angle (85° field-of-view), Primary Camera, 48 MP f/2.2, Ultra-Wide Angle Camera, 64 MP f/2.6, Periscope Camera",
+            "Autofocus": "Phase Detection autofocus, Continuous autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "6 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Starry Mode",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus, Dual Video Recording, Slo-motion, Ultra Steady Video, Video HDR, Bokeh portrait video, Video Pro Mode",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps, 60 fps, 240 fps, 480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "164.3 mm",
+          "Width": "75.8 mm",
+          "Thickness": "9.2 mm",
+          "Weight": "220 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Silver, Flowy Emerald, Silky Black",
+          "Waterproof": "Water resistant",
+          "IP Rating": "IP65",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5400 mAh",
+          "Wireless Charging": "50W wireless, 100% in 55 min (advertised)",
+          "Quick Charging": "Super VOOC, 100W: 100 % in 26 minutes",
+          "Reverse Charging": "10W reverse wireless",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.2"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (CA), 5G",
+          "SAR Value": "Head: 1.18 W/kg, Body: 0.68 W/kg",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240/480fps, Auto HDR, gyro-EIS, Dolby Vision"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-charging-poot-side-i",
+        "https://www.mobiledokan.com/media/oneplus-12-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-back-side-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-charging-poot-side-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silky-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp"
+      ]
     },
     {
       "id": "oneplus_11_5g",
@@ -622,10 +957,16 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-11-5g",
       "image_url": "https://www.mobiledokan.com/media/1710409629bUChV.webp",
       "serial_number": 7,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "March 14, 2025",
-      "variants": [],
+      "variants": [
+        {
+          "name": "16GB+256GB",
+          "price": "৳.99,990",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-11-5g"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "OnePlus",
@@ -747,7 +1088,18 @@
           "Features": "Proximity sensor, Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710409629bUChV.webp",
+        "https://www.mobiledokan.com/media/1710409629bUChV.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-front-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-product-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-eternal-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-eternal-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-eternal-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11-5g-black-image_1.webp"
+      ]
     },
     {
       "id": "oneplus_open",
@@ -894,16 +1246,148 @@
     {
       "id": "oneplus_nord_3_5g",
       "name": "OnePlus Nord 3 5G",
-      "price": null,
+      "price": "43499",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-3-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 15, 2025",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.43,499",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-nord-3-5g"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "Nord 3 5G",
+          "Device Type": "Smartphone",
+          "Release Date": "11 July 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "MediaTek Dimensity 9000 MT6893",
+          "CPU": "Octa core (3.05 GHz, Single core, Cortex X2 + 2.85 GHz, Tri core, Cortex A710 + 1.8 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G710 MC10"
+        },
+        "Display": {
+          "Display Type": "Super Fluid AMOLED",
+          "Screen Size": "6.74 inches (17.12 cm)",
+          "Resolution": "1240x2772 px (FHD+)",
+          "Aspect Ratio": "20.1:9",
+          "Pixel Density": "451 ppi",
+          "Screen to Body Ratio": "89.82 %",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1450 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
+            "Sensor": "IMX890, Exmor-RS CMOS Sensor",
+            "Autofocus": "Contrast Detection autofocus, Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.6 mm",
+          "Width": "75.1 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "193.5 grams",
+          "Colors": "Misty Green, Tempest Gray",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IP54",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000mAh",
+          "Quick Charging": "Super VOOC, 80W: 100 % in 32 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128GB",
+          "Storage Type": "UFS 3.1",
+          "Expandable Memory": "No",
+          "USB OTG": "Yes",
+          "RAM": "8GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "GSM / HSPA / LTE / 5G",
+          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "USB Type-C 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "3840x2160 @ 30 fps 1920x1080 @ 30 fps"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-front-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-back-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-uo-down.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-3-5g-tempest-gray-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_ace_pro",
@@ -912,7 +1396,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-pro",
       "image_url": "https://www.mobiledokan.com/media/1710426213v6ur2.webp",
       "serial_number": 10,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
@@ -1041,20 +1525,146 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710426213v6ur2.webp",
+        "https://www.mobiledokan.com/media/1710426213v6ur2.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-front-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-back-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-updown-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-jade-green-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-jade-green-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-jade-green-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-black-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-pro-genshin-impact-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_10t_5g",
       "name": "OnePlus 10T 5G",
-      "price": null,
+      "price": "84990",
       "url": "https://www.mobiledokan.com/mobile/oneplus-10t-5g",
       "image_url": "https://www.mobiledokan.com/media/1710428050t5ba1.webp",
       "serial_number": 11,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 23, 2024",
       "variants": [],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "10T 5G",
+          "Device Type": "Smartphone",
+          "Release Date": "06 August 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "Fluid AMOLED",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1080x2412 px (FHD+)",
+          "Aspect Ratio": "20.1:9",
+          "Pixel Density": "394 ppi",
+          "Screen to Body Ratio": "88.18 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "950 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
+            "Sensor": "IMX766, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163 mm",
+          "Width": "75.4 mm",
+          "Thickness": "8.8 mm",
+          "Weight": "203.5 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Jade Green, Moonstone Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "4800mAh",
+          "Quick Charging": "Super VOOC, 150W: 100 % in 19 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "16GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (CA), 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "3840x2160 @ 30 fps 1920x1080 @ 60 fps 1280x720 @ 480 fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Proximity sensor, Accelerometer, Compass, Gyroscope"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710428050t5ba1.webp",
         "https://www.mobiledokan.com/media/1710428050t5ba1.webp",
@@ -1230,7 +1840,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "November 2, 2024",
       "variants": [
@@ -1377,35 +1987,324 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-charging-poot-side-i",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silky-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-12-silver-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_11r_16gb256gb",
       "name": "OnePlus 11R (16GB+256GB)",
-      "price": null,
+      "price": "50000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-11r-16gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 7, 2025",
+      "variants": [
+        {
+          "name": "16GB+256GB",
+          "price": "৳.50,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-11r-16gb-256gb"
+        },
+        {
+          "name": "8GB+128GB",
+          "price": "৳.43,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-11r"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "11R (16GB+256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "21 February 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "Super Fluid AMOLED",
+          "Screen Size": "6.74 inches (17.12 cm)",
+          "Resolution": "1240x2772 px (FHD+)",
+          "Aspect Ratio": "20.1:9",
+          "Pixel Density": "451 ppi",
+          "Screen to Body Ratio": "90.34 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1450 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera 8 MP f/2.2, Ultra-Wide Angle Camera 2 MP f/2.4, Macro Camera",
+            "Sensor": "IMX890, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus, Continuous autofocus, Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Filters, Focus Tracking, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080, 1280x720",
+            "Video FPS": "480 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163.4 mm",
+          "Width": "74.3 mm",
+          "Thickness": "8.7 mm",
+          "Weight": "205 grams",
+          "Build": "Glass front, glass back (Gorilla Glass 5), plastic frame",
+          "Colors": "Galactic Silver, Sonic Black, Solar Red"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Super VOOC, 100W: 100 % in 25 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (3CA), 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-galactic-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-sonic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-11r-solar-red-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_ace_3v",
       "name": "OnePlus Ace 3V",
-      "price": null,
+      "price": "42500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-3v",
       "image_url": "https://www.mobiledokan.com/media/1713099295XSEGF.webp",
       "serial_number": 15,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "April 16, 2024",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.42,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-3v"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "Ace 3V",
+          "Device Type": "Smartphone",
+          "Release Date": "25 March 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "ColorOS",
+          "Chipset": "Qualcomm Snapdragon 7 Plus Gen 3",
+          "CPU": "Octa core (2.8 GHz, Single core, Cortex A715 + 2.6 GHz, Quad core, Cortex A715 + 1.9 GHz, Tri core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 732"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.74 inches (17.12 cm)",
+          "Resolution": "1240x2772 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "451 ppi",
+          "Screen to Body Ratio": "89.64 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.8, Wide Angle (79° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "IMX882, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Wide Angle, Primary Camera",
+            "Flash": "Screen flash",
+            "Camera Features": "Wide Angle",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.7 mm",
+          "Width": "75.2 mm",
+          "Thickness": "8.47 mm",
+          "Weight": "200 grams",
+          "Build": "Back: Mineral Glass",
+          "Colors": "Titanium Gray, Magic Purple Silver",
+          "Waterproof": "Water resistant",
+          "IP Rating": "IP65",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5500 mAh",
+          "Quick Charging": "Super VOOC, 100W: 100 % in 26 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "eSE, HCE",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Under display",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713099295XSEGF.webp",
+        "https://www.mobiledokan.com/media/1713099295XSEGF.webp",
+        "https://www.mobiledokan.com/media/1713109792kE3Eu.webp",
+        "https://www.mobiledokan.com/media/1713109826pJwDY.webp",
+        "https://www.mobiledokan.com/media/1713109881dMt51.webp",
+        "https://www.mobiledokan.com/media/17131099412c9Az.webp",
+        "https://www.mobiledokan.com/media/1713110005SaUa3.webp",
+        "https://www.mobiledokan.com/media/1713110047JY0QE.webp",
+        "https://www.mobiledokan.com/media/17130996889zTFJ.webp",
+        "https://www.mobiledokan.com/media/17130996889zTFJ.webp",
+        "https://www.mobiledokan.com/media/17130996889zTFJ.webp",
+        "https://www.mobiledokan.com/media/1713099295XSEGF.webp"
+      ]
     },
     {
       "id": "oneplus_nord_ce_2_5g",
@@ -1414,7 +2313,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-2-5g",
       "image_url": "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "March 24, 2025",
       "variants": [
@@ -1541,7 +2440,19 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp",
+        "https://www.mobiledokan.com/media/17133299542HjJJ.webp",
+        "https://www.mobiledokan.com/media/1713329971rtjmg.webp",
+        "https://www.mobiledokan.com/media/17133299934IPUE.webp",
+        "https://www.mobiledokan.com/media/1713330008WyDNh.webp",
+        "https://www.mobiledokan.com/media/1713330027ke2D0.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/1713329922RKSpn.webp",
+        "https://www.mobiledokan.com/media/17133299038NHQ6.webp"
+      ]
     },
     {
       "id": "oneplus_nord_n20_se",
@@ -1550,7 +2461,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-n20-se",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "December 23, 2024",
       "variants": [
@@ -1673,7 +2584,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-blue-oasis-official-image.webp",
+        "https://www.mobiledokan.com/media/oneplus-nord-n20-se-celestial-black-official-image.webp"
+      ]
     },
     {
       "id": "oneplus_nord_n200_5g",
@@ -1818,15 +2740,137 @@
     {
       "id": "oneplus_ace_2v",
       "name": "OnePlus Ace 2V",
-      "price": null,
+      "price": "55000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v",
       "image_url": "https://www.mobiledokan.com/media/17136870095bPDv.webp",
       "serial_number": 19,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "April 24, 2024",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.55,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v"
+        },
+        {
+          "name": "16GB+256GB",
+          "price": "৳.61,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-2v-16gb-ram"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "Ace 2V",
+          "Device Type": "Smartphone",
+          "Release Date": "15 March 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "ColorOS",
+          "Chipset": "MediaTek Dimensity 9000 MT6893",
+          "CPU": "Octa core (3.05 GHz, Single core, Cortex X2 + 2.85 GHz, Tri core, Cortex A710 + 1.8 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G710 MC10"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.74 inches (17.12 cm)",
+          "Resolution": "1240x2772 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "451 ppi",
+          "Screen to Body Ratio": "89.82 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1450 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP f/1.7, Wide Angle (81° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Macro Mode",
+            "Aperture": "f/1.7",
+            "Camera Features": "20 x Digital Zoom,\r\nAuto Flash,\r\nFace detection",
+            "Video Recording": "3840x2160 ,1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080,1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.6 mm",
+          "Width": "75.1 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "191.5 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Black Rock, Celadon"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Super VOOC, 80W: 100 % in 32 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "Expandable Memory": "No",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual Nano SIM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A (CA), 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "Dolby Atmos",
+          "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/17136870095bPDv.webp",
         "https://www.mobiledokan.com/media/17136870095bPDv.webp",
@@ -2417,16 +3461,153 @@
     {
       "id": "oneplus_ace",
       "name": "OnePlus Ace",
-      "price": null,
+      "price": "39000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace",
       "image_url": "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
       "serial_number": 24,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "September 15, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.39,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace"
+        },
+        {
+          "name": "8GB+256GB",
+          "price": "৳.42,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-256gb"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.45,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-12gb-256gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "OnePlus",
+          "Model": "Ace",
+          "Device Type": "Smartphone",
+          "Release Date": "16 April 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "User Interface": "ColorOS",
+          "Chipset": "MediaTek Dimensity 8100 Max",
+          "CPU": "Octa core (2.85 GHz, Quad core, Cortex A78 + 2 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Mali-G610 MC6"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1080x2412 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "394 ppi",
+          "Screen to Body Ratio": "87.9 %",
+          "Screen Protection": "Corning Gorilla Glass v5",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "950 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.88, Wide Angle (84° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
+            "Sensor": "IMX766, CMOS image sensor, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "20 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting High, Dynamic Range mode (HDR)",
+            "Aperture": "f/1.88",
+            "Camera Features": "20 x Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080,1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "163.3 mm",
+          "Width": "75.5 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "186 grams",
+          "Build": "Glass front (Gorilla Glass 5), plastic frame",
+          "Colors": "Voice Chat, Back to Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "4500 mAh",
+          "Quick Charging": "Super Flash, 150W: 100 % in 17 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "Expandable Memory": "No",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual Nano SIM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (4CA) Cat18 1200/200 Mbps, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
+        "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-front.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-back.webp",
+        "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
+        "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
+        "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
+        "https://www.mobiledokan.com/media/oneplus-ace-sky.webp"
+      ]
     },
     {
       "id": "oneplus_10r",
@@ -2587,7 +3768,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce-5g",
       "image_url": "https://www.mobiledokan.com/media/1714366387o5E3g.webp",
       "serial_number": 26,
-      "last_updated": "2025-12-22 06:39:04",
+      "last_updated": "2025-12-23 06:35:23",
       "first_scraped": null,
       "updated_on": "May 25, 2024",
       "variants": [
@@ -2712,7 +3893,10 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714366387o5E3g.webp",
+        "https://www.mobiledokan.com/media/1714366387o5E3g.webp"
+      ]
     },
     {
       "id": "oneplus_nord_ce4",

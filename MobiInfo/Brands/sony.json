@@ -4,7 +4,7 @@
     "name": "sony",
     "url": "https://www.mobiledokan.com/mobile-brand/sony",
     "image_url": null,
-    "last_updated": "2025-12-22 06:43:09",
+    "last_updated": "2025-12-23 06:39:52",
     "total_phones": 85,
     "first_scraped": "2025-09-11 09:14:37",
     "new_phones_this_run": 0,
@@ -306,7 +306,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iv",
       "image_url": "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-22 06:43:09",
+      "last_updated": "2025-12-23 06:39:52",
       "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
@@ -431,7 +431,13 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum\r\nNative Sony Alpha camera support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp"
+      ]
     },
     {
       "id": "sony_xperia_5",
@@ -717,7 +723,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-22 06:43:09",
+      "last_updated": "2025-12-23 06:39:52",
       "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
@@ -759,13 +765,6 @@
           "Refresh Rate": "120 Hz"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "12 MP, f/1.7, Wide Angle (82° field-of-view), Primary Camera, 12 MP, f/2.3, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 0.3 MP, TOF 3D, (depth)",
@@ -780,6 +779,13 @@
             "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -841,7 +847,19 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum\r\nNative Sony Alpha camera support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-front-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-down-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_10_iii",
