@@ -4,11 +4,11 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2026-01-01 06:33:25",
+    "last_updated": "2026-01-02 06:36:34",
     "total_phones": 544,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 23
   },
   "phones": [
     {
@@ -167,7 +167,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra",
       "image_url": "https://www.mobiledokan.com/media/17099597678sEaY.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-10 06:35:42",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "December 9, 2025",
       "variants": [
@@ -310,22 +310,7 @@
           "Features": "Accelerometer, proximity, gyro, compass, color spectrum, barometer, Two-way satellite communication"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
-        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
-        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-14-ultra-titanium-gray-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_k50_ultra",
@@ -630,141 +615,12 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k70e",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "June 6, 2024",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.38,000",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k70e"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi K70E",
-          "Device Type": "Smartphone",
-          "Release Date": "29 November 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "User Interface": "HyperOS",
-          "Chipset": "MediaTek Dimensity 8300 Ultra",
-          "CPU": "Octa core (3.35 GHz, Single core, Cortex A715 + 3.2 GHz, Tri core, Cortex A715 + 2.2 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G615 MC6"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1220x2712 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "446 ppi",
-          "Screen to Body Ratio": "90.05 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1800 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Dolby Vision"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
-            "Sensor": "OVB64B",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Camera Features": "Wide Angle, HDR, panorama",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "160.45 mm",
-          "Width": "74.34 mm",
-          "Thickness": "8.05 mm",
-          "Weight": "198 grams",
-          "Colors": "Black, White, MInt"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5500 mAh",
-          "Quick Charging": "Fast, 90W: 100 % in 34 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 4.0",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A, 5G",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.4",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos",
-          "Video": "4K@24/30fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, gyro, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70e-mint-official-image.webp"
-      ]
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_k60",
@@ -924,7 +780,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k70",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-k70-light-eggplant-purple-official-image_1.webp",
       "serial_number": 7,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "October 30, 2024",
       "variants": [
@@ -1056,17 +912,7 @@
           "Features": "Accelerometer, proximity, gyro, compass, color spectrum"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-light-eggplant-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-light-eggplant-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-full-display-size-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-light-eggplant-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-k70-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_10_pro_max",
@@ -1221,7 +1067,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-11s",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "August 30, 2024",
       "variants": [
@@ -1354,20 +1200,7 @@
           "Features": "Accelerometer, gyro, compass,  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-cha",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-horizon-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-polar-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11s-space-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_13_4g",
@@ -1376,7 +1209,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-13-4g",
       "image_url": "https://www.mobiledokan.com/media/1710078708cnQp7.webp",
       "serial_number": 10,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "May 27, 2025",
       "variants": [
@@ -1508,21 +1341,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710078708cnQp7.webp",
-        "https://www.mobiledokan.com/media/1710078708cnQp7.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-13-4g-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-13-4g-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-13-4g-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-13-4g-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note",
-        "https://www.mobiledokan.com/media/1711261240ZEbaq.webp",
-        "https://www.mobiledokan.com/media/1711261240ZEbaq.webp",
-        "https://www.mobiledokan.com/media/1711261240ZEbaq.webp",
-        "https://www.mobiledokan.com/media/1710078708cnQp7.webp",
-        "https://www.mobiledokan.com/media/1711261306wx9YT.webp",
-        "https://www.mobiledokan.com/media/1711261358vO7fs.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_9_power",
@@ -1531,7 +1350,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9-power",
       "image_url": "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
       "serial_number": 11,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "November 11, 2024",
       "variants": [
@@ -1660,21 +1479,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-9-power-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710084434ezWHV.webp",
-        "https://www.mobiledokan.com/media/1710084434ezWHV.webp",
-        "https://www.mobiledokan.com/media/1710084434ezWHV.webp",
-        "https://www.mobiledokan.com/media/1710084558bdtZ9.webp",
-        "https://www.mobiledokan.com/media/1710084685NXbnN.webp",
-        "https://www.mobiledokan.com/media/1710083898DSEY2.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_9_power_6gb128gb",
@@ -1832,298 +1637,29 @@
     {
       "id": "xiaomi_redmi_9t",
       "name": "Xiaomi Redmi 9T",
-      "price": "15499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t",
       "image_url": "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
       "serial_number": 13,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "March 25, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.15,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.17,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-128gb"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.18,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-6gb-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 9T",
-          "Device Type": "Smartphone",
-          "Release Date": "18 January 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 662",
-          "CPU": "Octa core (2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 610"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.53 inches (16.59 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "83.25 %",
-          "Screen Protection": "Corning Gorilla Glass 3",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "400 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.1, 27mm (wide), 1/4.0\", 1.12µm",
-            "Camera Features": "Wide",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.1"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "77.3 mm",
-          "Thickness": "9.6 mm",
-          "Weight": "198 grams",
-          "Build": "Glass front (Gorilla Glass 3), plastic frame, plastic back",
-          "Colors": "Carbon Grey, Sunset Orange, Twilight Blue, Ocean Green",
-          "Waterproof": "Splash proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Reverse Charging": "2.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0, OTG"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp",
-        "https://www.mobiledokan.com/media/1710131864zTkYS.webp",
-        "https://www.mobiledokan.com/media/1710131979C7kjp.webp",
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_9t_128gb",
       "name": "Xiaomi Redmi 9T (128GB)",
-      "price": "17499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710131864zTkYS.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "March 25, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.17,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.15,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.18,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-6gb-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 9T (128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "18 January 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 662",
-          "CPU": "Octa core (2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260)",
-          "CPU Cores": "Quad core",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 610"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.53 inches (16.59 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "83.25 %",
-          "Screen Protection": "Corning Gorilla Glass 3",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "400 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.1, 27mm (wide), 1/4.0\", 1.12µm",
-            "Camera Features": "Wide",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.1"
-          }
-        },
-        "Design": {
-          "Height": "162.3 mm",
-          "Width": "77.3 mm",
-          "Thickness": "9.6 mm",
-          "Weight": "198 grams",
-          "Build": "Glass front (Gorilla Glass 3), plastic frame, plastic back",
-          "Colors": "Carbon Grey, Sunset Orange, Twilight Blue, Ocean Green",
-          "Waterproof": "Splash proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Reverse Charging": "2.5W reverse wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0, OTG"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710131864zTkYS.webp",
         "https://www.mobiledokan.com/media/1710131864zTkYS.webp",
@@ -2142,7 +1678,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9t-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710132075cutAg.webp",
       "serial_number": 15,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "March 25, 2024",
       "variants": [
@@ -2276,16 +1812,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp",
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp",
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp",
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp",
-        "https://www.mobiledokan.com/media/1710132075cutAg.webp",
-        "https://www.mobiledokan.com/media/1710131979C7kjp.webp",
-        "https://www.mobiledokan.com/media/1710131864zTkYS.webp",
-        "https://www.mobiledokan.com/media/1710131092M32Ox.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_12c",
@@ -2294,7 +1821,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12c",
       "image_url": "https://www.mobiledokan.com/media/1710147782W4a4L.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
@@ -2429,21 +1956,7 @@
           "Features": "Accelerometer  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710147782W4a4L.webp",
-        "https://www.mobiledokan.com/media/1710147782W4a4L.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710149197uM9aO.webp",
-        "https://www.mobiledokan.com/media/1710149197uM9aO.webp",
-        "https://www.mobiledokan.com/media/1710149197uM9aO.webp",
-        "https://www.mobiledokan.com/media/1710147782W4a4L.webp",
-        "https://www.mobiledokan.com/media/1710149423tmxZJ.webp",
-        "https://www.mobiledokan.com/media/1710149576r9OeJ.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_12c_128gb",
@@ -2611,7 +2124,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12c-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710149423tmxZJ.webp",
       "serial_number": 18,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "November 4, 2024",
       "variants": [
@@ -2746,21 +2259,7 @@
           "Features": "Accelerometer  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710149423tmxZJ.webp",
-        "https://www.mobiledokan.com/media/1710149423tmxZJ.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12c-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710149576r9OeJ.webp",
-        "https://www.mobiledokan.com/media/1710149576r9OeJ.webp",
-        "https://www.mobiledokan.com/media/1710149576r9OeJ.webp",
-        "https://www.mobiledokan.com/media/1710149423tmxZJ.webp",
-        "https://www.mobiledokan.com/media/1710149197uM9aO.webp",
-        "https://www.mobiledokan.com/media/1710147782W4a4L.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_poco_x6",
@@ -2769,7 +2268,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-poco-x6",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-poco-x6-white-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "October 12, 2024",
       "variants": [
@@ -2905,20 +2404,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-poco-x6-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_11_pro",
@@ -2927,7 +2413,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-11-pro",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-polar-white-phantom-white-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "August 25, 2024",
       "variants": [
@@ -2976,6 +2462,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "108 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
@@ -2990,13 +2483,6 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus, Short Video Mode",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -3060,20 +2546,7 @@
           "Features": "Accelerometer, gyro, compass  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-polar-white-phantom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-polar-white-phantom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-graphite-gray-stealth-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-graphite-gray-stealth-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-graphite-gray-stealth-black-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-polar-white-phantom-white-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-pro-star-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_10",
@@ -3082,7 +2555,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10",
       "image_url": "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
       "serial_number": 21,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "January 27, 2025",
       "variants": [
@@ -3221,165 +2694,20 @@
           "Features": "Accelerometer, gyro, compass  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
-        "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
-        "https://www.mobiledokan.com/media/1711531476jyjCd.webp",
-        "https://www.mobiledokan.com/media/1711531465k4gKO.webp",
-        "https://www.mobiledokan.com/media/1711531454fiskd.webp",
-        "https://www.mobiledokan.com/media/17115314460sL1U.webp",
-        "https://www.mobiledokan.com/media/1710169946YWeUe.webp",
-        "https://www.mobiledokan.com/media/1710169946YWeUe.webp",
-        "https://www.mobiledokan.com/media/1710169946YWeUe.webp",
-        "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
-        "https://www.mobiledokan.com/media/1710170743pRdMH.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_10_128gb",
       "name": "Xiaomi Redmi Note 10 (128GB)",
-      "price": "20999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
       "serial_number": 22,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "March 27, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.20,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.19,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.21,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-6gb-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 10 (128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "16 March 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 678",
-          "CPU": "Octa core (2.2 GHz, Dual core, Kryo 460 + 1.7 GHz, Hexa Core, Kryo 460)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 612"
-        },
-        "Display": {
-          "Display Type": "Super AMOLED",
-          "Screen Size": "6.43 inches (16.33 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "409 ppi",
-          "Screen to Body Ratio": "83.53 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1100 nits",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "IMX582, Exmor-RS CMOS Sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Burst mode",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom, Auto Flash, Custom Watermark, Face detection, Touch to focus, Movie Frame",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "13 MP f/2.45, Wide Angle, Primary Camera",
-            "Camera Features": "Wide Angle",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          }
-        },
-        "Design": {
-          "Height": "160.4 mm",
-          "Width": "74.5 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "178.8 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Frost White, Aqua Green, Shadow Black",
-          "Waterproof": "Splash proof, IP53",
-          "IP Rating": "IP53",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired, 50% in 25 min, 100% in 74 min (advertised)",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (CA)",
-          "SAR Value": "Head: 0.863 W/kg, Body: 0.585 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30/60fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, compass  Virtual proximity sensing"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
         "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
@@ -3397,147 +2725,15 @@
     {
       "id": "xiaomi_redmi_note_10_6gb128gb",
       "name": "Xiaomi Redmi Note 10 (6GB+128GB)",
-      "price": "22000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
       "serial_number": 23,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "March 27, 2024",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.21,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-6gb-128gb"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.20,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.19,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-10"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 10 (6GB+128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "16 March 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 678",
-          "CPU": "Octa core (2.2 GHz, Dual core, Kryo 460 + 1.7 GHz, Hexa Core, Kryo 460)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 612"
-        },
-        "Display": {
-          "Display Type": "Super AMOLED",
-          "Screen Size": "6.43 inches (16.33 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "409 ppi",
-          "Screen to Body Ratio": "83.53 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1100 nits",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "IMX582, Exmor-RS CMOS Sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Burst mode",
-            "Aperture": "f/1.79",
-            "Camera Features": "Digital Zoom, Auto Flash, Custom Watermark, Face detection, Touch to focus, Movie Frame",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "13 MP f/2.45, Wide Angle, Primary Camera",
-            "Camera Features": "Wide Angle",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          }
-        },
-        "Design": {
-          "Height": "160.4 mm",
-          "Width": "74.5 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "178.8 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Frost White, Aqua Green, Shadow Black",
-          "Waterproof": "Splash proof, IP53",
-          "IP Rating": "IP53",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired, 50% in 25 min, 100% in 74 min (advertised)",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (CA)",
-          "SAR Value": "Head: 0.863 W/kg, Body: 0.585 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30/60fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, compass  Virtual proximity sensing"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
         "https://www.mobiledokan.com/media/1710170534SRYKU.webp",
@@ -3559,7 +2755,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9c",
       "image_url": "https://www.mobiledokan.com/media/1710176681XE59f.webp",
       "serial_number": 24,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "February 8, 2025",
       "variants": [
@@ -3684,147 +2880,20 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710176681XE59f.webp",
-        "https://www.mobiledokan.com/media/1710176681XE59f.webp",
-        "https://www.mobiledokan.com/media/1710176681XE59f.webp",
-        "https://www.mobiledokan.com/media/1710176681XE59f.webp",
-        "https://www.mobiledokan.com/media/1710176681XE59f.webp",
-        "https://www.mobiledokan.com/media/1710176599bYy2k.webp",
-        "https://www.mobiledokan.com/media/17101765121XEcz.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_9c_3gb64gb",
       "name": "Xiaomi Redmi 9C (3GB+64GB)",
-      "price": "12499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9c-3gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/17101765121XEcz.webp",
       "serial_number": 25,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "March 25, 2024",
-      "variants": [
-        {
-          "name": "3GB+64GB",
-          "price": "৳.12,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9c-3gb-64gb"
-        },
-        {
-          "name": "2GB+32GB",
-          "price": "৳.10,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-9c"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 9C (3GB+64GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "12 August 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "MIUI",
-          "Chipset": "MediaTek Helio G35",
-          "CPU": "Octa core, 2.3 GHz, Cortex A53",
-          "CPU Cores": "8 core",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.53 inches (16.59 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "82.5 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
-          "Brightness": "400 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "13 MP f/1.8, Primary Camera, 2 MP f/2.4, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, wide Primary Camera",
-            "Camera Features": "Wide",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "164.4 mm",
-          "Width": "75.9 mm",
-          "Thickness": "9.1 mm",
-          "Weight": "196 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Midnight Gray, Sunrise Orange, Twilight Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0, OTG"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/17101765121XEcz.webp",
         "https://www.mobiledokan.com/media/17101765121XEcz.webp",
@@ -3972,147 +3041,12 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-blue-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.22,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.24,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s-6gb-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 9S",
-          "Device Type": "Smartphone",
-          "Release Date": "30 April 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 720G",
-          "CPU": "Octa core (2.3 GHz, Dual core, Kryo 465 + 1.8 GHz, Hexa Core, Kryo 465)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "8 nm",
-          "GPU": "Adreno 618"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "84.62 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "450 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "S5KGM2, CMOS image sensor, ISOCELL Plus",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, wide Primary Camera",
-            "Camera Features": "Wide",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          }
-        },
-        "Design": {
-          "Height": "165.7 mm",
-          "Width": "76.6 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "209 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Aurora Blue, Glacier White, Interstellar Black",
-          "Waterproof": "Splash proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5020 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0, OTG"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-blue-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-blue-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-front-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-interstellar-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-interstellar-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-interstellar-gray-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-white-color-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-9s-blue-image_1.webp"
-      ]
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_9s_6gb128gb",
@@ -4121,7 +3055,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s-6gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/1710219464X0G2j.webp",
       "serial_number": 28,
-      "last_updated": "2025-12-23 06:34:54",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
       "variants": [
@@ -4136,120 +3070,7 @@
           "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-9s"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi Note 9S (6GB+128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "30 April 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "MIUI",
-          "Chipset": "Qualcomm Snapdragon 720G",
-          "CPU": "Octa core (2.3 GHz, Dual core, Kryo 465 + 1.8 GHz, Hexa Core, Kryo 465)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "8 nm",
-          "GPU": "Adreno 618"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "84.62 %",
-          "Screen Protection": "Corning Gorilla Glass v5",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch450 nits",
-          "Brightness": "HDR10",
-          "HDR 10 / HDR + support": "Punch-hole",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "48 MP f/1.79, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "S5KGM2, CMOS image sensor, ISOCELL Plus",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "960 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, wide Primary Camera",
-            "Camera Features": "Wide",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          }
-        },
-        "Design": {
-          "Height": "165.7 mm",
-          "Width": "76.6 mm",
-          "Thickness": "8.8 mm",
-          "Weight": "209 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Aurora Blue, Glacier White, Interstellar Black",
-          "Waterproof": "Splash proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5020 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0, OTG"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Yes, Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, Ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710219464X0G2j.webp",
         "https://www.mobiledokan.com/media/1710219464X0G2j.webp",
@@ -4432,336 +3253,30 @@
     {
       "id": "xiaomi_redmi_12_128gb",
       "name": "Xiaomi Redmi 12 (128GB)",
-      "price": "17499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-128gb",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "May 27, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.17,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-128gb"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.16,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.16,000",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-8gb-128gb"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.17,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-8gb-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 12 (128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "15 June 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "MIUI",
-          "Chipset": "MediaTek Helio G88",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.79 inches (17.25 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "396 ppi",
-          "Screen to Body Ratio": "85.35 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "550 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Film Camera",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "168.6 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "198.5 grams",
-          "Build": "Back: Mineral Glass",
-          "Colors": "Moonstone Silver, Pastel Blue, Jade lack",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP53",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "Standby": "Up to 648 Hours(2G)",
-          "Talk Time": "Up to 34 Hours(4G)",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "SAR Value": "Head: 0.846 W/kg, Body: 0.747 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/1713722855kfOmb.webp",
-        "https://www.mobiledokan.com/media/1713722906GP7oU.webp",
-        "https://www.mobiledokan.com/media/1713722951wHT7z.webp",
-        "https://www.mobiledokan.com/media/1713722996HBTCw.webp",
-        "https://www.mobiledokan.com/media/1713723055ndhnJ.webp",
-        "https://www.mobiledokan.com/media/1713723098mJN9v.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/1710225522Nj2F4.webp",
-        "https://www.mobiledokan.com/media/1710226124qurEu.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_12_8gb128gb",
       "name": "Xiaomi Redmi 12 (8GB+128GB)",
-      "price": "16000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
-      "updated_on": "May 27, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.16,000",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-8gb-128gb"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.17,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-128gb"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.16,499",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.17,999",
-          "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-12-8gb-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Xiaomi",
-          "Model": "Redmi 12 (8GB+128GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "15 June 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "MIUI",
-          "Chipset": "MediaTek Helio G88",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.79 inches (17.25 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "396 ppi",
-          "Screen to Body Ratio": "85.35 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "550 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Film Camera",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "168.6 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "198.5 grams",
-          "Build": "Back: Mineral Glass",
-          "Colors": "Moonstone Silver, Pastel Blue, Jade lack",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP53",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Fast, 18W",
-          "Placement": "Non-removable",
-          "Standby": "Up to 648 Hours(2G)",
-          "Talk Time": "Up to 34 Hours(4G)",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "SAR Value": "Head: 0.846 W/kg, Body: 0.747 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/1713722855kfOmb.webp",
-        "https://www.mobiledokan.com/media/1713722906GP7oU.webp",
-        "https://www.mobiledokan.com/media/1713722951wHT7z.webp",
-        "https://www.mobiledokan.com/media/1713722996HBTCw.webp",
-        "https://www.mobiledokan.com/media/1713723055ndhnJ.webp",
-        "https://www.mobiledokan.com/media/1713723098mJN9v.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/17102258924THlD.webp",
-        "https://www.mobiledokan.com/media/1710225522Nj2F4.webp",
-        "https://www.mobiledokan.com/media/1710226124qurEu.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "xiaomi_redmi_note_11",
@@ -4770,7 +3285,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-11",
       "image_url": "https://www.mobiledokan.com/media/1710229525sy0Cy.webp",
       "serial_number": 32,
-      "last_updated": "2025-11-26 06:32:19",
+      "last_updated": "2026-01-02 06:36:34",
       "first_scraped": null,
       "updated_on": "December 9, 2024",
       "variants": [
@@ -4829,6 +3344,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080, 1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
@@ -4842,13 +3364,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Movie Frame",
             "Video Recording": "1920x1080, 1280x720",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -4911,21 +3426,7 @@
           "Features": "Accelerometer, gyro, compass  Virtual proximity sensing"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710229525sy0Cy.webp",
-        "https://www.mobiledokan.com/media/1710229525sy0Cy.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-back-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/xiaomi-redmi-note-11-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710233336UdPge.webp",
-        "https://www.mobiledokan.com/media/1710233336UdPge.webp",
-        "https://www.mobiledokan.com/media/1710233336UdPge.webp",
-        "https://www.mobiledokan.com/media/1710229525sy0Cy.webp",
-        "https://www.mobiledokan.com/media/1710233707t8CAp.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "xiaomi_17",

@@ -4,134 +4,25 @@
     "name": "zte",
     "url": "https://www.mobiledokan.com/mobile-brand/zte",
     "image_url": null,
-    "last_updated": "2026-01-01 06:38:09",
+    "last_updated": "2026-01-02 06:46:32",
     "total_phones": 71,
     "first_scraped": "2025-09-11 09:19:19",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 28
   },
   "phones": [
     {
       "id": "zte_blade_a54",
       "name": "ZTE Blade A54",
-      "price": "9599",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a54",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a54-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 14, 2025",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.9,599",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-a54"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade A54",
-          "Device Type": "Smartphone",
-          "Release Date": "15 November 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc SC9863A",
-          "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "IMG8322"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (104.6 cm)",
-          "Resolution": "720x1612px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "84.2 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, Wide Angle, Primary, 0.08 MP, Auxiliary lens Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "2 MP, Primary Camera",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164 mm",
-          "Width": "75.8 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "185 grams",
-          "Colors": "Gray, Blue, Lilac"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion )",
-          "Capacity": "5000 mAh",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/zte-blade-a54-blue-official-image.webp",
         "https://www.mobiledokan.com/media/zte-blade-a54-blue-official-image.webp",
@@ -153,7 +44,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z60-ultra",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [
@@ -285,16 +176,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-front.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-back-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-black-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-silver-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_9_pro",
@@ -303,7 +185,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-9-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
@@ -425,19 +307,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-back-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-transparent-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_z50s_pro",
@@ -446,7 +316,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z50s-pro",
       "image_url": "https://www.mobiledokan.com/media/1713456284yQiYw.webp",
       "serial_number": 4,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "March 25, 2025",
       "variants": [
@@ -567,155 +437,21 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1713456284yQiYw.webp",
-        "https://www.mobiledokan.com/media/1713456284yQiYw.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-black-color-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-black-color-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-black-color-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z50s-pro-silver-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_z50_ultra",
       "name": "ZTE Nubia Z50 Ultra",
-      "price": "110000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z50-ultra",
       "image_url": "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-23 06:39:26",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 24, 2024",
-      "variants": [
-        {
-          "name": "12GB+512GB",
-          "price": "৳.224,999",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Z50 Ultra",
-          "Device Type": "Smartphone",
-          "Release Date": "14 March 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Qualcomm Snapdragon 8 Gen 2",
-          "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 740"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1116x2480 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "400 ppi",
-          "Screen to Body Ratio": "86.12 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "With punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1500 nits",
-          "HDR 10 / HDR + support": "Yes, HDR 10+",
-          "Refresh Rate": "120Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP f/1.6, Primary Camera, 50 MP f/2.2, Ultra-Wide Angle Camera, 64 MP f/3.3, Periscope Camera",
-            "Sensor": "IMX787, Exmor-RS CMOS Sensor",
-            "Autofocus": "Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "Ring LED",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "7680x4320 ,3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "169.9 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "228 grams",
-          "Colors": "Black, Silver, Starry Sky"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "80W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 4.0",
-          "Expandable Memory": "No",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (CA), 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60fps, gyro-EIS, HDR10, 10‑bit video"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
-        "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
-        "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
-        "https://www.mobiledokan.com/media/1713689774z4M1Y.webp",
-        "https://www.mobiledokan.com/media/1713689774z4M1Y.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_8_pro_plus",
@@ -858,135 +594,16 @@
     {
       "id": "zte_nubia_red_magic_6s_pro",
       "name": "ZTE Nubia Red Magic 6S Pro",
-      "price": "69000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-6s-pro",
       "image_url": "https://www.mobiledokan.com/media/1713940549jhvhD.webp",
       "serial_number": 7,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "July 5, 2024",
-      "variants": [
-        {
-          "name": "16GB+256GB",
-          "price": "৳.69,000",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-6s-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Red Magic 6S Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "27 September 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "Qualcomm Snapdragon 888 Plus",
-          "CPU": "Octa core (3 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "5 nm",
-          "GPU": "Adreno 660"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "387 ppi",
-          "Screen to Body Ratio": "85.27 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "700 nits",
-          "Refresh Rate": "165 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.0, Ultra-Wide Angle Camera, 2 MP, Macro Camera",
-            "Sensor": "UltraPixel BSI image sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "169.8 mm",
-          "Width": "77.1 mm",
-          "Thickness": "9.5 mm",
-          "Weight": "215 grams",
-          "Build": "Back: Mineral Glass",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5050 mAh",
-          "Quick Charging": "Fast, 120W: 100 % in 17 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "16 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 b/g/n/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, heart rate"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1713940549jhvhD.webp",
-        "https://www.mobiledokan.com/media/1713940549jhvhD.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_z50",
@@ -1130,7 +747,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-axon-40-ultra",
       "image_url": "https://www.mobiledokan.com/media/1714074077TIK9r.webp",
       "serial_number": 9,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "April 14, 2025",
       "variants": [
@@ -1253,802 +870,91 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1714074077TIK9r.webp",
-        "https://www.mobiledokan.com/media/1714074077TIK9r.webp",
-        "https://www.mobiledokan.com/media/1714074077TIK9r.webp",
-        "https://www.mobiledokan.com/media/1714074077TIK9r.webp",
-        "https://www.mobiledokan.com/media/1714074077TIK9r.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_7s_pro",
       "name": "ZTE nubia Red Magic 7S Pro",
-      "price": "99500",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-7s-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "July 29, 2024",
-      "variants": [
-        {
-          "name": "18GB+512GB",
-          "price": "৳.99,500",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-7s-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "nubia Red Magic 7S Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "15 July 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
-          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 730"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "387 ppi",
-          "Screen to Body Ratio": "87.12 %",
-          "Screen Protection": "Corning Gorilla Glass 5",
-          "Bezel-less Display": "Yes",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "600 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Yes",
-          "Features": "Multi-touch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "166.2 mm",
-          "Width": "77.1 mm",
-          "Thickness": "9.9 mm",
-          "Weight": "235 grams",
-          "Colors": "Black, Grey, Silver, Yellow"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000mAh",
-          "Quick Charging": "Fast, 135W: 100 % in 15 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.0"
-        },
-        "Memory": {
-          "Internal Storage": "512 GB",
-          "Storage Type": "UFS 3.1",
-          "Expandable Memory": "No",
-          "USB OTG": "Yes",
-          "RAM": "18 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes, with stereo speakers",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-7s-pro-yellow-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_v50_design_4g",
       "name": "ZTE Blade V50 Design 4G",
-      "price": "14499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v50-design-4g",
       "image_url": "https://www.mobiledokan.com/media/1714394099qInng.webp",
       "serial_number": 11,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 14, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.14,499",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-v50-design-4g"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade V50 Design 4G",
-          "Device Type": "Smartphone",
-          "Release Date": "01 October 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "400 ppi",
-          "Screen to Body Ratio": "83.6 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, (wide), PDAF, 2 MP, f/2.4, (macro), 2 MP, f/2.4, (depth)",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "HDR, Panorama",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, (wide)",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "165 mm",
-          "Width": "76.1 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "207 grams",
-          "Build": "Glass front, plastic frame, glass back",
-          "Colors": "Beach Green, Sunrise Violet, Diamont Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "22.5W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1714394099qInng.webp",
-        "https://www.mobiledokan.com/media/1714394099qInng.webp",
-        "https://www.mobiledokan.com/media/1714394099qInng.webp",
-        "https://www.mobiledokan.com/media/1714394099qInng.webp",
-        "https://www.mobiledokan.com/media/1714394099qInng.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_a73",
       "name": "ZTE Blade A73",
-      "price": "11999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a73",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "July 29, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.11,999",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-a73"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade A73",
-          "Device Type": "Smartphone",
-          "Release Date": "September 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T760",
-          "CPU": "Octa core (2 GHz, Quad core, Cortex A76 + 2 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC4"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.52 inches (16.56 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "82.84 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/2.4, Primary Camera, 2 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.4, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "164.1 mm",
-          "Width": "75.5 mm",
-          "Thickness": "9.2 mm",
-          "Weight": "182 grams",
-          "Colors": "Gray, Blue, Green"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "22.5W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a73-gray-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_a72s",
       "name": "ZTE Blade A72s",
-      "price": "11999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a72s",
       "image_url": "https://www.mobiledokan.com/media/1714408276Y1u41.webp",
       "serial_number": 13,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "May 1, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.11,999",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-a72s"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade A72s",
-          "Device Type": "Smartphone",
-          "Release Date": "01 July 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa core (1.6 GHz, Dual core, Cortex A75 + 1.6 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.75 inches (17.15 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "260 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, Primary Camera, 2 MP, Macro Camera, 2 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "168 mm",
-          "Width": "77.5 mm",
-          "Thickness": "8.6 mm",
-          "Weight": "198 grams",
-          "Colors": "Space Gray, Sky Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Fast, 22.5W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1714408276Y1u41.webp",
-        "https://www.mobiledokan.com/media/1714408276Y1u41.webp",
-        "https://www.mobiledokan.com/media/1714408276Y1u41.webp",
-        "https://www.mobiledokan.com/media/1714408276Y1u41.webp",
-        "https://www.mobiledokan.com/media/1714408276Y1u41.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_neo",
       "name": "ZTE Nubia Neo",
-      "price": "21499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-neo",
       "image_url": "https://www.mobiledokan.com/media/1714414107kfzu2.webp",
       "serial_number": 14,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 14, 2025",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Neo",
-          "Device Type": "Smartphone",
-          "Release Date": "29 July 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T820",
-          "CPU": "Octa core (2.7 GHz, Single core, Cortex A76 + 2.3 GHz, Tri core, Cortex A76 + 2.1 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MP4"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "1080x2408 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "400 ppi",
-          "Screen to Body Ratio": "85.66 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.7 mm",
-          "Width": "75 mm",
-          "Thickness": "8 mm",
-          "Weight": "192 grams",
-          "Colors": "Black, Yellow"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4500 mAh",
-          "Quick Charging": "Fast, 22.5W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A (CA), 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1714414107kfzu2.webp",
-        "https://www.mobiledokan.com/media/1714414107kfzu2.webp",
-        "https://www.mobiledokan.com/media/1714414107kfzu2.webp",
-        "https://www.mobiledokan.com/media/1714414107kfzu2.webp",
-        "https://www.mobiledokan.com/media/1714414107kfzu2.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_v40_design",
       "name": "ZTE Blade V40 Design",
-      "price": "13199",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v40-design",
       "image_url": "https://www.mobiledokan.com/media/ZTE Blade V40 Design Official Image..jpg.webp",
       "serial_number": 15,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 14, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.13,199",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-v40-design"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade V40 Design",
-          "Device Type": "Smartphone",
-          "Release Date": "10 January 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "MyOS",
-          "Chipset": "Unisoc Tiger T616",
-          "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "1080x2408 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "400 ppi",
-          "Screen to Body Ratio": "87.0 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with V-Type Notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Type-V"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163 mm",
-          "Width": "74 mm",
-          "Thickness": "8 mm",
-          "Weight": "183.4 grams",
-          "Colors": "Sky Blue, Starry Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4500 mAh",
-          "Quick Charging": "22.5W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/ZTE Blade V40 Design Official Image..jpg.webp",
-        "https://www.mobiledokan.com/media/ZTE Blade V40 Design Official Image..jpg.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_8s_pro",
@@ -2057,7 +963,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-8s-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "April 13, 2025",
       "variants": [
@@ -2184,416 +1090,49 @@
           "Features": "Pressure sensitive zones (520Hz touch-sensing)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-platinum-aurora-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-platinum-aurora-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-platinum-aurora-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-8s-pro-midnight-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_3",
       "name": "ZTE Nubia Red Magic 3",
-      "price": "40000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-3",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
       "serial_number": 17,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 15, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.40,000",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-3"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Red Magic 3",
-          "Device Type": "Smartphone",
-          "Release Date": "01 May 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "User Interface": "Redmagic 3.0",
-          "Chipset": "Qualcomm Snapdragon 855",
-          "CPU": "Octa core (2.84 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.8 GHz, Quad core, Kryo 485)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "7 nm",
-          "GPU": "Adreno 640"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.65 inches (16.89 cm)",
-          "Resolution": "1080x2340 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "388 ppi",
-          "Screen to Body Ratio": "80.37 %",
-          "Screen Protection": "Corning Gorilla Glass v4",
-          "Bezel-less Display": "Yes",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "90 Hz"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "48 MP, f/1.79, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
-            "Video Recording": "7680x4320",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "171.7 mm",
-          "Width": "78.5 mm",
-          "Thickness": "9.6 mm",
-          "Weight": "215 grams",
-          "Build": "Back: Aluminium",
-          "Colors": "Black, Flame Red"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Quick, 18W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 3.0",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/150 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac), MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "4320@30fps, 2160p@60fps, 1920fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-front-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-left-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-right-side-view.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-flame-red.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-3-black-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_voyage_3d",
       "name": "ZTE Voyage 3D",
-      "price": "27490",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-voyage-3d",
       "image_url": "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "October 10, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Voyage 3D",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 27 June 2024",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "MyOS",
-          "Chipset": "Unisoc T760",
-          "CPU": "Octa-core (1x2.2 GHz Cortex-A76 & 3x Cortex-A76 & 4x Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.58 inches (104.3 cm)",
-          "Resolution": "1080x2408 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "85.1%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, Wide Angle, Primary Camera, 5 MP",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "163.5 mm",
-          "Width": "75 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "190 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4500 mAh",
-          "Quick Charging": "33W wired, PD3.0",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "USB OTG": "Yes",
-          "RAM": "6 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-Mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-voyage-3d-black-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_v40",
       "name": "ZTE Blade V40",
-      "price": "10599",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-v40",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "July 12, 2024",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.10,599",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-v40"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Blade V40",
-          "Device Type": "Smartphone",
-          "Release Date": "11 January 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "MediaTek Dimensity 700 MT6833",
-          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "92.1 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Macro Camera, 2 MP f/2.4, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Colors": "Black, Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "Fast, 22.5W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (CA), 5G",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Black, Blue"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-front-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-side-view.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-v40-blue-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_9s_pro",
@@ -2602,7 +1141,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-9s-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "October 6, 2024",
       "variants": [],
@@ -2717,16 +1256,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9s-pro-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_9s_pro_plus",
@@ -2863,7 +1393,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z60-ultra-2024",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
       "variants": [],
@@ -2985,19 +1515,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60-ultra-2024-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_z60_ultra_leading",
@@ -3140,7 +1658,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z60s-pro",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-aqua-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -3189,6 +1707,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Standard Camera, 8 MP, f/2.4, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera",
@@ -3203,13 +1728,6 @@
             "Camera Features": "Auto Flash, Touch to focus",
             "Video Recording": "7680x4320, 3840x2160",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
@@ -3267,20 +1785,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, Dual satellite BDS support (Emergency SOS service)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-aqua-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-aqua-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-charging-poot-side-",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-aqua-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z60s-pro-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_v18",
@@ -3289,7 +1794,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-v18",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
@@ -3402,171 +1907,33 @@
           "Features": "Accelerometer, Compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-front-side.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-back-side.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-redcolor-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-silver-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-v18-black-color-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_z18_mini",
       "name": "ZTE Nubia Z18 mini",
-      "price": "26990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-z18-mini",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "August 14, 2024",
-      "variants": [
-        {
-          "name": "6GB+64GB",
-          "price": "৳.26,990",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-z18-mini"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "Nubia Z18 mini",
-          "Device Type": "Smartphone",
-          "Release Date": "01 April 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.1 (Oreo)",
-          "User Interface": "Nubia UI",
-          "Chipset": "Qualcomm Snapdragon 660 MSM8956",
-          "CPU": "Octa core (2.2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "Adreno 512"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.7 inches (14.48 cm)",
-          "Resolution": "1080x2160 px (FHD+)",
-          "Aspect Ratio": "18:9",
-          "Pixel Density": "424 ppi",
-          "Screen to Body Ratio": "80.24 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "24 MP f/1.7, Primary Camera, 5 MP",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "5288 x 3968 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "148 mm",
-          "Width": "70.6 mm",
-          "Thickness": "7.6 mm",
-          "Weight": "153 grams",
-          "Colors": "Black, Blue, Pink, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3450 mAh",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "USB OTG": "Yes",
-          "RAM": "6 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Proximity sensor, Accelerometer, Compass, Gyroscop",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration; MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscop"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-front-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-back-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-left-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-rihgt-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-black-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-z18-mini-purple-color-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_blade_l8",
       "name": "ZTE Blade L8",
-      "price": "5990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-blade-l8",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-12-02 06:36:55",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "April 15, 2025",
-      "variants": [
-        {
-          "name": "1GB+16GB",
-          "price": "৳.5,990",
-          "url": "https://www.mobiledokan.com/mobile/zte-blade-l8"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "ZTE",
@@ -3664,18 +2031,7 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-front-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-back-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-left-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-right-side-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-blue-color-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-l8-black-color-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_blade_a3_2019",
@@ -3684,7 +2040,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a3-2019",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "August 14, 2024",
       "variants": [
@@ -3793,158 +2149,21 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-front-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-side-view.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a3-2019-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_flip",
       "name": "ZTE nubia Flip",
-      "price": "61999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-flip",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-11-19 06:34:58",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
-      "updated_on": "September 21, 2024",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.61,999",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-flip"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.66,999",
-          "url": "https://www.mobiledokan.com/mobile/zte-nubia-flip-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "ZTE",
-          "Model": "nubia Flip",
-          "Device Type": "Smartphone",
-          "Release Date": "23 April 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Qualcomm SM7450-AB Snapdragon 7 Gen 1",
-          "CPU": "Octa-core (1x2.4 GHz Cortex-A710 & 3x2.36 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 644"
-        },
-        "Display": {
-          "Display Type": "Foldable OLED",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "1188x2790 px",
-          "Aspect Ratio": "21:9",
-          "Pixel Density": "439 ppi",
-          "Screen to Body Ratio": "86.3 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, Wide Angle, Primary Camera, 2 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "87.6 mm",
-          "Width": "75.5 mm",
-          "Thickness": "15 mm",
-          "Weight": "214 grams",
-          "Build": "Aluminum alloy frame, glass back",
-          "Colors": "Sunshine Gold, Cosmic Black, Flowering Lilac"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4310 mAh",
-          "Quick Charging": "33W wired, PD3.0, QC4+, 50% in 18 min (advertised)",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz",
-          "Bluetooth": "v5.1",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K, 1080p"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-cosmic-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-flowering-lilac-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_flip_256gb",
@@ -3953,7 +2172,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-flip-256gb",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "September 21, 2024",
       "variants": [
@@ -4071,20 +2290,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-sunshine-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-cosmic-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-flip-flowering-lilac-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_blade_a35",
@@ -4093,7 +2299,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-blade-a35",
       "image_url": "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "September 22, 2024",
       "variants": [],
@@ -4194,14 +2400,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a35-starry-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-blade-a35-clover-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_red_magic_9_pro_plus",
@@ -4210,7 +2409,7 @@
       "url": "https://www.mobiledokan.com/mobile/zte-nubia-red-magic-9-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-10-19 06:32:28",
+      "last_updated": "2026-01-02 06:46:32",
       "first_scraped": null,
       "updated_on": "April 13, 2025",
       "variants": [],
@@ -4325,19 +2524,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-power-button-side-image.",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-sleet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-snowfall-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/zte-nubia-red-magic-9-pro-plus-cyclone-transparent-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "zte_nubia_a36",

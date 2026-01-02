@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2026-01-01 06:33:49",
+    "last_updated": "2026-01-02 06:36:59",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 27
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "July 23, 2025",
       "variants": [
@@ -155,20 +155,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/1709623843mj6Cg.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/1709623843mj6Cg.webp",
-        "https://www.mobiledokan.com/media/1709623843mj6Cg.webp",
-        "https://www.mobiledokan.com/media/1709623843mj6Cg.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-black-titanium.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-white-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-max-blue-titanium-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_15_pro_max_512gb",
@@ -333,162 +320,16 @@
     {
       "id": "apple_iphone_14_plus",
       "name": "Apple iPhone 14 Plus",
-      "price": "112000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.112,000",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus"
-        },
-        {
-          "name": "6GB+256GB",
-          "price": "৳.122,000",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 14 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "07 October 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v16",
-          "Chipset": "Apple A15 Bionic",
-          "CPU": "Hexa Core (3.23 GHz, Dual core, Avalanche + 1.82 GHz, Quad core, Blizzard)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "5 nm",
-          "GPU": "Apple GPU (5-core graphics)"
-        },
-        "Display": {
-          "Display Type": "Super Retina XDR OLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1284x2778 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "457 ppi",
-          "Screen to Body Ratio": "87.55 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1200 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes",
-          "Features": "Dolby Vision"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "12 MP f/1.5, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
-            "Sensor": "Sensor-shift Image Stabilization",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "5x optical zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode",
-            "Aperture": "f/1.5",
-            "Camera Features": "5 x Digital Zoom, 2 x Optical Zoom, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Action Mode, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@30fps)",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          }
-        },
-        "Design": {
-          "Height": "160.8 mm",
-          "Width": "78.1 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "203 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Blue, Purple, Yellow, Midnight, Starlight, Product Red",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 6 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "4323 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "NVMe",
-          "Expandable Memory": "No",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "Lightning",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), Cinematic mode (4K@30fps), stereo sound rec.",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-front-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-back-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-yellow-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-red-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-purple-official-mage.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-midnight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-plus-blue-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_13",
@@ -497,7 +338,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [
@@ -627,21 +468,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pink-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-red-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-starlight-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iph"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_14_pro",
@@ -650,7 +477,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro",
       "image_url": "https://www.mobiledokan.com/media/171074490670V5y.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [
@@ -784,19 +611,7 @@
           "Features": "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/171074490670V5y.webp",
-        "https://www.mobiledokan.com/media/171074490670V5y.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-front-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-back-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-deep-purple-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-silver-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-black-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_13_pro_max",
@@ -805,7 +620,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
@@ -937,19 +752,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_13_pro",
@@ -958,7 +761,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-silver-color-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-11-26 06:32:06",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
@@ -1087,21 +890,7 @@
           "Features": "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-silver-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-silver-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-front-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-back-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-side-view_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-gold-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-silver-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-blue-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_11_pro_max",
@@ -1110,7 +899,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "February 2, 2025",
       "variants": [
@@ -1248,19 +1037,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-space-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-max-midnight-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_11_pro",
@@ -1269,7 +1046,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro",
       "image_url": "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "March 17, 2025",
       "variants": [
@@ -1405,18 +1182,7 @@
           "Features": "Applications:\tiTunes Store, FaceTime, Find My iPhone, Find My Friends"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
-        "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-silver-color-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-space-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-midnight-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_x",
@@ -1425,7 +1191,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-x",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
@@ -1553,17 +1319,7 @@
           "Features": "Applications: FaceTime, iTunes Store, iBooks, Podcasts, Find My iPhone, Find My Friends."
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-x-space-grey-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_xs_max",
@@ -1572,7 +1328,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xs-max",
       "image_url": "https://www.mobiledokan.com/media/1710773486q7ljJ.webp",
       "serial_number": 11,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
@@ -1704,19 +1460,7 @@
           "Features": "Applications:\tiTunes Store, FaceTime, Find My iPhone, Find My Friends"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710773486q7ljJ.webp",
-        "https://www.mobiledokan.com/media/1710773486q7ljJ.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-display-full-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-volte-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-space-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-space-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-space-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xs-max-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/1710773486q7ljJ.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_xs",
@@ -1872,7 +1616,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-price",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
       "serial_number": 13,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "February 4, 2025",
       "variants": [
@@ -2009,19 +1753,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-front-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-gray-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-gold-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_xr",
@@ -2030,7 +1762,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-xr",
       "image_url": "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
@@ -2167,21 +1899,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
-        "https://www.mobiledokan.com/media/17107793941C6xQ.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-red-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-white-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-xr-yellow-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphon"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_se_2020",
@@ -2190,7 +1908,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-se-2020",
       "image_url": "https://www.mobiledokan.com/media/1710833332s9TdL.webp",
       "serial_number": 15,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -2317,18 +2035,7 @@
           "Features": "Applications:\tiTunes Store, FaceTime, Find My iPhone, Find My Friends"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710833332s9TdL.webp",
-        "https://www.mobiledokan.com/media/1710833332s9TdL.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-front-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-red-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-red-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-red-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-white-color-picture.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-se-2020-black-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_12_pro_max",
@@ -2337,7 +2044,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "March 8, 2025",
       "variants": [
@@ -2352,134 +2059,8 @@
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro-max-256gb"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 12 Pro Max",
-          "Device Type": "Smartphone",
-          "Release Date": "13 November 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v14",
-          "Chipset": "Apple A14 Bionic",
-          "CPU": "Hexa Core (3.1 GHz, Dual core, Firestorm + 1.8 GHz, Quad core, Icestorm)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "5 nm",
-          "GPU": "Apple GPU (4-core graphics)"
-        },
-        "Display": {
-          "Display Type": "Super Retina XDR OLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1284x2778 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "457 ppi",
-          "Screen to Body Ratio": "87.55 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "800 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "60 Hz",
-          "Features": "Dolby Vision"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "12 MP f/1.6, Wide Angle, Primary Camera, 12 MP f/2.2, Telephoto Camera, 12 MP f/2.4, Ultra-Wide Angle Camera",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "2.5x optical zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "24 fps, 30 fps",
-            "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "24 fps, 30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "160.8 mm",
-          "Width": "78.1 mm",
-          "Thickness": "7.4 mm",
-          "Weight": "226 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Gold, Silver, Graphite, Pacific Blue",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 6 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3687 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 6 (802.11 b/g/n/ax), MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "Lightning",
-          "Audio Features": "Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, 10‑bit HDR, Dolby Vision HDR (up to 60fps), stereo sound rec.",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Ultra Wideband (UWB) support"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-full-display-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-pacific-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-max-silver-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_12_pro",
@@ -2488,7 +2069,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [],
@@ -2607,18 +2188,7 @@
           "Features": "Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/appleiphone12-pro-back-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-pro-pacific-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_12",
@@ -2627,7 +2197,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "January 5, 2025",
       "variants": [
@@ -2757,20 +2327,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-red-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-white-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iph",
-        "https://www.mobiledokan.com/media/apple-iphone-12-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_12_mini",
@@ -2779,7 +2336,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-12-mini",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-12-mini-blue-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "February 3, 2025",
       "variants": [],
@@ -2817,6 +2374,14 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
+            "Flash": "Retina Flash",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "12 MP, f/1.6, Wide Angle, Primary Camera, 12 MP, f/2.4, Ultra-Wide Angle Camera",
@@ -2831,14 +2396,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080, 1280x720",
             "Video FPS": "24 fps, 30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2898,20 +2455,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-green-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-purple-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-red-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-12-mini-white-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_11",
@@ -2920,7 +2464,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
       "serial_number": 20,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "February 14, 2025",
       "variants": [
@@ -3055,21 +2599,7 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-full-display-size-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-ipho",
-        "https://www.mobiledokan.com/media/apple-ipho",
-        "https://www.mobiledokan.com/media/apple-ipho",
-        "https://www.mobiledokan.com/media/apple-iphone-11-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-purple-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-red-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-white-official-im"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_14_pro_max",
@@ -3078,7 +2608,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [
@@ -3221,20 +2751,7 @@
           "Features": "Ultra Wideband (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-back-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-space-black-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-deep-purple-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_15_plus",
@@ -3399,13 +2916,13 @@
     {
       "id": "apple_iphone_15_pro",
       "name": "Apple iPhone 15 Pro",
-      "price": "120000",
+      "price": "184999",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "November 19, 2025",
+      "updated_on": null,
       "variants": [
         {
           "name": "8GB+128GB",
@@ -3548,18 +3065,7 @@
           "Features": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-blue-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-black-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-white-titanium-official-image-1-1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_15",
@@ -3568,7 +3074,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
       "serial_number": 24,
-      "last_updated": "2025-11-26 06:32:06",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 1, 2025",
       "variants": [
@@ -3702,20 +3208,7 @@
           "Features": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-full-display-size-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-full-back-camera-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-blue-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pink-official-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-yellow-official-image_1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_14_plus_256gb",
@@ -3880,167 +3373,16 @@
     {
       "id": "apple_iphone_15_pro_256gb",
       "name": "Apple iPhone 15 Pro (256GB)",
-      "price": "127000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2025-11-26 06:32:06",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "November 19, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.204,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-256gb"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.184,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro"
-        },
-        {
-          "name": "8GB+512GB",
-          "price": "৳.244,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-512gb"
-        },
-        {
-          "name": "8GB+1TB",
-          "price": "৳.284,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-1tb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 15 Pro (256GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "22 September 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v17",
-          "Chipset": "Apple A17 Pro",
-          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "3 nm",
-          "GPU": "Apple GPU (6-core graphics)"
-        },
-        "Display": {
-          "Display Type": "LTPO Super Retina XDR OLED",
-          "Screen Size": "6.1 inches (15.49 cm)",
-          "Resolution": "1179x2556 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "461 ppi",
-          "Screen to Body Ratio": "88.06 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Dolby Vision"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.78, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.8, Telephoto Camera",
-            "Sensor": "Sensor-shift Image Stabilization",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "3x optical zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.78",
-            "Camera Features": "Digital Zoom, Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@24/30fps)",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          }
-        },
-        "Design": {
-          "Height": "146.6 mm",
-          "Width": "70.6 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "187 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 6 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3274 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2 Gen 2"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-blue-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-black-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-white-titanium-official-image-1-1.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_15_pro_512gb",
@@ -4049,7 +3391,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "November 19, 2025",
       "variants": [
@@ -4194,341 +3536,35 @@
           "Features": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-blue-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-black-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-white-titanium-official-image-1-1.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_15_pro_1tb",
       "name": "Apple iPhone 15 Pro (1TB)",
-      "price": "155000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-1tb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2025-11-26 06:32:06",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "November 19, 2025",
-      "variants": [
-        {
-          "name": "8GB+1 TB",
-          "price": "৳.284,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-1tb"
-        },
-        {
-          "name": "8GB+512GB",
-          "price": "৳.244,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-512gb"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.204,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro-256gb"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.184,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-15-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 15 Pro (1TB)",
-          "Device Type": "Smartphone",
-          "Release Date": "22 September 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v17",
-          "Chipset": "Apple A17 Pro",
-          "CPU": "Hexa Core (3.78 GHz, Dual core + 2.11 GHz, Quad core)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "3 nm",
-          "GPU": "Apple GPU (6-core graphics)"
-        },
-        "Display": {
-          "Display Type": "LTPO Super Retina XDR OLED",
-          "Screen Size": "6.1 inches (15.49 cm)",
-          "Resolution": "1179x2556 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "461 ppi",
-          "Screen to Body Ratio": "88.06 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "2000 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Dolby Vision"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP f/1.78, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.8, Telephoto Camera",
-            "Sensor": "Sensor-shift Image Stabilization",
-            "Autofocus": "Phase Detection autofocus, Dual Pixel autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "3x optical zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode, Macro Mode",
-            "Aperture": "f/1.78",
-            "Camera Features": "Digital Zoom, Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Image Stabilization": "Yes"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@24/30fps)",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/1.9"
-          }
-        },
-        "Design": {
-          "Height": "146.6 mm",
-          "Width": "70.6 mm",
-          "Thickness": "8.2 mm",
-          "Weight": "187 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 6 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3274 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 20W: 50 % in 30 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.2 Gen 2"
-        },
-        "Memory": {
-          "Internal Storage": "1 TB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), 3D (spatial) video, stereo sound rec.",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-natural-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-blue-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-black-titanium-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-15-pro-white-titanium-official-image-1-1.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_6s_plus_64gb",
       "name": "Apple iPhone 6S Plus (64GB)",
-      "price": "65099",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-64gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
       "serial_number": 29,
-      "last_updated": "2025-11-26 06:32:06",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "February 4, 2025",
-      "variants": [
-        {
-          "name": "2GB+64GB",
-          "price": "৳.65,099",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-64gb"
-        },
-        {
-          "name": "2GB+16GB",
-          "price": "৳.61,499",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-price"
-        },
-        {
-          "name": "2GB+128GB",
-          "price": "৳.72,169",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-128gb"
-        },
-        {
-          "name": "2GB+32GB",
-          "price": "৳.44,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-6s-plus-32gb-rom"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 6S Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "25 September 2015",
-          "Status": "Not Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v9",
-          "Chipset": "Apple A9 APL1022",
-          "CPU": "Dual core, 1.84 GHz",
-          "CPU Cores": "2 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "14 nm",
-          "GPU": "PowerVR GT7600"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "401 ppi",
-          "Screen to Body Ratio": "67.51 %",
-          "Screen Protection": "Gorilla Glass",
-          "Touch Screen": "3D Touch Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Sensor": "Back-illuminated sensor (BSI)",
-            "Autofocus": "Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "Dual-color LED Flash",
-            "Image Resolution": "4608 x 2592 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "5x optical zoom",
-            "Shooting Modes": "High Dynamic Range mode, (HDR) Burst mode",
-            "Aperture": "f/2.2",
-            "Camera Features": "5 x Digital Zoom, Auto Flash, Digital image stabilization, Face detection, Simultaneous HD video and image recording, Smile detection, Touch to focus, Optical Image stabilization",
-            "Video Recording": "3840x2160,1920x1080,1280x720",
-            "Video FPS": "240 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Primary Camera",
-            "Sensor": "BSI Sensor",
-            "Camera Features": "Face detection, HDR, panorama",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "158.2 mm",
-          "Width": "77.9 mm",
-          "Thickness": "7.3 mm",
-          "Weight": "192 grams",
-          "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
-          "Colors": "Gold, Grey, Silver, Rose Gold"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "2750 mAh",
-          "Placement": "Non-removable",
-          "Standby": "Up to 384 Hours(3G)",
-          "Talk Time": "Up to 24 Hours(3G)"
-        },
-        "Memory": {
-          "Internal Storage": "64GB",
-          "Storage Type": "NVMe",
-          "User Available Storage": "Yes",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR4"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Single SIM, GSM",
-          "SIM Size": "SIM1: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps, EV-DO Rev.A 3.1 Mbps",
-          "SAR Value": "Head: 1.12 W/kg, Body: 1.14 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "USB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Front-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, Polyphonic ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "USA",
-          "Features": "Accelerometer, gyro, proximity, compass, barometer"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-front-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-button-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-rose-gold-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-silver-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-gray-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-6s-plus-gold-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_11_pro_256gb",
@@ -4689,158 +3725,16 @@
     {
       "id": "apple_iphone_11_pro_512gb",
       "name": "Apple iPhone 11 Pro (512GB)",
-      "price": "159999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
       "serial_number": 31,
-      "last_updated": "2025-12-23 06:34:48",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
-      "updated_on": "March 22, 2025",
-      "variants": [
-        {
-          "name": "6GB+512GB",
-          "price": "৳.159,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-512gb"
-        },
-        {
-          "name": "6GB+256GB",
-          "price": "৳.139,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro-256gb-"
-        },
-        {
-          "name": "6GB+64GB",
-          "price": "৳.119,999",
-          "url": "https://www.mobiledokan.com/mobile/apple-iphone-11-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Apple",
-          "Model": "iPhone 11 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "20 September 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "iOS",
-          "OS Version": "v13",
-          "Chipset": "Apple A13 Bionic",
-          "CPU": "Hexa Core (2.65 GHz, Dual core, Lightning + 1.8 GHz, Quad core, Thunder)",
-          "CPU Cores": "6 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "7 nm",
-          "GPU": "Apple GPU (4-core graphics)"
-        },
-        "Display": {
-          "Display Type": "Super Retina XDR OLED",
-          "Screen Size": "5.8 inches (14.73 cm)",
-          "Resolution": "1125x2436 px (FHD+)",
-          "Aspect Ratio": "19.5:9",
-          "Pixel Density": "463 ppi",
-          "Screen to Body Ratio": "80.14 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "3D Touch Touchscreen, Multi-touch",
-          "Brightness": "800 nits",
-          "HDR 10 / HDR + support": "HDR10",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "12 MP f/1.8, Wide Angle, Primary Camera, 12 MP f/2.4, Ultra-Wide Angle Camera, 12 MP f/2.0, Telephoto Camera",
-            "Sensor": "IMX333, Exmor-RS CMOS Sensor",
-            "Autofocus": "Phase Detection autofocus",
-            "OIS": "Yes",
-            "Flash": "Quad LED True Tone Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Burst mode",
-            "Aperture": "f/1.8",
-            "Camera Features": "10 x Digital Zoom, Auto Flash, Face detection, Touch to focus, Optical Image stabilization, Audio Zoom, Stereo recording",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP f/2.2, Primary Camera",
-            "Flash": "Retina Flash",
-            "Camera Features": "HDR",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "144 mm",
-          "Width": "71.4 mm",
-          "Thickness": "8.1 mm",
-          "Weight": "188 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Gold, Silver, Space Grey, Midnight Green",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 4 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "3046 mAh",
-          "Wireless Charging": "Yes",
-          "Quick Charging": "Fast, 18W: 50 % in 30 minutes",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "512GB",
-          "Storage Type": "NVMe",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Nano-SIM and eSIM or Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE 1.6 Gbps DL, EV-DO Rev.A 3.1 Mbps",
-          "SAR Value": "Head: 1.18 W/kg, Body: 1.16 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Gyroscope",
-          "Face Unlock": "Face ID, accelerometer, gyro, proximity, compass, barometer, Ultra Wideband (UWB) support"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "Lightning",
-          "Audio Features": "Dolby Atmos, Dolby Digital, Dolby Digital Plus",
-          "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, stereo sound rec.",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "US",
-          "Features": "Applications:\tiTunes Store, FaceTime, Find My iPhone, Find My Friends"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
-        "https://www.mobiledokan.com/media/1710758871SA7nS.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-front-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-back-side-image_1.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-silver-color-picture.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-grey-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-11-pro-green-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_13_pro_max_256gb",
@@ -4849,7 +3743,7 @@
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-13-pro-max-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2026-01-02 06:36:59",
       "first_scraped": null,
       "updated_on": "September 11, 2024",
       "variants": [
@@ -4982,19 +3876,7 @@
           "Features": "Accelerometer, Barometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-graphite-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-pro-max-sierra-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/apple-iphone-13-"
-      ]
+      "gallery_images": []
     },
     {
       "id": "apple_iphone_17",

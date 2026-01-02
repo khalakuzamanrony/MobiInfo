@@ -4,11 +4,11 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2026-01-01 06:35:27",
+    "last_updated": "2026-01-02 06:40:30",
     "total_phones": 17,
     "first_scraped": "2025-09-11 09:01:40",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 14
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-s5",
       "image_url": "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
       "serial_number": 1,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "March 28, 2024",
       "variants": [],
@@ -123,131 +123,21 @@
           "Features": "Fingerprint, Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
-        "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
-        "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
-        "https://www.mobiledokan.com/media/1711557140DzmjX.webp",
-        "https://www.mobiledokan.com/media/1711557140DzmjX.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s60",
       "name": "Helio S60",
-      "price": "19500",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/helio-s60",
       "image_url": "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
-      "updated_on": "August 26, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Helio",
-          "Model": "S60",
-          "Device Type": "Smartphone",
-          "Release Date": "August 2018",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v8.1",
-          "User Interface": "Oreo",
-          "Chipset": "MediaTek Helio P60",
-          "CPU": "2.0GHz Octa Core",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali G72 MP3"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.2 inches (15.75 cm)",
-          "Resolution": "Full HD+ 1920 x 1080 pixels",
-          "Pixel Density": "402 ppi",
-          "Screen Protection": "Corning Gorilla Glass 3",
-          "Features": "Multitouch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16+5 Megapixel",
-            "Flash": "LED Flash",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "LED flash, PDAF, HDR, f/2.0, bokeh & more",
-            "Video Recording": "Full HD (1080p)",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 Megapixel",
-            "Camera Features": "F/2.2 aperture",
-            "Video Recording": "Full HD (1080p)",
-            "Video FPS": "30 fps",
-            "Aperture": "F/2.2"
-          }
-        },
-        "Design": {
-          "Height": "155 mm",
-          "Width": "75.5 mm",
-          "Thickness": "7.85 mm",
-          "Weight": "207 grams",
-          "Build": "Zinc alloy (back cover)",
-          "Colors": "Silver"
-        },
-        "Battery": {
-          "Battery type": "Li-Polymer",
-          "Capacity": "3000 mAh",
-          "Quick Charging": "10W Quick Charging",
-          "Placement": "Non-removable",
-          "Standby": "2G:421h, 3G:442h, 4G:402h",
-          "Talk Time": "2G:33h, 3G:22h, 4G:16h"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "up to 256 GB",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Hybrid Dual (Micro + Nano) SIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi",
-          "Bluetooth": "v4.2",
-          "GPS": "With A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "USB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Yes",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On the back",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Video": "Full HD (1080p)"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Fingerprint, Accelerometer, Proximity, Gyroscope, E-Compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
-        "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
-        "https://www.mobiledokan.com/media/helio-s60-front-side-image.webp",
-        "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
-        "https://www.mobiledokan.com/media/1711556755ZibNU.webp",
-        "https://www.mobiledokan.com/media/1711556755ZibNU.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "symphony_helio_50",
@@ -401,7 +291,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-40",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2025-09-14 13:18:37",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "September 9, 2024",
       "variants": [
@@ -527,22 +417,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-full-back-camera-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-back-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-power-baton-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-chargi",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-cosmic-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-sunshine-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-twilight-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-nebula-sky-blu"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_helio_40_8gb_ram",
@@ -551,7 +426,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-40-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-12-15 06:37:30",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "December 14, 2025",
       "variants": [
@@ -599,14 +474,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Display flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "108 MP, f1.8, Wide Angle, Primary Camera, 2 MP Macro Camera",
@@ -620,6 +487,14 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -677,22 +552,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-full-back-camera-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-back-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-power-baton-side-image-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-chargi",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-cosmic-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-sunshine-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-twilight-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-40-nebula-sky-blu"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s10",
@@ -701,7 +561,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-s10",
       "image_url": "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
@@ -806,15 +666,7 @@
           "Features": "Accelerometer Sensor, Proximity Sensor, Light Sensor, Compass, Gyro Sensor, Hall Sensor"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-front-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-back-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-s10-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s1",
@@ -823,7 +675,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-s1",
       "image_url": "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
       "serial_number": 7,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "August 26, 2024",
       "variants": [],
@@ -915,25 +767,18 @@
           "Features": "G-sensor, light, accelerometer, proximity, magnetic sensor, gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s1-front-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s2",
       "name": "Helio S2",
-      "price": "14990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/helio-s2",
       "image_url": "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
       "serial_number": 8,
-      "last_updated": "2025-12-23 06:37:29",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
-      "updated_on": "August 28, 2024",
+      "updated_on": null,
       "variants": [],
       "specifications": {
         "General": {
@@ -1037,142 +882,21 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-front-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-back-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-back-side-view-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp",
-        "https://www.mobiledokan.com/media/helio-s2-official-latte-gold-view-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s20",
       "name": "Helio S20",
-      "price": "20990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/helio-s20",
       "image_url": "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-12-23 06:37:29",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
-      "updated_on": "August 28, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Helio",
-          "Model": "S20",
-          "Device Type": "Smartphone",
-          "Release Date": "02 June 2016",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v6.0",
-          "Chipset": "MediaTek MT6755",
-          "CPU": "Octa-core, 1.95 GHz",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "Mali-T860MP2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1920X1080 px (FHD+)",
-          "Pixel Density": "400 ppi",
-          "Screen Protection": "Gorilla Glass 3",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/1.8 Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "HDR, Face beauty, Night, Panorama, Professional, Time Lapse, Slow Motion, Text Recognition, Macro, GIF",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.2 Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "154.3 mm",
-          "Width": "74.9 mm",
-          "Thickness": "7.0 mm",
-          "Weight": "145 grams",
-          "Colors": "Gold, Grey"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3000 mAh",
-          "Placement": "Non-removable",
-          "Standby": "Up to 250 Hours(2G)",
-          "Talk Time": "Up to 20 Hours(3G)"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 128 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-side-image-2.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-side-view-image-2.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-side-image-1.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-side-view-image-1.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp",
-        "https://www.mobiledokan.com/media/helio-s20-official-gold-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "helio_90",
@@ -1181,7 +905,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-90",
       "image_url": "https://www.mobiledokan.com/media/helio-90-cream-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "May 3, 2025",
       "variants": [],
@@ -1216,6 +940,12 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "64 MP, Wide Angle, Primary Camera, 2 MP Camera",
@@ -1226,12 +956,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, Primary Camera",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -1288,133 +1012,21 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-90-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-cream-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-back-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-black-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-black-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-black-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-white-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-90-cream-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_s25",
       "name": "Helio S25",
-      "price": "21990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/helio-s25",
       "image_url": "https://www.mobiledokan.com/media/helio-s25-black-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-10-11 06:30:34",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
-      "updated_on": "October 31, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Helio",
-          "Model": "S25",
-          "Device Type": "Smartphone",
-          "Release Date": "26 March 2017",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v6.0",
-          "Chipset": "MT6755",
-          "CPU": "Octa core, 1.95 GHz, Cortex A53",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "GPU": "Mali-T860 MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "5.5 inches (13.97 cm)",
-          "Resolution": "1080x1920 px (FULL HD+)",
-          "Aspect Ratio": "16:9",
-          "Pixel Density": "294 ppi",
-          "Screen to Body Ratio": "68.6%",
-          "Screen Protection": "Corning Gorilla Glass 3",
-          "Bezel-less Display": "Yes with notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Yes"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, Primary Camera, 5 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "154.2 mm",
-          "Width": "76.4 mm",
-          "Thickness": "7.4mm",
-          "Weight": "168.2 grams",
-          "Colors": "Jet Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "3000 mAh",
-          "Placement": "Non-removable",
-          "Standby": "250 Hour(2G), 209 Hour(3G), 199 Hour(4G)",
-          "Talk Time": "20 Hour(2G), 16 Hour(3G), 11 Hour(4G)"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 128 GB",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 a/b/g/n)",
-          "Bluetooth": "v4.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "MicroUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Front-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, Proximity Senso"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-s25-black-image.webp",
-        "https://www.mobiledokan.com/media/helio-s25-black-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "symphony_helio_50_8gb_ram",
@@ -1423,7 +1035,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-50-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image_1.webp",
       "serial_number": 12,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [
@@ -1547,19 +1159,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image_1.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-radium-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-honey-dew-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-50-cosmic-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_100",
@@ -1720,7 +1320,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-100-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/helio-100-cosmic-gold-official_1.webp",
       "serial_number": 14,
-      "last_updated": "2025-12-13 06:32:56",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "April 1, 2025",
       "variants": [
@@ -1735,119 +1335,7 @@
           "url": "https://www.mobiledokan.com/mobile/helio-100"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Helio",
-          "Model": "100 (12GB RAM)",
-          "Device Type": "Smartphone",
-          "Release Date": "17 March 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Mediatek Helio G100",
-          "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1080x2412 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "93%",
-          "Screen Protection": "Iron Guard",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1000 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP, f/1.9, Wide Angle, Primary Camera, 2 MP, Macro Camera, 0.3 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.9",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.45, Primary Camera",
-            "Video Recording": "2560x1440, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
-          }
-        },
-        "Design": {
-          "Height": "162.4 mm",
-          "Width": "73.9 mm",
-          "Thickness": "8.4 mm",
-          "Weight": "184 grams",
-          "Build": "PMMA",
-          "Colors": "Cosmic Gold, Supernova Blue",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP64",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "uMCP",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "2K@30fps, 1080p@30fps, 720p@30fps, 480p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, Compass, Gyroscope"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/helio-100-cosmic-gold-official_1.webp",
         "https://www.mobiledokan.com/media/helio-100-cosmic-gold-official_1.webp",
@@ -1872,7 +1360,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-45",
       "image_url": "https://www.mobiledokan.com/media/helio-45-classic-navy-blue-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-11-06 06:33:39",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "November 5, 2025",
       "variants": [],
@@ -1985,17 +1473,7 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-45-classic-navy-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-classic-navy-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-full-display-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-mint-green-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-mint-green-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-mint-green-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-space-black-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-45-classic-navy-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_15",
@@ -2004,7 +1482,7 @@
       "url": "https://www.mobiledokan.com/mobile/helio-15",
       "image_url": "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-12-08 06:37:33",
+      "last_updated": "2026-01-02 06:40:30",
       "first_scraped": null,
       "updated_on": "December 4, 2025",
       "variants": [
@@ -2047,6 +1525,13 @@
           "Notch": "V-Notch"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, Primary Camera",
+            "Flash": "Display flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, Primary Camera",
@@ -2057,13 +1542,6 @@
             "Zoom": "Digital Zoom",
             "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
             "Camera Features": "Pro mode, Night, Portrait, panorama, AR Stickers, Time-lapse, Dual-view, Macro mode(SW), AI, Live, HDR, Watermark",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "Display flash",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
           }
@@ -2123,15 +1601,7 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-earth-green-official-color-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-supernova-ash-official-image.webp",
-        "https://www.mobiledokan.com/media/helio-15-metallic-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "helio_55",

@@ -4,11 +4,11 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2026-01-01 06:35:51",
+    "last_updated": "2026-01-02 06:40:42",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:03:15",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 12
   },
   "phones": [
     {
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-s1-pro-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
       "serial_number": 1,
-      "last_updated": "2025-10-19 06:30:31",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
@@ -136,18 +136,7 @@
           "Features": "Fingerprint, accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
-        "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
-        "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
-        "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-pearl-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v90_plus",
@@ -156,7 +145,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v90-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [
@@ -270,161 +259,21 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-back-camera-side-size-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-light-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-light-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-light-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-bluish-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v90",
       "name": "Benco V90",
-      "price": "9199",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/benco-v90",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
-      "updated_on": "April 23, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.9,199",
-          "url": "https://www.mobiledokan.com/mobile/benco-v90"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.9,599",
-          "url": "https://www.mobiledokan.com/mobile/benco-v90-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Benco",
-          "Model": "V90",
-          "Device Type": "Smartphone",
-          "Release Date": "10 January 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "Unisoc SC9863A",
-          "CPU": "Octa core (1.6 GHz, Quad core, Cortex A55 + 1.2 GHz, Quad core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "PowerVR GE8322"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.82 inches (17.32 cm)",
-          "Resolution": "720x1640 px (HD+)",
-          "Aspect Ratio": "20.5:9",
-          "Pixel Density": "263 ppi",
-          "Screen to Body Ratio": "84.13 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "16 MP, f/1.7, Primary Camera, 0.3 MP, 0.3 MP",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4616 x 3464 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "171.09 mm",
-          "Width": "76.85 mm",
-          "Thickness": "9.13 mm",
-          "Weight": "207 grams",
-          "Colors": "Sky Blue, Wild Green, Fog Grey"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "Standby": "Up to 456 Hours(2G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "India/Bangladesh/Nepal",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-side-view.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-wild-green-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "benco_s1",
@@ -569,9 +418,9 @@
       "url": "https://www.mobiledokan.com/mobile/benco-s1-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2025-10-19 06:30:31",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
-      "updated_on": "August 3, 2024",
+      "updated_on": null,
       "variants": [
         {
           "name": "8GB+128GB",
@@ -686,17 +535,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-full-display-size.webp",
-        "https://www.mobiledokan.com/media/benco-s1-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-gemstone-black-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-emerald-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v90_128gb",
@@ -705,21 +544,10 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v90-128gb",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
       "serial_number": 6,
-      "last_updated": "2025-10-19 06:30:31",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "August 3, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.9,599",
-          "url": "https://www.mobiledokan.com/mobile/benco-v90-128gb"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.9,199",
-          "url": "https://www.mobiledokan.com/mobile/benco-v90"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Benco",
@@ -752,6 +580,13 @@
           "Notch": "Waterdrop"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "16 MP f/1.7, Primary Camera, 0.3 MP, 0.3 MP",
@@ -765,13 +600,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -827,19 +655,7 @@
           "Features": "Fingerprint (rear-mounted), accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-side-view.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-fog-grey-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-sky-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90-wild-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_s1_pro",
@@ -848,7 +664,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-s1-pro",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
       "serial_number": 7,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "April 23, 2025",
       "variants": [
@@ -893,15 +709,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, AI front camera, f/2.0 aperture, 2μm 4-in-1 super pixel sensor",
-            "Sensor": "2μm 4-in-1 super pixel sensor",
-            "Camera Features": "HDR & panorama",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "64 MP, f/1.89, Primary Camera, 2 MP, 2 MP",
@@ -913,6 +720,15 @@
             "Aperture": "f/1.89",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, AI front camera, f/2.0 aperture, 2μm 4-in-1 super pixel sensor",
+            "Sensor": "2μm 4-in-1 super pixel sensor",
+            "Camera Features": "HDR & panorama",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -967,18 +783,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-images.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-pearl-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-pro-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v91",
@@ -1119,251 +924,25 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v91c",
       "image_url": "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "September 7, 2025",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Benco",
-          "Model": "V91c",
-          "Device Type": "Smartphone",
-          "Release Date": "04 September 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (2.0 GHz)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.66 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20.2:9",
-          "Screen to Body Ratio": "90.14 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "500 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "162.9 mm",
-          "Width": "74.6 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "193 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Rainbow White, Space Grey"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "G-sensor , light-sensor, proximity, e-compass, gyroscope"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v91c-space-grey-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "benco_v91_plus",
       "name": "Benco V91 Plus",
-      "price": "12499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/benco-v91-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
-      "updated_on": "September 6, 2024",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.12,499",
-          "url": "https://www.mobiledokan.com/mobile/benco-v91-plus"
-        },
-        {
-          "name": "8GB+256GB",
-          "price": "৳.15,899",
-          "url": "https://www.mobiledokan.com/mobile/benco-v91-plus-8gb-256gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Benco",
-          "Model": "V91 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "06 September 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (1.6 GHz)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57@650Mhz"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.66 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20.2:9",
-          "Screen to Body Ratio": "90.14 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "500 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Primary Camera",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/1.8, Primary Camera, 2 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "162.9 mm",
-          "Width": "74.6 mm",
-          "Thickness": "8.99 mm",
-          "Weight": "193 grams",
-          "Build": "Glass front, plastic back, plastic frame",
-          "Colors": "Sunrise White, Volcanic Grey"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "720p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Gravity, light, proximity, compass, gyroscope"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image.webp",
         "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image.webp",
@@ -1381,7 +960,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v82",
       "image_url": "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
@@ -1487,17 +1066,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-front-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v82-green-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v80",
@@ -1841,241 +1410,29 @@
     {
       "id": "benco_s1_plus",
       "name": "Benco S1 Plus",
-      "price": "17499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/benco-s1-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2025-10-19 06:30:31",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
-      "updated_on": "July 31, 2025",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Benco",
-          "Model": "S1 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "24 May 2024",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Unisoc T616",
-          "CPU": "Octa-core, up to 2.0 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57@750Mhz"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20.5:9",
-          "Screen to Body Ratio": "91.4 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "580 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP, f/1.79, Wide Angle, Primary Camera, 2 MP Camera, 2 MP Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.79",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "166.9 mm",
-          "Width": "74.9 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "199 grams",
-          "Build": "Glass front, plastic frame",
-          "Colors": "Dark Gray, Night Purple, Moon White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 2.2",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-s1-plus-moon-white-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "benco_v90i",
       "name": "Benco V90i",
-      "price": "9199",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/benco-v90i",
       "image_url": "https://www.mobiledokan.com/media/benco-v90i-champagne-gold-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2025-10-19 06:30:31",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
-      "updated_on": "April 28, 2025",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Benco",
-          "Model": "V90i",
-          "Device Type": "Smartphone",
-          "Release Date": "27 April 2025",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v14",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core (1.6 GHz)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "G57-650MHz"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "720x1640 px (HD+)",
-          "Aspect Ratio": "20.5:9",
-          "Screen to Body Ratio": "90%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP, Primary Camera, 2 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4224 x 3136 pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera"
-          }
-        },
-        "Design": {
-          "Height": "170.7 mm",
-          "Width": "77.1 mm",
-          "Thickness": "8.6 mm",
-          "Weight": "207 grams",
-          "Colors": "Nova Grey, Champagne Gold"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/benco-v90i-champagne-gold-official-image.webp",
         "https://www.mobiledokan.com/media/benco-v90i-champagne-gold-official-image.webp",
@@ -2092,7 +1449,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v90i-se",
       "image_url": "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-11-26 06:34:29",
+      "last_updated": "2026-01-02 06:40:42",
       "first_scraped": null,
       "updated_on": "May 1, 2025",
       "variants": [],
@@ -2194,14 +1551,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90i-se-nova-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/benco-v90i-se-champagne-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "benco_v92",
