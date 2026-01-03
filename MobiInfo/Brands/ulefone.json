@@ -4,7 +4,7 @@
     "name": "ulefone",
     "url": "https://www.mobiledokan.com/mobile-brand/ulefone",
     "image_url": null,
-    "last_updated": "2026-01-02 06:43:17",
+    "last_updated": "2026-01-03 06:34:55",
     "total_phones": 15,
     "first_scraped": "2025-09-11 09:24:43",
     "new_phones_this_run": 0,
@@ -18,11 +18,119 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-28-ultra",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-28-ultra-black-official.webp",
       "serial_number": 1,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "Armor 28 Ultra",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 28 November 2024",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Mediatek Dimensity 9300 Plus",
+          "CPU": "Octa-core (1x3.25 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Immortalis-G720 MC12"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.67 inches (16.94 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "73.8%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2200 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 64 MP, f/1.8, Night Vision Camera, 50 MP, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "174.2 mm",
+          "Width": "83.6 mm",
+          "Thickness": "19.4 mm",
+          "Colors": "Black",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "10600 mAh",
+          "Wireless Charging": "50W wireless",
+          "Quick Charging": "120W wired",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5T"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, barometer"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/ulefone-armor-28-ultra-black-official.webp",
         "https://www.mobiledokan.com/media/ulefone-armor-28-ultra-black-official.webp"
@@ -35,7 +143,7 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-mini-20t-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-mini-20t-pro-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "September 26, 2024",
       "variants": [],
@@ -149,18 +257,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-20t-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-20t-pro-black-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_note_20_pro",
       "name": "Ulefone Note 20 Pro",
-      "price": null,
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-20-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-20-pro-ribbons-white-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "October 21, 2024",
       "variants": [],
       "specifications": {
         "General": {
@@ -283,12 +394,121 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-19",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-19-green-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "October 21, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "Note 19",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 30 September 2024",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Unisoc T603",
+          "CPU": "Octa-core 8x1.6 GHz Cortex-A55",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "22 nm",
+          "GPU": "PowerVR GE8322"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "84.2%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "163.2 mm",
+          "Width": "75.2 mm",
+          "Thickness": "8.8 mm",
+          "Weight": "192 grams",
+          "Colors": "Black, Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "UFS 2.0",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1440p@30fps, 1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-note-19-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-19-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-19-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-19-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-19-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-19-green-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_note_18_ultra",
@@ -297,7 +517,7 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-18-ultra",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-18-ultra-moonlit-white-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [],
@@ -406,7 +626,15 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-ultra-titanium-gray-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_note_18_pro",
@@ -415,7 +643,7 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-note-18-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-note-18-pro-moonlit-white-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "December 4, 2024",
       "variants": [],
@@ -524,21 +752,153 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-lustrous-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-moonlit-white-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-note-18-pro-titanium-gray-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_armor_x31_pro",
       "name": "Ulefone Armor X31 Pro",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-x31-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-green-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "December 26, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "Armor X31 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 01 January 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Mediatek Dimensity 6300",
+          "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "Mali-G57 MC2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "72.5%",
+          "Screen Protection": "Gorilla Glass v5",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "800 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP, f/1.9, Wide Angle, Primary Camera, 25 MP, f/1.8, Night Vision Camera, 2 MP, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.3, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.3"
+          }
+        },
+        "Design": {
+          "Height": "173.8 mm",
+          "Width": "82 mm",
+          "Thickness": "13.7 mm",
+          "Weight": "306 grams",
+          "Colors": "Black, Black/Orange, Black/Green",
+          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6050 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1440p@30fps, 1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-full-back-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-x31-pro-green-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_armor_34_pro",
@@ -547,7 +907,7 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-34-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "March 9, 2025",
       "variants": [],
@@ -658,7 +1018,17 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-34-pro-black-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_armor_33_pro",
@@ -667,7 +1037,7 @@
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-33-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
       "updated_on": "March 9, 2025",
       "variants": [],
@@ -780,21 +1150,106 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-33-pro-black-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_armor_mini_4",
       "name": "Ulefone Armor Mini 4",
-      "price": null,
+      "price": "8000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-armor-mini-4",
       "image_url": "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 4, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "Armor Mini 4",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 20 March 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Feature phones",
+          "Chipset": "Unisoc T117"
+        },
+        "Display": {
+          "Display Type": "TFT LCD",
+          "Screen Size": "2.8 inches (24.3 cm2)",
+          "Resolution": "240x320 px",
+          "Aspect Ratio": "4:3",
+          "Pixel Density": "143 ppi",
+          "Screen to Body Ratio": "27.0%"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera",
+            "Flash": "LED flash",
+            "Image Resolution": "1920 x 1080 pixels"
+          }
+        },
+        "Design": {
+          "Height": "142.9 mm",
+          "Width": "63 mm",
+          "Thickness": "15 mm",
+          "Colors": "Black",
+          "Waterproof": "Water resistant (up to 1.5m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2100 mAh",
+          "Quick Charging": "5W wired",
+          "Placement": "Removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128 MB",
+          "Storage Type": "eMMC",
+          "RAM": "64 MB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Mini, SIM2: Mini",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "Bluetooth": "v2.1",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "Yes"
+        },
+        "More": {
+          "Made By": "China"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-armor-mini-4-black-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_armor_x32",
@@ -930,55 +1385,402 @@
     {
       "id": "ulefone_rugking_2_pro",
       "name": "Ulefone RugKing 2 Pro",
-      "price": null,
+      "price": "20000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-rugking-2-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-green-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "December 10, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "RugKing 2 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 08 December 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "Unisoc T7250",
+          "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.45 inches (76.7 cm)",
+          "Resolution": "720x1440 px (HD+)",
+          "Aspect Ratio": "18:9",
+          "Pixel Density": "295 ppi",
+          "Screen to Body Ratio": "60.3%",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4208 x 3120 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "159 mm",
+          "Width": "80 mm",
+          "Thickness": "15.7 mm",
+          "Weight": "253.7 grams",
+          "Colors": "Black, Green, Orange",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4550 mAh",
+          "Quick Charging": "10W wired",
+          "Reverse Charging": "5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 2.1",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-2-pro-orange-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_rugking_3_pro",
       "name": "Ulefone RugKing 3 Pro",
-      "price": null,
+      "price": "22000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-rugking-3-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-orange-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "December 10, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "RugKing 3 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 08 December 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "Unisoc T7250",
+          "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "71.7%",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "500 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 2 MP Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "173.8 mm",
+          "Width": "83 mm",
+          "Thickness": "12.9  mm",
+          "Weight": "286 grams",
+          "Colors": "Black, Green, Orange",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5700 mAh",
+          "Quick Charging": "10W wired",
+          "Reverse Charging": "5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 2.2",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-3-pro-orange-official-image.webp"
+      ]
     },
     {
       "id": "ulefone_rugking_4_pro",
       "name": "Ulefone RugKing 4 Pro",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-rugking-4-pro",
       "image_url": "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
       "serial_number": 14,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "December 10, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Ulefone",
+          "Model": "RugKing 4 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 08 December 2025",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "Chipset": "Unisoc T7250",
+          "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "68.9%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "500 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "178.6 mm",
+          "Width": "84 mm",
+          "Thickness": "19.2 mm",
+          "Weight": "405 grams",
+          "Colors": "Black, Orange",
+          "Waterproof": "Water resistant (up to 2m for 30 min)",
+          "IP Rating": "IP68/IP69K",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "10200 mAh",
+          "Quick Charging": "18W wired",
+          "Reverse Charging": "6W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 2.2",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-black-official-color-image_3.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-4-pro-orange-official-color-image.webp"
+      ]
     },
     {
       "id": "ulefone_rugking",
       "name": "Ulefone RugKing",
-      "price": null,
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/ulefone-rugking",
       "image_url": "https://www.mobiledokan.com/media/ulefone-rugking-black-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-02 06:43:17",
+      "last_updated": "2026-01-03 06:34:55",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "December 9, 2025",
       "variants": [],
       "specifications": {
         "General": {
@@ -1090,7 +1892,10 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/ulefone-rugking-black-official-image.webp",
+        "https://www.mobiledokan.com/media/ulefone-rugking-black-official-image.webp"
+      ]
     }
   ]
 }

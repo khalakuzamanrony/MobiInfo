@@ -4,7 +4,7 @@
     "name": "honor",
     "url": "https://www.mobiledokan.com/mobile-brand/honor",
     "image_url": null,
-    "last_updated": "2026-01-02 06:37:07",
+    "last_updated": "2026-01-03 06:32:39",
     "total_phones": 105,
     "first_scraped": "2025-09-11 08:58:42",
     "new_phones_this_run": 0,
@@ -14,13 +14,13 @@
     {
       "id": "honor_90_lite_5g",
       "name": "Honor 90 Lite 5G",
-      "price": "25999",
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/honor-90-lite-5g",
       "image_url": "https://www.mobiledokan.com/media/1710753241356bM.webp",
       "serial_number": 1,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 17, 2025",
       "variants": [
         {
           "name": "8GB+256GB",
@@ -28,8 +28,124 @@
           "url": "https://www.mobiledokan.com/mobile/honor-90-lite-5g"
         }
       ],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "90 Lite 5G",
+          "Device Type": "Smartphone",
+          "Release Date": "20 June 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "MediaTek Dimensity 6020 MT6833",
+          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "32 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Mali-G57 MC2"
+        },
+        "Display": {
+          "Display Type": "LTPS LCD",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1080x2388 px (FHD+)",
+          "Aspect Ratio": "19.9:9",
+          "Pixel Density": "391 ppi",
+          "Screen to Body Ratio": "89.3 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "100 MP f/1.9, Wide Angle, Primary Camera, 5 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "11555 x 8655 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30fps"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "74.5 mm",
+          "Thickness": "7.4 mm",
+          "Weight": "179 grams",
+          "Colors": "Cyan Lake,Titanium Silver,Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4500 mAh",
+          "Quick Charging": "Super, 35W: 55 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, compass Virtual proximity sensing"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710753241356bM.webp",
+        "https://www.mobiledokan.com/media/1710753241356bM.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-front-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-side.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-black-color-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-90-lite-5g-silver-color-image_1.webp"
+      ]
     },
     {
       "id": "honor_x6a",
@@ -38,7 +154,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x6a",
       "image_url": "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
@@ -75,13 +191,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
@@ -95,6 +204,13 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -150,7 +266,19 @@
           "Features": "Accelerometer, proximity, gyro"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-back-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-power-button-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-charging-poot-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-cyan-lake-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x6a-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_x9a",
@@ -159,7 +287,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x9a",
       "image_url": "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
@@ -278,7 +406,19 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9a-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_90",
@@ -287,7 +427,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-90",
       "image_url": "https://www.mobiledokan.com/media/17107587368a24b.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
@@ -412,7 +552,20 @@
           "Features": "Accelerometer, gyro, compass, ultrasound proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17107587368a24b.webp",
+        "https://www.mobiledokan.com/media/17107587368a24b.webp",
+        "https://www.mobiledokan.com/media/honor-90-front-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-back-side-picture.webp",
+        "https://www.mobiledokan.com/media/honor-90-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-down-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-diamond-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-90-peacock-blue-official-image.webp"
+      ]
     },
     {
       "id": "honor_x9b",
@@ -421,7 +574,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x9b",
       "image_url": "https://www.mobiledokan.com/media/honor-x9b-emerald-green-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "October 11, 2025",
       "variants": [],
@@ -537,7 +690,21 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x9b-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-charging-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-sunrise-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-sunrise-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-sunrise-orange-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x9b-emerald-green-official-image.webp"
+      ]
     },
     {
       "id": "honor_x5_plus",
@@ -546,7 +713,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x5-plus",
       "image_url": "https://www.mobiledokan.com/media/honor-x5-plus-cyan-lake-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
@@ -556,7 +723,113 @@
           "url": "https://www.mobiledokan.com/mobile/honor-x5-plus"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "X5 Plus",
+          "Device Type": "Smartphone",
+          "Release Date": "16 August 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "MagicOS 7.1",
+          "Chipset": "MediaTek Helio G36",
+          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A53 + 1.6 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8320"
+        },
+        "Display": {
+          "Display Type": "TFT LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "84.3 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection,Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "163.3 mm",
+          "Width": "75.1 mm",
+          "Thickness": "8.4 mm",
+          "Weight": "188 grams",
+          "Colors": "Cyan Lake, Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5200 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v5.1",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/honor-x5-plus-cyan-lake-official-image.webp",
         "https://www.mobiledokan.com/media/honor-x5-plus-cyan-lake-official-image.webp",
@@ -579,7 +852,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-10-lite",
       "image_url": "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "January 19, 2025",
       "variants": [
@@ -703,7 +976,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-front-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-left-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-right-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-sapphire-blue-image.webp",
+        "https://www.mobiledokan.com/media/honor-10-lite-midnight-black-image.webp"
+      ]
     },
     {
       "id": "honor_x8a",
@@ -712,7 +996,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x8a",
       "image_url": "https://www.mobiledokan.com/media/1712308852pPrhB.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
@@ -830,7 +1114,10 @@
           "Features": "Accelerometer, Compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1712308852pPrhB.webp",
+        "https://www.mobiledokan.com/media/1712308852pPrhB.webp"
+      ]
     },
     {
       "id": "honor_x7b",
@@ -839,7 +1126,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x7b",
       "image_url": "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "June 4, 2024",
       "variants": [
@@ -959,7 +1246,19 @@
           "Features": "Accelerometer, Virtual proximity sensing"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-full-back-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-full-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-flowing-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7b-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_x7a",
@@ -968,7 +1267,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x7a",
       "image_url": "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image_1.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
@@ -1087,7 +1386,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-front-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-ocean-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x7a-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_x8b",
@@ -1096,7 +1406,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x8b",
       "image_url": "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "October 23, 2024",
       "variants": [],
@@ -1206,7 +1516,20 @@
           "Features": "Accelerometer, compass, Virtual proximity sensing"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-power-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-glamorous-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8b-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_100_pro",
@@ -1215,7 +1538,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-100-pro",
       "image_url": "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 8, 2025",
       "variants": [
@@ -1264,15 +1587,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/2.0, Primary Camera, 2 MP, f/2.4, Depth Camera",
-            "Sensor": "Exmor RS",
-            "Autofocus": "Yes",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.95, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 32 MP, f/2.4, Telephoto Camera",
@@ -1288,6 +1602,15 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/2.0, Primary Camera, 2 MP, f/2.4, Depth Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1344,21 +1667,162 @@
           "Features": "Accelerometer, gyro, compass, ultrasound"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp"
+      ]
     },
     {
       "id": "honor_100_pro_16gb_ram",
       "name": "Honor 100 Pro (16GB RAM)",
-      "price": null,
+      "price": "75000",
       "url": "https://www.mobiledokan.com/mobile/honor-100-pro-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 26, 2025",
+      "variants": [
+        {
+          "name": "16GB+256GB",
+          "price": "৳.75,000",
+          "url": "https://www.mobiledokan.com/mobile/honor-100-pro-16gb-ram"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.73,000",
+          "url": "https://www.mobiledokan.com/mobile/honor-100-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "100 Pro (16GB RAM)",
+          "Device Type": "Smartphone",
+          "Release Date": "23 November 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "Magic UI",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 2",
+          "CPU": "Octa core (3.19 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 740"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1224x2700 px (FHD+)",
+          "Aspect Ratio": "19.8:9",
+          "Pixel Density": "437 ppi",
+          "Screen to Body Ratio": "90.76 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "Yes",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.95, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 32 MP f/2.4, Telephoto Camera",
+            "Sensor": "Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Macro Mode",
+            "Aperture": "f/1.95",
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/2.0, Primary Camera, 2 MP f/2.4, Depth Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "163.7 mm",
+          "Width": "74.7 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "195 grams",
+          "Colors": "Monet Purple , Butterfly Blue , Moon Shadow White , Bright Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Wireless Charging": "Yes Charging Time: 42 minutes",
+          "Quick Charging": "Super, 100W: 50 % in 10 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Expandable Memory": "No",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, compass, ultrasound"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/honor-100-pro-16gb-ram-front-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-100-pro-16gb-ram-back-side-image.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/1713525177mkt6r.webp",
+        "https://www.mobiledokan.com/media/honor-100-pro-16gb-ram-monet-purple-image.webp",
+        "https://www.mobiledokan.com/media/honor-100-pro-white-image.webp"
+      ]
     },
     {
       "id": "honor_magic5_ultimate",
@@ -1367,7 +1831,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic5-ultimate",
       "image_url": "https://www.mobiledokan.com/media/1713721708R2jph.webp",
       "serial_number": 14,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 10, 2025",
       "variants": [
@@ -1377,7 +1841,122 @@
           "url": "https://www.mobiledokan.com/mobile/honor-magic5-ultimate"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "Magic5 Ultimate",
+          "Device Type": "Smartphone",
+          "Release Date": "20 March 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "MagicOS 7.1",
+          "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 740"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.81 inches (17.3 cm)",
+          "Resolution": "1312x2848 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "90.92 %",
+          "Screen Protection": "Glass/ceramic coating",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1800 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 50 MP, f/3.0, Periscope Camera",
+            "Autofocus": "Phase Detection autofocus, Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.6",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "12 MP, f/2.4, Ultra-Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "76.7 mm",
+          "Thickness": "8.8 mm",
+          "Weight": "217 grams",
+          "Build": "Glass front, eco leather back",
+          "Colors": "Black, Orange",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter),",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "5450 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "66W Quick Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1, DisplayPort 1.2"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR10, 10-bit video"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Face ID, accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1713721708R2jph.webp",
         "https://www.mobiledokan.com/media/1713721708R2jph.webp",
@@ -1393,7 +1972,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x6",
       "image_url": "https://www.mobiledokan.com/media/1713885382lNqPg.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "April 29, 2024",
       "variants": [
@@ -1403,8 +1982,116 @@
           "url": "https://www.mobiledokan.com/mobile/honor-x6"
         }
       ],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "X6",
+          "Device Type": "Smartphone",
+          "Release Date": "21 September 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "MediaTek Helio G25",
+          "CPU": "Octa core (2 GHz, Quad core, Cortex A53 + 1.5 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8320"
+        },
+        "Display": {
+          "Display Type": "TFT LCD",
+          "Screen Size": "6.5 inches (16.51 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "270 ppi",
+          "Screen to Body Ratio": "82.75 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.8, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "6 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "163.7 mm",
+          "Width": "75.3 mm",
+          "Thickness": "8.7 mm",
+          "Weight": "190 grams",
+          "Colors": "Ocean Blue,Titanium Silver, Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 1 TB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.1",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes (VNE-LX1 only)",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713885382lNqPg.webp",
+        "https://www.mobiledokan.com/media/1713885382lNqPg.webp"
+      ]
     },
     {
       "id": "honor_magic5_pro",
@@ -1413,7 +2100,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic5-pro",
       "image_url": "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
       "serial_number": 16,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "November 6, 2024",
       "variants": [
@@ -1544,7 +2231,19 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum, Ultra Wideband (UWB) support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-front.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-laft.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-right.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-green-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-black-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-orange-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic5-pro-purpole-image.webp"
+      ]
     },
     {
       "id": "honor_x8",
@@ -1553,12 +2252,131 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x8",
       "image_url": "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "January 16, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "X8",
+          "Device Type": "Smartphone",
+          "Release Date": "24 March 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "User Interface": "Magic UI 4.2",
+          "Chipset": "Qualcomm SM6225 Snapdragon 680 4G",
+          "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "Adreno 610"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1080x2388 px (FHD+)",
+          "Pixel Density": "391 ppi",
+          "Screen to Body Ratio": "89.1%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Quad",
+            "Resolution": "64 MP, f/1.8, Wide Angle, Primary Camera, 5 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "8 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "163.4 mm",
+          "Width": "74.7 mm",
+          "Thickness": "7.5 mm",
+          "Weight": "177 grams",
+          "Build": "Glass front, plastic frame, plastic back",
+          "Colors": "Titanium Silver, Midnight Black, Ocean Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "22.5W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "USB OTG": "Yes",
+          "RAM": "6 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, compass, Virtual proximity sensing"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-titanium-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-x8-ocean-blue-official-image.webp"
+      ]
     },
     {
       "id": "honor_x9",
@@ -1698,7 +2516,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-x7",
       "image_url": "https://www.mobiledokan.com/media/1714249164ZEYhC.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "May 7, 2025",
       "variants": [
@@ -1816,7 +2634,13 @@
           "Features": "Accelerometer, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714249164ZEYhC.webp",
+        "https://www.mobiledokan.com/media/1714249164ZEYhC.webp",
+        "https://www.mobiledokan.com/media/1714249164ZEYhC.webp",
+        "https://www.mobiledokan.com/media/1714249164ZEYhC.webp",
+        "https://www.mobiledokan.com/media/1714249164ZEYhC.webp"
+      ]
     },
     {
       "id": "honor_magic4_pro",
@@ -1825,9 +2649,9 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic4-pro",
       "image_url": "https://www.mobiledokan.com/media/171430023193rNn.webp",
       "serial_number": 20,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "May 7, 2025",
       "variants": [
         {
           "name": "8GB+256GB",
@@ -2098,29 +2922,262 @@
     {
       "id": "honor_magic_v2",
       "name": "Honor Magic V2",
-      "price": null,
+      "price": "139999",
       "url": "https://www.mobiledokan.com/mobile/honor-magic-v2",
       "image_url": "https://www.mobiledokan.com/media/1714421624ZAzmV.webp",
       "serial_number": 22,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 8, 2025",
+      "variants": [
+        {
+          "name": "16GB+512GB",
+          "price": "৳.139,999",
+          "url": "https://www.mobiledokan.com/mobile/honor-magic-v2"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "Magic V2",
+          "Device Type": "Smartphone",
+          "Release Date": "27 July 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "MagicOS 8",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 2",
+          "CPU": "Octa core (3.36 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 740"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "7.92 inches (20.12 cm)",
+          "Resolution": "2156x2344 px (QHD+)",
+          "Pixel Density": "402 ppi",
+          "Screen to Body Ratio": "88.5 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1600 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 20 MP, f/2.4, Telephoto Camera",
+            "Autofocus": "Phase Detection autofocus, Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "156.7 mm",
+          "Width": "74.1 mm",
+          "Thickness": "9.9 mm",
+          "Weight": "231 grams",
+          "Colors": "Black, Gold, Silk Purple, Silk Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Super, 66W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1, OTG, Display Port 1.2"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps (10-bit), 1080p@30/60fps, gyro-EIS, HDR10+, OIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714421624ZAzmV.webp",
+        "https://www.mobiledokan.com/media/1714421624ZAzmV.webp",
+        "https://www.mobiledokan.com/media/1714421624ZAzmV.webp",
+        "https://www.mobiledokan.com/media/1714421624ZAzmV.webp",
+        "https://www.mobiledokan.com/media/1714421624ZAzmV.webp"
+      ]
     },
     {
       "id": "honor_90_lite",
       "name": "Honor 90 Lite",
-      "price": null,
+      "price": "25000",
       "url": "https://www.mobiledokan.com/mobile/honor-90-lite",
       "image_url": "https://www.mobiledokan.com/media/honor-90-lite-official.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "May 8, 2025",
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.25,999",
+          "url": "https://www.mobiledokan.com/mobile/honor-90-lite"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "90 Lite",
+          "Device Type": "Smartphone",
+          "Release Date": "20 June 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "Magic OS 7.1",
+          "Chipset": "Mediatek Dimensity 6020",
+          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Mali-G57 MC2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.7 inches (17.02 cm)",
+          "Resolution": "1080x2388 px (FHD+)",
+          "Aspect Ratio": "19.9:9",
+          "Pixel Density": "391 ppi",
+          "Screen to Body Ratio": "89.3 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "100 MP, f/1.9, Wide Angle, Primary Camera, 5 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "11555 x 8655 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Touch to focus, Dual Video Recording",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "74.5 mm",
+          "Thickness": "7.4 mm",
+          "Weight": "179 grams",
+          "Colors": "Cyan Lake,Titanium Silver,Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4500 mAh",
+          "Quick Charging": "Super, 35W: 55 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, compass, Virtual proximity sensing"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/honor-90-lite-official.webp",
         "https://www.mobiledokan.com/media/honor-90-lite-official.webp"
@@ -2133,7 +3190,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic6-pro",
       "image_url": "https://www.mobiledokan.com/media/honor-magic6-pro-white-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "September 14, 2025",
       "variants": [],
@@ -2258,7 +3315,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, color spectrum, Emergency SOS via satellite (messages and calls)"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-magic6-pro-white-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-white-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-pro-white-official-image.webp"
+      ]
     },
     {
       "id": "honor_magic6_ultimate",
@@ -2413,16 +3484,146 @@
     {
       "id": "honor_magic6",
       "name": "Honor Magic6",
-      "price": null,
+      "price": "74999",
       "url": "https://www.mobiledokan.com/mobile/honor-magic6",
       "image_url": "https://www.mobiledokan.com/media/honor-magic6-blue-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "November 19, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "Magic6",
+          "Device Type": "Smartphone",
+          "Release Date": "18 January 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "Magic UI",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 3",
+          "CPU": "Octa core (3.3 GHz, Single core, Cortex X4 + 3.2 GHz, Penta Core, Cortex A720 + 2.3 GHz, Dual core, Cortex A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1264x2800 px (FHD+)",
+          "Aspect Ratio": "19.3:9",
+          "Pixel Density": "453 ppi",
+          "Screen to Body Ratio": "90.97 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "5000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 50 MP f/2.0, Ultra-Wide Angle Camera, 32 MP f/2.4, Telephoto Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Slo-motion",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "161.8 mm",
+          "Width": "75.4 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "199 grams",
+          "Build": "Back: Mineral Glass",
+          "Colors": "Black, Blue, Green, Purple, White",
+          "Waterproof": "Water resistant",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust Proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5450 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "66W wired",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "12 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Face ID"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "DTS Sound",
+          "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR, 10-bit video"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-magic6-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic6-white-official-image.webp"
+      ]
     },
     {
       "id": "honor_200_pro",
@@ -2431,7 +3632,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-200-pro",
       "image_url": "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "October 19, 2025",
       "variants": [
@@ -2475,13 +3676,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP, f/2.1, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.1"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 50 MP, f/2.4, Telephoto Camera",
@@ -2496,6 +3690,13 @@
             "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Smile detection, Touch to focus, Dual Video Recording",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/2.1, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.1"
           }
         },
         "Design": {
@@ -2556,7 +3757,20 @@
           "Features": "Accelerometer, gyro, compass, ultrasound proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-back-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-pro-pink-official-image.webp"
+      ]
     },
     {
       "id": "honor_200",
@@ -2565,7 +3779,7 @@
       "url": "https://www.mobiledokan.com/mobile/honor-200",
       "image_url": "https://www.mobiledokan.com/media/honor-200-black-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
       "updated_on": "November 10, 2025",
       "variants": [
@@ -2701,7 +3915,20 @@
           "Features": "Accelerometer, gyro, compass, ultrasound proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-200-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-full-display-size-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-full-back-camera-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-back-side-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-200-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-silver-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/honor-200-pink-official-image_1.webp"
+      ]
     },
     {
       "id": "honor_play_8a",
@@ -2710,9 +3937,9 @@
       "url": "https://www.mobiledokan.com/mobile/honor-play-8a",
       "image_url": "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "May 6, 2025",
       "variants": [
         {
           "name": "3GB+32GB",
@@ -2720,34 +3947,285 @@
           "url": "https://www.mobiledokan.com/mobile/honor-play-8a"
         }
       ],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "Play 8A",
+          "Device Type": "Smartphone",
+          "Release Date": "01 January 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "User Interface": "EMUI",
+          "Chipset": "MediaTek Helio P35",
+          "CPU": "Octa core, 2.3 GHz, Cortex A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8320"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.09 inches (15.47 cm)",
+          "Resolution": "720x1560 px (HD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "282 ppi",
+          "Screen to Body Ratio": "79.13 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/1.8, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "156.2 mm",
+          "Width": "73.5 mm",
+          "Thickness": "8 mm",
+          "Weight": "150 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Black, Blue, Gold, Red",
+          "Waterproof": "Waterproof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3020 mAh",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 512 GB",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-front-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-back-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-down-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-black-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-play-8a-gold-official-image.webp"
+      ]
     },
     {
       "id": "honor_20i",
       "name": "Honor 20i",
-      "price": null,
+      "price": "15000",
       "url": "https://www.mobiledokan.com/mobile/honor-20i",
       "image_url": "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 6, 2025",
+      "variants": [
+        {
+          "name": "4GB+128GB",
+          "price": "৳.15,000",
+          "url": "https://www.mobiledokan.com/mobile/honor-20i"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "20i",
+          "Device Type": "Smartphone",
+          "Release Date": "01 April 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "User Interface": "EMUI 9.1",
+          "Chipset": "HiSilicon Kirin 710",
+          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A73 + 1.7 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G51 MP4"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.21 inches (15.77 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "415 ppi",
+          "Screen to Body Ratio": "82.91 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "24 MP, f/1.8, Primary Camera, 8 MP, f/2.4, Ultra-Wide Angle Camera, 2 MP, f/2.4, Depth Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "5288 x 3968 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "154.8 mm",
+          "Width": "73.6 mm",
+          "Thickness": "7.9 mm",
+          "Weight": "164 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Phantom Red, Phantom Blue, Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3400 mAh",
+          "Quick Charging": "10W Quick Charging",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "User Available Storage": "Up to 116 GB",
+          "Expandable Memory": "Up to 512 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30/60fps 1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-front-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-back-camara-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-left-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-right-side-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-phantom-red-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-phantom-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-20i-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "honor_8s",
       "name": "Honor 8S",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/honor-8s",
       "image_url": "https://www.mobiledokan.com/media/honor-8s-blue-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
+      "updated_on": "May 6, 2025",
+      "variants": [
+        {
+          "name": "2GB+32GB",
+          "price": "৳.10,499",
+          "url": "https://www.mobiledokan.com/mobile/honor-8s"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Honor",
@@ -2869,16 +4347,129 @@
     {
       "id": "honor_magic_v_flip",
       "name": "Honor Magic V Flip",
-      "price": null,
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/honor-magic-v-flip",
       "image_url": "https://www.mobiledokan.com/media/honor-magic-v-flip-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-02 06:37:07",
+      "last_updated": "2026-01-03 06:32:39",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "October 16, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Honor",
+          "Model": "Magic V Flip",
+          "Device Type": "Smartphone",
+          "Release Date": "Exp. 19 June 2024",
+          "Status": "Upcoming"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "MagicOS",
+          "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1",
+          "CPU": "Octa-core (1x3.0 GHz Cortex-X2 & 3x2.5 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "Foldable LTPO OLED",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1080x2520 px (FHD+)",
+          "Aspect Ratio": "21:9",
+          "Pixel Density": "403 ppi",
+          "Screen to Body Ratio": "85.4%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3000 nits",
+          "HDR 10 / HDR + support": "HDR",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.9, 23mm Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Custom Watermark, Smile detection, Touch to focus, Slo-motion",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "50 MP, f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "167.3 mm",
+          "Width": "75.6 mm",
+          "Thickness": "7.2 mm",
+          "Weight": "193 grams",
+          "Build": "Aluminum frame",
+          "Colors": "Black, White, Champagne, Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4800 mAh",
+          "Quick Charging": "66W wired, 45% in 15 min (advertised)",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K, 1080p, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity (ultrasonic), compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/honor-magic-v-flip-official-image.webp",
+        "https://www.mobiledokan.com/media/honor-magic-v-flip-official-image.webp"
+      ]
     },
     {
       "id": "honor_magic8",

@@ -4,7 +4,7 @@
     "name": "asus",
     "url": "https://www.mobiledokan.com/mobile-brand/asus",
     "image_url": null,
-    "last_updated": "2026-01-02 06:45:19",
+    "last_updated": "2026-01-03 06:36:16",
     "total_phones": 50,
     "first_scraped": "2025-09-11 09:07:08",
     "new_phones_this_run": 0,
@@ -164,16 +164,152 @@
     {
       "id": "asus_rog_phone_8_pro",
       "name": "Asus ROG Phone 8 Pro",
-      "price": null,
+      "price": "151999",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 23, 2025",
+      "variants": [
+        {
+          "name": "16GB+512GB",
+          "price": "৳.151,999",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro"
+        },
+        {
+          "name": "24GB+1TB",
+          "price": "৳.170,999",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8-pro-24gb-1tb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 8 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "18 January 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3",
+          "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "LTPO AMOLED",
+          "Screen Size": "6.78 inches, 111.0 cm2",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "388 ppi",
+          "Screen to Body Ratio": "88.22 %",
+          "Screen Protection": "Corning Gorilla Glass Victus 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2500 nits",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "165 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide-Angle Camera, 32 MP f/2.4, Telephoto Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "24 fps, 30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "163.8 mm",
+          "Width": "76.8 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "225 grams",
+          "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+          "Colors": "Phantom Black",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5500 mAh",
+          "Wireless Charging": "15W wireless (Qi)",
+          "Quick Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min - International",
+          "Reverse Charging": "10W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE (Up to 7CA), 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-pro-phantom-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_8",
@@ -182,9 +318,9 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-8",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-8-rebel-grey-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 23, 2025",
       "variants": [
         {
           "name": "12GB+256GB",
@@ -315,7 +451,17 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-rebel-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-rebel-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-phantom-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-8-rebel-grey-official-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_10",
@@ -324,7 +470,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-10",
       "image_url": "https://www.mobiledokan.com/media/17136098752EOCR.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
@@ -454,7 +600,13 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp"
+      ]
     },
     {
       "id": "asus_zenfone_10_256gb_rom",
@@ -463,7 +615,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-10-256gb-rom",
       "image_url": "https://www.mobiledokan.com/media/17136098752EOCR.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
@@ -594,7 +746,13 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp",
+        "https://www.mobiledokan.com/media/17136098752EOCR.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_7_ultimate",
@@ -603,12 +761,136 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-7-ultimate",
       "image_url": "https://www.mobiledokan.com/media/17136139521iF6i.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "variants": [
+        {
+          "name": "16GB+512GB",
+          "price": "৳.165,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-7-ultimate"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 7 Ultimate",
+          "Device Type": "Smartphone",
+          "Release Date": "May 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 2",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 740"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "82.07 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1500 nits",
+          "Refresh Rate": "165 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "7680x4320 ,3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "173 mm",
+          "Width": "77 mm",
+          "Thickness": "10.3 mm",
+          "Weight": "239 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Storm White",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IP54",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Quick, v5.0, 65W: 100 % in 42 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 4.0",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual Nano SIM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/e/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.3",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17136139521iF6i.webp",
+        "https://www.mobiledokan.com/media/17136139521iF6i.webp",
+        "https://www.mobiledokan.com/media/17136139521iF6i.webp",
+        "https://www.mobiledokan.com/media/17136139521iF6i.webp",
+        "https://www.mobiledokan.com/media/17136139521iF6i.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_6",
@@ -617,7 +899,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-6",
       "image_url": "https://www.mobiledokan.com/media/1713708053BHE9i.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
@@ -748,7 +1030,10 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713708053BHE9i.webp",
+        "https://www.mobiledokan.com/media/1713708053BHE9i.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_6_256gb",
@@ -757,7 +1042,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-6-256gb",
       "image_url": "https://www.mobiledokan.com/media/1713708053BHE9i.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "April 24, 2024",
       "variants": [
@@ -772,22 +1057,272 @@
           "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-6"
         }
       ],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 6 (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "13 July 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "82.07 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1200 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "165 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Sensor": "IMX766, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "173 mm",
+          "Width": "77 mm",
+          "Thickness": "10.3 mm",
+          "Weight": "239 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Phantom Black, Storm White",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IPX4"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Hyper, 65W: 100 % in 42 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat20 2024/210 Mbps, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713708053BHE9i.webp",
+        "https://www.mobiledokan.com/media/1713708053BHE9i.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_5s",
       "name": "Asus ROG Phone 5s",
-      "price": null,
+      "price": "72000",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s",
       "image_url": "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "April 24, 2024",
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.72,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s"
+        },
+        {
+          "name": "16GB+256GB",
+          "price": "৳.75,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-16gb-ram"
+        },
+        {
+          "name": "18GB+512GB",
+          "price": "৳.91,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-18gb-512gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 5s",
+          "Device Type": "Smartphone",
+          "Release Date": "26 August 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 888 Plus",
+          "CPU": "Octa core (3 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Adreno 660"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "82.07 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1200 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Sensor": "IMX686, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "172.8 mm",
+          "Width": "77.3 mm",
+          "Thickness": "9.9 mm",
+          "Weight": "238 grams",
+          "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame",
+          "Colors": "Phantom Black, Storm White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Fast, 65W: 70 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 1400/150 Mbps, 5G 4 Gbps DL",
+          "SAR Value": "Head: 1.180 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_5s_16gb_ram",
@@ -796,7 +1331,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-16gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "May 3, 2024",
       "variants": [
@@ -816,21 +1351,260 @@
           "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5s-18gb-512gb"
         }
       ],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 5s (16GB RAM)",
+          "Device Type": "Smartphone",
+          "Release Date": "26 August 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 888 Plus",
+          "CPU": "Octa core (3 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Adreno 660"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "82.07 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1200 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Sensor": "IMX686, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160, 1920x1080",
+            "Video FPS": "240 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "172.8 mm",
+          "Width": "77.3 mm",
+          "Thickness": "9.9 mm",
+          "Weight": "238 grams",
+          "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame",
+          "Colors": "Phantom Black, Storm White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Fast, 65W: 70 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "16 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 1400/150 Mbps, 5G 4 Gbps DL",
+          "SAR Value": "Head: 1.180 W/kg",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
+        "https://www.mobiledokan.com/media/1713721526ZH4Il.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5s.webp"
+      ]
     },
     {
       "id": "asus_zenfone_9",
       "name": "Asus Zenfone 9",
-      "price": null,
+      "price": "69000",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-9",
       "image_url": "https://www.mobiledokan.com/media/1713762497ll56n.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "April 24, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.69,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-zenfone-9"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 9",
+          "Device Type": "Smartphone",
+          "Release Date": "15 September 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "5.9 inches (14.99 cm)",
+          "Resolution": "1080x2400 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "446 ppi",
+          "Screen to Body Ratio": "84.24 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "1100 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera",
+            "Sensor": "IMX766, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.45, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Phase Detection autofocus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          }
+        },
+        "Design": {
+          "Height": "146.5 mm",
+          "Width": "68.1 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "169 grams",
+          "Colors": "Midnight Black, Starry Blue, Sunset Red, Moonlight White",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4300 mAh",
+          "Quick Charging": "Fast, 30W: 50 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "Yes"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat20 2000/211 Mbps, 5G 4.5/0.9 Gbps",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS, HDR"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1713762497ll56n.webp",
         "https://www.mobiledokan.com/media/1713762497ll56n.webp",
@@ -989,16 +1763,148 @@
     {
       "id": "asus_rog_phone_2",
       "name": "Asus ROG Phone 2",
-      "price": null,
+      "price": "52000",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-2",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "June 24, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.52,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-2"
+        },
+        {
+          "name": "12GB+512GB",
+          "price": "৳.86,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-2-12gb-512gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 2",
+          "Device Type": "Smartphone",
+          "Release Date": "15 September 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "Chipset": "Qualcomm Snapdragon 855 Plus",
+          "CPU": "Octa core (2.96 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.8 GHz, Quad core, Kryo 485)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Adreno 640"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.59 inches (16.74 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "391 ppi",
+          "Screen to Body Ratio": "80.21 %",
+          "Screen Protection": "Corning Gorilla Glass v6",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "Yes",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP f/1.79, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera",
+            "Sensor": "IMX586, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.79",
+            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "3840x2160 ,1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "170.9 mm",
+          "Width": "77.6 mm",
+          "Thickness": "9.4 mm",
+          "Weight": "240 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Fast charging 30W",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "Standby": "Up to 720 Hours(4G)",
+          "Talk Time": "Up to 52 Hours(3G)",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.0",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 (Cat20 Ultimate edition) 1200/150 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac), MIMO",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Audio Features": "DTS Sound",
+          "Video": "4K@30/60fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS (except @240/480fps)"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_2_12gb512gb",
@@ -1007,7 +1913,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-2-12gb-512gb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
@@ -1138,20 +2044,155 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-2-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_5",
       "name": "Asus ROG Phone 5",
-      "price": null,
+      "price": "62000",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "June 24, 2024",
+      "variants": [
+        {
+          "name": "12GB+128GB",
+          "price": "৳.62,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.66,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-256gb"
+        },
+        {
+          "name": "16GB+256GB",
+          "price": "৳.73,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-16gb-256gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 5",
+          "Device Type": "Smartphone",
+          "Release Date": "26 April 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 888",
+          "CPU": "Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Adreno 660"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "81.95 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "800 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Sensor": "IMX686, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "7680x4320, 3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "172.8 mm",
+          "Width": "77.2 mm",
+          "Thickness": "10.2 mm",
+          "Weight": "238 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Phantom Black, Storm White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Hyper, 65W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
         "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
@@ -1167,7 +2208,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-256gb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
@@ -1300,35 +2341,303 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_5_16gb256gb",
       "name": "Asus ROG Phone 5 (16GB/256GB)",
-      "price": null,
+      "price": "73000",
       "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-16gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "June 24, 2024",
+      "variants": [
+        {
+          "name": "16GB+256GB",
+          "price": "৳.73,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-16gb-256gb"
+        },
+        {
+          "name": "12GB+256GB",
+          "price": "৳.66,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5-256gb"
+        },
+        {
+          "name": "12GB+128GB",
+          "price": "৳.62,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-rog-phone-5"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "ROG Phone 5 (16GB/256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "26 April 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "User Interface": "ROG UI",
+          "Chipset": "Qualcomm Snapdragon 888",
+          "CPU": "Octa core (2.84 GHz, Single core, Kryo 680 + 2.42 GHz, Tri core, Kryo 680 + 1.8 GHz, Quad core, Kryo 680)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Adreno 660"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1080x2448 px (FHD+)",
+          "Aspect Ratio": "20:4:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "81.95 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "800 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "144 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP f/1.8, Wide Angle, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera, 5 MP f/2.0, Macro Camera",
+            "Sensor": "IMX686, Exmor-RS CMOS Sensor",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "9000 x 7000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "7680x4320, 3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "24 MP f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.5"
+          }
+        },
+        "Design": {
+          "Height": "172.8 mm",
+          "Width": "77.2 mm",
+          "Thickness": "10.2 mm",
+          "Weight": "238 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Phantom Black, Storm White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Hyper, 65W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "USB OTG": "Yes",
+          "RAM": "16GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-rog-phone-5-official-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_6z",
       "name": "Asus Zenfone 6z",
-      "price": null,
+      "price": "44000",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-6z",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 11, 2024",
+      "variants": [
+        {
+          "name": "6GB+128GB",
+          "price": "৳.44,000",
+          "url": "https://www.mobiledokan.com/mobile/asus-zenfone-6z"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 6z",
+          "Device Type": "Smartphone",
+          "Release Date": "05 May 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0",
+          "User Interface": "Zen UI",
+          "Chipset": "Qualcomm Snapdragon 855",
+          "CPU": "Octa core (2.84 GHz, Single core, Kryo 485 + 2.42 GHz, Tri core, Kryo 485 + 1.8 GHz, Quad core, Kryo 485)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Adreno 640"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.4 inches (16.26 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "403 ppi",
+          "Screen to Body Ratio": "83.63 %",
+          "Screen Protection": "Corning Gorilla Glass v6",
+          "Bezel-less Display": "Yes with display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP f/1.79, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle Camera",
+            "Sensor": "IMX586, Exmor-RS CMOS Sensor",
+            "Autofocus": "Phase Detection autofocus, Laser autofocus",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.79",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP f/1.79, Primary Camera, 13 MP f/2.4, Ultra-Wide Angle (125° field-of-view) Camera",
+            "Sensor": "Exmor RS",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "Dual LED",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30fps",
+            "Aperture": "f/1.79"
+          }
+        },
+        "Design": {
+          "Height": "159.1 mm",
+          "Width": "75.4 mm",
+          "Thickness": "8.4 mm",
+          "Weight": "190 grams",
+          "Build": "Back: Gorilla Glass",
+          "Colors": "Twilight Silver, Midnight Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Fast charging 18W",
+          "Reverse Charging": "Reverse charging 10W",
+          "Placement": "Non-removable",
+          "Talk Time": "Up to 33.3 Hours(3G)",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "UFS 2.1",
+          "Expandable Memory": "Up to 2 TB",
+          "USB OTG": "Yes",
+          "RAM": "6 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/150 Mbps",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax), MIMO",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "2160p@30/60fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS (except @240/480fps) 2160p@30/60fps, 1080p@30/60/240fps, 1080p@30fps, 720p@480fps; gyro-EIS (except @240/480fps)",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Taiwan",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-6z-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "asus_rog_phone_3_strix",
@@ -1475,44 +2784,396 @@
     {
       "id": "asus_zenfone_go_zb552kl",
       "name": "Asus Zenfone Go ZB552KL",
-      "price": null,
+      "price": "11490",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-go-zb552kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
       "serial_number": 20,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 2, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone Go ZB552KL",
+          "Device Type": "Smartphone",
+          "Release Date": "05 May 2017",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v6.0",
+          "User Interface": "ZenUI",
+          "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+          "CPU": "Quad-core 1.2 GHz Cortex-A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 306"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (83.4 cm2)",
+          "Resolution": "1720x1280 px (FHD+)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "267 ppi",
+          "Screen to Body Ratio": "71.2%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "153.4 mm",
+          "Width": "76.4 mm",
+          "Thickness": "10.9 mm",
+          "Weight": "168 grams",
+          "Colors": "Charcoal Black, Pearl White, Glamor Red, Sheer Gold, Glacier Gray, Silver Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3000 mAh",
+          "Placement": "Non-removable",
+          "Standby": "Up to 480 Hours(2G)",
+          "Talk Time": "Up to 16 h (3G)"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Storage Type": "eMMC 4.5",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Dual SIM (Micro-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-back-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-side-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-b",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-psilver-blue-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-charcoal-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-glacier-gray-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb552kl-official-pearl-white-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_3_max_zc520tl",
       "name": "Asus Zenfone 3 Max ZC520TL",
-      "price": null,
+      "price": "12990",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-3-max-zc520tl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 2, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 3 Max ZC520TL",
+          "Device Type": "Smartphone",
+          "Release Date": "04 August 2016",
+          "Status": "Yes"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v7.0",
+          "User Interface": "ZenUI",
+          "Chipset": "Mediatek MT6737M",
+          "CPU": "Quad-core 1.25 GHz Cortex-A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T720MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.2 inches (74.5 cm2)",
+          "Resolution": "720x1280 px",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "282 ppi",
+          "Screen to Body Ratio": "67.7 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "149.5 mm",
+          "Width": "73.7 mm",
+          "Thickness": "8.6 mm",
+          "Weight": "148 grams",
+          "Build": "Aluminum back, aluminum frame",
+          "Colors": "Titanium Grey, Glacier Silver, Sand Gold"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4130 mAh",
+          "Quick Charging": "Reverse wiredCharging",
+          "Placement": "Non-removable",
+          "Standby": "Up to 720 Hours(2G)",
+          "Talk Time": "Up to 20 h (3G)",
+          "Music Play": "Up to 87 h"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 5.0",
+          "Expandable Memory": "Up to 32 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-side-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-side-view-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-sand-gold-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-titanium-grey-image-1.webp"
+      ]
     },
     {
       "id": "asus_zenfone_2_laser_ze601kl",
       "name": "Asus Zenfone 2 Laser ZE601KL",
-      "price": null,
+      "price": "14990",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-2-laser-ze601kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-image.webp",
       "serial_number": 22,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 26, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 2 Laser ZE601KL",
+          "Device Type": "Smartphone",
+          "Release Date": "17 December 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v6.0",
+          "User Interface": "ZenUI",
+          "Chipset": "Qualcomm MSM8939v2 Snapdragon 616",
+          "CPU": "Octa-core (4x1.7 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 405"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.0 inches (99.2 cm2)",
+          "Resolution": "1080x1920 px (FHD+)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "367 ppi",
+          "Screen to Body Ratio": "71.8%",
+          "Screen Protection": "Gorilla Glass v4",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164.6 mm",
+          "Width": "84 mm",
+          "Thickness": "10.6 mm",
+          "Weight": "190  grams",
+          "Colors": "Glacier Gray, Sheer Gold, Glamour Red"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 4.5",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Dual SIM (Micro-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes, with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-fornt-asus-zenfone-2-laser-ze601kl-official-sheer-gold-imageiew-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-fornt-asus-zenfone-2-laser-ze601kl-official-sheer-gold-imageiew-imag",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-glacier-gray-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-glacier-gray-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-glacier-gray-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-sheer-gold-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze601kl-official-glamour-red-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_live_zb501kl",
@@ -1521,7 +3182,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-live-zb501kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-back-image-2.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
@@ -1630,21 +3291,153 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-back-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-navy-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-navy-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-navy-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-pink-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-live-zb501kl-official-shimmer-gold-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_3_max_zc553kl",
       "name": "Asus Zenfone 3 Max ZC553KL",
-      "price": null,
+      "price": "14490",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-3-max-zc553kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 2, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 3 Max ZC553KL",
+          "Device Type": "Smartphone",
+          "Release Date": "04 November 2016",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1",
+          "User Interface": "ZenUI",
+          "Chipset": "Qualcomm MSM8937 Snapdragon 430",
+          "CPU": "Octa-core 1.4 GHz Cortex-A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 505"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (83.4 cm2)",
+          "Resolution": "1080x1920 px (FHD+)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "72.3%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "151.4 mm",
+          "Width": "76.2 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "175 grams",
+          "Build": "Aluminum back, aluminum frame",
+          "Colors": "Titanium Gray, Glacier Silver, Rose Pink, Sand Gold"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4100 mAh",
+          "Quick Charging": "18W wired 2.5W reverse wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 912 h (3G)",
+          "Talk Time": "Up to 17 h (3G)",
+          "Music Play": "Up to 72 h"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Hybrid Dual SIM (Nano-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes, with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-titanium-gray-back-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc520tl-official-titanium-grey-image-1_1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-sand-gold-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3-max-zc553kl-official-rose-"
+      ]
     },
     {
       "id": "asus_zenfone_selfie_zd551kl",
@@ -1653,7 +3446,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-selfie-zd551kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
       "serial_number": 25,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
@@ -1690,13 +3483,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0, Wide Angle, Primary Camera",
@@ -1710,6 +3496,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -1761,7 +3554,16 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-1.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-back-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-aqua-blue-front-image-2.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-selfie-zd551kl-official-pure-white-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_3s_max_zc521tl",
@@ -1770,7 +3572,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-3s-max-zc521tl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-gold-image.webp",
       "serial_number": 26,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
@@ -1807,10 +3609,6 @@
           "Notch": "Yes"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP Primary Camera"
-          },
           "Primary Camera": {
             "Camera Setup": "Single",
             "Resolution": "13 MP, f/2.0 Primary Camera",
@@ -1823,6 +3621,10 @@
             "Camera Features": "Flashlight, Face beauty",
             "Video Recording": "1280x720",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera"
           }
         },
         "Design": {
@@ -1878,7 +3680,17 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-gold-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-gold-image.webp",
+        "https://www.mobiledokan.com/media/the-asus-zenfone-3s-max-zc521tl-front-image.webp",
+        "https://www.mobiledokan.com/media/the-asus-zenfone-3s-max-zc521tl-back-side-image.webp",
+        "https://www.mobiledokan.com/media/the-asus-zenfone-3s-max-zc521tl-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-3s-max-zc521tl-gold-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_go_zb500kl",
@@ -1887,7 +3699,7 @@
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-go-zb500kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
       "updated_on": "August 29, 2024",
       "variants": [],
@@ -1995,20 +3807,133 @@
           "Features": "Proximity sensor, Accelerometer, Compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-blue-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kl-red-official-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_go_zb500kg",
       "name": "Asus Zenfone GO ZB500KG",
-      "price": null,
+      "price": "6990",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-go-zb500kg",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kg-image.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 29, 2024",
       "variants": [],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone GO ZB500KG",
+          "Device Type": "Smartphone",
+          "Release Date": "20 October 2016",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.1 (Lollipop)",
+          "User Interface": "Zen UI",
+          "Chipset": "Qualcomm Snapdragon 200 MSM8212",
+          "CPU": "Quad core, 1.2 GHz, Cortex A7",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 302"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "480x854 px",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "196 ppi",
+          "Screen to Body Ratio": "66.69 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "144 mm",
+          "Width": "71.6 mm",
+          "Thickness": "11.9 mm",
+          "Weight": "170 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Black, Blue, Gold, Red, Silver, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2600 mAh",
+          "Placement": "Removable",
+          "Standby": "Up to 440 h (3G)",
+          "Talk Time": "Up to 9 h (3G)"
+        },
+        "Memory": {
+          "Internal Storage": "8 GB",
+          "Storage Type": "eMMC 4.5",
+          "Expandable Memory": "Up to 128 GB",
+          "RAM": "1 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Dual SIM (Dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Proximity sensor, Accelerometer, Compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kg-image.webp",
         "https://www.mobiledokan.com/media/asus-zenfone-go-zb500kg-image.webp",
@@ -2025,30 +3950,252 @@
     {
       "id": "asus_zenfone_2_ze500cl",
       "name": "Asus Zenfone 2 ZE500CL",
-      "price": null,
+      "price": "18500",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-2-ze500cl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
       "serial_number": 29,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 30, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 2 ZE500CL",
+          "Device Type": "Smartphone",
+          "Release Date": "05 March 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.0 (Lollipop)",
+          "Chipset": "Intel Atom Z2560",
+          "CPU": "Dual-core 1.6 GHz",
+          "CPU Cores": "2 Cores",
+          "GPU": "PowerVR SGX 544MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "64.93 %",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Digital Zoom,\r\nFace detection",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "2 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "148.1 mm",
+          "Width": "71.5 mm",
+          "Thickness": "10.9 mm",
+          "Weight": "155 grams",
+          "Colors": "Black, Red, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "2500 mAh",
+          "Placement": "Non-removable",
+          "Standby": "Up to 360 Hours(3G)",
+          "Talk Time": "Up to 28 Hours(3G)"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 64 GB",
+          "USB OTG": "Yes",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Single SIM, GSM",
+          "SIM Size": "SIM1: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Proximity sensor, Accelerometer, Compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-red-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-black-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-red-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze500cl-red.webp"
+      ]
     },
     {
       "id": "asus_zenfone_2_laser_ze550kl",
       "name": "Asus Zenfone 2 Laser ZE550KL",
-      "price": null,
+      "price": "12390",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-2-laser-ze550kl",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 2, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 2 Laser ZE550KL",
+          "Device Type": "Smartphone",
+          "Release Date": "11 September 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.0 (Lollipop)",
+          "User Interface": "Zen UI",
+          "Chipset": "Qualcomm Snapdragon 410 MSM8916",
+          "CPU": "Quad core, 1.2 GHz, Cortex A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 306"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "267 ppi",
+          "Screen to Body Ratio": "70.67",
+          "Screen Protection": "Corning Gorilla Glass v4",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Primary Camera",
+            "Autofocus": "Laser autofocus",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "152.5 mm",
+          "Width": "77.2 mm",
+          "Thickness": "10.8 mm",
+          "Weight": "170 grams",
+          "Colors": "Black, Red, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3000 mAh",
+          "Placement": "Removable"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "SAR Value": "Head: 0.361 W/kg, Body: 0.313 W/kg",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Proximity sensor, Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-white-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-laser-ze550kl-black-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_max_zc550kl",
@@ -2184,16 +4331,131 @@
     {
       "id": "asus_zenfone_2_ze551ml",
       "name": "Asus Zenfone 2 ZE551ML",
-      "price": null,
+      "price": "12490",
       "url": "https://www.mobiledokan.com/mobile/asus-zenfone-2-ze551ml",
       "image_url": "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-02 06:45:19",
+      "last_updated": "2026-01-03 06:36:16",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 31, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Asus",
+          "Model": "Zenfone 2 ZE551ML",
+          "Device Type": "Smartphone",
+          "Release Date": "06 March 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.0 (Lollipop)",
+          "User Interface": "Zen UI",
+          "Chipset": "Intel Atom Z3560",
+          "CPU": "Quad core, 1.8 GHz",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "PowerVR G6430"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "1080x1920 px (FULL HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "401 ppi",
+          "Screen to Body Ratio": "70.67 %",
+          "Screen Protection": "Corning Gorilla Glass v3",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.0, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Dual-color LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Digital Zoom,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "152.5 mm",
+          "Width": "77.2 mm",
+          "Thickness": "10.9 mm",
+          "Weight": "170 grams",
+          "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+          "Colors": "Silver"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3000 mAh",
+          "Quick Charging": "18W wired, 60% in 40 min (advertised)",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Dual SIM (Micro-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-front-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-back-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-side-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-down-view.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp",
+        "https://www.mobiledokan.com/media/asus-zenfone-2-ze551ml-official-image.webp"
+      ]
     },
     {
       "id": "asus_zenfone_12_ultra",
