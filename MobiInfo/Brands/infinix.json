@@ -4,7 +4,7 @@
     "name": "infinix",
     "url": "https://www.mobiledokan.com/mobile-brand/infinix",
     "image_url": null,
-    "last_updated": "2026-01-12 06:38:09",
+    "last_updated": "2026-01-13 06:34:49",
     "total_phones": 115,
     "first_scraped": "2025-09-11 09:00:41",
     "new_phones_this_run": 0,
@@ -2643,10 +2643,21 @@
       "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-5g-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/1710239904HFdhp.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-12 06:38:09",
+      "last_updated": "2026-01-13 06:34:49",
       "first_scraped": null,
       "updated_on": "March 13, 2025",
-      "variants": [],
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.39,990",
+          "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-5g-12gb-256gb"
+        },
+        {
+          "name": "8GB+256GB",
+          "price": "৳.36,990",
+          "url": "https://www.mobiledokan.com/mobile/infinix-zero-30-5g"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Infinix",
@@ -2766,7 +2777,18 @@
           "Features": "Proximity sensor, Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710239904HFdhp.webp",
+        "https://www.mobiledokan.com/media/1710239904HFdhp.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-front-side-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-back-side-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-side-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-golden-hour-official-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-golden-hour-official-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-golden-hour-official-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-rome-green-official-image.webp",
+        "https://www.mobiledokan.com/media/infinix-zero-30-5g-purple-image.webp"
+      ]
     },
     {
       "id": "infinix_hot_30i",
