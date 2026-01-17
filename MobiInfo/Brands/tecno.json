@@ -4,11 +4,11 @@
     "name": "tecno",
     "url": "https://www.mobiledokan.com/mobile-brand/tecno",
     "image_url": null,
-    "last_updated": "2026-01-16 06:35:05",
+    "last_updated": "2026-01-17 06:35:45",
     "total_phones": 143,
     "first_scraped": "2025-09-11 09:05:28",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 25
   },
   "phones": [
     {
@@ -158,275 +158,30 @@
     {
       "id": "tecno_pova_5g",
       "name": "Tecno Pova 5G",
-      "price": "16000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-5g",
       "image_url": "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "June 28, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Tecno Pova 5G",
-          "Device Type": "Smartphone",
-          "Release Date": "Exp. 27 December 2021",
-          "Status": "Upcoming"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "MediaTek Dimensity 900 MT6877",
-          "CPU": "Octa core (2.4 GHz, Dual core, Cortex A78 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G68 MC4"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "389 ppi",
-          "Screen to Body Ratio": "83.79 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.6, Wide Angle, Primary Camera\r\n2 MP, Macro Camera",
-            "Autofocus": "Yes",
-            "Flash": "Quad LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "172.8 mm",
-          "Width": "78.2 mm",
-          "Thickness": "9 mm",
-          "Colors": "Aether Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "Fast 18W: 50 % in 33 minutes",
-          "Placement": "Non-removable",
-          "Standby": "Up to 775 Hours(2G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 3.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR5"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30/60fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-full-disply-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-cha",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5g-aether-black-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_5_pro",
       "name": "Tecno Spark 5 Pro",
-      "price": "10990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-5-pro",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-5-pro-seabed-blue-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2025-12-23 06:35:33",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "December 12, 2024",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 5 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "13 July 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "HIOS 6.1",
-          "Chipset": "Mediatek MT6762D Helio A25",
-          "CPU": "Octa-core (4x1.8 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "266 ppi",
-          "Screen to Body Ratio": "83.69 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "16 MP f/1.8, Primary Camera, 2 MP, Depth Camera, 2 MP, Macro Camera, 0.03 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "Quad LED Flash",
-            "Image Resolution": "4616 x 3464 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "164.7 mm",
-          "Width": "76.3 mm",
-          "Thickness": "8.7 mm",
-          "Weight": "192 grams",
-          "Colors": "Ice Jadeite, Spark Orange, Seabed Blue, Cloud White"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "5000 mAh",
-          "Placement": "Non-removable",
-          "Standby": "430 Hours",
-          "Talk Time": "16 Hours",
-          "Music Play": "17 Hours"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes, with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-seabed-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-seabed-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-ice-jadeite-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-ice-jadeite-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-ice-jadeite-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-spark-orange-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-seabed-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-5-pro-cloud-white-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_20c_8gb_ram",
@@ -587,7 +342,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-6",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-6-misty-violet-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "December 22, 2024",
       "variants": [],
@@ -697,17 +452,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-spark-6-misty-violet-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-misty-violet-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-ocean-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-ocean-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-ocean-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-comet-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-dynamic-orabge-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-6-misty-violet-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_pop_7",
@@ -716,7 +461,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-pop-7",
       "image_url": "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
       "serial_number": 6,
-      "last_updated": "2025-12-23 06:35:33",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
@@ -835,18 +580,7 @@
           "Features": "Fingerprint (rear-mounted), accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
-        "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-7-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-7-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-7-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-7-side-view.webp",
-        "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
-        "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
-        "https://www.mobiledokan.com/media/1710413108LsR7q.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-7-black-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_go_2024",
@@ -855,7 +589,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-go-2024",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-go-2024-magic-skin-green-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "October 9, 2024",
       "variants": [
@@ -986,21 +720,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-magic-skin-green-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-magic-skin-green-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-notch-side-ima",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-mystery-white-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-magic-skin-green-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2024-alpenglow-gold-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_10_pro",
@@ -1009,7 +729,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-10-pro",
       "image_url": "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "March 15, 2025",
       "variants": [
@@ -1135,18 +855,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
-        "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
-        "https://www.mobiledokan.com/media/1712483050h1s6Z.webp",
-        "https://www.mobiledokan.com/media/1712483044ooxnG.webp",
-        "https://www.mobiledokan.com/media/1712483037JYZkc.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-10-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
-        "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
-        "https://www.mobiledokan.com/media/1712480274ef7y9.webp",
-        "https://www.mobiledokan.com/media/1712481776Wkdf4.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_camon_20",
@@ -1155,7 +864,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-camon-20",
       "image_url": "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "June 3, 2024",
       "variants": [
@@ -1284,19 +993,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-predawn-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-glacier-glow-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-serenity-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_pova_4",
@@ -1305,7 +1002,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-4",
       "image_url": "https://www.mobiledokan.com/media/tecno-pova-4-uranolith-grey-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "March 16, 2025",
       "variants": [
@@ -1427,17 +1124,7 @@
           "Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-pova-4-uranolith-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-uranolith-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-front-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-back-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-side-image.webp",
-        "https://www.mobiledokan.com/media/171043731446l5V.webp",
-        "https://www.mobiledokan.com/media/171043731446l5V.webp",
-        "https://www.mobiledokan.com/media/171043731446l5V.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-uranolith-grey-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_20_pro_plus",
@@ -1446,7 +1133,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-20-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "October 9, 2024",
       "variants": [],
@@ -1567,174 +1254,33 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
-        "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-full-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-full-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
-        "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
-        "https://www.mobiledokan.com/media/1712491529X2pOx.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-temporal-orbits.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-lunar-frost-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-pro-plus-radiant-starstream-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_phantom_v_flip_5g",
       "name": "Tecno Phantom V Flip 5G",
-      "price": "59500",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-phantom-v-flip-5g",
       "image_url": "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
+      "updated_on": null,
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Phantom V Flip 5G",
-          "Device Type": "Smartphone",
-          "Release Date": "01 November 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "HiOS13.5",
-          "Chipset": "MediaTek Dimensity 8050",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G77 MC9"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.9 inches (17.53 cm)",
-          "Resolution": "1080x2640 px (FHD+)",
-          "Pixel Density": "413 ppi",
-          "Screen to Body Ratio": "84.6%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1000 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Cover display:\r\nAMOLED\r\n1.32 inches, 466 x 466 pixels, 352 ppi, 800 nits (peak)"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "64 MP, f/1.7, Wide Angle, Primary Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Flash": "LED flash",
-            "Video Recording": "1920x1080, 1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          }
-        },
-        "Design": {
-          "Height": "88.8 mm",
-          "Width": "74.1 mm",
-          "Thickness": "15 mm",
-          "Weight": "194 grams",
-          "Build": "Eco leather back, aluminum frame, steel hinge",
-          "Colors": "Iconic Black, Mystic Dawn"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4000 mAh",
-          "Quick Charging": "45W wired, 50% in 15 min",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.1",
-          "GPS": "with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "DTS Sound",
-          "Video": "4K@30fps, 1080p@30/60fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity (incl. for accessories), compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
-        "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-v-flip-5g-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-v-flip-5g-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-v-flip-5g-product-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-v-flip-5g-side-image.webp",
-        "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
-        "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
-        "https://www.mobiledokan.com/media/1710580403Z5J1j.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-v-flip-5g-mystic-dawn-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_pova_5_pro",
       "name": "Tecno Pova 5 Pro",
-      "price": "19990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-5-pro",
       "image_url": "https://www.mobiledokan.com/media/1710582790abmHh.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.19,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-pova-5-pro"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Tecno",
@@ -1848,18 +1394,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710582790abmHh.webp",
-        "https://www.mobiledokan.com/media/1710582790abmHh.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5-pro-side-view.webp",
-        "https://www.mobiledokan.com/media/1710582790abmHh.webp",
-        "https://www.mobiledokan.com/media/1710582790abmHh.webp",
-        "https://www.mobiledokan.com/media/1710582790abmHh.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-5-pro-silver-fantasy-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_10c",
@@ -2009,145 +1544,16 @@
     {
       "id": "tecno_spark_go_2023",
       "name": "Tecno Spark Go 2023",
-      "price": "11990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-go-2023",
       "image_url": "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.11,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-go-2023"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark Go 2023",
-          "Device Type": "Smartphone",
-          "Release Date": "24 January 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "HiOS",
-          "Chipset": "MediaTek Helio A22",
-          "CPU": "Quad core, 2 GHz, Cortex A53",
-          "CPU Cores": "4 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.66 cm)",
-          "Resolution": "HD+ 720 x 1600 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "84.01 %",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop",
-          "Features": "Multitouch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP f/1.85, Wide Angle, Primary Camera, 0.08 MP",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.85",
-            "Camera Features": "Digital Zoom\r\nAuto Flash\r\nFace detection\r\nTouch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.0, Primary Camera",
-            "Flash": "Dual LED",
-            "Camera Features": "Dual LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.8 mm",
-          "Width": "75.5 mm",
-          "Thickness": "8.9 mm",
-          "Build": "Glass front, plastic body",
-          "Colors": "Orange, Endless Black, Uyuni Blue, Nebula Purple",
-          "Waterproof": "Yes, Splash proof, IPX2",
-          "IP Rating": "IPX2"
-        },
-        "Battery": {
-          "Battery type": "Li-Polymer",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "2.0, OTG"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Yes, Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual Nano SIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
-          "Bluetooth": "v5",
-          "GPS": "with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "No",
-          "USB": "USB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Yes",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1920x1080"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Fingerprint (rear-mounted), accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
-        "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2023-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2023-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2023-side-image.webp",
-        "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
-        "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
-        "https://www.mobiledokan.com/media/1710586947qVl1f.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2023-black-color-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-go-2023-orange-color-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_camon_20_pro",
@@ -2295,138 +1701,15 @@
     {
       "id": "tecno_spark_6_go",
       "name": "Tecno Spark 6 Go",
-      "price": "9000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-6-go",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-6-go-mystery-white-image.webp",
       "serial_number": 17,
-      "last_updated": "2025-11-26 06:32:07",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "October 29, 2024",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.9,000",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-6-go"
-        },
-        {
-          "name": "3GB+64GB",
-          "price": "৳.9,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-6-go-64gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 6 Go",
-          "Device Type": "Smartphone",
-          "Release Date": "01 October 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "HiOS",
-          "Chipset": "MediaTek Helio A22",
-          "CPU": "Quad core, 2 GHz, Cortex A53",
-          "CPU Cores": "4 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.52 inches",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "81.23 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP f/1.8, Primary Camera, 0.08 MP",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "4 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "165.6 mm",
-          "Width": "76.3 mm",
-          "Thickness": "9.1 mm",
-          "Weight": "193 grams",
-          "Build": "Glass front, plastic body",
-          "Colors": "Mystery White, Ice Jadeite, Aqua Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Ion (Lithium Ion)",
-          "Capacity": "5000 mAh",
-          "Placement": "Non-removable",
-          "Standby": "Up to 864 Hours(2G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "SAR Value": "Head: 1.233 W/kg, Body: 0.493 W/kg",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v4.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/tecno-spark-6-go-mystery-white-image.webp",
         "https://www.mobiledokan.com/media/tecno-spark-6-go-mystery-white-image.webp",
@@ -2443,149 +1726,16 @@
     {
       "id": "tecno_spark_20",
       "name": "Tecno Spark 20",
-      "price": "16999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-20",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-20-cyber-white-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 22, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.16,999",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-20"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 20",
-          "Device Type": "Smartphone",
-          "Release Date": "01 December 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "HiOS",
-          "Chipset": "MediaTek Helio G85",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "84.98 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.6, Wide Angle, Primary Camera, 0.08 MP",
-            "Autofocus": "Yes",
-            "Flash": "LED flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.6",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080, 2560x1440",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.2, Wide Angle, Primary Camera",
-            "Flash": "Dual LED",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "163.69 mm",
-          "Width": "75.6 mm",
-          "Thickness": "8.45 mm",
-          "Weight": "194 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Gravity Black, Cyber White, Neon Gold, Magic Skin 2.0 (Blue)",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IP53",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.2",
-          "GPS": "with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "1440p@30fps, 1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-spark-20-cyber-white-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-cyber-white-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark",
-        "https://www.mobiledokan.com/media/tecno-spark-20-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-cyber-white-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-magic-skin-20-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20-neon-gold-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_10c_8gb_ram",
@@ -2594,7 +1744,7 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-10c-8gb-ram",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-10c-green-official-image_1.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
@@ -2609,115 +1759,7 @@
           "url": "https://www.mobiledokan.com/mobile/tecno-spark-10c"
         }
       ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 10C (8GB RAM)",
-          "Device Type": "Smartphone",
-          "Release Date": "29 March 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "HiOS 8.6",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa-core, up to 1.6 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "HD+ 720 x 1612 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "85.15 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16 MP, Wide Angle, Primary Camera, 0.08 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4616 x 3464 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR) Macro Mode",
-            "Aperture": "f/2.0",
-            "Camera Features": "PDAF, dual-LED flash, HDR & more",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Wide Angle, Primary Camera",
-            "Flash": "LED Flash",
-            "Camera Features": "Wide Angle",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.8 mm",
-          "Width": "75.4 mm",
-          "Thickness": "8.5 mm",
-          "Build": "Glass front, plastic body",
-          "Colors": "Meta Green, Meta Black, Meta Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W Quick Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 1 TB",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Yes",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/tecno-spark-10c-green-official-image_1.webp",
         "https://www.mobiledokan.com/media/tecno-spark-10c-green-official-image_1.webp",
@@ -2881,561 +1923,57 @@
     {
       "id": "tecno_spark_20c",
       "name": "Tecno Spark 20C",
-      "price": "11999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-20c",
       "image_url": "https://www.mobiledokan.com/media/1712394556xFD1g.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "May 6, 2024",
-      "variants": [
-        {
-          "name": "4GB+128GB",
-          "price": "৳.11,999",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-20c"
-        },
-        {
-          "name": "8GB+128GB",
-          "price": "৳.13,499",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-20c-8gb-ram"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 20C",
-          "Device Type": "Smartphone",
-          "Release Date": "15 December 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "ColorOS",
-          "Chipset": "MediaTek Helio G36",
-          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A53 + 1.8 GHz, Quad core, Cortex A53)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "720 x 1612 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "85.03 %",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90Hz",
-          "Notch": "Punch-hole",
-          "Features": "90Hz Refresh Rate"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.6, Wide Angle, Primary Camera, 0.08 MP",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR) Macro Mode",
-            "Aperture": "f/1.6",
-            "Camera Features": "Digital Zoom Auto Flash Face detection Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.6 mm",
-          "Width": "75.6 mm",
-          "Thickness": "8.5 mm",
-          "Weight": "185 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Gravity Black, Mystery White, Alpenglow Gold, Magic Skin Green"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W Fast Charging",
-          "Placement": "Non-removable",
-          "Standby": "Up to 600 Hours(2G)",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Expandable Memory": "Yes, Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "Yes",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712394556xFD1g.webp",
-        "https://www.mobiledokan.com/media/1712394556xFD1g.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-full-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-full-back-side-mounted-fingerprint-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-full-display.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-gravity-black-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-alpenglow-gold-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-20c-magic-skin-green-official-image.webp",
-        "https://www.mobiledokan.com/media/1712394556xFD1g.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_pova_4_pro",
       "name": "Tecno Pova 4 Pro",
-      "price": "26990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-pova-4-pro",
       "image_url": "https://www.mobiledokan.com/media/1712307924B8zxk.webp",
       "serial_number": 22,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 23, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.26,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-pova-4-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Pova 4 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "10 October 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "HiOS",
-          "Chipset": "MediaTek Helio G99",
-          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.66 inches (16.92 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "403 ppi",
-          "Screen to Body Ratio": "83.18 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.8, Primary Camera, 0.08 MP, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Digital Zoom, Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "2560x1440",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.7 mm",
-          "Width": "77 mm",
-          "Thickness": "9.1 mm",
-          "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Fluorite Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "6000 mAh",
-          "Quick Charging": "Super, 45W: 50 % in 24 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1440p@30fps, 1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712307924B8zxk.webp",
-        "https://www.mobiledokan.com/media/1712307924B8zxk.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-pro-back-image_2.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-profluorite-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-profluorite-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pova-4-profluorite-blue-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_camon_20_pro_5g_mr_doodle_edition",
       "name": "Tecno Camon 20 Pro 5G Mr Doodle Edition",
-      "price": "24999",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-camon-20-pro-5g-mr-doodle-edition",
       "image_url": "https://www.mobiledokan.com/media/1712384449ATlgQ.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 23, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.24,999",
-          "url": "https://www.mobiledokan.com/mobile/tecno-camon-20-pro-5g-mr-doodle-edition"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Camon 20 Pro 5G Mr Doodle Edition",
-          "Device Type": "Smartphone",
-          "Release Date": "15 August 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "HIOS",
-          "Chipset": "Mediatek Dimensity 8050",
-          "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G77 MC9"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.67 inches (105.6 cm2)",
-          "Resolution": "1080x2400 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "403 ppi",
-          "Screen to Body Ratio": "86.2%",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP, f/1.7, 26mm, Wide Angle, Primary Camera, 2 MP, f/2.4, Macro Angle Camera, 2 MP f/2.2, Depth Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Ring-LED flash, AR3.5, Exposure compensation, ISO control, Continuous Shooting, High Dynamic Range mode (HDR), Digital Zoom, Auto Flash, Face detection, Touch to focus, Phase Detection autofocus, Panorama",
-            "Video Recording": "1080x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, 24mm, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Camera Features": "HDR, Wide Angle",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.5"
-          }
-        },
-        "Design": {
-          "Build": "Glass Front & Plastic Back",
-          "Colors": "Mr Doodle Edition Day/Night"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A, 5G",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "4K@30fps, 1080p@30fps, HDR",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712384449ATlgQ.webp",
-        "https://www.mobiledokan.com/media/1712384449ATlgQ.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-side-view.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-night-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-night-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-night-image.webp",
-        "https://www.mobiledokan.com/media/tecno-camon-20-pro-5g-mr-doodle-edition-day-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_8_pro",
       "name": "Tecno Spark 8 Pro",
-      "price": "14490",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 24, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.14,490",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.15,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro-6gb-ram"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 8 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "15 November 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "HIOS 7.6",
-          "Chipset": "MediaTek Helio G85",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20.5:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "84.73 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "500 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, 0.03 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "169 mm",
-          "Width": "76.8 mm",
-          "Thickness": "8.77 mm",
-          "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Komodo Island, Interstellar Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
         "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
@@ -3452,136 +1990,15 @@
     {
       "id": "tecno_spark_8_pro_6gb_ram",
       "name": "Tecno Spark 8 Pro (6GB RAM)",
-      "price": "15990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro-6gb-ram",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 24, 2025",
-      "variants": [
-        {
-          "name": "6GB+128GB",
-          "price": "৳.15,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro-6gb-ram"
-        },
-        {
-          "name": "4GB+64GB",
-          "price": "৳.14,490",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-8-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Tecno Spark 8 Pro (6GB RAM)",
-          "Device Type": "Smartphone",
-          "Release Date": "15 November 2021",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "HIOS 7.6",
-          "Chipset": "MediaTek Helio G85",
-          "CPU": "Octa core (2 GHz, Dual core, Cortex A75 + 1.8 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MC2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.8 inches (17.27 cm)",
-          "Resolution": "1080x2460 px (FHD+)",
-          "Aspect Ratio": "20.5:9",
-          "Pixel Density": "395 ppi",
-          "Screen to Body Ratio": "84.73 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "500 nits",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, f/2.4, Depth Camera, 0.03 MP, Camera",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Dual-LED flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "169 mm",
-          "Width": "76.8 mm",
-          "Thickness": "8.77 mm",
-          "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Komodo Island, Interstellar Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 512 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
         "https://www.mobiledokan.com/media/tecno-spark-8-pro-komodo-island-official-image.webp",
@@ -3750,9 +2167,9 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-phantom-x",
       "image_url": "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 24, 2025",
+      "updated_on": null,
       "variants": [
         {
           "name": "8GB+256GB",
@@ -3793,6 +2210,14 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "48 MP f/2.2, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle (105° field-of-view) Camera",
+            "Flash": "Yes, Dual LED",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.85, Primary Camera,13 MP f/2.4, 8 MP f/2.3, Ultra-Wide Angle Camera",
@@ -3806,14 +2231,6 @@
             "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160,1920x1080",
             "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "48 MP f/2.2, Wide Angle, Primary Camera, 8 MP f/2.2, Ultra-Wide Angle (105° field-of-view) Camera",
-            "Flash": "Yes, Dual LED",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3871,17 +2288,7 @@
           "Features": "Accelerometer, gyro, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-front-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-back-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-starry-night-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-phantom-x-monet-summer-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_pop_5_lte",
@@ -3890,21 +2297,10 @@
       "url": "https://www.mobiledokan.com/mobile/tecno-pop-5-lte",
       "image_url": "https://www.mobiledokan.com/media/tecno-pop-5-lte-deepsea-luster-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
       "updated_on": "March 25, 2025",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.9,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-pop-5-lte"
-        },
-        {
-          "name": "3GB+32GB",
-          "price": "৳.10,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-pop-5-lte-3gb-ram"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Tecno",
@@ -4016,18 +2412,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-deepsea-luster-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-deepsea-luster-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-front-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-back-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-turquoise-cyan-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-turquoise-cyan-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-turquoise-cyan-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-ice-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-5-lte-deepsea-luster-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "tecno_pop_5_lte_3gb_ram",
@@ -4175,421 +2560,44 @@
     {
       "id": "tecno_pop_6_pro",
       "name": "Tecno Pop 6 Pro",
-      "price": "9490",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-pop-6-pro",
       "image_url": "https://www.mobiledokan.com/media/17134544989vYIL.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "March 25, 2025",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.9,490",
-          "url": "https://www.mobiledokan.com/mobile/tecno-pop-6-pro"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Pop 6 Pro",
-          "Device Type": "Smartphone",
-          "Release Date": "08 September 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "Android Go",
-          "Chipset": "MediaTek Helio A22",
-          "CPU": "Quad core, 2 GHz, Cortex A53",
-          "CPU Cores": "4 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8300"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.66 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "82.74 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP f/2.0, Primary Camera, 0.08 MP",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.0",
-            "Camera Features": "Dual-LED flash, HDR",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.0, Primary Camera",
-            "Flash": "LED Flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "164.8 mm",
-          "Width": "76.2 mm",
-          "Thickness": "8.7 mm",
-          "Weight": "195  grams",
-          "Build": "Glass front, plastic frame, plastic back",
-          "Colors": "Peaceful Blue, Polar Black",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IPX2"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Fast Charging",
-          "Placement": "Non-removable",
-          "Standby": "Up to 1008 Hours(2G)"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "2 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "No",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17134544989vYIL.webp",
-        "https://www.mobiledokan.com/media/17134544989vYIL.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-6-pro-front-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-6-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-6-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/17134544989vYIL.webp",
-        "https://www.mobiledokan.com/media/17134544989vYIL.webp",
-        "https://www.mobiledokan.com/media/17134544989vYIL.webp",
-        "https://www.mobiledokan.com/media/tecno-pop-6-pro-peaceful-blue-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_spark_8c",
       "name": "Tecno Spark 8C",
-      "price": "12990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-spark-8c",
       "image_url": "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "January 11, 2025",
-      "variants": [
-        {
-          "name": "3GB+64GB",
-          "price": "৳.12,990",
-          "url": "https://www.mobiledokan.com/mobile/tecno-spark-8c"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Spark 8C",
-          "Device Type": "Smartphone",
-          "Release Date": "24 February 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "User Interface": "Android Go",
-          "Chipset": "Unisoc T606",
-          "CPU": "Octa core (1.6 GHz, Dual core, Cortex A75 + 1.6 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "84.12 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP f/1.8, Wide Angle (77° field-of-view), Primary Camera, 0.08 MP",
-            "Autofocus": "Yes",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "4 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Flash": "LED Flash"
-          }
-        },
-        "Design": {
-          "Height": "164.5 mm",
-          "Width": "76 mm",
-          "Thickness": "8.9 mm",
-          "Weight": "193 grams",
-          "Colors": "Turquoise Cyan, Magnet Black, Iris Purple, Diamond Grey",
-          "Waterproof": "Splash proof",
-          "IP Rating": "IPX2"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Fast Charging",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "DTS Sound",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-front-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-back-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-left-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-right-side-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-turquoise-cyan-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-magnet-black-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-iris-purple-image.webp",
-        "https://www.mobiledokan.com/media/tecno-spark-8c-diamond-grey-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_phantom_v_fold",
       "name": "Tecno Phantom V Fold",
-      "price": "130000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/tecno-phantom-v-fold",
       "image_url": "https://www.mobiledokan.com/media/1713705733VTOUI.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-03 06:32:15",
+      "last_updated": "2026-01-17 06:35:45",
       "first_scraped": null,
-      "updated_on": "April 24, 2024",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.130,000",
-          "url": "https://www.mobiledokan.com/mobile/tecno-phantom-v-fold"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Tecno",
-          "Model": "Phantom V Fold",
-          "Device Type": "Smartphone",
-          "Release Date": "12 April 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "HiOS",
-          "Chipset": "MediaTek Dimensity 9000 Plus",
-          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.85 GHz, Tri core, Cortex A710 + 1.8 GHz, Quad core, Cortex A510 + Quad core)",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Mali-G710 MC10"
-        },
-        "Display": {
-          "Display Type": "LTPO AMOLED",
-          "Screen Size": "7.85 inches (19.94 cm)",
-          "Resolution": "2000x2296 px (QHD+)",
-          "Pixel Density": "388 ppi",
-          "Screen to Body Ratio": "87.97 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "1100 nits",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "50 MP f/1.85, Wide Angle, Primary Camera, 13 MP f/2.2, Ultra-Wide Angle Camera,50 MP f/1.98, Telephoto Camera",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "Dual LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.85",
-            "Camera Features": "Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
-            "Video Recording": "3840x2160 ,1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "16 MP f/2.45, Wide Angle, Primary Camera,32 MP f/2.45, Wide Angle Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.45"
-          }
-        },
-        "Design": {
-          "Height": "159.4 mm",
-          "Width": "140.4 mm",
-          "Thickness": "6.9 mm",
-          "Weight": "299 grams",
-          "Colors": "Black, White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Super, 45W: 40 % in 15 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 3.1",
-          "Expandable Memory": "No",
-          "USB OTG": "Yes",
-          "RAM": "12 GB",
-          "RAM Type": "LPDDR5X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Audio Features": "DTS Sound",
-          "Video": "4K@30fps,"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1713705733VTOUI.webp",
-        "https://www.mobiledokan.com/media/1713705733VTOUI.webp",
-        "https://www.mobiledokan.com/media/1713705733VTOUI.webp",
-        "https://www.mobiledokan.com/media/1713705733VTOUI.webp",
-        "https://www.mobiledokan.com/media/1713705733VTOUI.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "tecno_pova_slim",
