@@ -4,7 +4,7 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2026-01-17 06:40:20",
+    "last_updated": "2026-01-18 06:36:19",
     "total_phones": 141,
     "first_scraped": "2025-09-11 09:19:22",
     "new_phones_this_run": 0,
@@ -18,7 +18,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x3",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "March 26, 2025",
       "variants": [
@@ -137,7 +137,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, altimeter, color spectrum, BDS Satellite Message"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-front-full-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-front-fold-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-back-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x3-violet-official-image.webp"
+      ]
     },
     {
       "id": "huawei_nova_11_pro",
@@ -146,12 +160,137 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-11-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Nova 11 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "27 April 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "HarmonyOS",
+          "OS Version": "OS 3.0",
+          "Chipset": "Qualcomm Snapdragon 778G",
+          "CPU": "Octa core (2.4 GHz, Single core, Kryo 670 + 2.4 GHz, Tri core, Kryo 670 + 1.8 GHz, Quad core, Kryo 670)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "6 nm",
+          "GPU": "Adreno 642L"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.78 inches (17.22 cm)",
+          "Resolution": "1200x2652 px (FHD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "429 ppi",
+          "Screen to Body Ratio": "90.97 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP + 8 MP Dual Primary Cameras",
+            "Autofocus": "Phase Detection autofocus, Laser autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation",
+            "Zoom": "10 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "60 MP + 8 MP Dual Front Cameras",
+            "Autofocus": "Yes",
+            "Camera Features": "HDR",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "164.2 mm",
+          "Width": "74.3 mm",
+          "Thickness": "7.8 mm",
+          "Weight": "188 grams",
+          "Colors": "Black, White, Gold, Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4500 mAh",
+          "Quick Charging": "Fast, 100W: 50 % in 15 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Expandable Memory": "No",
+          "USB OTG": "Yes",
+          "RAM": "8GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Audio Features": "With stereo speakers",
+          "Video": "4K, 1080p, 720p@960fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, compass, color spectrum Virtual proximity sensing"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-11-pro-green-official-image.webp"
+      ]
     },
     {
       "id": "huawei_p60",
@@ -445,14 +584,25 @@
     {
       "id": "huawei_p60_pro_12512gb",
       "name": "Huawei P60 Pro (12/512GB)",
-      "price": null,
+      "price": "138000",
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-pro-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
+      "updated_on": "December 30, 2024",
+      "variants": [
+        {
+          "name": "12GB+512GB",
+          "price": "৳.138,000",
+          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb"
+        },
+        {
+          "name": "8GB+256GB",
+          "price": "৳.127,000",
+          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Huawei",
@@ -587,7 +737,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p50-pocket",
       "image_url": "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "May 1, 2024",
       "variants": [
@@ -703,7 +853,13 @@
           "Features": "Android Market, Calculator, World clock, Calendar, Alarm, Document viewer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
+        "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
+        "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
+        "https://www.mobiledokan.com/media/1714385052cQSpB.webp",
+        "https://www.mobiledokan.com/media/1714385052cQSpB.webp"
+      ]
     },
     {
       "id": "huawei_mate_60_pro",
@@ -712,9 +868,9 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "May 5, 2024",
       "variants": [
         {
           "name": "12GB+256GB",
@@ -843,7 +999,10 @@
           "Features": "Accelerometer, gyro, proximity, barometer,, compass, color spectrum, BDS Satellite Calling and Message"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_60_pro_256gb",
@@ -852,7 +1011,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-60-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
@@ -899,13 +1058,6 @@
           "Features": "1B"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Ultra-Wide Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.4-f/4.0, Wide Angle Primary Camera, 48 MP, f/3.5, Periscope Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Camera",
@@ -920,6 +1072,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR, Macro Video, Audio Zoom",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Ultra-Wide Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -983,7 +1142,10 @@
           "Features": "Accelerometer, gyro, proximity, barometer,, compass, color spectrum, BDS Satellite Calling and Message"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-60-pro-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_60_pro_plus",
@@ -1133,15 +1295,135 @@
     {
       "id": "huawei_mate_50_pro",
       "name": "Huawei Mate 50 Pro",
-      "price": null,
+      "price": "127000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-50-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-50-pro-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "May 8, 2024",
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.127,000",
+          "url": "https://www.mobiledokan.com/mobile/huawei-mate-50-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Mate 50 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "28 September 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "HarmonyOS",
+          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
+          "CPU": "Octa core (3.2 GHz, Single core, Cortex X2 + 2.75 GHz, Tri core, Cortex A710 + 2 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 730"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.74 inches (17.12 cm)",
+          "Resolution": "1212x2616 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "428 ppi",
+          "Screen to Body Ratio": "90.92 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Yes",
+          "Features": "16M"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.4-f/4.0, 24mm Wide Angle, Primary Camera, 64 MP, f/3.5, 90mm Periscope Telephoto Camera, 13 MP, f/2.2, 13mm, 120˚ Ultra-Wide Camera",
+            "Autofocus": "Contrast Detection autofocus, Phase Detection autofocus, Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.4-f/4.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus, Dual Video Recording",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, 18mm Ultra-Wide Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.1 mm",
+          "Width": "75.5 mm",
+          "Thickness": "8.5 mm",
+          "Weight": "205 grams",
+          "Colors": "Black, Orange, Silver",
+          "Waterproof": "Water resistant",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4700 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "Super, 66W",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps, 720p@960fps, 720p@3840fps, HDR, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, barometer,, compass, color spectrum, BDS Satellite Message (sending only)"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-mate-50-pro-official-image.webp",
         "https://www.mobiledokan.com/media/huawei-mate-50-pro-official-image.webp"
@@ -1154,7 +1436,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p50-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p50-pro-cocoa-gold-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [],
@@ -1272,7 +1554,21 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-p50-pro-cocoa-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-cocoa-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-golden-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-golden-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-golden-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-cocoa-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-pearl-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p50-pro-charm-pink-official-image.webp"
+      ]
     },
     {
       "id": "huawei_p60_art",
@@ -1281,7 +1577,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-art",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-art-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "May 8, 2024",
       "variants": [
@@ -1404,7 +1700,10 @@
           "Features": "Accelerometer, gyro, proximity, compass, color, spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-p60-art-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p60-art-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_xs",
@@ -1413,7 +1712,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-xs",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-xs.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "May 9, 2024",
       "variants": [
@@ -1532,20 +1831,146 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-xs.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-xs.webp"
+      ]
     },
     {
       "id": "huawei_mate_40_pro",
       "name": "Huawei Mate 40 Pro",
-      "price": null,
+      "price": "85000",
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-40-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "August 15, 2024",
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.85,000",
+          "url": "https://www.mobiledokan.com/mobile/huawei-mate-40-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Mate 40 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "01 November 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "User Interface": "EMUI",
+          "Chipset": "HiSilicon Kirin 9000 5G",
+          "CPU": "Octa core (3.13 GHz, Single core, Cortex A77 + 2.54 GHz, Tri core, Cortex A77 + 2.05 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "5 nm",
+          "GPU": "Mali-G78 MP24"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.76 inches (17.17 cm)",
+          "Resolution": "1344x2772 px (FHD+)",
+          "Aspect Ratio": "18.5:9",
+          "Pixel Density": "456 ppi",
+          "Screen to Body Ratio": "93.52 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 12 MP f/3.4, Periscope Camera, 20 MP, Ultra-Wide Angle Camera",
+            "Autofocus": "Phase Detection autofocus, Laser autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection,. Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP f/2.4, Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "75.5 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "212 grams",
+          "Build": "Back: Mineral Glass",
+          "Colors": "Black, Green, White, Yellow, Mystic Silver",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 2 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust Proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4400 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "Super, 66W",
+          "Reverse Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 3.1",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Barometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps, 720p@960fps, 720p@3840fps, HDR, gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, barometer, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp",
         "https://www.mobiledokan.com/media/huawei-mate-40-pro-official-image.webp"
@@ -1554,16 +1979,141 @@
     {
       "id": "huawei_nova_3i",
       "name": "Huawei Nova 3i",
-      "price": null,
+      "price": "18500",
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-3i",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "January 19, 2025",
+      "variants": [
+        {
+          "name": "4GB+128GB",
+          "price": "৳.22,999",
+          "url": "https://www.mobiledokan.com/mobile/huawei-nova-3i"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Nova 3i",
+          "Device Type": "Smartphone",
+          "Release Date": "August 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1 (Oreo)",
+          "User Interface": "EMUI",
+          "Chipset": "HiSilicon Kirin 710",
+          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A73 + 1.7 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G51 MP4"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.3 inches (16 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "409 ppi",
+          "Screen to Body Ratio": "82.03 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP f/2.2, Primary Camera, 2 MP f/2.2, Depth Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "4616 x 3464 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR) Macro Mode",
+            "Aperture": "f/2.2",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nSmile detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "24 MP f/2.0, Primary Camera, 2 MP, Depth Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "157.6 mm",
+          "Width": "75.2 mm",
+          "Thickness": "7.6 mm",
+          "Weight": "169 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Black, Iris Purple"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3340 mAh",
+          "Quick Charging": "10W Quick Charging",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "User Available Storage": "Up to 113 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (3CA) Cat12 600/150 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz, MIMO",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "USB 2.0, Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-front-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-left-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-right-side-view.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-3i-iris-purple-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_30_pro",
@@ -1572,7 +2122,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-30-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "June 23, 2024",
       "variants": [
@@ -1700,7 +2250,17 @@
           "Features": "Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-front-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-backside-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-side-view.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-30-pro-silver-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_30_pro_5g",
@@ -1854,15 +2414,127 @@
     {
       "id": "huawei_y7p",
       "name": "Huawei Y7p",
-      "price": null,
+      "price": "18999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7p-aurora-blue-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "July 8, 2024",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.18,999",
+          "url": "https://www.mobiledokan.com/mobile/huawei-y7p"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Y7p",
+          "Device Type": "Smartphone",
+          "Release Date": "20 February 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "User Interface": "EMUI",
+          "Chipset": "HiSilicon Kirin 710F",
+          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A73 + 1.7 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G51 MP4"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.39 inches (16.23 cm)",
+          "Resolution": "720x1560 px (HD+)",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "82.24 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP f/1.8, Primary Camera, 8 MP f/2.4, Ultra-Wide Angle Camera, 2 MP f/2.4",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "159.8 mm",
+          "Width": "76.1 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "176 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Midnight Black, Aurora Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "10W Quick Charging",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 512 GB",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-y7p-aurora-blue-official-image.webp",
         "https://www.mobiledokan.com/media/huawei-y7p-aurora-blue-official-image.webp",
@@ -1883,7 +2555,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-nova-7i",
       "image_url": "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "September 27, 2024",
       "variants": [
@@ -2000,34 +2672,265 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-left-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-sakura-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-nova-7i-crush-green-official-image.webp"
+      ]
     },
     {
       "id": "huawei_y6_pro_2019",
       "name": "Huawei Y6 Pro (2019)",
-      "price": null,
+      "price": "11690",
       "url": "https://www.mobiledokan.com/mobile/huawei-y6-pro-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 16, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Y6 Pro",
+          "Device Type": "Smartphone",
+          "Release Date": "20 October 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v 5.1.1 (Lollipop)",
+          "User Interface": "EMUI 3.1 Lite",
+          "Chipset": "Mediatek MT6735P",
+          "CPU": "Quad-core 1.3 GHz Cortex-A53",
+          "CPU Cores": "4 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T720MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD+)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "67.1%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0 Primary Camera",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash,\r\nDigital image stabilization,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera"
+          }
+        },
+        "Design": {
+          "Height": "143.1 mm",
+          "Width": "71.8 mm",
+          "Thickness": "9.7 mm",
+          "Weight": "160 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Gold, Grey, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "10W wired",
+          "Reverse Charging": "Reverse wired",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 64 GB",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Micro, SIM2: Micro",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Finland",
+          "Features": "Proximity sensor, Accelerometer"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-front-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6-pro-2019-midnight-blac-official-image.webp"
+      ]
     },
     {
       "id": "huawei_y7_pro_2019",
       "name": "Huawei Y7 Pro (2019)",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y7-pro-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y7-pro-2019-aurora-blue-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "June 8, 2024",
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.13,999",
+          "url": "https://www.mobiledokan.com/mobile/huawei-y7-pro-2019"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Y7 Pro (2019)",
+          "Device Type": "Smartphone",
+          "Release Date": "January 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v8.1 (Oreo)",
+          "User Interface": "EMUI",
+          "Chipset": "Qualcomm Snapdragon 450",
+          "CPU": "Octa core, 1.8 GHz, Cortex A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "14 nm",
+          "GPU": "Adreno 506"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.26 inches (15.9 cm)",
+          "Resolution": "720x1520 px (HD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "79.65 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP f/1.8, Primary Camera, 2 MP f/2.4",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "158.9 mm",
+          "Width": "76.9 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "168 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Black, Aurora Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "10W Quick Charging",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 512 GB",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-y7-pro-2019-aurora-blue-official-image.webp",
         "https://www.mobiledokan.com/media/huawei-y7-pro-2019-aurora-blue-official-image.webp",
@@ -2047,7 +2950,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-y9s",
       "image_url": "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
       "serial_number": 22,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "June 8, 2024",
       "variants": [
@@ -2166,21 +3069,158 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-left-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-right-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y9s-phantom-purple-official-image.webp"
+      ]
     },
     {
       "id": "huawei_pura_70_pro_plus",
       "name": "Huawei Pura 70 Pro Plus",
-      "price": null,
+      "price": "139900",
       "url": "https://www.mobiledokan.com/mobile/huawei-pura-70-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-silver-official-image.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "April 7, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Pura 70 Pro Plus",
+          "Device Type": "Smartphone",
+          "Release Date": "29 April 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "HarmonyOS",
+          "OS Version": "v4.2",
+          "Chipset": "HiSilicon Kirin 9010",
+          "CPU": "Octa core (2.3 GHz, Single core, TaiShan V121 + 2.18 GHz, Tri core, TaiShan V121 + 1.55 GHz, Quad core, Cortex A510)",
+          "CPU Cores": "12 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Maleoon 910 MP4"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1260x2844 px (FHD+)",
+          "Pixel Density": "460 ppi",
+          "Screen to Body Ratio": "89.3%",
+          "Screen Protection": "Kunlun Glass (Xuanwu tempered)",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "2500 nits",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.4-4.0, Wide Angle, Primary Camera, 48 MP, f/2.1, Telephoto Camera, 12.5 MP, f/2.2, Ultra-Wide Angle Camera",
+            "Autofocus": "Laser autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8192 x 6144 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "3.5 x Optical Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR), Macro Mode",
+            "Aperture": "f/1.4-4.0",
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection\r\nFilters, Smile detection, Touch to focus, Dual Video Recording, Slo-motion, Video HDR, Macro Video, Audio Zoom",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
+            "Video Recording": "3840x2160",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "162.6 mm",
+          "Width": "75.1 mm",
+          "Thickness": "8.4 mm",
+          "Weight": "220 grams",
+          "Build": "Back: Eco Leathe",
+          "Colors": "Black, White, Silver",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 2 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust Proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5050 mAh",
+          "Wireless Charging": "80W wireless",
+          "Quick Charging": "Super, 100W",
+          "Reverse Charging": "20W reverse wireless",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 3.1"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "USB OTG": "Yes",
+          "RAM": "16 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K, 1080p, HDR, gyro-EIS, OIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity, gyro, compass, color spectrum, BDS Satellite Calling and Message"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-white-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-pura-70-pro-plus-silver-official-image.webp"
+      ]
     },
     {
       "id": "huawei_pura_70_ultra",
@@ -2469,15 +3509,128 @@
     {
       "id": "huawei_p30_lite",
       "name": "Huawei P30 Lite",
-      "price": null,
+      "price": "22500",
       "url": "https://www.mobiledokan.com/mobile/huawei-p30-lite",
       "image_url": "https://www.mobiledokan.com/media/huawei-p30-lite-midnight-black-official-image.webp",
       "serial_number": 26,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "July 10, 2024",
+      "variants": [
+        {
+          "name": "4GB+128GB",
+          "price": "৳.25,999",
+          "url": "https://www.mobiledokan.com/mobile/huawei-p30-lite"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "P30 Lite",
+          "Device Type": "Smartphone",
+          "Release Date": "April 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "User Interface": "EMUI",
+          "Chipset": "HiSilicon Kirin 710",
+          "CPU": "Octa core (2.2 GHz, Quad core, Cortex A73 + 1.7 GHz, Quad core, Cortex A53)",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G51 MP4"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.15 inches (15.62 cm)",
+          "Resolution": "1080x2312 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "415 ppi",
+          "Screen to Body Ratio": "84.51 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "24 MP f/1.8, Wide Angle, Primary Camera, 8 MP, Ultra-Wide Angle Camera, 2 MP f/2.4, Depth Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "Flash": "LED Flash",
+            "Image Resolution": "5288 x 3968 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "2 x Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "152.9 mm",
+          "Width": "72.7 mm",
+          "Thickness": "7.4 mm",
+          "Weight": "159 grams",
+          "Build": "Back: Polycarbonate",
+          "Colors": "Midnight Black, Pearl White, Peacock Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3340 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 512 GB",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 400/50 Mbps",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps (gyro-EIS)"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/huawei-p30-lite-midnight-black-official-image.webp",
         "https://www.mobiledokan.com/media/huawei-p30-lite-midnight-black-official-image.webp",
@@ -2498,7 +3651,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-y5p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "July 17, 2024",
       "variants": [
@@ -2610,7 +3763,18 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5p-green-official-image.webp"
+      ]
     },
     {
       "id": "huawei_mate_x",
@@ -2619,7 +3783,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-mate-x",
       "image_url": "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "June 24, 2024",
       "variants": [
@@ -2736,21 +3900,151 @@
           "Features": "Accelerometer, gyro, proximity, compass, barometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-product-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-full-desplay.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-mate-x-official-image.webp"
+      ]
     },
     {
       "id": "huawei_y5_2019",
       "name": "Huawei Y5 (2019)",
-      "price": null,
+      "price": "10999",
       "url": "https://www.mobiledokan.com/mobile/huawei-y5-2019",
       "image_url": "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "July 15, 2024",
+      "variants": [
+        {
+          "name": "2GB+32GB",
+          "price": "৳.10,999",
+          "url": "https://www.mobiledokan.com/mobile/huawei-y5-2019"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "Y5 (2019)",
+          "Device Type": "Smartphone",
+          "Release Date": "02 May 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0",
+          "User Interface": "EMUI 9.1",
+          "Chipset": "Mediatek MT6761 Helio A22",
+          "CPU": "Quad-core 2.0 GHz Cortex-A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8320"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.71 inches (14.5 cm)",
+          "Resolution": "720x1520 px (HD+)",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "295 ppi",
+          "Screen to Body Ratio": "78.1%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/1.8, Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2 Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "147.1 mm",
+          "Width": "70.8 mm",
+          "Thickness": "8.5 mm",
+          "Weight": "146 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Midnight Black, Sapphire Blue, Amber Brown"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "3020 mAh",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 5.1",
+          "USB OTG": "Yes",
+          "RAM": "2 GB",
+          "RAM Type": "LPDDR3"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-amber-brown-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-amber-brown-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-amber-brown-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-amber-brown-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y5-2019-amber-brown-official-image.webp"
+      ]
     },
     {
       "id": "huawei_y8p",
@@ -2759,7 +4053,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-y8p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "July 15, 2024",
       "variants": [
@@ -2879,7 +4173,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-down-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-breathing-crystal-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y8p-midnight-black-official-image.webp"
+      ]
     },
     {
       "id": "huawei_y6p",
@@ -2888,7 +4193,7 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-y6p",
       "image_url": "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "July 4, 2024",
       "variants": [
@@ -3009,7 +4314,18 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-phantom-purple-product-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-phantom-purple-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-phantom-purple-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-emerald-green-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-midnight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-y6p-phantom-purple-official-image.webp"
+      ]
     },
     {
       "id": "huawei_p40_pro_plus",
@@ -3018,12 +4334,142 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p40-pro-plus",
       "image_url": "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-17 06:40:20",
+      "last_updated": "2026-01-18 06:36:19",
       "first_scraped": null,
       "updated_on": "July 4, 2024",
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "variants": [
+        {
+          "name": "8GB+512GB",
+          "price": "৳.112,000",
+          "url": "https://www.mobiledokan.com/mobile/huawei-p40-pro-plus"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Huawei",
+          "Model": "P40 Pro Plus",
+          "Device Type": "Smartphone",
+          "Release Date": "06 June 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10 (Q)",
+          "User Interface": "EMUI",
+          "Chipset": "HiSilicon Kirin 990 5G",
+          "CPU": "Octa core (2.86 GHz, Dual core, Cortex A76 + 2.36 GHz, Dual core, Cortex A76 + 1.95 GHz, Quad core, Cortex A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "7 nm",
+          "GPU": "Mali-G76 MP16"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.58 inches (16.71 cm)",
+          "Resolution": "1200x2640 px (FHD+)",
+          "Pixel Density": "441 ppi",
+          "Screen to Body Ratio": "91.01 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "HDR10",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Quad",
+            "Resolution": "50 MP f/1.9, Wide Angle, Primary Camera, 40 MP f/1.8, Ultra-Wide Angle Camera, 8 MP, 8 MP f/2.4, Telephoto Camera",
+            "Autofocus": "Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "Dual LED Flash",
+            "Image Resolution": "8200 x 6100 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
+            "Video Recording": "3840x2160",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "32 MP, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "158.2 mm",
+          "Width": "72.6 mm",
+          "Thickness": "9 mm",
+          "Weight": "226 grams",
+          "Build": "Glass front, ceramic back, ceramic frame",
+          "Colors": "White Ceramic, Black Ceramic",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4200 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "Super, 40W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "512 GB",
+          "Storage Type": "UFS 3.0",
+          "Expandable Memory": "Up to 256 GB",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.1",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB chargin"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "USB Type-C",
+          "Video": "2160p@30/60fps, 1080p@30/60fps, 720@7680fps, HDR; gyro-EIS"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-front-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-back-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-side-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-black-ceramic-official-image.webp",
+        "https://www.mobiledokan.com/media/huawei-p40-pro-plus-white-ceramic-official-image.webp"
+      ]
     },
     {
       "id": "huawei_pura_80",

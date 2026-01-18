@@ -4,7 +4,7 @@
     "name": "walton",
     "url": "https://www.mobiledokan.com/mobile-brand/walton",
     "image_url": null,
-    "last_updated": "2026-01-17 06:36:29",
+    "last_updated": "2026-01-18 06:32:04",
     "total_phones": 336,
     "first_scraped": "2025-09-11 09:33:04",
     "new_phones_this_run": 0,
@@ -14,15 +14,128 @@
     {
       "id": "walton_nexg_n9",
       "name": "Walton NEXG N9",
-      "price": null,
+      "price": "17999",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n9",
       "image_url": "https://www.mobiledokan.com/media/1710142908cNgd9.webp",
       "serial_number": 1,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "March 25, 2024",
+      "variants": [
+        {
+          "name": "12GB+128GB",
+          "price": "৳.17,999",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n9"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N9",
+          "Device Type": "Smartphone",
+          "Release Date": "15 March 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "User Interface": "Dido OS",
+          "Chipset": "MediaTek Helio G85 SoC",
+          "CPU": "20GHz Octa-Core",
+          "CPU Cores": "Octa-Core",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali- G52 MP2"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.82 inches (16.76 cm)",
+          "Resolution": "720x1640 px (HD+)",
+          "Aspect Ratio": "20.5:9",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP f/1.8, wide Primary Camera, 2 MP Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x 1640 Pixels",
+            "Settings": "Exposure compensation",
+            "Zoom": "Digital Zoom 2x",
+            "Shooting Modes": "Phote, 50MP, Portrait, Videe, PRO Mode, Panorama, Time Lapse, Slow Motion, Night, Film, Beauty, Filter, GIF, Intelligent Stanning.",
+            "Aperture": "f/1.8",
+            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, Composition Line, Brand Watermark, Time Watermark, Countdown timer, Touching Photograph, Mirror reflection",
+            "Video Recording": "1080P",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0 wide Primary Camera",
+            "Camera Features": "Face Derecton, Digital Zaom (2.0%), Antaanding Corposition Line Brand Watermark, Tine Watermark Countdowr timer, Touching Phetograph, Mirror seflection.",
+            "Video Recording": "1080P",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "170.6 mm",
+          "Width": "77.6 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "219 grams",
+          "Colors": "Mirror Black, Chrome White, Mystic Cyan"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Yes, Fast, 18W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0, OTG"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE-A",
+          "WLAN": "Yes, Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v5.2",
+          "GPS": "Yes with A-GPS",
+          "Infrared": "Yes",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Yes"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Proximity, Light, Compass, Side-Mounted Fingerprint",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps, 1080p@60fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710142908cNgd9.webp",
         "https://www.mobiledokan.com/media/1710142908cNgd9.webp",
@@ -40,7 +153,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n25",
       "image_url": "https://www.mobiledokan.com/media/1711089974FyHWv.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -50,7 +163,111 @@
           "url": "https://www.mobiledokan.com/mobile/walton-nexg-n25"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N25",
+          "Device Type": "Smartphone",
+          "Release Date": "21 January 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc Tiger T616",
+          "CPU": "2.0GHz Octa-Core",
+          "CPU Cores": "8 Cores",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.6 inch (16.76 cm)",
+          "Resolution": "720 x 1612 pixels",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "400 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, 2 MP, 2 MP",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x 1612 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "BSI, Face Detection, Antibanding, HDR, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos",
+            "Video Recording": "1080p",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP",
+            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Smile Shutter, Touch Shooting, Self Timer, Camera Mute, Mirror reflection.",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "164.5 mm",
+          "Width": "76.1 mm",
+          "Thickness": "8.65 mm",
+          "Weight": "196 grams",
+          "Build": "Plastic with a refracting frosted finish on the back and a brushed chrome look on the frame.",
+          "Colors": "Pacific Silver, Radiant Purple, Sand Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000mAh",
+          "Quick Charging": "Fast, 18W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128GB",
+          "Storage Type": "UFS 2.2",
+          "Expandable Memory": "Up to 256GB",
+          "USB OTG": "Yes",
+          "RAM": "8GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Wi-Fi Direct, Mobile Hotspot",
+          "NFC": "No",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps, 1080p@60fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711089974FyHWv.webp",
         "https://www.mobiledokan.com/media/1711089974FyHWv.webp",
@@ -64,30 +281,261 @@
     {
       "id": "walton_nexg_n73",
       "name": "Walton NEXG N73",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n73",
       "image_url": "https://www.mobiledokan.com/media/walton-nexg-n73-mist-gold-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 28, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N73",
+          "Device Type": "Smartphone",
+          "Release Date": "15 March 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "UNISOC Tiger T606",
+          "CPU": "Octa-core (1.6GHz Octa Core)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.8 inches (17.3 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "267 ppi",
+          "Screen to Body Ratio": "83.0%",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "52 MP, f/2.2, Primary Camera, 2 MP f/2.0 Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x 1612 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "BSI, Face Detection, Digital Zoom (4.0x), Antibanding, HDR, AE/AF lock, Composition Line, Fingerprint capture, Smile Shutter, Face attribute detect, AI scene detection, Touch to capture, Motion photo, Add Logo Watermark, Virtual aperture portrait mode",
+            "Video Recording": "1080x720",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera",
+            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Gesture recognition, Levels, Smile Shutter, Finger Capture, Countdown timer, Touching Photograph, Mirror reflection, Beauty",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "167.4 mm",
+          "Width": "77.6 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "213 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Bright-Moon Black, Mist Gold"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "6000 mAh",
+          "Quick Charging": "Fast, 18W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps, 1080p@60fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/walton-nexg-n73-mist-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-mist-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-bright-moon-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-bright-moon-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-bright-moon-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n73-mist-gold-official-image.webp"
+      ]
     },
     {
       "id": "walton_nexg_n8",
       "name": "Walton NEXG N8",
-      "price": null,
+      "price": "15499",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n8",
       "image_url": "https://www.mobiledokan.com/media/1711101147Lq2HY.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 20, 2025",
+      "variants": [
+        {
+          "name": "12GB+128GB",
+          "price": "৳.15,499",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n8"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N8",
+          "Device Type": "Smartphone",
+          "Release Date": "01 November 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc Tiger T616 SoC",
+          "CPU": "2.0 GHz Octa-Core",
+          "CPU Cores": "8 Cores",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.8 inches (17.27 cm)",
+          "Resolution": "1080 x 2460 pixels",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "395 ppi",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, 2 MP, 2 MP",
+            "Flash": "LED Flash",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "HDR, panorama,",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP",
+            "Flash": "LED Flash",
+            "Video Recording": "Yes"
+          }
+        },
+        "Design": {
+          "Height": "168.5 mm",
+          "Width": "76.6 mm",
+          "Thickness": "8.3  mm",
+          "Weight": "195 grams",
+          "Colors": "Arctic Blue, Cosmic Aurora, Twilight Gold"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000mAh",
+          "Quick Charging": "Fast, 18W",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128GB",
+          "Expandable Memory": "Up to 256GB",
+          "USB OTG": "Yes",
+          "RAM": "12GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "No",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711101147Lq2HY.webp",
+        "https://www.mobiledokan.com/media/1711101147Lq2HY.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-arctic-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-arctic-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-arctic-blue-official-image_1.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-twilight-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n8-cosmic-aurora-official-image.webp"
+      ]
     },
     {
       "id": "walton_nexg_n71_plus",
@@ -96,12 +544,124 @@
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n71-plus",
       "image_url": "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "January 6, 2026",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N71 Plus",
+          "Device Type": "Smartphone",
+          "Release Date": "01 December 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "UNISOC Tiger T606",
+          "CPU": "ARM Cortex-A75",
+          "Fabrication": "12 nm",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720 x 1612 pixels",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "267 ppi",
+          "Screen to Body Ratio": "83.0 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Waterdrop",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "52 MP, f/2.2, 2 MP",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x1 6120 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "BSI, Face Detection, Antibanding, HDR, AE/AF lock, Composition Line, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos, Finger Capture, AI scene recognition, Countdown timer, Touching Photograph, Google Lens",
+            "Video Recording": "1080p",
+            "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.2",
+            "Camera Features": "Face Detection, Digital Zoom (4.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Gesture recognition, Levels, Smile Shutter, Enhance Lowlight photos, Finger Capture, AI portrait recognition, Countdown timer, Touching Photograph, M",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "163.75 mm",
+          "Width": "75.4 mm",
+          "Thickness": "9.15 mm",
+          "Weight": "202  grams",
+          "Colors": "Camo Green, Sapphire Blue, Onyx Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5050mAh",
+          "Quick Charging": "First Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128GB",
+          "Expandable Memory": "Up to 256GB",
+          "USB OTG": "Yes",
+          "RAM": "9GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "No",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps, 1080p@60fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
+        "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-plus-blue-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-plus-blue-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-plus-blue-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-plus-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-plus-black-official-image.webp"
+      ]
     },
     {
       "id": "walton_orbit_y20",
@@ -110,9 +670,9 @@
       "url": "https://www.mobiledokan.com/mobile/walton-orbit-y20",
       "image_url": "https://www.mobiledokan.com/media/walton-orbit-y20-metallic-blue-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 20, 2025",
       "variants": [
         {
           "name": "2GB+32GB",
@@ -231,7 +791,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-orbit-y70",
       "image_url": "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "March 20, 2025",
       "variants": [
@@ -241,7 +801,108 @@
           "url": "https://www.mobiledokan.com/mobile/walton-orbit-y70"
         }
       ],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Orbit Y70",
+          "Device Type": "Smartphone",
+          "Release Date": "01 November 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "CPU": "1.6 GHz Octa-Core",
+          "CPU Cores": "8 Cores",
+          "GPU": "PowerVR GE8322"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches",
+          "Resolution": "720 x 1612 pixels",
+          "Aspect Ratio": "20:9",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Waterdrop",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP, f/2.0, VGA",
+            "Flash": "LED Flash",
+            "Image Resolution": "1612 x 720 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "BSI, Volume Key Capture, Logo Watermark, Time Watermark, Self Timer, Composition Line, Levels, Smile Shutter, Antibanding, AI Scene Recognition, Finger Capture, Touch Photograph, HDR",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, f/2.0",
+            "Camera Features": "HDR, Smile Shutter, Face Detection, Brand Watermark, Time Watermark, Mirror Selfie, Countdown Timer, Antibanding, Portrait, Touching Photograph.",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164.4 mm",
+          "Width": "75.7 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "186 grams",
+          "Colors": "Carolina Blue, Matte Black, Nebula Violet"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000mAh",
+          "Quick Charging": "First Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64GB",
+          "Expandable Memory": "Up to 256GB",
+          "RAM": "6GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "No",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Dual Flash Light, Parallel Apps, Screen Recording, Ultra Saving Mode, Gestures, Smart Controls, Face Unlock,NightLight, Scan QR Code, Charging Notification LED light, PMMA Material with Rainbow Effect"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
         "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
@@ -256,15 +917,123 @@
     {
       "id": "walton_primo_rm4",
       "name": "Walton Primo RM4",
-      "price": null,
+      "price": "10599",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rm4",
       "image_url": "https://www.mobiledokan.com/media/walton-primo-rm4-blue-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "March 20, 2025",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.10,599",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-rm4"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo RM4",
+          "Device Type": "Smartphone",
+          "Release Date": "04 November 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "Chipset": "MediaTek Helio A25",
+          "CPU": "1.8 GHz Quad-Core ARM Cortex- A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "IMG PowerVR GE8320"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.5 inches (16.51 cm)",
+          "Resolution": "720x1600 px",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "13 MP, f/2.0, Wide Angle Primary Camera, 5 MP, Ultra-Wide Angle Camera, 0.3 MP, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "167 mm",
+          "Width": "77.6 mm",
+          "Thickness": "10.1 mm",
+          "Weight": "214 grams",
+          "Colors": "Dark Green, Night Blue, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5950 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps, 720p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/walton-primo-rm4-blue-official-image.webp",
         "https://www.mobiledokan.com/media/walton-primo-rm4-blue-official-image.webp",
@@ -278,16 +1047,126 @@
     {
       "id": "walton_primo_r8",
       "name": "Walton Primo R8",
-      "price": null,
+      "price": "9950",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-r8",
       "image_url": "https://www.mobiledokan.com/media/1711122568rUnDO.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 21, 2025",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.9,950",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-r8"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo R8",
+          "Device Type": "Smartphone",
+          "Release Date": "01 May 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "Chipset": "Helio G35 SoC",
+          "CPU": "2.3GHz Octa-Core Processor",
+          "CPU Cores": "8 Cores",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR Vogue GE8320"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.5 inches",
+          "Resolution": "720 x 1600 pixels",
+          "Aspect Ratio": "20:9",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, 2 MP",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x 1600 pixels",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 Megapixel",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "164.5 mm",
+          "Width": "75.8 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "192 grams",
+          "Colors": "Ocean Green, Gradient, Purple, Magic Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "microUSB"
+        },
+        "Memory": {
+          "Internal Storage": "64GB",
+          "Expandable Memory": "Up to 128 GB",
+          "RAM": "4GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "No"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer, proximity, compass",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "SMS(threaded view), MMS, Email, IM"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711122568rUnDO.webp",
+        "https://www.mobiledokan.com/media/1711122568rUnDO.webp",
+        "https://www.mobiledokan.com/media/walton-primo-r8-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-r8-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-r8-official-image.webp"
+      ]
     },
     {
       "id": "walton_primo_rx8_mini",
@@ -296,9 +1175,9 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rx8-mini",
       "image_url": "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 21, 2025",
       "variants": [
         {
           "name": "4GB+64GB",
@@ -410,63 +1289,550 @@
           "Features": "Accelerometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx8-mini-official-image.webp"
+      ]
     },
     {
       "id": "walton_primo_rx7",
       "name": "Walton Primo RX7",
-      "price": null,
+      "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rx7",
       "image_url": "https://www.mobiledokan.com/media/1711186539iQBwC.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 20, 2025",
+      "variants": [
+        {
+          "name": "4GB+32GB",
+          "price": "৳.12,999",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-rx7"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo RX7",
+          "Device Type": "SmartPhone",
+          "Release Date": "26 October 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "Chipset": "ARM Cortex-A53",
+          "CPU": "2.0 GHz Octa-core",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "16 nm",
+          "GPU": "Mali-G71"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.3 inches (16cm)",
+          "Resolution": "1080x2340 px",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "89.4 %",
+          "Screen Protection": "2.5D Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "16 MP, f/2.0, Primary Camera, 5 MP, f/2.0, Wide Angle Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "2340 x 1080 pixels",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting",
+            "Aperture": "f/2.0",
+            "Camera Features": "HDR, panorama\r\nHDR",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Front Camera",
+            "Camera Features": "PDAF, portrait mode, BSI & more",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "160.6 mm",
+          "Width": "75.8 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "171 grams",
+          "Colors": "Midnight Purple, Aurora Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3900 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration; MP3 Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711186539iQBwC.webp",
+        "https://www.mobiledokan.com/media/1711186539iQBwC.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-midnight-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-midnight-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-midnight-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-aurora-green-official-image.webp"
+      ]
     },
     {
       "id": "walton_primo_n4",
       "name": "Walton Primo N4",
-      "price": null,
+      "price": "9799",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-n4",
       "image_url": "https://www.mobiledokan.com/media/1711188552JlgPB.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 21, 2025",
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.9,799",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-n4"
+        },
+        {
+          "name": "4GB+64GB",
+          "price": "৳.13,199",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-n4-4gb-64gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo N4",
+          "Device Type": "Smartphone",
+          "Release Date": "01 May 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0",
+          "Chipset": "MediaTek Helio P23",
+          "CPU": "Octa core (2.0 GHz ARM Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "16 nm",
+          "GPU": "Mali-G71 MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.5 inches (102.0 cm)",
+          "Resolution": "720 x 1600 pixels",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "266 ppi",
+          "Screen to Body Ratio": "82.4 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "16 MP, f/1.8, Wide Angle, Primary Camera, 8 MP, f/2.0, Ultra-Wide Angle Camera, 2 MP, f/2.2, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "164.3 mm",
+          "Width": "75.8 mm",
+          "Thickness": "8.5 mm",
+          "Weight": "184.2 grams",
+          "Colors": "Rainbow Black & Sea Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 64 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711188552JlgPB.webp",
+        "https://www.mobiledokan.com/media/1711188552JlgPB.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n4-sea-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n4-sea-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n4-sea-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n4-rainbow-black-official-image.webp"
+      ]
     },
     {
       "id": "walton_primo_rx7_mini",
       "name": "Walton Primo RX7 Mini",
-      "price": null,
+      "price": "9499",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rx7-mini",
       "image_url": "https://www.mobiledokan.com/media/1711203810AhbZg.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 21, 2025",
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.9,499",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-rx7-mini"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo RX7 Mini",
+          "Device Type": "Smartphone",
+          "Release Date": "01 November 2019",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v9.0 (Pie)",
+          "Chipset": "Mediatek MT6762 Helio A22",
+          "CPU": "Octa-core 1.8 GHz (4x1.8GHz Cortex-A73 & 4x1.8GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G72 MP3"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "5.9 inches (89.8 cm2)",
+          "Resolution": "720x1520 px",
+          "Aspect Ratio": "19:9",
+          "Pixel Density": "395 ppi",
+          "Screen to Body Ratio": "75.3 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, f/2.0, Wide Angle Primary Camera, 5 MP, f/2.0, Depth Camera",
+            "Flash": "LED Flash",
+            "Image Resolution": "1520 x 720 pixels",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting",
+            "Aperture": "f/2.0",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle Primary Camera",
+            "Camera Features": "PDAF, BSI & more",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "149.5 mm",
+          "Width": "72.8 mm",
+          "Thickness": "8.1 mm",
+          "Weight": "161 grams",
+          "Colors": "Midnight Purple, Midnight Blue, Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "3000 mAh",
+          "Quick Charging": "First Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "Hybrid Dual Nano SIM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, Ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711203810AhbZg.webp",
+        "https://www.mobiledokan.com/media/1711203810AhbZg.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-midnight-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-midnight-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-midnight-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-black-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-rx7-mini-black-offiial-image.webp"
+      ]
     },
     {
       "id": "walton_primo_hm5",
       "name": "Walton Primo HM5",
-      "price": null,
+      "price": "8899",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-hm5",
       "image_url": "https://www.mobiledokan.com/media/1711205816ndxMB.webp",
       "serial_number": 14,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 21, 2025",
+      "variants": [
+        {
+          "name": "3GB+64GB",
+          "price": "৳.8,899",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-hm5"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo HM5",
+          "Device Type": "Smartphone",
+          "Release Date": "28 July 2020",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10.0",
+          "Chipset": "MediaTek Helio A20",
+          "CPU": "Quad-core, 1.8 GHz (Cortex-A53)",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR GE8300"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.1 inches (15.5 cm)",
+          "Resolution": "720x1560 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "84.8 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, f/2.0, Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Focus, Face Detection, Touch Focus, Touch Shot",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2 Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "155.2 mm",
+          "Width": "72.8 mm",
+          "Thickness": "9.4 mm",
+          "Weight": "182 grams",
+          "Build": "Front Glass & Back+Frame Plastic",
+          "Colors": "Midnight Cyan, Black & Purple"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4900 mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 120 hours",
+          "Talk Time": "Up to 35 hours (3G)"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Storage Type": "eMMC 5.1",
+          "Expandable Memory": "Up to 256GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps, 720p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711205816ndxMB.webp",
+        "https://www.mobiledokan.com/media/1711205816ndxMB.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-black-color-image.webp"
+      ]
     },
     {
       "id": "walton_primo_h9_pro",
@@ -475,7 +1841,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-h9-pro",
       "image_url": "https://www.mobiledokan.com/media/1711208735SfWN5.webp",
       "serial_number": 15,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "March 21, 2025",
       "variants": [
@@ -593,34 +1959,279 @@
           "Features": "Dual 4G Supports in Both SIM Slot\r\nOTG supported"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711208735SfWN5.webp",
+        "https://www.mobiledokan.com/media/1711208735SfWN5.webp",
+        "https://www.mobiledokan.com/media/walton-primo-h9-pro-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-h9-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-h9-pro-crystal-sky-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-h9-pro-crystal-sky-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-h9-pro-crystal-sky-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-purple-image_1.webp",
+        "https://www.mobiledokan.com/media/walton-primo-hm5-black-color-image_1.webp"
+      ]
     },
     {
       "id": "walton_primo_nf5",
       "name": "Walton Primo NF5",
-      "price": null,
+      "price": "9999",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-nf5",
       "image_url": "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
       "serial_number": 16,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "August 25, 2024",
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.224,999",
+          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo NF5",
+          "Device Type": "Smartphone",
+          "Release Date": "12 March 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "Chipset": "MediaTek MT6761V/WE Helio A20 SoC",
+          "CPU": "Quad-Core 1.8 GHz ARM Cortex- A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "GPU": "PowerVR Rogue GE8300"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.82 inches (17.3 cm)",
+          "Resolution": "720x1640 pixels",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "270 ppi",
+          "Screen to Body Ratio": "78.3 %",
+          "Screen Protection": "Gorilla Glass v2.5",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "13 MP, f/2.0 Wide Angle, Primary Camera, 2MP, Ultra-wide Angle Camera, 2MP, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128x3096 px",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Custom Watermark, Face detection, Filters, Touch to focus, Voice Shutter, Movie Frame,",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "173.5 mm",
+          "Width": "78.5 mm",
+          "Thickness": "9.3 mm",
+          "Weight": "202 grams",
+          "Build": "Back: Plastic",
+          "Colors": "Midnight Purple, Aurora Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Placement": "Non-removable",
+          "Standby": "Up to 112 hours",
+          "Talk Time": "Up to 35 hours (3G)"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 802.11 a/b/g/n",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes, with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-midnight-purple-front-image-1.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-midnight-purple-back-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-midnight-purple-front-image-2.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-walton-primo-nf5-official-aurora-green-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-purple-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-nf5-official-midnight-purple-image-1.webp"
+      ]
     },
     {
       "id": "walton_primo_rx8",
       "name": "Walton Primo RX8",
-      "price": null,
+      "price": "15599",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rx8",
       "image_url": "https://www.mobiledokan.com/media/1711214619efSPd.webp",
       "serial_number": 17,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "March 21, 2025",
+      "variants": [
+        {
+          "name": "4GB+128GB",
+          "price": "৳.15,599",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-rx8"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo RX8",
+          "Device Type": "Smartphone",
+          "Release Date": "31 March 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "Chipset": "Mediatek MT6762 Helio P22",
+          "CPU": "Octa-core 2.0 GHz ARM Cortex-A53",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "IMG PowerVR Rogue GE8320"
+        },
+        "Display": {
+          "Display Type": "LTPS IPS LCD",
+          "Screen Size": "6.5 inches (102.0 cm2)",
+          "Resolution": "720 x 1600 pixels",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "270 ppi",
+          "Screen to Body Ratio": "75.3 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Quad",
+            "Resolution": "16 MP, f/2.0, 1/3.1\", Wide Angle Primary Camera, PDAF, 8 MP, f/2.2, 120° Ultra-Wide Angle Camera, 5 MP, f/2.4, Macro Camera, 2 MP, f/2.4, Depth Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "720 x 1600 pixels",
+            "Settings": "ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting",
+            "Aperture": "f/2.0",
+            "Camera Features": "AI Quad Cameras, Auto Focus with PDAF, LED Flash, Sharp & colorful shots (5P lens), Face Detection, Digital Zoom (4.0x), BSI, Touch Focus, Touch Shot, Finger Capture, Self-timer, Time-lapse, Brand Mark, Normal Mode, Wide shoot, Bokeh, PRO Mode (Exposure)",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32MP, f/2.0, Wide Angle Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "163.3 mm",
+          "Width": "75.6 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "189 grams",
+          "Build": "Front & Back Glass (All Glass Design)",
+          "Colors": "Oxford Black & Olive Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "4000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 98 hours",
+          "Talk Time": "Up to 33 hours (3G)"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711214619efSPd.webp",
         "https://www.mobiledokan.com/media/1711214619efSPd.webp",
@@ -636,9 +2247,9 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-n5",
       "image_url": "https://www.mobiledokan.com/media/1711214846jGYuC.webp",
       "serial_number": 18,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "March 21, 2025",
       "variants": [
         {
           "name": "4GB+64GB",
@@ -754,7 +2365,16 @@
           "Features": "MP3/WAV/eAAC+/Flac player"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1711214846jGYuC.webp",
+        "https://www.mobiledokan.com/media/1711214846jGYuC.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-scarlet-red-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-scarlet-red-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-scarlet-red-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-blue-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-teal-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-n5-black-image.webp"
+      ]
     },
     {
       "id": "walton_xanon_x20",
@@ -763,7 +2383,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-xanon-x20",
       "image_url": "https://www.mobiledokan.com/media/17123818346xSRm.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
@@ -883,7 +2503,17 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17123818346xSRm.webp",
+        "https://www.mobiledokan.com/media/17123818346xSRm.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-front-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-back-side-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-cosmic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-cosmic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-cosmic-black-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-orange-shimmer-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-xanon-x20-vibrant-silver-official-image.webp"
+      ]
     },
     {
       "id": "walton_nexg_n72",
@@ -1024,29 +2654,254 @@
     {
       "id": "walton_nexg_n71",
       "name": "Walton NEXG N71",
-      "price": null,
+      "price": "11499",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n71",
       "image_url": "https://www.mobiledokan.com/media/1712393661xoc2q.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "March 23, 2025",
+      "variants": [
+        {
+          "name": "9GB+64GB",
+          "price": "৳.11,499",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n71"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N71",
+          "Device Type": "Smartphone",
+          "Release Date": "15 September 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "UNISOC TIGER T606",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with V-Type Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Type-V"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "52 MP, f/2.2, Wide Angle, Primary Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "12000 x 9000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom 4.0x",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "BSI, Face Detection, Digital Zoom (4.0x), Antibanding, HDR, AE/AF lock, Composition Line, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos, Finger Capture, AI scene recognition, Countdown timer, Touching Photogr",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.2, Primary Camera",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "163.75 mm",
+          "Width": "75.4 mm",
+          "Thickness": "9.15 mm",
+          "Weight": "202 grams",
+          "Colors": "Camo Green, Sapphire Blue, Onyx Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5050 mAh",
+          "Quick Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "9 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA+, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1712393661xoc2q.webp",
+        "https://www.mobiledokan.com/media/1712393661xoc2q.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-sapphire-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-camo-green-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-nexg-n71-onyx-black-official-image.webp"
+      ]
     },
     {
       "id": "walton_nexg_n6_lite",
       "name": "Walton NEXG N6 LITE",
-      "price": null,
+      "price": "12999",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n6-lite",
       "image_url": "https://www.mobiledokan.com/media/1712393985tIeLQ.webp",
       "serial_number": 22,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "March 23, 2025",
+      "variants": [
+        {
+          "name": "8GB+64GB",
+          "price": "৳.12,999",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n6-lite"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N6 LITE",
+          "Device Type": "Smartphone",
+          "Release Date": "15 September 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "ARM Cortex- A75",
+          "CPU": "1.6 GHz Octa-Core",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS",
+          "Screen Size": "6.6 inches (16.76cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with V-Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Type-V"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "52 MP, f/2.2, Wide Angle, Primary Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "12000 x 9000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.2",
+            "Camera Features": "Face Detection, Digital Zoom (4.0x), Antibanding, HDR, AE/AF lock, Composition Line, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos Finger Capture, Countdown timer, Touching Photograph, Motion Photo, Google Le",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164.2 mm",
+          "Width": "76 mm",
+          "Thickness": "8.55 mm",
+          "Weight": "188 grams",
+          "Build": "Emerald Green, Sky Grey"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W PD3.0 Fast charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA+, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Features": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1712393985tIeLQ.webp",
         "https://www.mobiledokan.com/media/1712393985tIeLQ.webp",
@@ -1063,7 +2918,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-e12",
       "image_url": "https://www.mobiledokan.com/media/1713181288bpUEv.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "April 17, 2024",
       "variants": [],
@@ -1139,21 +2994,141 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1713181288bpUEv.webp",
+        "https://www.mobiledokan.com/media/1713181288bpUEv.webp",
+        "https://www.mobiledokan.com/media/1713181288bpUEv.webp",
+        "https://www.mobiledokan.com/media/1713181288bpUEv.webp",
+        "https://www.mobiledokan.com/media/1713181288bpUEv.webp"
+      ]
     },
     {
       "id": "walton_orbit_y21",
       "name": "Walton Orbit Y21",
-      "price": null,
+      "price": "8699",
       "url": "https://www.mobiledokan.com/mobile/walton-orbit-y21",
       "image_url": "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 2, 2024",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.8,699",
+          "url": "https://www.mobiledokan.com/mobile/walton-orbit-y21"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Orbit Y21",
+          "Device Type": "Smartphone",
+          "Release Date": "April 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "UNISOC TIGER T606",
+          "CPU": "1.6 GHz Octa Core",
+          "CPU Cores": "8 cores",
+          "Architecture": "64 bit",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720 x 1600 pixels",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "264 ppi",
+          "Screen to Body Ratio": "83.0%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with V-Type Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Type-V"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP f/2.0, Primary Camera,  VGA AI Cameras",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "HDR, panorama,",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.2, Primary Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          }
+        },
+        "Design": {
+          "Height": "164.2 mm",
+          "Width": "76 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "188 grams",
+          "Colors": "Sea Blue, Field Green, Midnight Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "Expandable Memory": "Up to 256GB",
+          "RAM": "4 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual Nano SIM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp",
+        "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp",
+        "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp",
+        "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp",
+        "https://www.mobiledokan.com/media/Walton Orbit Y21.png.webp"
+      ]
     },
     {
       "id": "walton_primo_h10",
@@ -1162,7 +3137,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-h10",
       "image_url": "https://www.mobiledokan.com/media/Walton Primo H10.png.webp",
       "serial_number": 25,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [
@@ -1277,7 +3252,13 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Primo H10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo H10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo H10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo H10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo H10.png.webp"
+      ]
     },
     {
       "id": "walton_primo_ef10",
@@ -1286,7 +3267,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-ef10",
       "image_url": "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp",
       "serial_number": 26,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "May 4, 2024",
       "variants": [
@@ -1395,7 +3376,13 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo EF10.png.webp"
+      ]
     },
     {
       "id": "walton_primo_gm4",
@@ -1404,7 +3391,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-gm4",
       "image_url": "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
@@ -1510,34 +3497,265 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GM4.png.webp"
+      ]
     },
     {
       "id": "walton_primo_r9",
       "name": "Walton Primo R9",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/walton-primo-r9",
       "image_url": "https://www.mobiledokan.com/media/walton primo r9 Official Image..jpg.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "updated_on": "May 3, 2024",
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.10,499",
+          "url": "https://www.mobiledokan.com/mobile/walton-primo-r9"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "Primo R9",
+          "Device Type": "Smartphone",
+          "Release Date": "16 June 2022",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "Chipset": "MediaTek MT6762G Helio G25",
+          "CPU": "Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "PowerVR Vogue GE8320"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.52 inches (16.56 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "269 ppi",
+          "Screen to Body Ratio": "89.7%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with V-Type Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Type-V"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Resolution": "13 MP f/1.8, Wide Angle, Primary Camera, 2 MP, Depth Camera, VGA Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164 mm",
+          "Width": "75.8 mm",
+          "Thickness": "9.1 mm",
+          "Weight": "191 grams",
+          "Build": "Glass Front",
+          "Colors": "Aurora Green, Magnetic Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Quick Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/walton primo r9 Official Image..jpg.webp",
+        "https://www.mobiledokan.com/media/walton primo r9 Official Image..jpg.webp"
+      ]
     },
     {
       "id": "walton_nexg_n6",
       "name": "Walton NEXG N6",
-      "price": null,
+      "price": "13999",
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n6",
       "image_url": "https://www.mobiledokan.com/media/Walton NEXG N6 Official Image..png.webp",
       "serial_number": 29,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
-      "specifications": {},
+      "updated_on": "May 3, 2024",
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.13,999",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n6"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Walton",
+          "Model": "NEXG N6",
+          "Device Type": "Smartphone",
+          "Release Date": "01 April 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v12",
+          "Chipset": "ARM Cortex- A75",
+          "CPU": "1.6 GHz Octa-Core",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali- G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS INCELL",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "264 ppi",
+          "Screen to Body Ratio": "88.0%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with V-Type Notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Type-V"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Wide Angle Camera",
+            "Flash": "LED Flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164.2 mm",
+          "Width": "76 mm",
+          "Thickness": "8.55 mm",
+          "Weight": "188 grams",
+          "Colors": "Bluish Green, Sky Grey, Spring Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "Quick Charging",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "Bangladesh",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/Walton NEXG N6 Official Image..png.webp",
         "https://www.mobiledokan.com/media/Walton NEXG N6 Official Image..png.webp"
@@ -1550,7 +3768,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-rx9",
       "image_url": "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "May 5, 2024",
       "variants": [
@@ -1665,7 +3883,13 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo RX9.png.webp"
+      ]
     },
     {
       "id": "walton_primo_gh10",
@@ -1674,7 +3898,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-gh10",
       "image_url": "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp",
       "serial_number": 31,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [
@@ -1789,7 +4013,13 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo GH10.png.webp"
+      ]
     },
     {
       "id": "walton_primo_zx4",
@@ -1798,7 +4028,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-primo-zx4",
       "image_url": "https://www.mobiledokan.com/media/walton-primo-zx4-official-image.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-17 06:36:29",
+      "last_updated": "2026-01-18 06:32:04",
       "first_scraped": null,
       "updated_on": "December 10, 2024",
       "variants": [
@@ -1915,7 +4145,14 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/walton-primo-zx4-official-image.webp",
+        "https://www.mobiledokan.com/media/walton-primo-zx4-official-image.webp",
+        "https://www.mobiledokan.com/media/Walton Primo ZX4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo ZX4.png.webp",
+        "https://www.mobiledokan.com/media/Walton Primo ZX4.png.webp",
+        "https://www.mobiledokan.com/media/walton-primo-zx4-official-image.webp"
+      ]
     },
     {
       "id": "walton_xanon_x1_ultra",
