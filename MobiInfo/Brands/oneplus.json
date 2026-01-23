@@ -4,11 +4,11 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2026-01-22 06:36:19",
+    "last_updated": "2026-01-23 06:35:44",
     "total_phones": 117,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
@@ -1246,17 +1246,17 @@
     {
       "id": "oneplus_nord_3_5g",
       "name": "OnePlus Nord 3 5G",
-      "price": "43499",
+      "price": "32000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-3-5g",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-3-5g-misty-green-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-18 06:32:29",
+      "last_updated": "2026-01-23 06:35:44",
       "first_scraped": null,
-      "updated_on": "March 15, 2025",
+      "updated_on": "January 22, 2026",
       "variants": [
         {
           "name": "8GB+128GB",
-          "price": "৳.43,499",
+          "price": "৳.32,000",
           "url": "https://www.mobiledokan.com/mobile/oneplus-nord-3-5g"
         }
       ],
@@ -1285,13 +1285,13 @@
           "Aspect Ratio": "20.1:9",
           "Pixel Density": "451 ppi",
           "Screen to Body Ratio": "89.82 %",
+          "Screen Protection": "Gorilla Glass",
           "Bezel-less Display": "Yes with punch-hole display",
           "Touch Screen": "Capacitive Touchscreen, Multi-touch",
           "Brightness": "1450 nits",
           "HDR 10 / HDR + support": "HDR 10+",
           "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole",
-          "Features": "Multi-touch"
+          "Notch": "Punch-hole"
         },
         "Cameras": {
           "Primary Camera": {
@@ -1353,12 +1353,12 @@
           "GPRS": "Available",
           "VoLTE": "Yes",
           "Speed": "GSM / HSPA / LTE / 5G",
-          "WLAN": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) 5GHz 6GHz, MIMO",
-          "Bluetooth": "v5.3",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.2",
           "GPS": "Yes with A-GPS, Glonass",
           "Wi-fi Hotspot": "Yes",
           "NFC": "Yes",
-          "USB": "USB Type-C 2.0"
+          "USB": "Mass storage device, USB charging"
         },
         "Sensors & security": {
           "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
@@ -1374,6 +1374,10 @@
           "Audio Jack": "USB Type-C",
           "Audio Features": "Dolby Atmos",
           "Video": "3840x2160 @ 30 fps 1920x1080 @ 30 fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, gyro, proximity, compass, temperature"
         }
       },
       "gallery_images": [
@@ -3901,22 +3905,22 @@
     {
       "id": "oneplus_nord_ce4",
       "name": "OnePlus Nord CE4",
-      "price": "31500",
+      "price": "30000",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce4.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-18 06:32:29",
+      "last_updated": "2026-01-23 06:35:44",
       "first_scraped": null,
-      "updated_on": "May 8, 2025",
+      "updated_on": "January 22, 2026",
       "variants": [
         {
           "name": "8GB+128GB",
-          "price": "৳.31,500",
+          "price": "৳.30,000",
           "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4"
         },
         {
           "name": "8GB+256GB",
-          "price": "৳.33,500",
+          "price": "৳.31,500",
           "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4-256gb"
         }
       ],
@@ -4046,22 +4050,22 @@
     {
       "id": "oneplus_nord_ce4_256gb",
       "name": "OnePlus Nord CE4 (256GB)",
-      "price": "33500",
+      "price": "31500",
       "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4-256gb",
       "image_url": "https://www.mobiledokan.com/media/oneplus-nord-ce4.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-03 06:32:18",
+      "last_updated": "2026-01-23 06:35:44",
       "first_scraped": null,
-      "updated_on": "May 8, 2025",
+      "updated_on": "January 22, 2026",
       "variants": [
         {
           "name": "8GB+256GB",
-          "price": "৳.33,500",
+          "price": "৳.31,500",
           "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4-256gb"
         },
         {
           "name": "8GB+128GB",
-          "price": "৳.31,500",
+          "price": "৳.30,000",
           "url": "https://www.mobiledokan.com/mobile/oneplus-nord-ce4"
         }
       ],
