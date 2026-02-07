@@ -4,11 +4,11 @@
     "name": "helio",
     "url": "https://www.mobiledokan.com/mobile-brand/helio",
     "image_url": null,
-    "last_updated": "2026-02-06 06:58:25",
+    "last_updated": "2026-02-07 06:45:13",
     "total_phones": 18,
     "first_scraped": "2025-09-11 09:01:40",
-    "new_phones_this_run": 1,
-    "updated_phones_this_run": 0
+    "new_phones_this_run": 0,
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -2272,9 +2272,9 @@
       "url": "https://www.mobiledokan.com/mobile/helio-95",
       "image_url": "https://www.mobiledokan.com/media/helio-95-titanium-fog-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2026-02-06 06:58:25",
-      "first_scraped": "2026-02-06 06:58:25",
-      "updated_on": "February 5, 2026",
+      "last_updated": "2026-02-07 06:45:13",
+      "first_scraped": null,
+      "updated_on": "February 6, 2026",
       "variants": [],
       "specifications": {
         "General": {
@@ -2309,13 +2309,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Dual",
             "Resolution": "50 MP, f/1.8, Wide Angle, Primary Camera, 2 MP, Macro Camera",
@@ -2330,6 +2323,13 @@
             "Camera Features": "Auto Flash, Face detection, Filters, Touch to focus",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
