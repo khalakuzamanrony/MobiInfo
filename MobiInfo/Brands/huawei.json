@@ -4,11 +4,11 @@
     "name": "huawei",
     "url": "https://www.mobiledokan.com/mobile-brand/huawei",
     "image_url": null,
-    "last_updated": "2026-03-10 06:52:43",
+    "last_updated": "2026-03-11 07:12:07",
     "total_phones": 141,
     "first_scraped": "2025-09-11 09:19:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -299,137 +299,12 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p60",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-03 06:36:02",
+      "last_updated": "2026-03-11 07:12:07",
       "first_scraped": null,
       "updated_on": "December 30, 2024",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Huawei",
-          "Model": "P60",
-          "Device Type": "Smartphone",
-          "Release Date": "31 March 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Qualcomm Snapdragon 8 Plus Gen 1",
-          "CPU": "Octa core (3 GHz, Single core, Cortex X2 + 2.5 GHz, Tri core, Cortex A710 + 1.8 GHz, Quad core, Cortex A510)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "4 nm",
-          "GPU": "Adreno 730"
-        },
-        "Display": {
-          "Display Type": "OLED",
-          "Screen Size": "6.67 inches (16.94 cm)",
-          "Resolution": "1220x2700 px (FHD+)",
-          "Pixel Density": "444 ppi",
-          "Screen to Body Ratio": "89.55 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "48 MP, f/1.4-f/4.0, Wide Angle, Primary Camera, 12 MP, f/3.4, Periscope Telephoto Camera, 13 MP, f/2.2, Ultra-Wide Angle Camera",
-            "Autofocus": "Contrast Detection autofocus, Phase Detection autofocus, Laser autofocus",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.4-f/4.0",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "13 MP, f/2.4, Ultra-Wide Angle Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "161 mm",
-          "Width": "74.5 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "197 grams",
-          "Colors": "Black, Green, Violet, Rococo Pearl",
-          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
-          "IP Rating": "IP68",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4815 mAh",
-          "Wireless Charging": "50W wireless",
-          "Quick Charging": "Fast, 66W",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 3.1"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.2",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Infrared": "Yes",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30/60fps, 1080p@30/60fps, 1080p@960fps; gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass, color spectrum"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-back-side-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-power-button-side-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-side-image.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-black-official-image_1.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-green-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-violet-official-image.webp",
-        "https://www.mobiledokan.com/media/huawei-p60-rococo-pearl-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "huawei_p60_pro",
@@ -438,21 +313,10 @@
       "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro",
       "image_url": "https://www.mobiledokan.com/media/huawei-p60-pro-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-03 06:36:02",
+      "last_updated": "2026-03-11 07:12:07",
       "first_scraped": null,
       "updated_on": "December 30, 2024",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.127,000",
-          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro"
-        },
-        {
-          "name": "12GB+512GB",
-          "price": "৳.138,000",
-          "url": "https://www.mobiledokan.com/mobile/huawei-p60-pro-12-512gb"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Huawei",

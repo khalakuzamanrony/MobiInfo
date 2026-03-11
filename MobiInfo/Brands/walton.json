@@ -4,11 +4,11 @@
     "name": "walton",
     "url": "https://www.mobiledokan.com/mobile-brand/walton",
     "image_url": null,
-    "last_updated": "2026-03-10 06:49:03",
+    "last_updated": "2026-03-11 07:03:59",
     "total_phones": 336,
     "first_scraped": "2025-09-11 09:33:04",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -544,115 +544,11 @@
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n71-plus",
       "image_url": "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-18 06:32:04",
+      "last_updated": "2026-03-11 07:03:59",
       "first_scraped": null,
       "updated_on": "January 6, 2026",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Walton",
-          "Model": "NEXG N71 Plus",
-          "Device Type": "Smartphone",
-          "Release Date": "01 December 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "UNISOC Tiger T606",
-          "CPU": "ARM Cortex-A75",
-          "Fabrication": "12 nm",
-          "GPU": "Mali- G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS INCELL",
-          "Screen Size": "6.6 inches (16.76 cm)",
-          "Resolution": "720 x 1612 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "83.0 %",
-          "Screen Protection": "Corning Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop",
-          "Features": "Multi-touch"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "52 MP, f/2.2, 2 MP",
-            "Flash": "LED Flash",
-            "Image Resolution": "720 x1 6120 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "BSI, Face Detection, Antibanding, HDR, AE/AF lock, Composition Line, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos, Finger Capture, AI scene recognition, Countdown timer, Touching Photograph, Google Lens",
-            "Video Recording": "1080p",
-            "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2",
-            "Camera Features": "Face Detection, Digital Zoom (4.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Gesture recognition, Levels, Smile Shutter, Enhance Lowlight photos, Finger Capture, AI portrait recognition, Countdown timer, Touching Photograph, M",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "163.75 mm",
-          "Width": "75.4 mm",
-          "Thickness": "9.15 mm",
-          "Weight": "202  grams",
-          "Colors": "Camo Green, Sapphire Blue, Onyx Black"
-        },
-        "Battery": {
-          "Battery type": "Li-Polymer",
-          "Capacity": "5050mAh",
-          "Quick Charging": "First Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128GB",
-          "Expandable Memory": "Up to 256GB",
-          "USB OTG": "Yes",
-          "RAM": "9GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G,3G,4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 802.11 b/g/n",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Mobile Hotspot",
-          "NFC": "No",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5mm",
-          "Video": "1080p@30fps, 1080p@60fps"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
         "https://www.mobiledokan.com/media/1711104092XAVK4.webp",
@@ -791,7 +687,7 @@
       "url": "https://www.mobiledokan.com/mobile/walton-orbit-y70",
       "image_url": "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
       "serial_number": 7,
-      "last_updated": "2026-01-18 06:32:04",
+      "last_updated": "2026-03-11 07:03:59",
       "first_scraped": null,
       "updated_on": "March 20, 2025",
       "variants": [
@@ -903,16 +799,7 @@
           "Features": "Dual Flash Light, Parallel Apps, Screen Recording, Ultra Saving Mode, Gestures, Smart Controls, Face Unlock,NightLight, Scan QR Code, Charging Notification LED light, PMMA Material with Rainbow Effect"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
-        "https://www.mobiledokan.com/media/1711118807y6NOX.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-front-image.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-matte-black-official-imagejpg.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-matte-black-official-imagejpg.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-matte-black-official-imagejpg.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-carolina-blue-official-imagejpg.webp",
-        "https://www.mobiledokan.com/media/walton-orbit-y70-nebula-violet-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "walton_primo_rm4",

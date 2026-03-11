@@ -4,11 +4,11 @@
     "name": "symphony",
     "url": "https://www.mobiledokan.com/mobile-brand/symphony",
     "image_url": null,
-    "last_updated": "2026-03-10 06:52:41",
+    "last_updated": "2026-03-11 07:04:01",
     "total_phones": 499,
     "first_scraped": "2025-09-11 09:56:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -700,20 +700,14 @@
     {
       "id": "symphony_z47",
       "name": "Symphony Z47",
-      "price": "10499",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/symphony-z47",
       "image_url": "https://www.mobiledokan.com/media/1711013971e37y0.webp",
       "serial_number": 6,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-03-11 07:04:01",
       "first_scraped": null,
-      "updated_on": "March 20, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.10,499",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z47"
-        }
-      ],
+      "updated_on": null,
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Symphony",
