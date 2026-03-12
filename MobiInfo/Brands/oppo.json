@@ -4,7 +4,7 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2026-03-11 07:03:47",
+    "last_updated": "2026-03-12 06:56:58",
     "total_phones": 230,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
@@ -753,7 +753,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a92",
       "image_url": "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-03-11 07:03:47",
+      "last_updated": "2026-03-12 06:56:58",
       "first_scraped": null,
       "updated_on": "November 12, 2024",
       "variants": [],
@@ -870,19 +870,38 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-back-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-power-charging-poot-side-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-twilight-black-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-stream-white-official-image.webp",
+        "https://www.mobiledokan.com/media/oppo-a92-aurora-purple-official-image.webp"
+      ]
     },
     {
       "id": "oppo_a17",
       "name": "Oppo A17",
-      "price": null,
+      "price": "14400",
       "url": "https://www.mobiledokan.com/mobile/oppo-a17",
       "image_url": "https://www.mobiledokan.com/media/oppo-a17-sunlight-orange-official-image.webp",
       "serial_number": 7,
-      "last_updated": "2026-03-11 07:03:47",
+      "last_updated": "2026-03-12 06:56:58",
       "first_scraped": null,
-      "updated_on": null,
-      "variants": [],
+      "updated_on": "January 13, 2025",
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.14,400",
+          "url": "https://www.mobiledokan.com/mobile/oppo-a17"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Oppo",

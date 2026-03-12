@@ -4,7 +4,7 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2026-03-11 07:10:57",
+    "last_updated": "2026-03-12 06:59:58",
     "total_phones": 22,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
@@ -327,9 +327,9 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2",
       "image_url": "https://www.mobiledokan.com/media/1710935578su8QY.webp",
       "serial_number": 3,
-      "last_updated": "2026-03-11 07:10:57",
+      "last_updated": "2026-03-12 06:59:58",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "October 30, 2025",
       "variants": [
         {
           "name": "8GB+128GB",
@@ -468,7 +468,16 @@
           "Features": "Accelerometer, proximity, gyro, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1710935578su8QY.webp",
+        "https://www.mobiledokan.com/media/1710935578su8QY.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2-2.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2-1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-2-black.webp"
+      ]
     },
     {
       "id": "nothing_cmf_phone_1",
@@ -477,10 +486,21 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-cmf-phone-1",
       "image_url": "https://www.mobiledokan.com/media/nothing-cmf-phone-1-orange-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2026-03-11 07:10:57",
+      "last_updated": "2026-03-12 06:59:58",
       "first_scraped": null,
       "updated_on": "August 21, 2025",
-      "variants": [],
+      "variants": [
+        {
+          "name": "6GB+128GB",
+          "price": "৳.27,500",
+          "url": "https://www.mobiledokan.com/mobile/nothing-cmf-phone-1"
+        },
+        {
+          "name": "8GB+128GB",
+          "price": "৳.31,000",
+          "url": "https://www.mobiledokan.com/mobile/nothing-cmf-phone-1-8gb-ram"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Nothing",

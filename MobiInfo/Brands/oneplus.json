@@ -4,7 +4,7 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2026-03-11 07:04:02",
+    "last_updated": "2026-03-12 06:57:15",
     "total_phones": 117,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
@@ -787,10 +787,31 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-12",
       "image_url": "https://www.mobiledokan.com/media/oneplus-12-flowy-emerald-official-image_2.webp",
       "serial_number": 6,
-      "last_updated": "2026-03-11 07:04:02",
+      "last_updated": "2026-03-12 06:57:15",
       "first_scraped": null,
       "updated_on": "November 2, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "12GB+256GB",
+          "price": "৳.79,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12"
+        },
+        {
+          "name": "16GB+512GB",
+          "price": "৳.88,500",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-ram"
+        },
+        {
+          "name": "16GB+1TB",
+          "price": "৳.97,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-16gb-1tb"
+        },
+        {
+          "name": "24GB+1TB",
+          "price": "৳.117,000",
+          "url": "https://www.mobiledokan.com/mobile/oneplus-12-24gb-1tb"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "OnePlus",

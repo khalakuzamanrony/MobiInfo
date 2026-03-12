@@ -4,7 +4,7 @@
     "name": "itel",
     "url": "https://www.mobiledokan.com/mobile-brand/itel",
     "image_url": null,
-    "last_updated": "2026-03-11 07:09:09",
+    "last_updated": "2026-03-12 06:57:08",
     "total_phones": 107,
     "first_scraped": "2025-09-11 08:59:33",
     "new_phones_this_run": 0,
@@ -974,11 +974,130 @@
       "url": "https://www.mobiledokan.com/mobile/itel-vision-2",
       "image_url": "https://www.mobiledokan.com/media/itel-vision-2-green-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2026-03-11 07:09:09",
+      "last_updated": "2026-03-12 06:57:08",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
-      "variants": [],
-      "specifications": {},
+      "variants": [
+        {
+          "name": "2GB+32GB",
+          "price": "৳.8,490",
+          "url": "https://www.mobiledokan.com/mobile/itel-vision-2"
+        },
+        {
+          "name": "3GB+64GB",
+          "price": "৳.9,490",
+          "url": "https://www.mobiledokan.com/mobile/itel-vision-2-3gb-64gb"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Itel",
+          "Model": "Vision 2",
+          "Device Type": "Smartphone",
+          "Release Date": "11 January 2021",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v10",
+          "Chipset": "Unisoc SC9863A (28nm)",
+          "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "IMG8322"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.6 inches (16.76 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "266 ppi",
+          "Screen to Body Ratio": "83.69 %",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "450 nits",
+          "Notch": "Punch-hole",
+          "Features": "Multi-touch"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, Primary Camera, 2 MP, Macro Camera, 0.08 MP (auxiliary lens)",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP f/2.0, Primary Camera",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "164.7 mm",
+          "Width": "76.3 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "169 grams",
+          "Colors": "Green"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "4000mAh",
+          "Quick Charging": "10W wired",
+          "Placement": "Non-removable",
+          "Standby": "Up to 300 Hours(2G)",
+          "Talk Time": "Up to 26 Hours(4G) / Up to 30 Hours(2G)",
+          "USB Type-C": "microUSB"
+        },
+        "Memory": {
+          "Internal Storage": "32GB",
+          "Expandable Memory": "Up to 128 GB",
+          "USB OTG": "Yes",
+          "RAM": "2GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G,3G,4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Mobile Hotspot",
+          "NFC": "No",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "No",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps",
+          "Document Reader": "Yes"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/itel-vision-2-green-official-image.webp",
         "https://www.mobiledokan.com/media/itel-vision-2-green-official-image.webp",
@@ -997,7 +1116,7 @@
       "url": "https://www.mobiledokan.com/mobile/itel-vision-1-pro",
       "image_url": "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-03-11 07:09:09",
+      "last_updated": "2026-03-12 06:57:08",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -1042,12 +1161,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.0, Primary Camera",
-            "Video Recording": "Yes",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "8 MP, Primary Camera, 0.3 MP, 0.3 MP",
@@ -1057,6 +1170,12 @@
             "Shooting Modes": "High Dynamic Range mode (HDR)",
             "Video Recording": "1920x1080",
             "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP f/2.0, Primary Camera",
+            "Video Recording": "Yes",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -1110,7 +1229,18 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-front-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-back-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-aurora-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision-1-pro-ocean-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/itel-vision1pro-black-official-image.webp"
+      ]
     },
     {
       "id": "itel_vision_1",
@@ -3981,13 +4111,13 @@
     {
       "id": "itel_a49",
       "name": "Itel A49",
-      "price": null,
+      "price": "8290",
       "url": "https://www.mobiledokan.com/mobile/itel-a49",
       "image_url": "https://www.mobiledokan.com/media/itel-a49-image.webp",
       "serial_number": 32,
-      "last_updated": "2026-03-11 07:09:09",
+      "last_updated": "2026-03-12 06:57:08",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "June 1, 2024",
       "variants": [],
       "specifications": {
         "General": {

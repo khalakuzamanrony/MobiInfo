@@ -4,7 +4,7 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2026-03-11 07:11:09",
+    "last_updated": "2026-03-12 06:59:43",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:03:15",
     "new_phones_this_run": 0,
@@ -18,11 +18,124 @@
       "url": "https://www.mobiledokan.com/mobile/benco-s1-pro-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
       "serial_number": 1,
-      "last_updated": "2026-03-11 07:11:09",
+      "last_updated": "2026-03-12 06:59:43",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
-      "variants": [],
-      "specifications": {},
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.14,399",
+          "url": "https://www.mobiledokan.com/mobile/benco-s1-pro-8gb-256gb"
+        },
+        {
+          "name": "6GB+128GB",
+          "price": "৳.13,650",
+          "url": "https://www.mobiledokan.com/mobile/benco-s1-pro"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Benco",
+          "Model": "S1 Pro (8GB/256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "01 November 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc T616",
+          "CPU": "Octa-core, up to 1.6 GHz",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57 MP1"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.82 inches (17.32 cm)",
+          "Resolution": "1080x2460 px (HD+)",
+          "Aspect Ratio": "20.5:9",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "64 MP, f/1.89 Primary Camera, 2 MP, 2 MP",
+            "Sensor": "pixel sensor",
+            "Flash": "LED flash",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.89",
+            "Camera Features": "64MP AI triple rear camera, f/1.89 aperture, 1.4μm 4-in-1 super pixel sensor",
+            "Video Recording": "1080p",
+            "Video FPS": "30/60fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16MP, f/2.0 Primary Camera",
+            "Sensor": "1.4μm 4-in-1 super pixel sensor",
+            "Video Recording": "1080p",
+            "Video FPS": "30fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "166.9 mm",
+          "Width": "74.9 mm",
+          "Thickness": "8.5 mm",
+          "Weight": "205 grams",
+          "Build": "Glass front, AG glass back, plastic frame",
+          "Colors": "Pearl White, Iceberg Blue, Gemstone Black"
+        },
+        "Battery": {
+          "Battery type": "Li-Polymer",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "33W Quick Charging",
+          "Placement": "Non-removable"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 2.2",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
+          "Bluetooth": "v5",
+          "GPS": "With A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "USB Type-C 2.0, OTG"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Yes",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5mm",
+          "Video": "Full HD (1080p)"
+        },
+        "More": {
+          "Made By": "India/Bangladesh/Nepal",
+          "Features": "Fingerprint, accelerometer, proximity"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711447875DGt2V.webp",
         "https://www.mobiledokan.com/media/1711447875DGt2V.webp",

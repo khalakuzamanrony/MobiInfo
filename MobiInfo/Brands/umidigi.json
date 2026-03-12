@@ -4,7 +4,7 @@
     "name": "umidigi",
     "url": "https://www.mobiledokan.com/mobile-brand/umidigi",
     "image_url": null,
-    "last_updated": "2026-03-11 07:10:37",
+    "last_updated": "2026-03-12 06:59:10",
     "total_phones": 14,
     "first_scraped": "2025-09-14 14:23:29",
     "new_phones_this_run": 0,
@@ -18,10 +18,16 @@
       "url": "https://www.mobiledokan.com/mobile/umidigi-a1-pro",
       "image_url": "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
       "serial_number": 1,
-      "last_updated": "2026-03-11 07:10:37",
+      "last_updated": "2026-03-12 06:59:10",
       "first_scraped": null,
       "updated_on": "July 27, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "3GB+16GB",
+          "price": "৳.11,490",
+          "url": "https://www.mobiledokan.com/mobile/umidigi-a1-pro"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Umidigi",
@@ -128,7 +134,18 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-front-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-back-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-side-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-icy-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-moonlight-silver-official-image.webp",
+        "https://www.mobiledokan.com/media/umidigi-a1-pro-pitch-dark-official-image.webp"
+      ]
     },
     {
       "id": "umidigi_one_max",
