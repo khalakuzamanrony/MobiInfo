@@ -4,11 +4,11 @@
     "name": "honor",
     "url": "https://www.mobiledokan.com/mobile-brand/honor",
     "image_url": null,
-    "last_updated": "2026-03-31 07:14:37",
+    "last_updated": "2026-04-01 07:20:58",
     "total_phones": 105,
     "first_scraped": "2025-09-11 08:58:42",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 2
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -1831,9 +1831,9 @@
       "url": "https://www.mobiledokan.com/mobile/honor-magic5-ultimate",
       "image_url": "https://www.mobiledokan.com/media/1713721708R2jph.webp",
       "serial_number": 14,
-      "last_updated": "2026-03-31 07:14:37",
+      "last_updated": "2026-04-01 07:20:58",
       "first_scraped": null,
-      "updated_on": "March 30, 2026",
+      "updated_on": "March 31, 2026",
       "variants": [
         {
           "name": "16GB+512GB CN",
@@ -1855,7 +1855,7 @@
           "User Interface": "MagicOS 7.1",
           "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2",
           "CPU": "Octa core (3.2 GHz, Single core, Cortex X3 + 2.8 GHz, Quad core, Cortex A715 + 2 GHz, Tri core, Cortex A510)",
-          "CPU Cores": "8 cores",
+          "CPU Cores": "8 Cores",
           "Architecture": "64 bit",
           "Fabrication": "4 nm",
           "GPU": "Adreno 740"
@@ -1876,13 +1876,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "12 MP, f/2.4, Ultra-Wide Angle, Primary Camera",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera, 50 MP, f/3.0, Periscope Camera",
@@ -1897,6 +1890,13 @@
             "Camera Features": "Auto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP, f/2.4, Ultra-Wide Angle, Primary Camera",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
           }
         },
         "Design": {
@@ -1913,8 +1913,9 @@
         "Battery": {
           "Battery type": "Li-Ion (Lithium-Ion)",
           "Capacity": "5450 mAh",
-          "Wireless Charging": "Yes",
+          "Wireless Charging": "50W wireless",
           "Quick Charging": "66W wired",
+          "Reverse Charging": "5W reverse wired",
           "Placement": "Non-removable",
           "USB Type-C": "USB Type-C 3.1, DisplayPort 1.2"
         },

@@ -4,11 +4,11 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2026-03-31 07:16:32",
-    "total_phones": 25,
+    "last_updated": "2026-04-01 07:23:58",
+    "total_phones": 26,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 1,
-    "updated_phones_this_run": 4
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -2727,14 +2727,25 @@
     {
       "id": "nothing_phone_3a_lite",
       "name": "Nothing Phone (3a) Lite",
-      "price": "30000",
+      "price": "28000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-lite-white-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2026-01-18 06:34:32",
+      "last_updated": "2026-04-01 07:23:58",
       "first_scraped": null,
-      "updated_on": "December 29, 2025",
-      "variants": [],
+      "updated_on": "March 31, 2026",
+      "variants": [
+        {
+          "name": "8GB+128GB IND",
+          "price": "৳.28,000",
+          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite"
+        },
+        {
+          "name": "8GB+256GB IND",
+          "price": "৳.31,000",
+          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Nothing",
@@ -2769,6 +2780,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.88, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
@@ -2783,13 +2801,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP, f/2.45, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.45"
           }
         },
         "Design": {
@@ -3633,12 +3644,160 @@
       ]
     },
     {
+      "id": "nothing_phone_3a_lite_256gb",
+      "name": "Nothing Phone (3a) Lite (256GB)",
+      "price": "31000",
+      "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb",
+      "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-lite-white-official-image_1.webp",
+      "serial_number": 25,
+      "last_updated": "2026-04-01 07:23:58",
+      "first_scraped": "2026-04-01 07:23:58",
+      "updated_on": "March 31, 2026",
+      "variants": [
+        {
+          "name": "8GB+256GB IND",
+          "price": "৳.31,000",
+          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb"
+        },
+        {
+          "name": "8GB+128GB IND",
+          "price": "৳.28,000",
+          "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-lite"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Nothing",
+          "Model": "Phone (3a) Lite (256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "29 October 2025",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v15",
+          "User Interface": "Nothing OS 3.5",
+          "Chipset": "Mediatek Dimensity 7300 Pro",
+          "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Mali-G615 MC2"
+        },
+        "Display": {
+          "Display Type": "AMOLED",
+          "Screen Size": "6.77 inches (17.2 cm)",
+          "Resolution": "1084x2392 px (FHD+)",
+          "Pixel Density": "387 ppi",
+          "Screen to Body Ratio": "88.0%",
+          "Screen Protection": "Panda Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "3000 nits",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "50 MP, f/1.88, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 2 MP, f/2.4, Macro Camera",
+            "Autofocus": "Yes",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.88",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP, f/2.45, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.45"
+          }
+        },
+        "Design": {
+          "Height": "164 mm",
+          "Width": "78 mm",
+          "Thickness": "8.3 mm",
+          "Weight": "199 grams",
+          "Build": "Glass front (Panda Glass), plastic frame, glass back (Panda Glass)",
+          "Colors": "Black, White",
+          "Waterproof": "Splash proof",
+          "IP Rating": "IP54",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "33W wired, 50% in 20 min",
+          "Reverse Charging": "5W reverse wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Expandable Memory": "Up to 2 TB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "On-screen",
+          "Finger Sensor Type": "Optical",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "USB Type-C",
+          "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+        },
+        "More": {
+          "Made By": "UK",
+          "Features": "Accelerometer, gyro, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-white-official-image_1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-white-official-image_1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-full-display-side-image.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-black-official-image_1.webp",
+        "https://www.mobiledokan.com/media/nothing-phone-3a-lite-white-official-image.webp"
+      ]
+    },
+    {
       "id": "nothing_phone_2a_plus_12gb_ram",
       "name": "Nothing Phone 2a Plus (12GB RAM)",
       "price": null,
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-2a-plus-black-official-image.webp",
-      "serial_number": 25,
+      "serial_number": 26,
       "last_updated": "2025-10-30 06:33:11",
       "first_scraped": null,
       "updated_on": null,
