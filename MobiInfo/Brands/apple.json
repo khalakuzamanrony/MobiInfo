@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2026-04-06 07:30:03",
+    "last_updated": "2026-04-07 07:17:30",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 3
   },
   "phones": [
     {
@@ -333,22 +333,22 @@
     {
       "id": "apple_iphone_14_plus",
       "name": "Apple iPhone 14 Plus",
-      "price": "112000",
+      "price": "77000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-01-03 06:32:20",
+      "last_updated": "2026-04-07 07:17:30",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
+      "updated_on": "April 7, 2026",
       "variants": [
         {
           "name": "6GB+128GB",
-          "price": "৳.112,000",
+          "price": "৳.77,000",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus"
         },
         {
           "name": "6GB+256GB",
-          "price": "৳.122,000",
+          "price": "৳.92,000",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb"
         }
       ],
@@ -401,7 +401,7 @@
             "Aperture": "f/1.5",
             "Camera Features": "5 x Digital Zoom, 2 x Optical Zoom, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Action Mode, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Image Stabilization": "Yes"
           },
           "Selfie Camera": {
@@ -409,9 +409,8 @@
             "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@30fps)",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Aperture": "f/1.9"
           }
         },
@@ -646,13 +645,13 @@
     {
       "id": "apple_iphone_14_pro",
       "name": "Apple iPhone 14 Pro",
-      "price": "100000",
+      "price": "102000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro",
       "image_url": "https://www.mobiledokan.com/media/171074490670V5y.webp",
       "serial_number": 5,
-      "last_updated": "2026-01-03 06:32:20",
+      "last_updated": "2026-04-07 07:17:30",
       "first_scraped": null,
-      "updated_on": "November 19, 2025",
+      "updated_on": "April 7, 2026",
       "variants": [
         {
           "name": "6GB+128GB",
@@ -714,16 +713,15 @@
             "Aperture": "f/1.78",
             "Camera Features": "9 x Digital Zoom, Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps"
+            "Video FPS": "30 fps, 60 fps"
           },
           "Selfie Camera": {
             "Camera Setup": "Single",
             "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
-            "Camera Features": "Wide Angle, HDR, Cinematic mode (4K@24/30fps)",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Aperture": "f/1.9"
           }
         },
@@ -785,8 +783,8 @@
         }
       },
       "gallery_images": [
-        "https://www.mobiledokan.com/media/171074490670V5y.webp",
-        "https://www.mobiledokan.com/media/171074490670V5y.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp",
         "https://www.mobiledokan.com/media/apple-iphone-14-pro-front-side-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-14-pro-back-side-image_1.webp",
         "https://www.mobiledokan.com/media/apple-iphone-14-pro-side-image.webp",
@@ -3720,22 +3718,22 @@
     {
       "id": "apple_iphone_14_plus_256gb",
       "name": "Apple iPhone 14 Plus (256GB)",
-      "price": "122000",
+      "price": "92000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-plus-starlight-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2025-10-19 06:30:22",
+      "last_updated": "2026-04-07 07:17:30",
       "first_scraped": null,
-      "updated_on": "March 17, 2025",
+      "updated_on": "April 7, 2026",
       "variants": [
         {
           "name": "6GB+256GB",
-          "price": "৳.122,000",
+          "price": "৳.92,000",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb"
         },
         {
           "name": "6GB+128GB",
-          "price": "৳.112,000",
+          "price": "৳.77,000",
           "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-plus"
         }
       ],
@@ -3788,7 +3786,7 @@
             "Aperture": "f/1.5",
             "Camera Features": "5 x Digital Zoom, 2 x Optical Zoom, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Action Mode, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Image Stabilization": "Yes"
           },
           "Selfie Camera": {
@@ -3796,9 +3794,8 @@
             "Resolution": "12 MP f/1.9, Wide Angle, Primary Camera",
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
-            "Camera Features": "Retina Flash",
-            "Video Recording": "Wide Angle, HDR, Cinematic mode (4K@30fps)",
-            "Video FPS": "3840x2160, 1920x1080",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps, 60 fps",
             "Aperture": "f/1.9"
           }
         },
