@@ -4,11 +4,11 @@
     "name": "apple",
     "url": "https://www.mobiledokan.com/mobile-brand/apple",
     "image_url": null,
-    "last_updated": "2026-04-07 07:17:30",
+    "last_updated": "2026-04-08 07:19:19",
     "total_phones": 106,
     "first_scraped": "2025-09-11 08:59:22",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 3
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -3072,13 +3072,13 @@
     {
       "id": "apple_iphone_14_pro_max",
       "name": "Apple iPhone 14 Pro Max",
-      "price": "115000",
+      "price": "114000",
       "url": "https://www.mobiledokan.com/mobile/apple-iphone-14-pro-max",
       "image_url": "https://www.mobiledokan.com/media/apple-iphone-14-pro-max-gold-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-03 06:32:20",
+      "last_updated": "2026-04-08 07:19:19",
       "first_scraped": null,
-      "updated_on": "November 19, 2025",
+      "updated_on": "April 7, 2026",
       "variants": [
         {
           "name": "6GB+128GB",
@@ -3149,7 +3149,7 @@
             "Aperture": "f/1.8",
             "Camera Features": "9 x Digital Zoom, Apple ProRAW, Auto Flash, Face detection, Touch to focus, Slo-motion, Video HDR, Night Time-Lapse, Macro Video, Action Mode, ProRes Video, Audio Zoom, Stereo recording",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Image Stabilization": "Yes"
           },
           "Selfie Camera": {
@@ -3158,7 +3158,7 @@
             "Autofocus": "Yes",
             "Flash": "Retina Flash",
             "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
+            "Video FPS": "30 fps, 60 fps",
             "Aperture": "f/1.9"
           }
         },
