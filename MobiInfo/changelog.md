@@ -2,6 +2,131 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-04-12 13:19:25
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5342
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 5
+- **Visited phones**: 871
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 26 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### umidigi
+- **Updated phone**: Umidigi G9A (price: 8990 → 9990, updated_on: May 13, 2025 → April 12, 2026)
+
+#### xiaomi
+- **Updated phone**: Xiaomi Redmi 12 (128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
+- **Updated phone**: Xiaomi Redmi 12 (8GB+128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 22 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 24 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 13 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 30 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-04-11 13:06:23
 
 ### Summary
@@ -1180,134 +1305,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### nothing
 - 24 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 30 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-04-01 13:26:22
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5342
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 1
-- **Updated phones**: 5
-- **Visited phones**: 870
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## New phones added
-
-#### nothing
-- Nothing Phone (3a) Lite (256GB)
-
-## Updates
-
-#### honor
-- **Updated phone**: Honor Magic5 Ultimate (updated_on: March 30, 2026 → March 31, 2026, specifications.Hardware & Software.CPU Cores: 8 cores → 8 Cores, specifications.Battery.Wireless Charging: Yes → 50W wireless, Added new field: specifications.Battery.Reverse Charging)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 25 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-- **Updated phone**: Nothing Phone (3a) Lite (price: 30000 → 28000, updated_on: December 29, 2025 → March 31, 2026, variants: List length changed from 0 to 2)
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi 12 (128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-- **Updated phone**: Xiaomi Redmi 12 (8GB+128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-
-## Visited
-
-#### apple
-- 32 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 31 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 22 phones visited from first 1 page
 
 #### oneplus
 - 32 phones visited from first 1 page
