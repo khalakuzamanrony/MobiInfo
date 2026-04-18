@@ -2,6 +2,128 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-04-18 13:12:37
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5343
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 4
+- **Visited phones**: 873
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### xiaomi
+- **Updated phone**: Xiaomi Redmi 12 (128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
+- **Updated phone**: Xiaomi Redmi 12 (8GB+128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 22 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 25 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 14 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 30 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-04-17 13:51:32
 
 ### Summary
@@ -1203,132 +1325,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### nothing
 - 24 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 30 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-04-07 13:21:20
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5343
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 8
-- **Visited phones**: 868
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 14 Plus (price: 112000 → 77000, updated_on: March 17, 2025 → April 7, 2026, variants[0]: {name: 6GB+128GB, price: ৳.112,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus} → {name: 6GB+128GB, price: ৳.77,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus}, variants[1]: {name: 6GB+256GB, price: ৳.122,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb} → {name: 6GB+256GB, price: ৳.92,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb}, specifications.Cameras.Primary Camera.Video FPS: 30 fps → 30 fps, 60 fps, specifications.Cameras.Selfie Camera.Video FPS: 30 fps → 30 fps, 60 fps, Removed field: specifications.Cameras.Selfie Camera.Camera Features)
-- **Updated phone**: Apple iPhone 14 Pro (price: 100000 → 102000, updated_on: November 19, 2025 → April 7, 2026, specifications.Cameras.Primary Camera.Video FPS: 30 fps → 30 fps, 60 fps, specifications.Cameras.Selfie Camera.Video FPS: 30 fps → 30 fps, 60 fps, Removed field: specifications.Cameras.Selfie Camera.Camera Features, gallery_images[0]: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp, gallery_images[1]: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
-- **Updated phone**: Apple iPhone 14 Plus (256GB) (price: 122000 → 92000, updated_on: March 17, 2025 → April 7, 2026, variants[0]: {name: 6GB+256GB, price: ৳.122,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb} → {name: 6GB+256GB, price: ৳.92,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus-256gb}, variants[1]: {name: 6GB+128GB, price: ৳.112,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus} → {name: 6GB+128GB, price: ৳.77,000, url: https://www.mobiledokan.com/mobile/apple-iphone-14-plus}, specifications.Cameras.Primary Camera.Video FPS: 30 fps → 30 fps, 60 fps, specifications.Cameras.Selfie Camera.Video Recording: Wide Angle, HDR, Cinematic mode (4K@30fps) → 3840x2160, 1920x1080, specifications.Cameras.Selfie Camera.Video FPS: 3840x2160, 1920x1080 → 30 fps, 60 fps, Removed field: specifications.Cameras.Selfie Camera.Camera Features)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 26 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-- **Updated phone**: Nothing CMF Phone 2 Pro (price: 28600 → 30000, updated_on: March 22, 2026 → April 6, 2026, variants[0]: {name: 8GB+128GB IND, price: ৳.28,600, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro} → {name: 8GB+128GB IND, price: ৳.30,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro}, variants[1]: {name: 8GB+256GB IND, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram} → {name: 8GB+256GB IND, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram})
-- **Updated phone**: Nothing CMF Phone 2 Pro (8GB RAM) (price: 31000 → 33000, updated_on: March 22, 2026 → April 6, 2026, variants[0]: {name: 8GB+256GB IND, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram} → {name: 8GB+256GB IND, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro-8gb-ram}, variants[1]: {name: 8GB+128GB IND, price: ৳.28,600, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro} → {name: 8GB+128GB IND, price: ৳.30,000, url: https://www.mobiledokan.com/mobile/nothing-cmf-phone-2-pro})
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi 12 (128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-- **Updated phone**: Xiaomi Redmi 12 (8GB+128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-
-## Visited
-
-#### apple
-- 29 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 22 phones visited from first 1 page
 
 #### oneplus
 - 32 phones visited from first 1 page
