@@ -4,11 +4,11 @@
     "name": "symphony",
     "url": "https://www.mobiledokan.com/mobile-brand/symphony",
     "image_url": null,
-    "last_updated": "2026-05-01 08:24:20",
+    "last_updated": "2026-05-02 07:59:50",
     "total_phones": 499,
     "first_scraped": "2025-09-11 09:56:53",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 15
   },
   "phones": [
     {
@@ -150,122 +150,15 @@
     {
       "id": "symphony_z45",
       "name": "Symphony Z45",
-      "price": "11490",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/symphony-z45",
       "image_url": "https://www.mobiledokan.com/media/1710998784SH7Fh.webp",
       "serial_number": 2,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
-      "updated_on": "March 19, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.11,490",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z45"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Symphony",
-          "Model": "Z45",
-          "Device Type": "Smartphone",
-          "Release Date": "15 February 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v11",
-          "Chipset": "Unisoc T610",
-          "CPU": "Octa-core, 1.8 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G52 MP2"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.52 inches (16.56 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Pixel Density": "263 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP Primary Camera, 2 MP Angle Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8000 x 6000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus, portrait mode, night mode, HDR",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "164.4 mm",
-          "Width": "75.7 mm",
-          "Thickness": "8.63 mm",
-          "Weight": "190 grams",
-          "Build": "Glass front, plastic body",
-          "Colors": "Blue, Green"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 128 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: eSIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA+, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "USB Type",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, Proximity"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710998784SH7Fh.webp",
         "https://www.mobiledokan.com/media/1710998784SH7Fh.webp",
@@ -434,7 +327,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z55",
       "image_url": "https://www.mobiledokan.com/media/1711003994cWvrY.webp",
       "serial_number": 4,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -552,17 +445,7 @@
           "Features": "Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711003994cWvrY.webp",
-        "https://www.mobiledokan.com/media/1711003994cWvrY.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-front-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-back-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-honey-dew-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-honey-dew-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-honey-dew-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z55-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_i96",
@@ -1233,7 +1116,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z22",
       "image_url": "https://www.mobiledokan.com/media/1711045649IVGlv.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
       "variants": [
@@ -1343,15 +1226,7 @@
           "Features": "Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711045649IVGlv.webp",
-        "https://www.mobiledokan.com/media/1711045649IVGlv.webp",
-        "https://www.mobiledokan.com/media/symphony-z22-front-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z22-back-side-picture.webp",
-        "https://www.mobiledokan.com/media/symphony-z22-green-color-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z22-green-color-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z22-green-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_z33",
@@ -1360,16 +1235,10 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z33",
       "image_url": "https://www.mobiledokan.com/media/1711099285XobJG.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 20, 2025",
-      "variants": [
-        {
-          "name": "3GB+32GB",
-          "price": "৳.10,490",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z33"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Symphony",
@@ -1476,16 +1345,7 @@
           "Features": "Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711099285XobJG.webp",
-        "https://www.mobiledokan.com/media/1711099285XobJG.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-front-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z33-blue-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_atom_3",
@@ -1494,131 +1354,12 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-atom-3",
       "image_url": "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "January 9, 2025",
       "variants": [],
-      "specifications": {
-        "General": {
-          "Brand": "Symphony",
-          "Model": "ATOM 3",
-          "Device Type": "Smartphone",
-          "Release Date": "09 November 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "Chipset": "MediaTek Helio A22",
-          "CPU": "Octa-core, 2.0 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8300"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (104.6 cm2)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with V-Type Notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Type-V"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "8 MP, f/1.85, Primary Camera, QVGA AI Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "3264 x 2448 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "4 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.85",
-            "Camera Features": "Night Mode, Anti-flicker, Face beauty, Display Flash, Google Lens, Time Laps, Slow Motion, Professional, Touch shot, 4 X Zoom",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, f/2.2, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "164.6 mm",
-          "Width": "75.8 mm",
-          "Thickness": "9.2 mm",
-          "Weight": "212 grams",
-          "Build": "Glass front, plastic body",
-          "Colors": "Charming Blue, Lemonade Green, Seafoam Green"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5070 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "Talk Time": "Up to 2:40 hours"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Expandable Memory": "Up to 128 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA+, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging, microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light Sensor, Proximity, Sensor Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, Proximity"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-charming-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-lemonade-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-atom-3-seafoam-green-official-image.webp"
-      ]
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "symphony_i73",
@@ -2051,7 +1792,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-80",
       "image_url": "https://www.mobiledokan.com/media/1711123030dncjy.webp",
       "serial_number": 16,
-      "last_updated": "2026-01-03 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 21, 2025",
       "variants": [
@@ -2174,17 +1915,7 @@
           "Features": "Accelerometer, Proximity, Gyroscope, E-Compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711123030dncjy.webp",
-        "https://www.mobiledokan.com/media/1711123030dncjy.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-front-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-side-view.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-80-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_i99",
@@ -2193,16 +1924,10 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-i99",
       "image_url": "https://www.mobiledokan.com/media/1711126049DTGmQ.webp",
       "serial_number": 17,
-      "last_updated": "2026-01-03 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 21, 2025",
-      "variants": [
-        {
-          "name": "2GB+16GB",
-          "price": "৳.6,990",
-          "url": "https://www.mobiledokan.com/mobile/symphony-i99"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Symphony",
@@ -2328,16 +2053,10 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z16",
       "image_url": "https://www.mobiledokan.com/media/1711171703y7QuA.webp",
       "serial_number": 18,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 20, 2025",
-      "variants": [
-        {
-          "name": "3GB+32GB",
-          "price": "৳.8,290",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z16"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Symphony",
@@ -2724,7 +2443,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z30-pro",
       "image_url": "https://www.mobiledokan.com/media/1711187881twmUe.webp",
       "serial_number": 21,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 20, 2025",
       "variants": [
@@ -2840,15 +2559,7 @@
           "Features": "Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711187881twmUe.webp",
-        "https://www.mobiledokan.com/media/1711187881twmUe.webp",
-        "https://www.mobiledokan.com/media/symphony-z30-pro-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z30-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z30-pro-amazon-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z30-pro-amazon-green-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z30-pro-amazon-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_z40",
@@ -2990,7 +2701,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z60-plus",
       "image_url": "https://www.mobiledokan.com/media/1711372688In7I8.webp",
       "serial_number": 23,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 22, 2025",
       "variants": [
@@ -3110,18 +2821,7 @@
           "Features": "Accelerometer, Proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711372688In7I8.webp",
-        "https://www.mobiledokan.com/media/1711372688In7I8.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-front-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-back-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-side-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-product-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-metalic-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-metalic-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-metalic-silver-official-image.webp",
-        "https://www.mobiledokan.com/media/symphony-z60-plus-blue-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_z60_4gb_ram",
@@ -3130,131 +2830,11 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-z60-4gb-ram",
       "image_url": "https://www.mobiledokan.com/media/1711372688In7I8.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-03 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "May 15, 2024",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.10,499",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z60-4gb-ram"
-        },
-        {
-          "name": "3GB+64GB",
-          "price": "৳.9,999",
-          "url": "https://www.mobiledokan.com/mobile/symphony-z60"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Symphony",
-          "Model": "Z60 (4GB RAM)",
-          "Device Type": "Smartphone",
-          "Release Date": "12 April 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "Android",
-          "Chipset": "UNISOC T606",
-          "CPU": "Octa-core, 1.6 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "Mali-G57 MP1"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.6 inches (105.2 cm2)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "52 f/1.8, MP Primary Camera, 2 MP f/2.4, Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "8192 x 6368 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Insight Google Lens, Enhance Lowlight Photo, Pro Mode, Slow-Motion, Brust, Panorama, Qr Code, Face beauty, Time Laps, Interval, HDR, Flashlight, Display Flash, Face Unlock, Audio Note, Auto HDR, Display Flash",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f2.2, Primary Camera",
-            "Flash": "Display flash",
-            "Camera Features": "Face Beauty, Watermark, HDR",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          }
-        },
-        "Design": {
-          "Height": "164 mm",
-          "Width": "75.6 mm",
-          "Thickness": "8.65 mm",
-          "Weight": "190 grams",
-          "Build": "Back: Gorilla Glass",
-          "Colors": "Carbon Black, Honeydew Green, Intense Green, Frost Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "Standby": "Up to 148 hours",
-          "Talk Time": "Up to 38 hours",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Expandable Memory": "Up to 256GB",
-          "USB OTG": "Yes",
-          "RAM": "4GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA+, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light Sensor, Proximity, Sensor Accelerometer",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, Proximity"
-        }
-      },
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1711372688In7I8.webp",
         "https://www.mobiledokan.com/media/1711372688In7I8.webp",
@@ -3276,26 +2856,10 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-innova-30-8gb-128gb",
       "image_url": "https://www.mobiledokan.com/media/symphony-innova-30-mirror-white-official-image.webp",
       "serial_number": 25,
-      "last_updated": "2026-01-03 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "December 25, 2024",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.12,699",
-          "url": "https://www.mobiledokan.com/mobile/symphony-innova-30-8gb-128gb"
-        },
-        {
-          "name": "6GB+128GB",
-          "price": "৳.11,699",
-          "url": "https://www.mobiledokan.com/mobile/symphony-innova-30-6gb-ram"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.10,199",
-          "url": "https://www.mobiledokan.com/mobile/symphony-innova-30"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Symphony",
@@ -3707,7 +3271,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-helio-30",
       "image_url": "https://www.mobiledokan.com/media/1712294217xS9YH.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "March 23, 2025",
       "variants": [
@@ -3825,16 +3389,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1712294217xS9YH.webp",
-        "https://www.mobiledokan.com/media/1712294217xS9YH.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-front-image_3.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-back-image_3.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-flame-orange-official-image_1.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-flame-orange-official-image_1.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-flame-orange-official-image_1.webp",
-        "https://www.mobiledokan.com/media/symphony-helio-30-mint-green.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_g26",
@@ -3843,121 +3398,11 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-g26",
       "image_url": "https://www.mobiledokan.com/media/symphony-g26-lime-green-official-image.webp",
       "serial_number": 29,
-      "last_updated": "2026-01-03 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "April 27, 2025",
-      "variants": [
-        {
-          "name": "2GB+32GB",
-          "price": "৳.6,699",
-          "url": "https://www.mobiledokan.com/mobile/symphony-g26"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Symphony",
-          "Model": "G26",
-          "Device Type": "Smartphone",
-          "Release Date": "20 July 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "Chipset": "Spreadtrum UniSoC SC9863A",
-          "CPU": "Octa-Core 1.6 GHz",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "28 nm",
-          "GPU": "PowerVR GE8322"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (103.4 cm2)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "267 ppi",
-          "Screen to Body Ratio": "83.4 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with V-Type Notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Notch": "Type-V"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "5 MP, f/2.4, Wide Angle, Primary Camera, 2 MP Camera",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "2592 x 1944 Pixels",
-            "Settings": "Exposure compensation",
-            "Zoom": "Digital Zoom",
-            "Aperture": "f/2.4",
-            "Camera Features": "AI, Portrait Mode, Watermark, Night Mode, AR Sticker, Enhance Lowlight Photo, Pro Mode, Slow-Motion, Burst, Panorama, QR Code, Face Beauty, Time Laps, HDR, Flash light, Display Flash, Face Unlock, Auto HDR",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP, Primary Camera",
-            "Video Recording": "720p",
-            "Video FPS": "30 fps"
-          }
-        },
-        "Design": {
-          "Height": "165.1 mm",
-          "Width": "75.9 mm",
-          "Thickness": "8.85 mm",
-          "Weight": "187 grams",
-          "Build": "Plastic Body, Glass Front",
-          "Colors": "Frost Blue, Cosmic Black & Lime Green"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4000 mAh",
-          "Quick Charging": "Fast Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "32 GB",
-          "Expandable Memory": "Up to 128GB",
-          "USB OTG": "Yes",
-          "RAM": "2 GB"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM (Nano-SIM, dual stand-by)",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA+, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5mm",
-          "Video": "720p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer"
-        }
-      },
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/symphony-g26-lime-green-official-image.webp",
         "https://www.mobiledokan.com/media/symphony-g26-lime-green-official-image.webp",
@@ -4214,7 +3659,7 @@
       "url": "https://www.mobiledokan.com/mobile/symphony-i80",
       "image_url": "https://www.mobiledokan.com/media/Symphony i80 official.png.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-18 06:35:27",
+      "last_updated": "2026-05-02 07:59:50",
       "first_scraped": null,
       "updated_on": "May 2, 2024",
       "variants": [
@@ -4330,13 +3775,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/Symphony i80 official.png.webp",
-        "https://www.mobiledokan.com/media/Symphony i80 official.png.webp",
-        "https://www.mobiledokan.com/media/Symphony i80 official.png.webp",
-        "https://www.mobiledokan.com/media/Symphony i80 official.png.webp",
-        "https://www.mobiledokan.com/media/Symphony i80 official.png.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "symphony_max_60",

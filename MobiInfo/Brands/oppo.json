@@ -4,11 +4,11 @@
     "name": "oppo",
     "url": "https://www.mobiledokan.com/mobile-brand/oppo",
     "image_url": null,
-    "last_updated": "2026-05-01 08:18:05",
+    "last_updated": "2026-05-02 07:48:15",
     "total_phones": 230,
     "first_scraped": "2025-09-11 09:17:05",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 12
   },
   "phones": [
     {
@@ -158,7 +158,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a18",
       "image_url": "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2025-12-23 06:35:09",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "July 28, 2024",
       "variants": [
@@ -288,19 +288,7 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-power-baton-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-power-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/1710587833OCXAF.webp",
-        "https://www.mobiledokan.com/media/1710587833OCXAF.webp",
-        "https://www.mobiledokan.com/media/1710587833OCXAF.webp",
-        "https://www.mobiledokan.com/media/oppo-a18-glowing-blue-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_f15",
@@ -1188,7 +1176,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-reno6",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "November 25, 2024",
       "variants": [],
@@ -1305,167 +1293,21 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-full-dicplay-size-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-power-button-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-notch-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-charging-poot-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-aurora-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno6-stellar-black-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_a77s",
       "name": "Oppo A77s",
-      "price": "24990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/oppo-a77s",
       "image_url": "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
       "serial_number": 10,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
-      "updated_on": "January 13, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.24,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-a77s"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "A77s",
-          "Device Type": "Smartphone",
-          "Release Date": "07 October 2022",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v12",
-          "User Interface": "ColorOS",
-          "Chipset": "Qualcomm Snapdragon 680",
-          "CPU": "2.4 GHz, Quad core, Kryo 265 + 1.9 GHz, Quad core, Kryo 265",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Adreno 610"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.56 inches (16.66 cm)",
-          "Resolution": "720x1612 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "269 ppi",
-          "Screen to Body Ratio": "84.62 %",
-          "Screen Protection": "Gorilla Glass",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "600 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "50 MP f/1.8, Wide Angle (77° field-of-view), Primary Camera, 2 MP f/2.4",
-            "Sensor": "S5KJN1, ISO-CELL",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "8150 x 6150 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "10 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP f/2.0, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Camera Features": "Panorama",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.7 mm",
-          "Width": "75 mm",
-          "Thickness": "7.9 mm",
-          "Weight": "187 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Sunset Orange, Starry Black",
-          "Waterproof": "Splash proof, IPX4, IPX5",
-          "IP Rating": "IP54",
-          "Ruggedness": "Dust proof"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "Super VOOC, 33W: 100 % in 69 minutes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac) 5GHz",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Side-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
-        "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
-        "https://www.mobiledokan.com/media/oppo-a77s-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a77s-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a77s-side-image.webp",
-        "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
-        "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
-        "https://www.mobiledokan.com/media/1710170918BP1Jx.webp",
-        "https://www.mobiledokan.com/media/oppo-a77s-orange-color-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "oppo_a15",
@@ -1474,7 +1316,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a15",
       "image_url": "https://www.mobiledokan.com/media/oppo-a15-official-black-color-image.webp",
       "serial_number": 11,
-      "last_updated": "2026-01-03 06:31:55",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "January 14, 2025",
       "variants": [
@@ -1595,19 +1437,7 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-a15-official-black-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-official-black-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-side-view.webp",
-        "https://www.mobiledokan.com/media/1710178730RqHlX.webp",
-        "https://www.mobiledokan.com/media/1710178730RqHlX.webp",
-        "https://www.mobiledokan.com/media/1710178730RqHlX.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-official-black-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15-silver-color-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_reno4",
@@ -1754,142 +1584,16 @@
     {
       "id": "oppo_reno8_t",
       "name": "Oppo Reno8 T",
-      "price": "32990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/oppo-reno8-t",
       "image_url": "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
       "serial_number": 13,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
-      "updated_on": "March 13, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.32,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-reno8-t"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "Reno8 T",
-          "Device Type": "Smartphone",
-          "Release Date": "2 February 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "ColorOS",
-          "Chipset": "MediaTek Helio G99",
-          "CPU": "Octa core (2.2 GHz, Dual core, Cortex A76 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G57 MC2"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.43 inches (16.33 cm)",
-          "Resolution": "Full HD+ 1080 x 2400 pixels",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "409 ppi",
-          "Screen to Body Ratio": "84.12 %",
-          "Screen Protection": "Gorilla Glass v5",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Yes, Capacitive Touchscreen, Multi-touch",
-          "Brightness": "800 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole",
-          "Features": "90Hz refresh rate, 800 nits max. brightness"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "100 MP f/1.7, Wide Angle (79° field-of-view), Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/3.3",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "3650 x 2750 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/3.3",
-            "Camera Features": "Digital Zoom Auto Flash, Face detection Touch to focus",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP f/2.4, Wide Angle, Primary Camera",
-            "Camera Features": "F/2.4, HDR & more",
-            "Video Recording": "Full HD (1080p)",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "160.8 mm",
-          "Width": "73.8 mm",
-          "Thickness": "7.8 mm",
-          "Weight": "180 grams",
-          "Build": "Gorilla Glass 5 front, glass or eco leather back, plastic frame",
-          "Colors": "Black Starlight, Orange Sunset"
-        },
-        "Battery": {
-          "Battery type": "Li-Polymer",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "33W Fast Charging",
-          "Placement": "Non-removable",
-          "USB Type-C": "Yes"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Yes, Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual Nano SIM",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
-          "Bluetooth": "v5.3",
-          "GPS": "with A-GPS, Glonass",
-          "NFC": "Yes",
-          "USB": "v2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Yes",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "Full HD (1080p)"
-        },
-        "More": {
-          "Made By": "Bangladesh",
-          "Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
-        "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
-        "https://www.mobiledokan.com/media/oppo-reno8-t-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno8-t-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno8-t-side-image.webp",
-        "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
-        "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
-        "https://www.mobiledokan.com/media/1710239019xlC8G.webp",
-        "https://www.mobiledokan.com/media/oppo-reno8-t-orange-sunset-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "oppo_reno5",
@@ -3304,153 +3008,16 @@
     {
       "id": "oppo_reno10_5g",
       "name": "Oppo Reno10 5G",
-      "price": "49000",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/oppo-reno10-5g",
       "image_url": "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
-      "updated_on": "May 14, 2025",
-      "variants": [
-        {
-          "name": "8GB+256GB",
-          "price": "৳.49,000",
-          "url": "https://www.mobiledokan.com/mobile/oppo-reno10-5g"
-        },
-        {
-          "name": "12GB+256GB",
-          "price": "৳.57,000",
-          "url": "https://www.mobiledokan.com/mobile/oppo-reno10-5g-12gb-ram"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "Reno10 5G",
-          "Device Type": "Smartphone",
-          "Release Date": "15 July 2023",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v13",
-          "User Interface": "ColorOS 15",
-          "Chipset": "MediaTek Dimensity 7050 MT6877",
-          "CPU": "Octa core (2.6 GHz, Dual core, Cortex A78 + 2 GHz, Hexa Core, Cortex A55)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "6 nm",
-          "GPU": "Mali-G68 MC4"
-        },
-        "Display": {
-          "Display Type": "AMOLED",
-          "Screen Size": "6.7 inches (17.02 cm)",
-          "Resolution": "1080x2412 px (FHD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "394 ppi",
-          "Screen to Body Ratio": "89.94 %",
-          "Screen Protection": "Asahi Glass AGC DT-Star2",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "950 nits",
-          "HDR 10 / HDR + support": "HDR 10+",
-          "Refresh Rate": "120 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "64 MP, f/1.7, Wide Angle (81° field-of-view), Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera, 32 MP, f/2.0, Telephoto Camera",
-            "Sensor": "OVB64B",
-            "Autofocus": "Yes",
-            "OIS": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "9000 x 7000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.7",
-            "Camera Features": "Digital Zoom Auto Flash Face detection Touch to focus",
-            "Video Recording": "3840x2160, 1920x1080, 1280x720",
-            "Video FPS": "30 fps, 60 fps, 120 fps, 240 fps, 480 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.4, Wide Angle, Primary Camera",
-            "Flash": "Screen flash",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "162.4 mm",
-          "Width": "74.2 mm",
-          "Thickness": "7.9 mm",
-          "Weight": "185 grams",
-          "Build": "Glass front, glass back, plastic frame",
-          "Colors": "Silvery Grey, Ice Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "67W wired, PD3",
-          "Reverse Charging": "Yes",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "256 GB",
-          "Storage Type": "UFS 2.2",
-          "Expandable Memory": "Up to 1 TB",
-          "USB OTG": "Yes",
-          "RAM": "8 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G, 5G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE (CA), 5G",
-          "SAR Value": "Head: 0.99 W/kg, Body: 0.67 W/kg",
-          "WLAN": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) 5GHz, MIMO",
-          "Bluetooth": "v5.3",
-          "GPS": "with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "NFC": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "On-screen",
-          "Finger Sensor Type": "Optical",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "Loudspeaker": "Yes",
-          "Audio Jack": "USB Type-C",
-          "Video": "4K@30fps, 1080p@30/60/120/480fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-side-image.webp",
-        "https://www.mobiledokan.com/media/17103512267d23p.webp",
-        "https://www.mobiledokan.com/media/17103512267d23p.webp",
-        "https://www.mobiledokan.com/media/17103512267d23p.webp",
-        "https://www.mobiledokan.com/media/oppo-reno-10-silvery-grey-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "oppo_reno10_pro_5g",
@@ -3607,7 +3174,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a15s",
       "image_url": "https://www.mobiledokan.com/media/17112630013Zrkg.webp",
       "serial_number": 26,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "January 15, 2025",
       "variants": [
@@ -3725,18 +3292,7 @@
           "Features": "Accelerometer"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/17112630013Zrkg.webp",
-        "https://www.mobiledokan.com/media/17112630013Zrkg.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-black-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-black-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-black-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-white-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a15s-silver-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_a5_2020",
@@ -3745,145 +3301,12 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a5-2020",
       "image_url": "https://www.mobiledokan.com/media/1711264559Ub2fT.webp",
       "serial_number": 27,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "January 19, 2025",
-      "variants": [
-        {
-          "name": "3GB+64GB",
-          "price": "৳.14,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-a5-2020"
-        },
-        {
-          "name": "4GB+128GB",
-          "price": "৳.17,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-a5-2020-4gb-128gb"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "A5 (2020)",
-          "Device Type": "Smartphone",
-          "Release Date": "18 September 2019",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0",
-          "User Interface": "ColorOS 6.1",
-          "Chipset": "Qualcomm Snapdragon 665",
-          "CPU": "Octa core (2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 610"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "82.47 %",
-          "Screen Protection": "Corning Gorilla Glass v3",
-          "Bezel-less Display": "Yes with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "480 nits",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Quad",
-            "Resolution": "12 MP, f/1.8, Primary Camera, 8 MP, f/2.25, Ultra-Wide Angle Camera, 2 MP f/2.4, Depth Camera, 2 MP, f/2.4, Macro Camera",
-            "Sensor": "IMX386, Exmor-RS CMOS Sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4000 x 3000 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/1.8",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "3840x2160",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP, f/2.0, Wide Angle, Primary Camera",
-            "Camera Features": "HDR",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.6 mm",
-          "Width": "75.6 mm",
-          "Thickness": "9.1 mm",
-          "Weight": "195 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Mirror Black, Dazzling White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "10W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "3 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 400/50 Mbps",
-          "WLAN": "Wi-Fi 5 (802.11 b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Alert Types": "Vibration, MP3, WAV ringtones",
-          "Audio Jack": "3.5 mm",
-          "Audio Features": "With stereo speakers",
-          "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, gyro, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711264559Ub2fT.webp",
-        "https://www.mobiledokan.com/media/1711264559Ub2fT.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-front-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-white-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-white-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-white-color-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a5-2020-black-image.webp"
-      ]
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "oppo_f17_pro",
@@ -3892,16 +3315,10 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-f17-pro",
       "image_url": "https://www.mobiledokan.com/media/1711271538Uts0X.webp",
       "serial_number": 28,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "January 17, 2025",
-      "variants": [
-        {
-          "name": "8GB+128GB",
-          "price": "৳.25,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-f17-pro"
-        }
-      ],
+      "variants": [],
       "specifications": {
         "General": {
           "Brand": "Oppo",
@@ -4016,19 +3433,7 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711271538Uts0X.webp",
-        "https://www.mobiledokan.com/media/1711271538Uts0X.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-side-view.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-blue-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-blue-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-blue-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-f17-pro-white-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_a58_4g",
@@ -4188,7 +3593,7 @@
       "url": "https://www.mobiledokan.com/mobile/oppo-a78",
       "image_url": "https://www.mobiledokan.com/media/oppo-a78-aqua-green-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2026-01-03 06:31:55",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
       "updated_on": "December 25, 2024",
       "variants": [],
@@ -4307,296 +3712,34 @@
           "Features": "Accelerometer, gyro, proximity, compass"
         }
       },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/oppo-a78-aqua-green-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-aqua-green-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-full-display-size-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-full-back-camera-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-mist-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-mist-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-mist-black-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a78-aqua-green-official-image.webp"
-      ]
+      "gallery_images": []
     },
     {
       "id": "oppo_a53",
       "name": "Oppo A53",
-      "price": "18990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/oppo-a53",
       "image_url": "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
       "serial_number": 31,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
-      "updated_on": "January 13, 2025",
-      "variants": [
-        {
-          "name": "12GB+256GB",
-          "price": "৳.224,999",
-          "url": "https://www.mobiledokan.com/mobile/samsung-galaxy-s23-ultra"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "A53",
-          "Device Type": "Smartphone",
-          "Release Date": "25 August  2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v10",
-          "User Interface": "ColorOS",
-          "Chipset": "Qualcomm Snapdragon 460",
-          "CPU": "Octa core (1.8 GHz, Quad core, Kryo 240 + 1.6 GHz, Quad core, Kryo 240)",
-          "CPU Cores": "8 Cores",
-          "Architecture": "64 bit",
-          "Fabrication": "11 nm",
-          "GPU": "Adreno 610"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.5 inches (16.51 cm)",
-          "Resolution": "720x1600 px (HD+)",
-          "Aspect Ratio": "20:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "82.87 %",
-          "Screen Protection": "Gorilla Glass v3",
-          "Bezel-less Display": "Yes with punch-hole display",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "400 nits",
-          "Refresh Rate": "90 Hz",
-          "Notch": "Punch-hole"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Triple",
-            "Resolution": "13 MP f/2.2, Wide Angle (81.3° field-of-view), Primary Camera, 2 MP f/2.4, Depth Camera, 2 MP f/2.4, Macro Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Phase Detection autofocus",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "6 x Digital Zoom",
-            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.2",
-            "Camera Features": "Auto Flash, Face detection, Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.0, Wide Angle, Primary Camera",
-            "Sensor": "CMOS",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          }
-        },
-        "Design": {
-          "Height": "163.9 mm",
-          "Width": "75.1 mm",
-          "Thickness": "8.4 mm",
-          "Weight": "186 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Electric Black, Fancy Blue, Fairy White"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "5000 mAh",
-          "Quick Charging": "18W wired",
-          "Placement": "Non-removable",
-          "USB Type-C": "USB Type-C 2.0"
-        },
-        "Memory": {
-          "Internal Storage": "128 GB",
-          "Storage Type": "UFS 2.1",
-          "Expandable Memory": "Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "6 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE-A",
-          "SAR Value": "Head: 0.77 W/kg, Body: 0.97 W/kg",
-          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS, Glonass",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "Mass storage device, USB charging"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Accelerometer, proximity, compass"
-        }
-      },
-      "gallery_images": [
-        "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
-        "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
-        "https://www.mobiledokan.com/media/oppo-a53-front-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a53-back-side-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a53-side-image.webp",
-        "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
-        "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
-        "https://www.mobiledokan.com/media/1711567382nFUqT.webp",
-        "https://www.mobiledokan.com/media/oppo-a53-fancy-blue-official-image.webp",
-        "https://www.mobiledokan.com/media/oppo-a53-fairy-white-official-image.webp"
-      ]
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
+      "gallery_images": []
     },
     {
       "id": "oppo_a12_4gb64gb",
       "name": "Oppo A12 (4GB+64GB)",
-      "price": "13990",
+      "price": null,
       "url": "https://www.mobiledokan.com/mobile/oppo-a12-4gb-64gb",
       "image_url": "https://www.mobiledokan.com/media/1710329517Rk4gT.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-18 06:32:23",
+      "last_updated": "2026-05-02 07:48:15",
       "first_scraped": null,
-      "updated_on": "January 16, 2025",
-      "variants": [
-        {
-          "name": "4GB+64GB",
-          "price": "৳.13,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-a12-4gb-64gb"
-        },
-        {
-          "name": "3GB+32GB",
-          "price": "৳.9,990",
-          "url": "https://www.mobiledokan.com/mobile/oppo-a12"
-        }
-      ],
-      "specifications": {
-        "General": {
-          "Brand": "Oppo",
-          "Model": "A12 (4GB+64GB)",
-          "Device Type": "Smartphone",
-          "Release Date": "20 April 2020",
-          "Status": "Available"
-        },
-        "Hardware & Software": {
-          "Operating System": "Android",
-          "OS Version": "v9.0 (Pie)",
-          "User Interface": "ColorOS",
-          "Chipset": "MediaTek Helio P35",
-          "CPU": "Octa core, 2.3 GHz, Cortex A53",
-          "CPU Cores": "8 cores",
-          "Architecture": "64 bit",
-          "Fabrication": "12 nm",
-          "GPU": "PowerVR GE8320"
-        },
-        "Display": {
-          "Display Type": "IPS LCD",
-          "Screen Size": "6.22 inches (15.8 cm)",
-          "Resolution": "HD+ 720 x 1520 pixels",
-          "Aspect Ratio": "19:9",
-          "Pixel Density": "270 ppi",
-          "Screen to Body Ratio": "81.63 %",
-          "Screen Protection": "Gorilla Glass v3",
-          "Bezel-less Display": "with waterdrop notch",
-          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
-          "Brightness": "450 nits",
-          "Refresh Rate": "60 Hz",
-          "Notch": "Waterdrop"
-        },
-        "Cameras": {
-          "Primary Camera": {
-            "Camera Setup": "Dual",
-            "Resolution": "13 MP f/2.2, Primary Camera, 2 MP f/2.4, Depth Camera",
-            "Sensor": "CMOS image sensor",
-            "Autofocus": "Yes",
-            "Flash": "LED Flash",
-            "Image Resolution": "4128 x 3096 Pixels",
-            "Settings": "Exposure compensation, ISO control",
-            "Zoom": "Digital Zoom",
-            "Shooting Modes": "Continuous Shooting High Dynamic Range mode (HDR)",
-            "Aperture": "f/2.4",
-            "Camera Features": "Digital Zoom Auto Flash Touch to focus",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "5 MP f/2.4, Primary Camera",
-            "Sensor": "CMOS",
-            "Camera Features": "F/2.4, HDR & more",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
-          }
-        },
-        "Design": {
-          "Height": "155.9 mm",
-          "Width": "75.5 mm",
-          "Thickness": "8.3 mm",
-          "Weight": "165 grams",
-          "Build": "Back: Plastic",
-          "Colors": "Black, Blue"
-        },
-        "Battery": {
-          "Battery type": "Li-Poly (Lithium Polymer)",
-          "Capacity": "4230 mAh",
-          "Quick Charging": "Yes",
-          "Placement": "Non-removable"
-        },
-        "Memory": {
-          "Internal Storage": "64 GB",
-          "Storage Type": "eMMC 5.1",
-          "Expandable Memory": "Yes, Up to 256 GB",
-          "USB OTG": "Yes",
-          "RAM": "4 GB",
-          "RAM Type": "LPDDR4X"
-        },
-        "Network & Connectivity": {
-          "Network": "2G, 3G, 4G",
-          "SIM Slot": "Dual Nano SIM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano",
-          "EDGE": "Available",
-          "GPRS": "Available",
-          "VoLTE": "Yes",
-          "Speed": "HSPA, LTE",
-          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
-          "Bluetooth": "v5.0",
-          "GPS": "Yes with A-GPS",
-          "Wi-fi Hotspot": "Yes",
-          "USB": "microUSB 2.0"
-        },
-        "Sensors & security": {
-          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
-          "Fingerprint Sensor": "Yes",
-          "Finger Sensor Position": "Rear-mounted",
-          "Face Unlock": "Yes"
-        },
-        "Multimedia": {
-          "FM Radio": "Yes",
-          "Loudspeaker": "Yes",
-          "Audio Jack": "3.5 mm",
-          "Video": "1080p@30fps",
-          "Document Reader": "Yes"
-        },
-        "More": {
-          "Made By": "China",
-          "Features": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
-        }
-      },
+      "updated_on": null,
+      "variants": [],
+      "specifications": {},
       "gallery_images": [
         "https://www.mobiledokan.com/media/1710329517Rk4gT.webp",
         "https://www.mobiledokan.com/media/1710329517Rk4gT.webp",
