@@ -4,7 +4,7 @@
     "name": "sony",
     "url": "https://www.mobiledokan.com/mobile-brand/sony",
     "image_url": null,
-    "last_updated": "2026-05-02 07:58:05",
+    "last_updated": "2026-05-03 08:07:13",
     "total_phones": 85,
     "first_scraped": "2025-09-11 09:14:37",
     "new_phones_this_run": 0,
@@ -165,7 +165,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-5-iv",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-5-iv-green-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "December 25, 2025",
       "variants": [
@@ -288,7 +288,16 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum, Native Sony Alpha camera support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-green-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-green-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-green-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-iv-ecru-white-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_1_iv",
@@ -297,7 +306,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iv",
       "image_url": "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
       "serial_number": 3,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
@@ -422,7 +431,13 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum\r\nNative Sony Alpha camera support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp",
+        "https://www.mobiledokan.com/media/1714298037fOg6s.webp"
+      ]
     },
     {
       "id": "sony_xperia_5",
@@ -431,7 +446,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-5",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
@@ -548,21 +563,158 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-power-button-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-grey-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-5-red-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_1_vi",
       "name": "Sony Xperia 1 VI",
-      "price": null,
+      "price": "140000",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-vi",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
       "serial_number": 5,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "January 5, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Sony",
+          "Model": "Xperia 1 VI",
+          "Device Type": "Smartphone",
+          "Release Date": "03 June 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v14",
+          "Chipset": "Qualcomm Snapdragon 8 Gen 3",
+          "CPU": "Octa core (3.3 GHz, Single core, Cortex X4 + 3.2 GHz, Tri core, Cortex A720 + 3 GHz, Dual core, Cortex A720 + 2.3 GHz, Dual core, Cortex A520)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "4 nm",
+          "GPU": "Adreno 750"
+        },
+        "Display": {
+          "Display Type": "OLED",
+          "Screen Size": "6.5 inches (16.51 cm)",
+          "Resolution": "1080x2340 px (FHD+)",
+          "Aspect Ratio": "19.5:9",
+          "Pixel Density": "396 ppi",
+          "Screen to Body Ratio": "86.33 %",
+          "Screen Protection": "Corning Gorilla Glass, Glass Victus 2",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "HDR 10 / HDR + support": "HDR 10+",
+          "Refresh Rate": "120 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Triple",
+            "Resolution": "48 MP f/1.9, Wide Angle (84° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 12 MP f/2.3, Telephoto Camera",
+            "Autofocus": "Dual Pixel Phase Detection autofocus",
+            "OIS": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8000 x 6000 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.9",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.0, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "162 mm",
+          "Width": "74 mm",
+          "Thickness": "8.2 mm",
+          "Weight": "192 grams",
+          "Build": "Back: Gorilla Glass Victus",
+          "Colors": "Black, Platinum Silver, Khaki Green",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP65, IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Wireless Charging": "Yes",
+          "Quick Charging": "Fast, 30W: 50 % in 30 minutes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "Storage Type": "UFS 4.0",
+          "Expandable Memory": "Up to 1.5 TB",
+          "USB OTG": "Yes",
+          "RAM": "12 GB",
+          "RAM Type": "LPDDR5X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G, 5G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE, 5G",
+          "WLAN": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz 6GHz",
+          "Bluetooth": "v5.4",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "3.2, Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "4K@30/60fps, 1080p@30/60fps, 5-axis gyro-EIS"
+        },
+        "More": {
+          "Made By": "Japan",
+          "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum Native Sony Alpha camera support"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sonym-xperia-1-vi-front-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-platinum-silver-official-image-1.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-vi-khaki-green-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_1_iii",
@@ -571,7 +723,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-1-iii",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "April 19, 2025",
       "variants": [
@@ -695,7 +847,19 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum\r\nNative Sony Alpha camera support"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-front-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-down-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-gray-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-purple-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-1-iii-frosted-black-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_10_iii",
@@ -1413,7 +1577,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz3",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "April 17, 2025",
       "variants": [
@@ -1538,7 +1702,18 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass, color spectrum"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-front-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-white-silver-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz3-bordeaux-red-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_xz1",
@@ -1547,7 +1722,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-xz1",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
       "serial_number": 13,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
       "variants": [
@@ -1671,7 +1846,20 @@
           "Features": "Accelerometer, Barometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-front-side.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-back-side.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-left-side.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-right-side.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-black-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-blue-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-light-pink-color-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-xz1-white-color-official-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_l2",
@@ -1680,11 +1868,125 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-l2",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
       "serial_number": 14,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "August 10, 2024",
-      "variants": [],
-      "specifications": {},
+      "variants": [
+        {
+          "name": "3GB+32GB",
+          "price": "৳.21,990",
+          "url": "https://www.mobiledokan.com/mobile/sony-xperia-l2"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Sony",
+          "Model": "Xperia L2",
+          "Device Type": "Smartphone",
+          "Release Date": "02 January 2018",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v7.1 (Nougat)",
+          "Chipset": "MediaTek MT6737T",
+          "CPU": "Quad core, 1.5 GHz, Cortex A53",
+          "CPU Cores": "4 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Mali-T720 MP2"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.5 inches (13.97 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "267 ppi",
+          "Screen to Body Ratio": "71.11 %",
+          "Screen Protection": "Corning Gorilla Glass v4",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, f/2.0, Primary Camera",
+            "Sensor": "CMOS image sensor",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, \r\nFace detection, \r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.4, Primary Camera",
+            "Flash": "Screen flash",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          }
+        },
+        "Design": {
+          "Height": "150 mm",
+          "Width": "78 mm",
+          "Thickness": "9.8 mm",
+          "Weight": "178 grams",
+          "Build": "Glass front (Gorilla Glass 4), plastic back, plastic frame",
+          "Colors": "Black, Gold, Pink"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium-Ion)",
+          "Capacity": "3300 mAh",
+          "Quick Charging": "Yes",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "Storage Type": "eMMC 5.0",
+          "Expandable Memory": "Up to 256 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS, Glonass",
+          "Wi-fi Hotspot": "Yes",
+          "NFC": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration; MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Japan",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
         "https://www.mobiledokan.com/media/sony-xperia-l2-black-color-official-picture_1.webp",
@@ -2345,7 +2647,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-tipo",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
       "serial_number": 20,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "December 24, 2024",
       "variants": [],
@@ -2439,20 +2741,131 @@
           "Features": "Proximity sensor, Accelerometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-front-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-blue-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-white-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-black-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-tipo-red-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_sl",
       "name": "Sony Xperia SL",
-      "price": null,
+      "price": "14500",
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-sl",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-sl-white-image.webp",
       "serial_number": 21,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "August 31, 2024",
       "variants": [],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Sony",
+          "Model": "Xperia SL",
+          "Device Type": "Smartphone",
+          "Release Date": "12 September 2012",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v4.1 (Jelly Bean)",
+          "User Interface": "Timescape UI",
+          "Chipset": "Qualcomm Snapdragon S3 MSM8260",
+          "CPU": "Dual core, 1.7 GHz, Scorpion",
+          "CPU Cores": "2 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "45 nm",
+          "GPU": "Adreno 220"
+        },
+        "Display": {
+          "Display Type": "LCD",
+          "Screen Size": "4.3 inches (10.92 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "342 ppi",
+          "Screen to Body Ratio": "62.18 %",
+          "Screen Protection": "Scratch-resistant glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "12 MP f/2.4, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4016 x 3012 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "4 x Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.4",
+            "Camera Features": "Digital image stabilization,\r\nFace detection,\r\nSmile detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "1.3 MP, Primary Camera",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "128 mm",
+          "Width": "64 mm",
+          "Thickness": "10.6 mm",
+          "Weight": "144 grams",
+          "Colors": "Black, Pink, Silver, White"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "1750 mAh",
+          "Standby": "Up to 410 Hours(2G)",
+          "Talk Time": "Up to 8.2 Hours(2G)",
+          "Music Play": "Up to 25 h"
+        },
+        "Memory": {
+          "Internal Storage": "32 GB",
+          "User Available Storage": "Up to 26 GB",
+          "USB OTG": "Yes",
+          "RAM": "1 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G",
+          "SIM Slot": "Single SIM, GSM",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "Speed": "HSPA 14.4/5.76 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.0",
+          "GPS": "Yes with A-GPS",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Japan",
+          "Features": "Accelerometer, Compass, Gyroscope"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/sony-xperia-sl-white-image.webp",
         "https://www.mobiledokan.com/media/sony-xperia-sl-white-image.webp",
@@ -2474,7 +2887,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-c",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
       "serial_number": 22,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "December 19, 2024",
       "variants": [],
@@ -2575,7 +2988,18 @@
           "Features": "Accelerometer, proximity, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-front-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-purple-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-black-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-c-white-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_m4_aqua_dual",
@@ -2710,12 +3134,127 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-m4-aqua",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
       "serial_number": 24,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Sony",
+          "Model": "Xperia M4 Aqua",
+          "Device Type": "Smartphone",
+          "Release Date": "12 June 2015",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v5.0.1 (Lollipop)",
+          "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+          "CPU": "Octa-core (4x1.5 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "28 nm",
+          "GPU": "Adreno 405"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "5.0 inches (12.7 cm)",
+          "Resolution": "720x1280 px (HD)",
+          "Aspect Ratio": "16:9",
+          "Pixel Density": "294 ppi",
+          "Screen to Body Ratio": "65.2 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Yes"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "13 MP, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "4128 x 3096 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "4 x Digital Zoom",
+            "Shooting Modes": "High Dynamic Range mode (HDR)",
+            "Camera Features": "Face detection,\r\nTouch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "5 MP, Primary Camera",
+            "Video Recording": "1280x720",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "145.5 mm",
+          "Width": "72.6 mm",
+          "Thickness": "7.3 mm",
+          "Weight": "140 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Black, Pink, White",
+          "Waterproof": "Water resistant (up to 30 minutes in a depth of 1.5 meter)",
+          "IP Rating": "IP68",
+          "Ruggedness": "Dust proof"
+        },
+        "Battery": {
+          "Battery type": "Li-Ion (Lithium Ion)",
+          "Capacity": "2400 mAh",
+          "Placement": "Non-removable",
+          "Standby": "Up to 681 h (2G) / Up to 685 h (3G)",
+          "Talk Time": "Up to 12 h 40 min (2G) / Up to 13 h 20 min (3G)",
+          "Music Play": "Up to 64 h 40 min"
+        },
+        "Memory": {
+          "Internal Storage": "16 GB",
+          "Expandable Memory": "Up to 128 GB",
+          "RAM": "2 GB"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Single SIM, GSM",
+          "SIM Size": "SIM1: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n)",
+          "Bluetooth": "v4.1",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging, microUSB 2.0"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "Japan",
+          "Features": "Accelerometer, proximity, compass"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-front-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-back-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-black-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-pink-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-m4-aqua-white-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_u",
@@ -2963,7 +3502,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-x",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-x-gold-official-image.webp",
       "serial_number": 27,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "August 31, 2024",
       "variants": [],
@@ -3069,7 +3608,19 @@
           "Features": "Accelerometer, gyro, proximity, barometer, compass"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-x-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-front-image_1.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-backm-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-side-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-side-view.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-black-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-black-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-black-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-gold-official-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-x-white-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_e4_dual",
@@ -3451,7 +4002,7 @@
       "url": "https://www.mobiledokan.com/mobile/sony-xperia-z5-premium-dual",
       "image_url": "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-05-02 07:58:05",
+      "last_updated": "2026-05-03 08:07:13",
       "first_scraped": null,
       "updated_on": "September 2, 2024",
       "variants": [],
@@ -3568,7 +4119,19 @@
           "Features": "Accelerometer, Barometer, Compass, Gyroscope"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-front-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-back-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-side-view-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-s",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-chrome-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-gold-image.webp",
+        "https://www.mobiledokan.com/media/sony-xperia-z5-premium-dual-official-black-image.webp"
+      ]
     },
     {
       "id": "sony_xperia_c4_dual",

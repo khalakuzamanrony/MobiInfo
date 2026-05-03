@@ -4,7 +4,7 @@
     "name": "benco",
     "url": "https://www.mobiledokan.com/mobile-brand/benco",
     "image_url": null,
-    "last_updated": "2026-05-02 07:54:09",
+    "last_updated": "2026-05-03 08:05:19",
     "total_phones": 19,
     "first_scraped": "2025-09-11 09:03:15",
     "new_phones_this_run": 0,
@@ -156,10 +156,16 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v90-plus",
       "image_url": "https://www.mobiledokan.com/media/benco-v90-plus-elemental-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
       "updated_on": "December 24, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.8,990",
+          "url": "https://www.mobiledokan.com/mobile/benco-v90-plus"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Benco",
@@ -981,7 +987,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v91",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
       "serial_number": 8,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
       "updated_on": "April 23, 2025",
       "variants": [
@@ -1094,21 +1100,142 @@
           "Features": "Accelerometer, proximity"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-front-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-back-side-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-side-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-black-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91-official-image.webp"
+      ]
     },
     {
       "id": "benco_v91c",
       "name": "Benco V91c",
-      "price": null,
+      "price": "10499",
       "url": "https://www.mobiledokan.com/mobile/benco-v91c",
       "image_url": "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
       "serial_number": 9,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
-      "updated_on": null,
+      "updated_on": "September 7, 2025",
       "variants": [],
-      "specifications": {},
-      "gallery_images": []
+      "specifications": {
+        "General": {
+          "Brand": "Benco",
+          "Model": "V91c",
+          "Device Type": "Smartphone",
+          "Release Date": "04 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc T606",
+          "CPU": "Octa-core (2.0 GHz)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20.2:9",
+          "Screen to Body Ratio": "90.14 %",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "500 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "13 MP, f/2.0, Primary Camera, 2 MP, Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "74.6 mm",
+          "Thickness": "8.9 mm",
+          "Weight": "193 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Rainbow White, Space Grey"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "128 GB",
+          "USB OTG": "Yes",
+          "RAM": "4 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "G-sensor , light-sensor, proximity, e-compass, gyroscope"
+        }
+      },
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91c-rainbow-white-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v91c-space-grey-official-image.webp"
+      ]
     },
     {
       "id": "benco_v91_plus",
@@ -1254,11 +1381,112 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v82",
       "image_url": "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
       "serial_number": 11,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
       "updated_on": "November 7, 2024",
       "variants": [],
-      "specifications": {},
+      "specifications": {
+        "General": {
+          "Brand": "Benco",
+          "Model": "V82",
+          "Device Type": "Smartphone",
+          "Release Date": "14 September 2023",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v11",
+          "Chipset": "Unisoc SC9863",
+          "CPU": "1.6 GHz Octa core",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "GPU": "IMEG8322"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.51 inches (16.54 cm)",
+          "Resolution": "720x1600 px (HD+)",
+          "Aspect Ratio": "20:9",
+          "Pixel Density": "263 ppi",
+          "Screen Protection": "Corning Gorilla Glass",
+          "Bezel-less Display": "Yes with waterdrop notch",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Refresh Rate": "60 Hz",
+          "Notch": "Waterdrop"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "8 MP, f/2.0, Primary Camera, 8MP AI front Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "3264 x 2448 pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/2.0",
+            "Camera Features": "Auto Flash, Touch to Focus",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps"
+          }
+        },
+        "Design": {
+          "Height": "165.6 mm",
+          "Width": "76.7 mm",
+          "Thickness": "9.45 mm",
+          "Weight": "195.7 grams",
+          "Colors": "Mint Green, Amber Blue"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "64 GB",
+          "USB OTG": "Yes",
+          "RAM": "3 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+          "WLAN": "Wi-Fi 4 (802.11 b/g/n) 5GHz",
+          "Bluetooth": "v4.2",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Rear-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "FM Radio": "Yes",
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "1080p@30fps"
+        },
+        "More": {
+          "Made By": "China",
+          "Features": "Accelerometer, proximity"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
         "https://www.mobiledokan.com/media/benco-v82-amber-blue-official-image.webp",
@@ -1278,7 +1506,7 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v80",
       "image_url": "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
       "serial_number": 12,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
       "updated_on": "April 20, 2025",
       "variants": [],
@@ -1382,7 +1610,17 @@
           "Features": "Proximity sensor, Accelerometer"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-front-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-back-side-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-side-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-cyan-blue-official-image.webp",
+        "https://www.mobiledokan.com/media/benco-v80-greenish-silver-image.webp"
+      ]
     },
     {
       "id": "benco_e20",
@@ -1469,11 +1707,127 @@
       "url": "https://www.mobiledokan.com/mobile/benco-v91-plus-8gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image_1.webp",
       "serial_number": 14,
-      "last_updated": "2026-05-02 07:54:09",
+      "last_updated": "2026-05-03 08:05:19",
       "first_scraped": null,
       "updated_on": "May 27, 2025",
-      "variants": [],
-      "specifications": {},
+      "variants": [
+        {
+          "name": "8GB+256GB",
+          "price": "৳.15,899",
+          "url": "https://www.mobiledokan.com/mobile/benco-v91-plus-8gb-256gb"
+        },
+        {
+          "name": "6GB+128GB",
+          "price": "৳.12,499",
+          "url": "https://www.mobiledokan.com/mobile/benco-v91-plus"
+        }
+      ],
+      "specifications": {
+        "General": {
+          "Brand": "Benco",
+          "Model": "V91 Plus (8GB+256GB)",
+          "Device Type": "Smartphone",
+          "Release Date": "06 September 2024",
+          "Status": "Available"
+        },
+        "Hardware & Software": {
+          "Operating System": "Android",
+          "OS Version": "v13",
+          "Chipset": "Unisoc T606",
+          "CPU": "Octa-core (1.6 GHz)",
+          "CPU Cores": "8 Cores",
+          "Architecture": "64 bit",
+          "Fabrication": "12 nm",
+          "GPU": "Mali-G57@650Mhz"
+        },
+        "Display": {
+          "Display Type": "IPS LCD",
+          "Screen Size": "6.56 inches (16.66 cm)",
+          "Resolution": "720x1612 px (HD+)",
+          "Aspect Ratio": "20.2:9",
+          "Screen to Body Ratio": "90.14%",
+          "Screen Protection": "Gorilla Glass",
+          "Bezel-less Display": "Yes with punch-hole display",
+          "Touch Screen": "Capacitive Touchscreen, Multi-touch",
+          "Brightness": "500 nits",
+          "Refresh Rate": "90 Hz",
+          "Notch": "Punch-hole"
+        },
+        "Cameras": {
+          "Primary Camera": {
+            "Camera Setup": "Dual",
+            "Resolution": "50 MP, f/1.8, Primary Camera, 2 MP Camera",
+            "Autofocus": "Yes",
+            "Flash": "LED Flash",
+            "Image Resolution": "8150 x 6150 Pixels",
+            "Settings": "Exposure compensation, ISO control",
+            "Zoom": "Digital Zoom",
+            "Shooting Modes": "Continuous Shooting, High Dynamic Range mode (HDR)",
+            "Aperture": "f/1.8",
+            "Camera Features": "Auto Flash, Face detection, Touch to focus",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP, f/2.0 Primary Camera",
+            "Video Recording": "1080x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
+          }
+        },
+        "Design": {
+          "Height": "162.9 mm",
+          "Width": "74.6 mm",
+          "Thickness": "8.99 mm",
+          "Weight": "193 grams",
+          "Build": "Glass front, plastic back, plastic frame",
+          "Colors": "Sunrise White, Volcanic Grey"
+        },
+        "Battery": {
+          "Battery type": "Li-Poly (Lithium Polymer)",
+          "Capacity": "5000 mAh",
+          "Quick Charging": "18W wired",
+          "Placement": "Non-removable",
+          "USB Type-C": "USB Type-C 2.0"
+        },
+        "Memory": {
+          "Internal Storage": "256 GB",
+          "USB OTG": "Yes",
+          "RAM": "8 GB",
+          "RAM Type": "LPDDR4X"
+        },
+        "Network & Connectivity": {
+          "Network": "2G, 3G, 4G",
+          "SIM Slot": "Dual SIM, GSM+GSM",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
+          "EDGE": "Available",
+          "GPRS": "Available",
+          "VoLTE": "Yes",
+          "Speed": "HSPA, LTE",
+          "WLAN": "Wi-Fi 5 (802.11 a/b/g/n/ac)",
+          "Bluetooth": "v5.0",
+          "GPS": "Yes with A-GPS",
+          "Wi-fi Hotspot": "Yes",
+          "USB": "Mass storage device, USB charging"
+        },
+        "Sensors & security": {
+          "Light Sensor": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope",
+          "Fingerprint Sensor": "Yes",
+          "Finger Sensor Position": "Side-mounted",
+          "Face Unlock": "Yes"
+        },
+        "Multimedia": {
+          "Loudspeaker": "Yes",
+          "Alert Types": "Vibration, MP3, WAV ringtones",
+          "Audio Jack": "3.5 mm",
+          "Video": "720p@30fps"
+        },
+        "More": {
+          "Made By": "India / Bangladesh / Nepal",
+          "Features": "Gravity, light, proximity, compass, gyroscope"
+        }
+      },
       "gallery_images": [
         "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image_1.webp",
         "https://www.mobiledokan.com/media/benco-v91-plus-sunrise-white-official-image_1.webp",
