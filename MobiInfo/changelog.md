@@ -2,6 +2,130 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-05-10 14:12:26
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5344
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 6
+- **Visited phones**: 872
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### google
+- **Updated phone**: Google Pixel 9 Pro (price: 120000 → 74500, updated_on: October 29, 2024 → May 10, 2026, specifications.Memory.Internal Storage: 256 GB → 128 GB, specifications.Memory.RAM: 12 GB → 16 GB)
+- **Updated phone**: Google Pixel 9 Pro Fold (price: 225000 → 180000, updated_on: September 30, 2024 → May 10, 2026, variants[0]: {name: 16GB+256GB, price: ৳.225,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold} → {name: 16GB+256GB, price: ৳.180,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold}, variants[1]: {name: 16GB+512GB, price: ৳.290,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold-512gb} → {name: 16GB+512GB, price: ৳.230,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold-512gb})
+- **Updated phone**: Google Pixel 9 Pro XL (256GB) (price: 106500 → 90000, updated_on: December 28, 2025 → May 9, 2026, variants[0]: {name: 16GB+256GB, price: ৳.106,500, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb} → {name: 16GB+256GB, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb}, variants[1]: {name: 16GB+512GB, price: ৳.125,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb} → {name: 16GB+512GB, price: ৳.129,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb}, variants[2]: {name: 16GB+128GB, price: ৳.98,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl} → {name: 16GB+128GB, price: ৳.78,500, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl})
+- **Updated phone**: Google Pixel 9 Pro XL (512GB) (price: 125000 → 129000, updated_on: December 28, 2025 → May 9, 2026, variants[0]: {name: 16GB+512GB, price: ৳.125,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb} → {name: 16GB+512GB, price: ৳.129,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb}, variants[1]: {name: 16GB+256GB, price: ৳.106,500, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb} → {name: 16GB+256GB, price: ৳.90,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb}, variants[2]: {name: 16GB+128GB, price: ৳.98,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl} → {name: 16GB+128GB, price: ৳.78,500, url: https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl})
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 28 phones visited from first 1 page
+
+#### helio
+- 22 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 32 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 25 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 15 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-05-09 14:02:12
 
 ### Summary
@@ -1925,131 +2049,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### umidigi
 - 14 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 30 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-04-29 14:22:26
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5344
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 5
-- **Visited phones**: 872
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-#### umidigi
-- **Updated phone**: Umidigi G9T (price: 10990 → 11990, updated_on: January 27, 2025 → April 28, 2026)
-
-#### xiaomi
-- **Updated phone**: Xiaomi Redmi 12 (128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-- **Updated phone**: Xiaomi Redmi 12 (8GB+128GB) (image_url: https://www.mobiledokan.com/media/xiaomi-redmi-12-pastel-blue-official-image.webp → https://www.mobiledokan.com/media/xiaomi-redmi-12-official-image.webp)
-
-## Visited
-
-#### apple
-- 31 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 25 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 13 phones visited from first 1 page
 
 #### vivo
 - 32 phones visited from first 1 page

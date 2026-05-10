@@ -4,11 +4,11 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2026-05-09 07:58:06",
+    "last_updated": "2026-05-10 08:08:39",
     "total_phones": 53,
     "first_scraped": "2025-09-11 08:52:18",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 4
   },
   "phones": [
     {
@@ -4022,13 +4022,13 @@
     {
       "id": "google_pixel_9_pro",
       "name": "Google Pixel 9 Pro",
-      "price": "120000",
+      "price": "74500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-porcelain-official-image.webp",
       "serial_number": 28,
-      "last_updated": "2026-05-03 08:02:52",
+      "last_updated": "2026-05-10 08:08:39",
       "first_scraped": null,
-      "updated_on": "October 29, 2024",
+      "updated_on": "May 10, 2026",
       "variants": [],
       "specifications": {
         "General": {
@@ -4109,10 +4109,10 @@
           "USB Type-C": "USB Type-C 3.2"
         },
         "Memory": {
-          "Internal Storage": "256 GB",
+          "Internal Storage": "128 GB",
           "Storage Type": "UFS 3.1",
           "USB OTG": "Yes",
-          "RAM": "12 GB",
+          "RAM": "16 GB",
           "RAM Type": "LPDDR5X"
         },
         "Network & Connectivity": {
@@ -4318,22 +4318,22 @@
     {
       "id": "google_pixel_9_pro_fold",
       "name": "Google Pixel 9 Pro Fold",
-      "price": "225000",
+      "price": "180000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-fold-obsidian-official-image.webp",
       "serial_number": 30,
-      "last_updated": "2026-05-03 08:02:52",
+      "last_updated": "2026-05-10 08:08:39",
       "first_scraped": null,
-      "updated_on": "September 30, 2024",
+      "updated_on": "May 10, 2026",
       "variants": [
         {
           "name": "16GB+256GB",
-          "price": "৳.225,000",
+          "price": "৳.180,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold"
         },
         {
           "name": "16GB+512GB",
-          "price": "৳.290,000",
+          "price": "৳.230,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-fold-512gb"
         }
       ],
@@ -4471,27 +4471,27 @@
     {
       "id": "google_pixel_9_pro_xl_256gb",
       "name": "Google Pixel 9 Pro XL (256GB)",
-      "price": "106500",
+      "price": "90000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-05-03 08:02:52",
+      "last_updated": "2026-05-10 08:08:39",
       "first_scraped": null,
-      "updated_on": "December 28, 2025",
+      "updated_on": "May 9, 2026",
       "variants": [
         {
           "name": "16GB+256GB",
-          "price": "৳.106,500",
+          "price": "৳.90,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb"
         },
         {
           "name": "16GB+512GB",
-          "price": "৳.125,000",
+          "price": "৳.129,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb"
         },
         {
           "name": "16GB+128GB",
-          "price": "৳.98,000",
+          "price": "৳.78,500",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl"
         }
       ],
@@ -4627,27 +4627,27 @@
     {
       "id": "google_pixel_9_pro_xl_512gb",
       "name": "Google Pixel 9 Pro XL (512GB)",
-      "price": "125000",
+      "price": "129000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-official-image_1.webp",
       "serial_number": 32,
-      "last_updated": "2026-01-18 06:32:28",
+      "last_updated": "2026-05-10 08:08:39",
       "first_scraped": null,
-      "updated_on": "December 28, 2025",
+      "updated_on": "May 9, 2026",
       "variants": [
         {
           "name": "16GB+512GB",
-          "price": "৳.125,000",
+          "price": "৳.129,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb"
         },
         {
           "name": "16GB+256GB",
-          "price": "৳.106,500",
+          "price": "৳.90,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb"
         },
         {
           "name": "16GB+128GB",
-          "price": "৳.98,000",
+          "price": "৳.78,500",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl"
         }
       ],
