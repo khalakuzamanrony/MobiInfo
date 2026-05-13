@@ -4,11 +4,11 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2026-05-12 08:42:55",
+    "last_updated": "2026-05-13 08:48:45",
     "total_phones": 27,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 6
   },
   "phones": [
     {
@@ -2879,7 +2879,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-blue-official-image.webp",
       "serial_number": 20,
-      "last_updated": "2026-04-14 07:34:43",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
       "updated_on": "April 14, 2026",
       "variants": [
@@ -2895,7 +2895,7 @@
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.50,000",
+          "price": "৳.48,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb"
         }
       ],
@@ -3032,27 +3032,27 @@
     {
       "id": "nothing_phone_4a_pro",
       "name": "Nothing Phone (4a) Pro",
-      "price": "54000",
+      "price": "59000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-pro-pink-official-image.webp",
       "serial_number": 21,
-      "last_updated": "2026-05-03 08:06:26",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
-      "updated_on": "March 30, 2026",
+      "updated_on": "May 13, 2026",
       "variants": [
         {
           "name": "8GB+128GB IND",
-          "price": "৳.54,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.58,000",
+          "price": "৳.63,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom"
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.63,000",
+          "price": "৳.69,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb"
         }
       ],
@@ -3191,7 +3191,7 @@
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-blue-official-image_1.webp",
       "serial_number": 22,
-      "last_updated": "2026-04-14 07:34:43",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
       "updated_on": "March 30, 2026",
       "variants": [
@@ -3207,7 +3207,7 @@
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.50,000",
+          "price": "৳.48,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb"
         }
       ],
@@ -3344,27 +3344,27 @@
     {
       "id": "nothing_phone_4a_pro_256gb_rom",
       "name": "Nothing Phone (4a) Pro (256GB ROM)",
-      "price": "58000",
+      "price": "63000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-pro-pink-official-image_1.webp",
       "serial_number": 23,
-      "last_updated": "2026-05-03 08:06:26",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
-      "updated_on": "April 14, 2026",
+      "updated_on": "May 13, 2026",
       "variants": [
         {
           "name": "8GB+256GB IND",
-          "price": "৳.58,000",
+          "price": "৳.63,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.54,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro"
         },
         {
           "name": "12GB+256GB IND",
-          "price": "৳.63,000",
+          "price": "৳.69,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb"
         }
       ],
@@ -3402,13 +3402,6 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.9, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Angle Camera",
@@ -3423,6 +3416,13 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.2, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -3499,17 +3499,17 @@
     {
       "id": "nothing_phone_4a_12gb256gb",
       "name": "Nothing Phone (4a) (12GB+256GB)",
-      "price": "50000",
+      "price": "48000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-blue-official-image_2.webp",
       "serial_number": 24,
-      "last_updated": "2026-05-03 08:06:26",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
-      "updated_on": "March 30, 2026",
+      "updated_on": "May 13, 2026",
       "variants": [
         {
           "name": "12GB+256GB IND",
-          "price": "৳.50,000",
+          "price": "৳.48,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb"
         },
         {
@@ -3804,27 +3804,27 @@
     {
       "id": "nothing_phone_4a_pro_12gb256gb",
       "name": "Nothing Phone (4a) Pro (12GB+256GB)",
-      "price": "63000",
+      "price": "69000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-4a-pro-pink-official-imagejpg.webp",
       "serial_number": 26,
-      "last_updated": "2026-05-03 08:06:26",
+      "last_updated": "2026-05-13 08:48:45",
       "first_scraped": null,
-      "updated_on": "April 14, 2026",
+      "updated_on": "May 13, 2026",
       "variants": [
         {
           "name": "12GB+256GB IND",
-          "price": "৳.63,000",
+          "price": "৳.69,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.58,000",
+          "price": "৳.63,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.54,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-4a-pro"
         }
       ],
