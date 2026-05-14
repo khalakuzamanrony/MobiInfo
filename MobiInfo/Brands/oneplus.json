@@ -4,11 +4,11 @@
     "name": "oneplus",
     "url": "https://www.mobiledokan.com/mobile-brand/oneplus",
     "image_url": null,
-    "last_updated": "2026-05-13 08:45:51",
+    "last_updated": "2026-05-14 08:38:57",
     "total_phones": 117,
     "first_scraped": "2025-09-11 09:01:35",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -3469,7 +3469,7 @@
       "url": "https://www.mobiledokan.com/mobile/oneplus-ace",
       "image_url": "https://www.mobiledokan.com/media/1714223412kJLl5.webp",
       "serial_number": 24,
-      "last_updated": "2026-05-03 08:03:23",
+      "last_updated": "2026-05-14 08:38:57",
       "first_scraped": null,
       "updated_on": "September 15, 2024",
       "variants": [
@@ -3486,7 +3486,7 @@
         {
           "name": "12GB+256GB",
           "price": "৳.45,000",
-          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-12gb-256gb"
+          "url": "https://www.mobiledokan.com/mobile/oneplus-ace-12gb-ram"
         }
       ],
       "specifications": {
@@ -3523,6 +3523,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "16 MP f/2.4, Primary Camera",
+            "Video Recording": "1920x1080,1280x720",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.4"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.88, Wide Angle (84° field-of-view), Primary Camera, 8 MP f/2.2, Ultra-Wide Angle Camera, 2 MP f/2.4, Macro Camera",
@@ -3538,13 +3545,6 @@
             "Camera Features": "20 x Digital Zoom,\r\nAuto Flash,\r\nFace detection,\r\nTouch to focus",
             "Video Recording": "3840x2160,1920x1080",
             "Video FPS": "60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "16 MP f/2.4, Primary Camera",
-            "Video Recording": "1920x1080,1280x720",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.4"
           }
         },
         "Design": {
