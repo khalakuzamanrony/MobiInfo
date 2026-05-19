@@ -2,6 +2,149 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-05-19 15:54:51
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5345
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 12
+- **Visited phones**: 834
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Plus (gallery_images: List length changed from 14 to 0)
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### google
+- **Updated phone**: Google Pixel 6 (gallery_images: List length changed from 11 to 0)
+
+#### honor
+- **Updated phone**: Honor 90 Lite 5G (variants: List length changed from 1 to 0, Removed field: specifications.General, Removed field: specifications.Hardware & Software, Removed field: specifications.Display, Removed field: specifications.Cameras, Removed field: specifications.Design, Removed field: specifications.Battery, Removed field: specifications.Memory, Removed field: specifications.Network & Connectivity, Removed field: specifications.Sensors & security, Removed field: specifications.Multimedia, Removed field: specifications.More)
+
+#### infinix
+- **Updated phone**: Infinix Smart 8 (128GB) (variants: List length changed from 2 to 0)
+
+#### itel
+- **Updated phone**: Itel Vision 2S (gallery_images: List length changed from 10 to 0)
+
+#### lava
+- **Updated phone**: Lava R5V (url: https://www.mobiledokan.com/mobile/lava-r5v → https://www.mobiledokan.com/mobile/lava-r5v-price, serial_number: 33 → 2, updated_on: May 25, 2024 → May 14, 2026, variants: List length changed from 1 to 0)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+#### realme
+- **Updated phone**: Realme C25 (variants: List length changed from 2 to 0)
+
+#### tecno
+- **Updated phone**: Tecno Pova 5G (gallery_images: List length changed from 11 to 0)
+
+#### walton
+- **Updated phone**: Walton NEXG N25 (variants: List length changed from 1 to 0)
+
+#### xiaomi
+- **Updated phone**: Xiaomi 14 Ultra (gallery_images: List length changed from 14 to 0)
+
+## Visited
+
+#### apple
+- 30 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 31 phones visited from first 1 page
+
+#### helio
+- 22 phones visited from first 1 page
+
+#### honor
+- 31 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 31 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 31 phones visited from first 1 page
+
+#### lava
+- 31 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 25 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 31 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 31 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 15 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 31 phones visited from first 1 page
+
+#### xiaomi
+- 31 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-05-18 16:06:50
 
 ### Summary
@@ -1150,124 +1293,6 @@ This document tracks all changes to the MobiInfo phone database.
 ---
 
 ## 2026-05-09 14:02:12
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5345
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 2
-- **Visited phones**: 876
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-## Visited
-
-#### apple
-- 31 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 25 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 15 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-05-08 13:34:06
 
 ### Summary
 
