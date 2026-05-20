@@ -4,7 +4,7 @@
     "name": "realme",
     "url": "https://www.mobiledokan.com/mobile-brand/realme",
     "image_url": null,
-    "last_updated": "2026-05-19 09:50:32",
+    "last_updated": "2026-05-20 09:32:06",
     "total_phones": 288,
     "first_scraped": "2025-09-11 09:25:53",
     "new_phones_this_run": 0,
@@ -173,10 +173,21 @@
       "url": "https://www.mobiledokan.com/mobile/realme-c25",
       "image_url": "https://www.mobiledokan.com/media/realme-c25-water-blue-official-image.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-19 09:50:32",
+      "last_updated": "2026-05-20 09:32:06",
       "first_scraped": null,
       "updated_on": "July 5, 2024",
-      "variants": [],
+      "variants": [
+        {
+          "name": "4GB+64GB",
+          "price": "৳.13,990",
+          "url": "https://www.mobiledokan.com/mobile/realme-c25"
+        },
+        {
+          "name": "4GB+128GB",
+          "price": "৳.14,990",
+          "url": "https://www.mobiledokan.com/mobile/realme-c25-128gb"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Realme",

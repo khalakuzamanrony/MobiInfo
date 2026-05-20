@@ -4,7 +4,7 @@
     "name": "xiaomi",
     "url": "https://www.mobiledokan.com/mobile-brand/xiaomi",
     "image_url": null,
-    "last_updated": "2026-05-19 09:50:34",
+    "last_updated": "2026-05-20 09:32:02",
     "total_phones": 544,
     "first_scraped": "2025-09-11 09:52:42",
     "new_phones_this_run": 0,
@@ -167,7 +167,7 @@
       "url": "https://www.mobiledokan.com/mobile/xiaomi-14-ultra",
       "image_url": "https://www.mobiledokan.com/media/17099597678sEaY.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-19 09:50:34",
+      "last_updated": "2026-05-20 09:32:02",
       "first_scraped": null,
       "updated_on": "December 9, 2025",
       "variants": [
@@ -223,16 +223,6 @@
           "Features": "Dolby Vision"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
-            "Autofocus": "Yes",
-            "Flash": "Screen flash",
-            "Camera Features": "wide",
-            "Video Recording": "3840x2160, 1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.0"
-          },
           "Primary Camera": {
             "Camera Setup": "Quad",
             "Resolution": "50 MP f/1.6, Wide Angle, Primary Camera, 50 MP f/1.8, Ultra-Wide Angle Camera, 50 MP f/1.8, Telephoto Camera, 50 MP f/2.5",
@@ -248,6 +238,16 @@
             "Camera Features": "Digital Zoom, Auto Flash, Custom Watermark, Face detection, Touch to focus, Xiaomi ProFocus",
             "Video Recording": "7680x4320, 3840x2160, 1920x1080",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.0, Wide Angle, Primary Camera",
+            "Autofocus": "Yes",
+            "Flash": "Screen flash",
+            "Camera Features": "wide",
+            "Video Recording": "3840x2160, 1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.0"
           }
         },
         "Design": {
@@ -310,7 +310,22 @@
           "Features": "Accelerometer, proximity, gyro, compass, color spectrum, barometer, Two-way satellite communication"
         }
       },
-      "gallery_images": []
+      "gallery_images": [
+        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
+        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-full-display-size-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-full-back-camera-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-back-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-power-baton-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-notch-side-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-black-official-image.webp",
+        "https://www.mobiledokan.com/media/17099597678sEaY.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-white-official-image.webp",
+        "https://www.mobiledokan.com/media/xiaomi-14-ultra-titanium-gray-official-image.webp"
+      ]
     },
     {
       "id": "xiaomi_redmi_k50_ultra",

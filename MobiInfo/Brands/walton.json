@@ -4,11 +4,11 @@
     "name": "walton",
     "url": "https://www.mobiledokan.com/mobile-brand/walton",
     "image_url": null,
-    "last_updated": "2026-05-19 09:50:44",
+    "last_updated": "2026-05-20 09:32:05",
     "total_phones": 336,
     "first_scraped": "2025-09-11 09:33:04",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 1
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -153,10 +153,16 @@
       "url": "https://www.mobiledokan.com/mobile/walton-nexg-n25",
       "image_url": "https://www.mobiledokan.com/media/1711089974FyHWv.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-19 09:50:44",
+      "last_updated": "2026-05-20 09:32:05",
       "first_scraped": null,
       "updated_on": "March 19, 2025",
-      "variants": [],
+      "variants": [
+        {
+          "name": "8GB+128GB",
+          "price": "৳.14,999",
+          "url": "https://www.mobiledokan.com/mobile/walton-nexg-n25"
+        }
+      ],
       "specifications": {
         "General": {
           "Brand": "Walton",
@@ -186,13 +192,6 @@
           "Features": "Multi-touch"
         },
         "Cameras": {
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "8 MP",
-            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Smile Shutter, Touch Shooting, Self Timer, Camera Mute, Mirror reflection.",
-            "Video Recording": "1080p",
-            "Video FPS": "30 fps"
-          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, 2 MP, 2 MP",
@@ -206,6 +205,13 @@
             "Camera Features": "BSI, Face Detection, Antibanding, HDR, Touch Focus, Brand Watermark, Time Watermark, Levels, Smile Shutter, Enhance Lowlight photos",
             "Video Recording": "1080p",
             "Video FPS": "60 fps"
+          },
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "8 MP",
+            "Camera Features": "Face Detection, Digital Zoom (2.0x), Antibanding, HDR, Composition Line, Brand Watermark, Time Watermark, Smile Shutter, Touch Shooting, Self Timer, Camera Mute, Mirror reflection.",
+            "Video Recording": "1080p",
+            "Video FPS": "30 fps"
           }
         },
         "Design": {
@@ -2377,12 +2383,12 @@
       "url": "https://www.mobiledokan.com/mobile/walton-xanon-x20",
       "image_url": "https://www.mobiledokan.com/media/17123818346xSRm.webp",
       "serial_number": 19,
-      "last_updated": "2026-05-03 08:02:47",
+      "last_updated": "2026-05-20 09:32:05",
       "first_scraped": null,
-      "updated_on": "March 23, 2025",
+      "updated_on": "May 19, 2026",
       "variants": [
         {
-          "name": "16GB+128GB",
+          "name": "8GB+128GB",
           "price": "৳.20,499",
           "url": "https://www.mobiledokan.com/mobile/walton-xanon-x20"
         }
@@ -2463,7 +2469,7 @@
           "Internal Storage": "128 GB",
           "Expandable Memory": "Up to 512 GB",
           "USB OTG": "Yes",
-          "RAM": "16 GB"
+          "RAM": "8 GB"
         },
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G",
