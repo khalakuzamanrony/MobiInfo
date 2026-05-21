@@ -4,11 +4,11 @@
     "name": "iqoo",
     "url": "https://www.mobiledokan.com/mobile-brand/iqoo",
     "image_url": null,
-    "last_updated": "2026-05-20 09:36:38",
+    "last_updated": "2026-05-21 09:45:08",
     "total_phones": 87,
     "first_scraped": "2025-09-11 09:13:57",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 1
   },
   "phones": [
     {
@@ -459,9 +459,9 @@
       "url": "https://www.mobiledokan.com/mobile/vivo-iqoo-z7s",
       "image_url": "https://www.mobiledokan.com/media/vivo-iqoo-z7s-norway-blue-official-image.webp",
       "serial_number": 4,
-      "last_updated": "2026-05-15 08:55:47",
+      "last_updated": "2026-05-21 09:45:08",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "May 21, 2026",
       "variants": [
         {
           "name": "8GB+128GB",
@@ -555,7 +555,7 @@
         "Network & Connectivity": {
           "Network": "2G, 3G, 4G, 5G",
           "SIM Slot": "Dual SIM, GSM+GSM",
-          "SIM Size": "SIM1: Nano, SIM2: Nano (Hybrid)",
+          "SIM Size": "SIM1: Nano, SIM2: Nano",
           "EDGE": "Available",
           "GPRS": "Available",
           "VoLTE": "Yes",
