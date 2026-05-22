@@ -2,6 +2,127 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-05-22 15:05:50
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5345
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 3
+- **Visited phones**: 875
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### lava
+- **Updated phone**: Lava R5V (url: https://www.mobiledokan.com/mobile/lava-r5v → https://www.mobiledokan.com/mobile/lava-r5v-price, serial_number: 33 → 2, updated_on: May 25, 2024 → May 14, 2026, variants: List length changed from 1 to 0)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 22 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 31 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 25 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 15 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-05-21 15:45:19
 
 ### Summary
@@ -1232,141 +1353,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### google
 - 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 32 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 25 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 15 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-05-11 15:43:51
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5345
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 17
-- **Visited phones**: 861
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
-
-#### google
-- **Updated phone**: Google Pixel 6 (price: 36000 → 29000, updated_on: April 21, 2025 → May 11, 2026, variants[0]: {name: 8GB+128GB, price: ৳.36,000, url: https://www.mobiledokan.com/mobile/google-pixel-6} → {name: 8GB+128GB, price: ৳.29,000, url: https://www.mobiledokan.com/mobile/google-pixel-6}, variants[1]: {name: 8GB+256GB, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/google-pixel-6-256gb} → {name: 8GB+256GB, price: ৳.50,000, url: https://www.mobiledokan.com/mobile/google-pixel-6-256gb})
-- **Updated phone**: Google Pixel 7 (price: 43500 → 38500, updated_on: August 12, 2024 → May 11, 2026, variants[0]: {name: 8GB+128GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/google-pixel-7} → {name: 8GB+128GB, price: ৳.38,500, url: https://www.mobiledokan.com/mobile/google-pixel-7}, variants[1]: {name: 8GB+256GB, price: ৳.67,000, url: https://www.mobiledokan.com/mobile/google-pixel-7-256gb} → {name: 8GB+256GB, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/google-pixel-7-256gb})
-- **Updated phone**: Google Pixel 7a (price: 39000 → 35000, updated_on: July 13, 2024 → May 11, 2026, variants[0]: {name: 8GB+128GB, price: ৳.39,000, url: https://www.mobiledokan.com/mobile/google-pixel-7a} → {name: 8GB+128GB, price: ৳.35,000, url: https://www.mobiledokan.com/mobile/google-pixel-7a})
-- **Updated phone**: Google Pixel 8 (price: 57500 → 48000, updated_on: September 2, 2024 → May 10, 2026, variants[0]: {name: 8GB+128GB, price: ৳.57,500, url: https://www.mobiledokan.com/mobile/google-pixel-8} → {name: 8GB+128GB, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/google-pixel-8}, variants[1]: {name: 8GB+256GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-256gb} → {name: 8GB+256GB, price: ৳.56,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-256gb})
-- **Updated phone**: Google Pixel 8 Pro (price: 70000 → 60000, updated_on: March 22, 2025 → May 10, 2026, variants[0]: {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro} → {name: 12GB+128GB, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro}, variants[1]: {name: 12GB+256GB, price: ৳.89,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb} → {name: 12GB+256GB, price: ৳.76,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb})
-- **Updated phone**: Google Pixel 7 Pro (price: 45000 → 41500, updated_on: April 6, 2026 → May 11, 2026)
-- **Updated phone**: Google Pixel 6 Pro (price: 40000 → 36500, updated_on: May 23, 2025 → May 11, 2026)
-- **Updated phone**: Google Pixel 4 XL (price: 24500 → 33000, updated_on: May 9, 2024 → May 11, 2026, variants[0]: {name: 6GB+64GB, price: ৳.24,500, url: https://www.mobiledokan.com/mobile/google-pixel-4-xl} → {name: 6GB+64GB, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/google-pixel-4-xl})
-- **Updated phone**: Google Pixel 4 XL (128GB) (variants[1]: {name: 6GB+64GB, price: ৳.24,500, url: https://www.mobiledokan.com/mobile/google-pixel-4-xl} → {name: 6GB+64GB, price: ৳.33,000, url: https://www.mobiledokan.com/mobile/google-pixel-4-xl})
-- **Updated phone**: Google Pixel 8 Pro (256GB) (price: 89000 → 76000, updated_on: March 22, 2025 → May 10, 2026, variants[0]: {name: 12GB+256GB, price: ৳.89,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb} → {name: 12GB+256GB, price: ৳.76,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb}, variants[1]: {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro} → {name: 12GB+128GB, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro})
-- **Updated phone**: Google Pixel 8 Pro (512GB) (variants[1]: {name: 12GB+256GB, price: ৳.89,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb} → {name: 12GB+256GB, price: ৳.76,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb}, variants[2]: {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro} → {name: 12GB+128GB, price: ৳.60,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-pro})
-- **Updated phone**: Google Pixel 8a (price: 48000 → 46500, updated_on: January 20, 2025 → May 10, 2026)
-- **Updated phone**: Google Pixel 7 (256GB) (price: 67000 → 46500, updated_on: June 28, 2024 → May 11, 2026, variants[0]: {name: 8GB+256GB, price: ৳.67,000, url: https://www.mobiledokan.com/mobile/google-pixel-7-256gb} → {name: 8GB+256GB, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/google-pixel-7-256gb}, variants[1]: {name: 8GB+128GB, price: ৳.43,500, url: https://www.mobiledokan.com/mobile/google-pixel-7} → {name: 8GB+128GB, price: ৳.38,500, url: https://www.mobiledokan.com/mobile/google-pixel-7})
-- **Updated phone**: Google Pixel 9 (price: 70000 → 69000, updated_on: November 6, 2025 → May 10, 2026, variants[0]: {name: 12GB+128GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-9} → {name: 12GB+128GB, price: ৳.69,000, url: https://www.mobiledokan.com/mobile/google-pixel-9}, variants[1]: {name: 12GB+256GB, price: ৳.80,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb} → {name: 12GB+256GB, price: ৳.91,000, url: https://www.mobiledokan.com/mobile/google-pixel-9-256gb})
-- **Updated phone**: Google Pixel 8 (256GB) (price: 70000 → 56000, updated_on: August 4, 2024 → May 10, 2026, variants[0]: {name: 8GB+256GB, price: ৳.70,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-256gb} → {name: 8GB+256GB, price: ৳.56,000, url: https://www.mobiledokan.com/mobile/google-pixel-8-256gb}, variants[1]: {name: 8GB+128GB, price: ৳.57,500, url: https://www.mobiledokan.com/mobile/google-pixel-8} → {name: 8GB+128GB, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/google-pixel-8})
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-
-## Visited
-
-#### apple
-- 31 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 17 phones visited from first 1 page
 
 #### helio
 - 22 phones visited from first 1 page
