@@ -2,6 +2,127 @@
 
 This document tracks all changes to the MobiInfo phone database.
 
+## 2026-05-29 15:57:37
+
+### Summary
+
+- **Total Brands**: 75
+- **Total Phones Available**: 5346
+- **New brands**: 0
+- **Updated brands**: 30
+- **Failed brands**: 0
+- **New phones**: 0
+- **Updated phones**: 3
+- **Visited phones**: 876
+- **Failed phones**: 0
+
+### Detailed Changes
+
+## Updates
+
+#### apple
+- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
+
+#### lava
+- **Updated phone**: Lava R5V (url: https://www.mobiledokan.com/mobile/lava-r5v → https://www.mobiledokan.com/mobile/lava-r5v-price, serial_number: 33 → 2, updated_on: May 25, 2024 → May 14, 2026, variants: List length changed from 1 to 0)
+
+#### nothing
+- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
+
+## Visited
+
+#### apple
+- 31 phones visited from first 1 page
+
+#### asus
+- 32 phones visited from first 1 page
+
+#### benco
+- 19 phones visited from first 1 page
+
+#### doogee
+- 26 phones visited from first 1 page
+
+#### google
+- 32 phones visited from first 1 page
+
+#### helio
+- 23 phones visited from first 1 page
+
+#### honor
+- 32 phones visited from first 1 page
+
+#### huawei
+- 32 phones visited from first 1 page
+
+#### infinix
+- 32 phones visited from first 1 page
+
+#### iqoo
+- 32 phones visited from first 1 page
+
+#### itel
+- 32 phones visited from first 1 page
+
+#### lava
+- 31 phones visited from first 1 page
+
+#### lenovo
+- 19 phones visited from first 1 page
+
+#### meizu
+- 32 phones visited from first 1 page
+
+#### motorola
+- 32 phones visited from first 1 page
+
+#### nokia
+- 32 phones visited from first 1 page
+
+#### nothing
+- 25 phones visited from first 1 page
+
+#### oneplus
+- 32 phones visited from first 1 page
+
+#### oppo
+- 32 phones visited from first 1 page
+
+#### realme
+- 32 phones visited from first 1 page
+
+#### samsung
+- 32 phones visited from first 1 page
+
+#### sony
+- 32 phones visited from first 1 page
+
+#### symphony
+- 32 phones visited from first 1 page
+
+#### tecno
+- 32 phones visited from first 1 page
+
+#### ulefone
+- 15 phones visited from first 1 page
+
+#### umidigi
+- 15 phones visited from first 1 page
+
+#### vivo
+- 32 phones visited from first 1 page
+
+#### walton
+- 32 phones visited from first 1 page
+
+#### xiaomi
+- 32 phones visited from first 1 page
+
+#### zte
+- 32 phones visited from first 1 page
+
+---
+
 ## 2026-05-28 16:04:31
 
 ### Summary
@@ -1278,141 +1399,6 @@ This document tracks all changes to the MobiInfo phone database.
 
 #### xiaomi
 - 31 phones visited from first 1 page
-
-#### zte
-- 32 phones visited from first 1 page
-
----
-
-## 2026-05-18 16:06:50
-
-### Summary
-
-- **Total Brands**: 75
-- **Total Phones Available**: 5346
-- **New brands**: 0
-- **Updated brands**: 30
-- **Failed brands**: 0
-- **New phones**: 0
-- **Updated phones**: 17
-- **Visited phones**: 861
-- **Failed phones**: 0
-
-### Detailed Changes
-
-## Updates
-
-#### apple
-- **Updated phone**: Apple iPhone 15 Pro Max (price: 142000 → 141000, updated_on: July 23, 2025 → May 17, 2026, variants[0]: {name: 8GB+256GB, price: ৳.179,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max} → {name: 8GB+256GB, price: ৳.239,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max}, variants[1]: {name: 8GB+512GB, price: ৳.225,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-512gb} → {name: 8GB+512GB, price: ৳.279,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-512gb}, variants[2]: {name: 8GB+1TB, price: ৳.254,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-1tb} → {name: 8GB+1TB, price: ৳.319,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-1tb})
-- **Updated phone**: Apple iPhone 15 Pro Max (512GB) (price: 154000 → 155000, updated_on: July 23, 2025 → May 17, 2026, variants[0]: {name: 8GB+512GB, price: ৳.225,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-512gb} → {name: 8GB+512GB, price: ৳.279,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-512gb}, variants[1]: {name: 8GB+256GB, price: ৳.179,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max} → {name: 8GB+256GB, price: ৳.239,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max}, variants[2]: {name: 8GB+1TB, price: ৳.254,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-1tb} → {name: 8GB+1TB, price: ৳.319,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-pro-max-1tb})
-- **Updated phone**: Apple iPhone 14 Pro (image_url: https://www.mobiledokan.com/media/171074490670V5y.webp → https://www.mobiledokan.com/media/apple-iphone-14-pro-gold-official-image.webp)
-- **Updated phone**: Apple iPhone 15 Plus (price: 100000 → 85000, updated_on: July 23, 2025 → May 17, 2026, variants[1]: {name: 6GB+256GB, price: ৳.152,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-plus-256gb} → {name: 6GB+256GB, price: ৳.199,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15-plus-256gb})
-- **Updated phone**: Apple iPhone 15 (price: 76000 → 74000, updated_on: February 16, 2026 → May 17, 2026, variants[0]: {name: 128GB USA, price: ৳.112,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15} → {name: 128GB USA, price: ৳.159,999, url: https://www.mobiledokan.com/mobile/apple-iphone-15})
-
-#### lava
-- **Updated phone**: Lava R5V (url: https://www.mobiledokan.com/mobile/lava-r5v → https://www.mobiledokan.com/mobile/lava-r5v-price, serial_number: 33 → 2, updated_on: May 25, 2024 → May 14, 2026, variants: List length changed from 1 to 0)
-
-#### nothing
-- **Updated phone**: Nothing Phone (2a) Plus (12GB RAM) (name: Nothing Phone 2a Plus (12GB RAM) → Nothing Phone (2a) Plus (12GB RAM), price: None → 39000, url: https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram → https://www.mobiledokan.com/mobile/nothing-phone-2a-plus-12gb-ram-, serial_number: 27 → 12, updated_on: None → October 30, 2025, variants: List length changed from 0 to 2, specifications.General.Model: Phone 2a Plus (12GB RAM) → Phone (2a) Plus (12GB RAM), gallery_images: List length changed from 68 to 8)
-- **Updated phone**: Nothing Phone (3a) Pro (variants[1]: {name: 12GB+256GB IND, price: ৳.46,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram} → {name: 12GB+256GB IND, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram})
-- **Updated phone**: Nothing Phone (3a) Pro (12GB RAM) (price: 46000 → 46500, updated_on: April 8, 2026 → May 17, 2026, variants[0]: {name: 12GB+256GB IND, price: ৳.46,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram} → {name: 12GB+256GB IND, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-pro-12gb-ram})
-- **Updated phone**: Nothing Phone (3a) Lite (price: 28000 → 28500, updated_on: March 31, 2026 → May 17, 2026, variants[0]: {name: 8GB+128GB IND, price: ৳.28,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite} → {name: 8GB+128GB IND, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite}, variants[1]: {name: 8GB+256GB IND, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb} → {name: 8GB+256GB IND, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb})
-- **Updated phone**: Nothing Phone (4a) (price: 43000 → 44000, updated_on: April 14, 2026 → May 17, 2026, variants[0]: {name: 8GB+128GB IND, price: ৳.43,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a} → {name: 8GB+128GB IND, price: ৳.44,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a}, variants[1]: {name: 8GB+256GB IND, price: ৳.46,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb} → {name: 8GB+256GB IND, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb}, variants[2]: {name: 12GB+256GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.49,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb})
-- **Updated phone**: Nothing Phone (4a) Pro (price: 59000 → 58000, updated_on: May 13, 2026 → May 17, 2026, variants[0]: {name: 8GB+128GB IND, price: ৳.59,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro} → {name: 8GB+128GB IND, price: ৳.58,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro}, variants[1]: {name: 8GB+256GB IND, price: ৳.63,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom} → {name: 8GB+256GB IND, price: ৳.64,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom}, variants[2]: {name: 12GB+256GB IND, price: ৳.69,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.68,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb})
-- **Updated phone**: Nothing Phone (4a) (256GB) (price: 46000 → 46500, updated_on: March 30, 2026 → May 17, 2026, variants[0]: {name: 8GB+256GB IND, price: ৳.46,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb} → {name: 8GB+256GB IND, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb}, variants[1]: {name: 8GB+128GB IND, price: ৳.43,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a} → {name: 8GB+128GB IND, price: ৳.44,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a}, variants[2]: {name: 12GB+256GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.49,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb})
-- **Updated phone**: Nothing Phone (4a) Pro (256GB ROM) (price: 63000 → 64000, updated_on: May 13, 2026 → May 17, 2026, variants[0]: {name: 8GB+256GB IND, price: ৳.63,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom} → {name: 8GB+256GB IND, price: ৳.64,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom}, variants[1]: {name: 8GB+128GB IND, price: ৳.59,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro} → {name: 8GB+128GB IND, price: ৳.58,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro}, variants[2]: {name: 12GB+256GB IND, price: ৳.69,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.68,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb})
-- **Updated phone**: Nothing Phone (4a) (12GB+256GB) (price: 48000 → 49000, updated_on: May 13, 2026 → May 17, 2026, variants[0]: {name: 12GB+256GB IND, price: ৳.48,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.49,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-12gb-256gb}, variants[1]: {name: 8GB+256GB IND, price: ৳.46,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb} → {name: 8GB+256GB IND, price: ৳.46,500, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-256gb}, variants[2]: {name: 8GB+128GB IND, price: ৳.43,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a} → {name: 8GB+128GB IND, price: ৳.44,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a})
-- **Updated phone**: Nothing Phone (3a) Lite (256GB) (price: 31000 → 31500, updated_on: March 31, 2026 → May 17, 2026, variants[0]: {name: 8GB+256GB IND, price: ৳.31,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb} → {name: 8GB+256GB IND, price: ৳.31,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite-256gb}, variants[1]: {name: 8GB+128GB IND, price: ৳.28,000, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite} → {name: 8GB+128GB IND, price: ৳.28,500, url: https://www.mobiledokan.com/mobile/nothing-phone-3a-lite})
-- **Updated phone**: Nothing Phone (4a) Pro (12GB+256GB) (price: 69000 → 68000, updated_on: May 13, 2026 → May 17, 2026, variants[0]: {name: 12GB+256GB IND, price: ৳.69,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb} → {name: 12GB+256GB IND, price: ৳.68,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-12gb-256gb}, variants[1]: {name: 8GB+256GB IND, price: ৳.63,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom} → {name: 8GB+256GB IND, price: ৳.64,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro-256gb-rom}, variants[2]: {name: 8GB+128GB IND, price: ৳.59,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro} → {name: 8GB+128GB IND, price: ৳.58,000, url: https://www.mobiledokan.com/mobile/nothing-phone-4a-pro})
-
-## Visited
-
-#### apple
-- 27 phones visited from first 1 page
-
-#### asus
-- 32 phones visited from first 1 page
-
-#### benco
-- 19 phones visited from first 1 page
-
-#### doogee
-- 26 phones visited from first 1 page
-
-#### google
-- 32 phones visited from first 1 page
-
-#### helio
-- 22 phones visited from first 1 page
-
-#### honor
-- 32 phones visited from first 1 page
-
-#### huawei
-- 32 phones visited from first 1 page
-
-#### infinix
-- 32 phones visited from first 1 page
-
-#### iqoo
-- 32 phones visited from first 1 page
-
-#### itel
-- 32 phones visited from first 1 page
-
-#### lava
-- 31 phones visited from first 1 page
-
-#### lenovo
-- 19 phones visited from first 1 page
-
-#### meizu
-- 32 phones visited from first 1 page
-
-#### motorola
-- 32 phones visited from first 1 page
-
-#### nokia
-- 32 phones visited from first 1 page
-
-#### nothing
-- 15 phones visited from first 1 page
-
-#### oneplus
-- 32 phones visited from first 1 page
-
-#### oppo
-- 32 phones visited from first 1 page
-
-#### realme
-- 32 phones visited from first 1 page
-
-#### samsung
-- 32 phones visited from first 1 page
-
-#### sony
-- 32 phones visited from first 1 page
-
-#### symphony
-- 32 phones visited from first 1 page
-
-#### tecno
-- 32 phones visited from first 1 page
-
-#### ulefone
-- 15 phones visited from first 1 page
-
-#### umidigi
-- 15 phones visited from first 1 page
-
-#### vivo
-- 32 phones visited from first 1 page
-
-#### walton
-- 32 phones visited from first 1 page
-
-#### xiaomi
-- 32 phones visited from first 1 page
 
 #### zte
 - 32 phones visited from first 1 page
