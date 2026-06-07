@@ -4,11 +4,11 @@
     "name": "google",
     "url": "https://www.mobiledokan.com/mobile-brand/google",
     "image_url": null,
-    "last_updated": "2026-06-06 08:34:25",
+    "last_updated": "2026-06-07 08:57:03",
     "total_phones": 53,
     "first_scraped": "2025-09-11 08:52:18",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 2
+    "updated_phones_this_run": 10
   },
   "phones": [
     {
@@ -167,17 +167,17 @@
     {
       "id": "google_pixel_7",
       "name": "Google Pixel 7",
-      "price": "38500",
+      "price": "37500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7",
       "image_url": "https://www.mobiledokan.com/media/1710049030YCxoz.webp",
       "serial_number": 2,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "June 6, 2026",
       "variants": [
         {
           "name": "8GB+128GB",
-          "price": "৳.38,500",
+          "price": "৳.37,500",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-7"
         },
         {
@@ -319,17 +319,17 @@
     {
       "id": "google_pixel_7a",
       "name": "Google Pixel 7a",
-      "price": "35000",
+      "price": "36500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7a-sea-official-image.webp",
       "serial_number": 3,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "June 6, 2026",
       "variants": [
         {
           "name": "8GB+128GB",
-          "price": "৳.35,000",
+          "price": "৳.36,500",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-7a"
         }
       ],
@@ -778,17 +778,17 @@
     {
       "id": "google_pixel_8_pro",
       "name": "Google Pixel 8 Pro",
-      "price": "60000",
+      "price": "59000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 6,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "June 6, 2026",
       "variants": [
         {
           "name": "12GB+128GB",
-          "price": "৳.60,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro"
         },
         {
@@ -1249,13 +1249,13 @@
     {
       "id": "google_pixel_6_pro",
       "name": "Google Pixel 6 Pro",
-      "price": "36500",
+      "price": "36000",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-6-pro",
       "image_url": "https://www.mobiledokan.com/media/1711549617mJCWW.webp",
       "serial_number": 9,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "June 6, 2026",
       "variants": [],
       "specifications": {
         "General": {
@@ -1291,6 +1291,15 @@
           "Features": "Multitouch, 120Hz Refresh rate, HDR10+"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "11.1 MP f/2.2, Wide Angle, Primary Camera",
+            "Sensor": "Exmor RS",
+            "Camera Features": "Fixed Focus",
+            "Video Recording": "3840x2160,1920x1080",
+            "Video FPS": "30 fps",
+            "Aperture": "f/2.2"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP f/1.9, Wide Angle (82° field-of-view), Primary Camera, 12 MP f/2.2, Ultra-Wide Angle Camera, 48 MP f/3.5, Telephoto Camera",
@@ -1306,15 +1315,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160 ,1920x1080",
             "Video FPS": "30 fps, 60 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "11.1 MP f/2.2, Wide Angle, Primary Camera",
-            "Sensor": "Exmor RS",
-            "Camera Features": "Fixed Focus",
-            "Video Recording": "3840x2160,1920x1080",
-            "Video FPS": "30 fps",
-            "Aperture": "f/2.2"
           }
         },
         "Design": {
@@ -2260,7 +2260,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 16,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
       "updated_on": "May 14, 2026",
       "variants": [
@@ -2271,7 +2271,7 @@
         },
         {
           "name": "12GB+128GB",
-          "price": "৳.60,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro"
         },
         {
@@ -2419,7 +2419,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8-pro-obsidian-official-image.webp",
       "serial_number": 17,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
       "updated_on": "May 14, 2026",
       "variants": [
@@ -2435,7 +2435,7 @@
         },
         {
           "name": "12GB+128GB",
-          "price": "৳.60,000",
+          "price": "৳.59,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-8-pro"
         }
       ],
@@ -2574,13 +2574,13 @@
     {
       "id": "google_pixel_8a",
       "name": "Google Pixel 8a",
-      "price": "46500",
+      "price": "44500",
       "url": "https://www.mobiledokan.com/mobile/google-pixel-8a",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-8a-aloe-official-image.webp",
       "serial_number": 18,
-      "last_updated": "2026-05-14 08:38:42",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
-      "updated_on": "May 14, 2026",
+      "updated_on": "June 6, 2026",
       "variants": [],
       "specifications": {
         "General": {
@@ -2718,7 +2718,7 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-7-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-7-official-image.webp",
       "serial_number": 19,
-      "last_updated": "2026-05-11 09:39:28",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
       "updated_on": "May 11, 2026",
       "variants": [
@@ -2729,7 +2729,7 @@
         },
         {
           "name": "8GB+128GB",
-          "price": "৳.38,500",
+          "price": "৳.37,500",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-7"
         }
       ],
@@ -4475,23 +4475,23 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-image.webp",
       "serial_number": 31,
-      "last_updated": "2026-06-06 08:34:25",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
       "updated_on": "June 6, 2026",
       "variants": [
         {
           "name": "16GB+256GB",
-          "price": "৳.90,000",
+          "price": "৳.91,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb"
         },
         {
           "name": "16GB+512GB",
-          "price": "৳.129,000",
+          "price": "৳.113,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb"
         },
         {
           "name": "16GB+128GB",
-          "price": "৳.78,500",
+          "price": "৳.81,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl"
         }
       ],
@@ -4631,23 +4631,23 @@
       "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb",
       "image_url": "https://www.mobiledokan.com/media/google-pixel-9-pro-xl-porcelain-official-image_1.webp",
       "serial_number": 32,
-      "last_updated": "2026-06-06 08:34:25",
+      "last_updated": "2026-06-07 08:57:03",
       "first_scraped": null,
       "updated_on": "June 6, 2026",
       "variants": [
         {
           "name": "16GB+512GB",
-          "price": "৳.129,000",
+          "price": "৳.113,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-512gb"
         },
         {
           "name": "16GB+256GB",
-          "price": "৳.90,000",
+          "price": "৳.91,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl-256gb"
         },
         {
           "name": "16GB+128GB",
-          "price": "৳.78,500",
+          "price": "৳.81,000",
           "url": "https://www.mobiledokan.com/mobile/google-pixel-9-pro-xl"
         }
       ],

@@ -4,11 +4,11 @@
     "name": "nothing",
     "url": "https://www.mobiledokan.com/mobile-brand/nothing",
     "image_url": null,
-    "last_updated": "2026-06-06 08:37:36",
+    "last_updated": "2026-06-07 08:59:54",
     "total_phones": 27,
     "first_scraped": "2025-09-11 14:41:08",
     "new_phones_this_run": 0,
-    "updated_phones_this_run": 0
+    "updated_phones_this_run": 2
   },
   "phones": [
     {
@@ -1992,22 +1992,22 @@
     {
       "id": "nothing_phone_3a",
       "name": "Nothing Phone (3a)",
-      "price": "38500",
+      "price": "38000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp",
       "serial_number": 14,
-      "last_updated": "2026-04-09 07:25:54",
+      "last_updated": "2026-06-07 08:59:54",
       "first_scraped": null,
-      "updated_on": "April 8, 2026",
+      "updated_on": "June 7, 2026",
       "variants": [
         {
           "name": "8GB+128GB IND",
-          "price": "৳.38,500",
+          "price": "৳.38,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a"
         },
         {
           "name": "8GB+256GB IND",
-          "price": "৳.42,000",
+          "price": "৳.43,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb"
         }
       ],
@@ -2138,22 +2138,22 @@
     {
       "id": "nothing_phone_3a_256gb",
       "name": "Nothing Phone (3a) (256GB)",
-      "price": "42000",
+      "price": "43000",
       "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb",
       "image_url": "https://www.mobiledokan.com/media/nothing-phone-3a-blue-official-image.webp",
       "serial_number": 15,
-      "last_updated": "2026-05-14 08:42:16",
+      "last_updated": "2026-06-07 08:59:54",
       "first_scraped": null,
-      "updated_on": "April 8, 2026",
+      "updated_on": "June 7, 2026",
       "variants": [
         {
           "name": "8GB+256GB IND",
-          "price": "৳.42,000",
+          "price": "৳.43,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a-256gb"
         },
         {
           "name": "8GB+128GB IND",
-          "price": "৳.38,500",
+          "price": "৳.38,000",
           "url": "https://www.mobiledokan.com/mobile/nothing-phone-3a"
         }
       ],
@@ -2191,6 +2191,13 @@
           "Notch": "Punch-hole"
         },
         "Cameras": {
+          "Selfie Camera": {
+            "Camera Setup": "Single",
+            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
+            "Video Recording": "1920x1080",
+            "Video FPS": "60 fps",
+            "Aperture": "f/2.5"
+          },
           "Primary Camera": {
             "Camera Setup": "Triple",
             "Resolution": "50 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.0, Telephoto Camera, 8 MP, f/2.2, Ultra-Wide Camera",
@@ -2205,13 +2212,6 @@
             "Camera Features": "Auto Flash, Face detection, Touch to focus",
             "Video Recording": "3840x2160, 1920x1080",
             "Video FPS": "30 fps, 120 fps"
-          },
-          "Selfie Camera": {
-            "Camera Setup": "Single",
-            "Resolution": "32 MP, f/2.5, Wide Angle, Primary Camera",
-            "Video Recording": "1920x1080",
-            "Video FPS": "60 fps",
-            "Aperture": "f/2.5"
           }
         },
         "Design": {
